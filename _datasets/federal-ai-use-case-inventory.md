@@ -10,12 +10,12 @@ last_modified: 2025-02-24
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
-  - Labor & Employment 
   - Justice & Public Safety 
+  - Labor & Employment 
   - State & Policy 
-  - Social Services 
   - Agriculture 
+  - Science & Research 
+  - Social Services 
 resources:
   - id: 171
     url: https://www.datalumos.org/datalumos/project/220361/version/V2/view
