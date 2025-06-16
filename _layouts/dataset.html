@@ -1,13 +1,13 @@
 ---
 layout: default
 ---
-  {% include breadcrumbs.html parent="Datasets" %}
-  {% assign schema = page.schema | default: site.schema %}
-  {% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
-  {% assign dataset_system_fields = "title|organization|notes|license|metadata_available" | split: "|" %}
-  {% assign url_fields = "data_source|metadata_url" | split: "|" %}
-  {% assign resource_fields = site.data.schemas[schema].resource_fields %}
-  {% assign resource_system_fields = "name|url|format|description" | split: "|" %}
+{% include breadcrumbs.html parent="Datasets" %}
+{% assign schema = page.schema | default: site.schema %}
+{% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
+{% assign dataset_system_fields = "title|organization|notes|license|metadata_available" | split: "|" %}
+{% assign url_fields = "data_source|metadata_url" | split: "|" %}
+{% assign resource_fields = site.data.schemas[schema].resource_fields %}
+{% assign resource_system_fields = "name|url|format|description" | split: "|" %}
 
 {% assign organization = site.organizations | where:"title",page.organization | first %}
 {% capture organization_url %}{{ site.baseurl }}{{ organization.url }}{% endcapture %}
@@ -128,7 +128,13 @@ layout: default
               <h4 class="card-title">Maintainer: {{ resource.maintainer }}</h4>
               <div style="margin-bottom: .5rem;" class="d-flex align-items-top gap-1">
                 <h5>Notes:</h5>
-                <p class="card-text">{{ resource.notes }}</p>
+                <p class="card-text">
+                  {% if resource.notes and resource.notes != "" %}
+                  {{ resource.notes }}
+                  {% else %}
+                  No available notes for this resource.
+                  {% endif %}
+                </p>
               </div>
 
               <div class="d-flex align-items-center gap-4">
