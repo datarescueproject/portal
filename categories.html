@@ -12,7 +12,7 @@ permalink: /categories/
     {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
     <a class="card border card-grid-item hover-overlay" href="{{ site.baseurl }}/categories/{{ category.name | slugify }}" title="{{ logo_alt }}">
       <div class="d-flex flex-row justify-content-end">
-        <span class="badge bg-primary rounded-pill me-1">{{ dataset_count }}</span>
+        <span class="badge rounded-pill me-1" style="background-color: #001290; color: white;">{{ dataset_count }}</span>
       </div>
       {% if category.logo and category.logo != empty %}
         <img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">

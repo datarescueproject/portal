@@ -10,8 +10,8 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - State & Policy 
+  - Business & Economy 
 resources:
   - id: 211
     url: https://github.com/gsa-clone

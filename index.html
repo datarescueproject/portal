@@ -1,27 +1,103 @@
 ---
 layout: default
 ---
+{% assign datasets_count = site.datasets | size %}
+{% assign organizations_count = site.organizations | size %}
+{% assign agencies_count = site.agencies | size %}
 
-<div class="container d-flex flex-row p-5 mb-4 bg-light rounded-3 justify-content-between">
-  <div class="col-lg-6 justify-content-center">
-    <h1 class="display-5">{{ site.greeting }}</h1>
-    <p class="col-md-8 fs-4 mb-4">{{ site.description }}</p>
-    <a href="{{ "/datasets" | relative_url }}" class="btn btn-primary btn-lg" role="button">Browse all datasets</a>
+<div style="background-color:#F2F4FD; padding-top:8rem; padding-bottom:8rem;" class="mb-4 rounded-3 mx-auto">
+  <div class="w-50 mx-auto">
+    <h2 class="display-5 text-center fw-bold mb-3">{{ site.greeting }}</h2>
+    <p class="fs-6 mb-5 text-center fw-lighter">Search within {{ datasets_count }} public archived datasets across {{
+      organizations_count }}
+      organizations and {{ agencies_count }} agencies, compiled by the Data Rescue Project.</p>
   </div>
-  <img alt="Example homepage hero image" class="d-none d-md-block img-responsive rounded-circle" src="{{ site.baseurl }}{{ site.hero_image }}?" style="max-height: 300px" />
+  <div class="d-flex justify-content-center">
+    <div class="d-flex justify-content-between gap-3">
+      <a class="custom-btn" role="button" href="{{ '/datasets' | relative_url }}">Browse Datasets</a>
+      <a class="custom-btn" role="button" href="{{ '/organizations' | relative_url }}">Browse Organizations</a>
+      <a class="custom-btn" role="button" href="{{ '/agencies' | relative_url }}">Browse Agencies</a>
+      <a class="custom-btn" role="button" href="{{ '/categories' | relative_url }}">Browse Categories</a>
+    </div>
+  </div>
+  <!-- Search Bar For Home Page -->
+  <!-- <div class="w-75 mx-auto mt-5">
+    <div style="margin-left: 3rem;" class="btn-group btn-group-toggle" data-toggle="buttons">
+      <label style="margin-right: 1rem;"class="btn btn-primary">
+        <input type="radio" name="options" id="option1" autocomplete="off" checked> Dataset
+      </label>
+      <label class="btn btn-primary">
+        <input type="radio" name="options" id="option2" autocomplete="off"> Organization
+      </label>
+    </div>
+    <nav class="navbar navbar-light d-flex justify-content-center gap-3">
+      <form class="form-inline w-75">
+        <div class="rounded-pill p-2 border d-flex bg-white  justify-content-between">
+          <div class="w-100">
+            <input class="form-control mr-sm-2 outline-none border-0 shadow-none rounded-pill" type="search"
+              id="searchInput" placeholder="Search for a dataset or category"
+              aria-label="Search for a dataset or category">
+          </div>
+          <div class="">
+            <button class="btn btn-primary rounded-pill my-1 px-3 my-sm-0" type="submit">Search</button>
+          </div>
+        </div>
+      </form>
+      <div class="text-left text-gray-800"><a href="{{ '/datasets' | relative_url }}" class="text-gray-800"
+          role="button">Or browse all datasets</a></div>
+    </nav> -->
 </div>
 
-<h3>Browse by Category</h3>
-<div class="card-grid">
-{% for category in site.dataset_categories %}
-  {% if category.featured == true %}
-    {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a class="card border card-grid-item hover-overlay" href="{{ site.baseurl }}/categories/{{ category.name | slugify }}" title="{{ logo_alt }}">
-      {% if category.logo and category.logo != empty %}
-        <img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
-      {% endif %}
-      {{ category.name }}
-    </a>
-  {% endif %}
-{% endfor %}
+<!-- Logic for Home Page Search Bar Buttons  -->
+<!-- <script>
+    // Get references to the radio buttons and search input
+    const option1 = document.getElementById('option1');
+    const option2 = document.getElementById('option2');
+    const searchInput = document.getElementById('searchInput');
+
+    // Function to update the placeholder based on active button
+    function updatePlaceholder() {
+      if (option1.checked) {
+        searchInput.placeholder = "Search for a dataset";
+      } else if (option2.checked) {
+        searchInput.placeholder = "Search for an organization";
+      }
+    }
+
+    // Initialize the placeholder based on the active radio button
+    updatePlaceholder();
+
+    // Add event listeners to update the placeholder when the radio buttons change
+    option1.addEventListener('change', updatePlaceholder);
+    option2.addEventListener('change', updatePlaceholder);
+  </script> -->
+
+</div>
+</div>
+</div>
+
+<div class="container">
+  <h4 class="display-6 fw-bold mb-4 mt-5 pt-5">About the Mission</h4>
+  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;">Founded as a clearinghouse for data rescue
+    efforts, the Data Rescue Project (DRP) focuses on preserving at-risk public information.
+    To streamline and organize the rescue process, DRP grew from a Google Sheet into crowdsourced tools designed to
+    catalog and coordinate data preservation efforts.</h6>
+  <div style="width: 400px;" class=""><img style=" margin-right: 2rem;" class="float-start"
+      src="./img/homepage-hero.jpg"></div>
+  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;">The Data Rescue Portal builds upon these
+    foundational efforts, serving as a centralized, user-friendly portal for accessing a diverse array of preserved
+    datasets.
+    It integrates information from many public data rescue efforts, such as DataLumos and more, enabling users to search
+    across institutions and datasets in one place.
+    This consolidation eliminates the need to navigate multiple sources, making critical data more accessible than ever
+    before.
+  </h6>
+  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;"> This platform allows users to track rescued
+    datasets, their archival locations, and last modified/download dates.
+    In addition, every dataset is categorized and labeled with its associated agency and organization, allowing for
+    faster and more convenient data access through our search and filtering functionalities.
+  </h6>
+  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;"> By fostering collaboration, the Tracker ensures
+    that no effort is duplicated and that all rescued data remains discoverable for future use.
+  </h6>
 </div>

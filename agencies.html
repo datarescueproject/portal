@@ -1,0 +1,34 @@
+---
+title: Agencies
+layout: default
+permalink: /agencies/
+---
+{% include breadcrumbs.html %}
+<!-- search bar (no functionality implemented) -->
+<!-- <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3"> -->
+<div class="card-grid card-grid-organizations">
+
+  {% for agency in site.agencies %}
+  {% assign dataset_count = site.datasets | where:"agency", agency.title | size %}
+  {% capture logo_alt %}{{ agency.name }}{% if agency.logo_credit and agency.logo_credit != empty %}
+  logo by {{ agency.logo_credit }}{% endif %}{% endcapture %}
+  <a class="card card-grid-item border hover-overlay" href="{{ site.baseurl }}{{ agency.url }}"
+    title="{{ agency.title }}">
+    <div>
+      <span class="badge rounded-pill float-end" style="background-color: #001290; color: white;">{{ dataset_count
+        }}</span>
+    </div>
+    <div class="d-flex flex-row">
+      {% if agency.logo and agency.logo != empty %}
+      <div>
+        <img src="{{ agency.logo | relative_url }}" alt="{{ logo_alt }}" style="width: 64px; height: auto;">
+      </div>
+      {% endif %}
+      <div class="ms-3">
+        <h4 style="text-align: start;">{{ agency.title }}</h4>
+        <p style="text-align: justify;">{{ agency.description | markdownify }}</p>
+      </div>
+    </div>
+  </a>
+  {% endfor %}
+</div>

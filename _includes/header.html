@@ -1,36 +1,41 @@
-<nav class="navbar navbar-expand-sm mb-4 navbar-light bg-light" data-component="navigation">
-  <div class="container">
-    <a href="https://www.datarescueproject.org/"><div class="me-3 mt-2 mb-2"><img style="width: auto; height: 40px;" src="/img/drp-brand-3.png?"></div></a>
-
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+<nav class="navbar navbar-expand-sm navbar-light bg-light" data-component="navigation">
+  <div class="container align-baseline">
+    <div class=""><a style="color:#000" href="{{ site.baseurl }}/">
+        <h4 style="margin-right: 2.5rem; margin-bottom: 0;" class="fw-bold">DRP Portal</h4>
+      </a></div>
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+      aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
       <span class="navbar-toggler-icon"></span>
     </button>
 
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
         <li class="nav-item">
-          <a class="nav-link {% if page.url == "/" or page.url == "/index.html" or page.url == "" %}active{% endif %}" href="{{ site.baseurl }}/">
-            Home
-          </a>
-        </li>        
+        </li>
 
         {% for link in site.navigation %}
-          {% if page.url contains link.url %}
-          <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{{ link.url }}" aria-current="page">{{ link.title }}</a></li>
-          {% else %}
-          <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
-          {% endif %}
+        {% if page.url contains link.url %}
+        <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{{ link.url }}" aria-current="page">{{
+            link.title }}</a></li>
+        {% else %}
+        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
+        {% endif %}
         {% endfor %}
       </ul>
     </div>
 
-    <ul class="navbar-nav ms-auto">
+    <ul class="navbar-nav ms-auto flex gap-3">
+      <a class="nav-link d-flex align-items-center" href="https://github.com/datarescueproject/portal" target="_blank"
+        rel="noopener">
+        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20"
+          class="me-1" />
+      </a>
       <li class="nav-item">
-        <a class="nav-link d-flex align-items-center" href="https://github.com/datarescueproject/portal" target="_blank" rel="noopener">
-          <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" class="me-1" />
+        <a href="https://www.datarescueproject.org/">
+          <div class="me-3 mt-2 mb-2"><img style="width: auto; height: 40px;" src="{{ site.baseurl }}/img/drp-brand-3.png?"></div>
         </a>
       </li>
     </ul>
-    
+
   </div>
 </nav>

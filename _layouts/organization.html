@@ -5,6 +5,8 @@ layout: default
 {% assign datasets = site.datasets | where:"organization", page.title %}
 {% assign datasets_count = datasets | size %}
 
+<input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
+
 <div class="container">
     <div class="row">
       {% if page.logo and page.logo != empty %}

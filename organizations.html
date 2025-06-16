@@ -2,76 +2,33 @@
 title: Organizations
 layout: default
 permalink: /organizations/
-pagination:
-  enabled: true
-  collection: organizations
-  per_page: 15
 ---
 {% include breadcrumbs.html %}
+<!-- search bar (no functionality implemented) -->
+<!-- <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3"> -->
+<div class="card-grid card-grid-organizations">
 
-<input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
-  {% for organization in paginator.posts %}
-    {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
-    {% capture logo_alt %}{{ organization.name }}{% if organization.logo_credit and organization.logo_credit != empty %} logo by {{ organization.logo_credit }}{% endif %}{% endcapture %}
-    <a class="card card-grid-item border hover-overlay" href="{{ site.baseurl }}{{ organization.url }}" title="{{ organization.title }}">
+  {% for organization in site.organizations %}
+  {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
+  {% capture logo_alt %}{{ organization.name }}{% if organization.logo_credit and organization.logo_credit != empty %}
+  logo by {{ organization.logo_credit }}{% endif %}{% endcapture %}
+  <a class="card card-grid-item border hover-overlay" href="{{ site.baseurl }}{{ organization.url }}"
+    title="{{ organization.title }}">
+    <div>
+      <span class="badge rounded-pill float-end" style="background-color: #001290; color: white;">{{ dataset_count
+        }}</span>
+    </div>
+    <div class="d-flex flex-row">
+      {% if organization.logo and organization.logo != empty %}
       <div>
-        <span class="badge bg-primary rounded-pill float-end">{{ dataset_count }}</span>
+        <img src="{{ organization.logo | relative_url }}" alt="{{ logo_alt }}" style="width: 64px; height: auto;">
       </div>
-      <div class="d-flex flex-row">
-        {% if organization.logo and organization.logo != empty %}
-          <div>
-            <img src="{{ organization.logo | relative_url }}" alt="{{ logo_alt }}" style="width: 64px; height: auto;">
-          </div>
-        {% endif %}
-        <div class="ms-3">
-          <h4 style="text-align: start;">{{ organization.title }}</h4>
-          <p style="text-align: justify;">{{ organization.description | markdownify }}</p>
-        </div>
+      {% endif %}
+      <div class="ms-3">
+        <h4 style="text-align: start;">{{ organization.title }}</h4>
+        <p style="text-align: justify;">{{ organization.description | markdownify }}</p>
       </div>
-    </a>
+    </div>
+  </a>
   {% endfor %}
 </div>
-
-<nav aria-label="Page navigation example">
-  <ul class="pagination justify-content-center mt-5">
-    <!-- previous page -->
-    {% if paginator.previous_page %}
-      <li class="page-item">
-        <a class="page-link" href="{{ paginator.previous_page_path }}">Previous</a>
-      </li>
-    {% else %}
-      <li class="page-item disabled">
-        <a class="page-link">Previous</a>
-      </li>
-    {% endif %}
-
-    <!-- each page -->
-    {% for page in (1..paginator.total_pages) %}
-      {% if page == paginator.page %}
-        <li class="page-item active">
-          <span class="page-link">{{ page }}</span>
-        </li>
-      {% elsif page == 1 %}
-        <li class="page-item">
-          <a class="page-link" href="{{ site.baseurl }}/organizations/">{{ page }}</a>
-        </li>
-      {% else %}
-        <li class="page-item">
-          <a class="page-link" href="{{ site.baseurl }}/organizations/{{ page }}/">{{ page }}</a>
-        </li>
-      {% endif %}
-    {% endfor %}
-
-    <!-- next page -->
-    {% if paginator.next_page %}
-      <li class="page-item">
-        <a class="page-link" href="{{ paginator.next_page_path }}">Next</a>
-      </li>
-    {% else %}
-      <li class="page-item disabled">
-        <a class="page-link">Next</a>
-      </li>
-    {% endif %}
-  </ul>
-</nav>
-

@@ -1,16 +1,54 @@
 body{
-  font-family: Helvetica, arial, sans-serif;
+  font-family: Arial, arial, sans-serif;
 }
 
 h1{
   font-size: 2.5em;
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Arial, 'Times New Roman', Times, serif;
+}
+
+h2{
+  font-size:2.2rem;
+  font-family: Arial;
+    font-weight: 500;
 }
 
 h3{
-  font-family: Georgia, 'Times New Roman', Times, serif;
+  font-family: Arial, 'Times New Roman', Times, serif;
 }
 
+h5{
+  font-size: 1rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: lighter;
+  margin-bottom:0px;
+}
+
+h6{
+  font-size: 1.25rem;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+
+.category-buttons{
+  background-color: #E2E2E2;
+  color:#000;
+  padding:.5rem;
+  padding-right: .75rem;
+  width:max-content;
+  text-align: center;
+  border-radius: .5rem;
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+
+.category-buttons-inline{
+  display: flex;
+  gap: .5rem;
+  overflow: scroll;
+}
 
 input[data-hook=search-query] {
   display: none;
@@ -73,7 +111,7 @@ dataset {
 
 .card-grid-organizations {
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(auto-fill, minmax(150px, 1fr));
+  /* grid-template-rows: repeat(auto-fill, minmax(150px, 1fr)); */
 }
 
 .card-grid .card-grid-item:hover {
@@ -98,9 +136,6 @@ dataset {
   color: #000;
 }
 
-.view-code-link {
-  margin: 1em;
-}
 
 .breadcrumb {
   background-color: #e9ecef;
@@ -109,6 +144,39 @@ dataset {
 }
 
 a{
-  color: #007bff;
-  text-decoration: none;
+  color: #001290;
+  text-decoration: none ;
+}
+
+.btn-download {
+    color: #000;
+    background-color: #E0E0E0;
+    width: 100%;
+}
+
+.card-data{
+  border:#000;
+  background-color: #F7F7F7;
+  border-radius: .25rem;
+}
+
+.navbar-light .navbar-nav .nav-link{
+  color:black;
+}
+
+.custom-btn {
+    background-color: #001290;
+    color: white;
+    border: none; 
+    padding: 10px 20px;
+    text-decoration: none; 
+    border-radius: 5px; 
+    transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.custom-btn:hover {
+    background-color: #000e6b;
+    color: white;
+    transform: scale(1.05);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
