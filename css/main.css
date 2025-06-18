@@ -180,3 +180,13 @@ a{
     transform: scale(1.05);
     box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); 
 }
+
+.body-width {
+  width: 90%;
+}
+
+@media (min-width: 501px) {
+  .body-width {
+    width: 50%;
+  }
+}
