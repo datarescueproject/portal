@@ -13,7 +13,7 @@ layout: default
       organizations and {{ agencies_count }} agencies, compiled by the Data Rescue Project.</p>
   </div>
   <div class="d-flex justify-content-center">
-    <div class="d-flex justify-content-between gap-3">
+    <div class="d-flex justify-content-between gap-3 flex-wrap">
       <a class="custom-btn" role="button" href="{{ '/datasets' | relative_url }}">Browse Datasets</a>
       <a class="custom-btn" role="button" href="{{ '/organizations' | relative_url }}">Browse Organizations</a>
       <a class="custom-btn" role="button" href="{{ '/agencies' | relative_url }}">Browse Agencies</a>
@@ -82,8 +82,9 @@ layout: default
     efforts, the Data Rescue Project (DRP) focuses on preserving at-risk public information.
     To streamline and organize the rescue process, DRP grew from a Google Sheet into crowdsourced tools designed to
     catalog and coordinate data preservation efforts.</h6>
-  <div style="width: 400px;" class=""><img style=" margin-right: 2rem;" class="float-start"
-      src="./img/homepage-hero.jpg"></div>
+  <div class="w-100">
+    <img class="img-fluid float-start ms-2 me-2" src="./img/homepage-hero.jpg" alt="Hero Image">
+  </div>
   <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;">The Data Rescue Portal builds upon these
     foundational efforts, serving as a centralized, user-friendly portal for accessing a diverse array of preserved
     datasets.
