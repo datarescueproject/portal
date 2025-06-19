@@ -1,12 +1,14 @@
 <nav class="navbar navbar-expand-sm navbar-light bg-light" data-component="navigation">
-  <div class="container align-baseline">
+  <div class="container align-baseline gap-md-4">
+    <div><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
+        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+    </div>
     <div class=""><a style="color:#000" href="{{ site.baseurl }}/">
-        <h4 style="margin-right: 2.5rem; margin-bottom: 0;" class="fw-bold">DRP Portal</h4>
-      </a></div>
-    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-      aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-      <span class="navbar-toggler-icon"></span>
-    </button>
+        <h4 style=" margin-bottom: 0;" class="fw-bold">DRP Portal</h4>
+      </a>
+    </div>
 
     <div class="collapse navbar-collapse" id="navbarNavDropdown">
       <ul class="navbar-nav">
@@ -24,18 +26,24 @@
       </ul>
     </div>
 
-    <ul class="navbar-nav ms-auto flex gap-3">
-      <a class="nav-link d-flex align-items-center" href="https://github.com/datarescueproject/portal" target="_blank"
-        rel="noopener">
-        <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20"
-          class="me-1" />
-      </a>
-      <li class="nav-item">
-        <a href="https://www.datarescueproject.org/">
-          <div class="me-3 mt-2 mb-2"><img style="width: auto; height: 40px;" src="{{ site.baseurl }}/img/drp-brand-3.png?"></div>
-        </a>
-      </li>
-    </ul>
+<div class="navbar-nav d-flex align-items-center gap-2 flex-wrap">
+  <div class="d-flex align-items-center">
+    <a href="https://github.com/datarescueproject/portal" target="_blank" rel="noopener">
+      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" class="me-1" />
+    </a>
+  </div>
+  <div class="nav-item d-flex align-items-center">
+    <a href="https://www.datarescueproject.org/">
+      <div class="me-3 mt-2 mb-2">
+        <img style="width: auto; height: 40px;" src="{{ site.baseurl }}/img/drp-brand-3.png?">
+      </div>
+    </a>
+  </div>
+</div>
+
+
+
+
 
   </div>
 </nav>

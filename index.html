@@ -5,18 +5,23 @@ layout: default
 {% assign organizations_count = site.organizations | size %}
 {% assign agencies_count = site.agencies | size %}
 
-<div style="background-color:#F2F4FD; padding-top:8rem; padding-bottom:8rem;" class="mb-4 rounded-3 mx-auto">
-  <div class="w-50 mx-auto">
+<div style="background-color:#F2F4FD; padding-top:4rem; padding-bottom:4rem;" class="mb-4 rounded-3 mx-auto">
+  <div class="body-width mx-auto">
     <h2 class="display-5 text-center fw-bold mb-3">{{ site.greeting }}</h2>
-    <p class="fs-6 mb-5 text-center fw-lighter">Search within {{ datasets_count }} public archived datasets across {{
-      organizations_count }}
-      organizations and {{ agencies_count }} agencies, compiled by the Data Rescue Project.</p>
+    <p class="fs-4 mb-5 text-center fw-lighter">
+      <span style="font-weight:bold; color:#001290;">{{ datasets_count }}</span> 
+      datasets across 
+      <span style="font-weight:bold; color:#001290;">{{ organizations_count }}</span> 
+      government offices compiled through the efforts of over
+      <span style="font-weight:bold; color:#001290;">150</span> 
+      volunteers
+    </p>
   </div>
   <div class="d-flex justify-content-center">
-    <div class="d-flex justify-content-between gap-3">
+    <div class="d-flex justify-content-center gap-3 flex-wrap">
       <a class="custom-btn" role="button" href="{{ '/datasets' | relative_url }}">Browse Datasets</a>
-      <a class="custom-btn" role="button" href="{{ '/organizations' | relative_url }}">Browse Organizations</a>
-      <a class="custom-btn" role="button" href="{{ '/agencies' | relative_url }}">Browse Agencies</a>
+      <a class="custom-btn" role="button" href="{{ '/offices' | relative_url }}">Browse Government Offices</a>
+      <!-- <a class="custom-btn" role="button" href="{{ '/agencies' | relative_url }}">Browse Agencies</a> -->
       <a class="custom-btn" role="button" href="{{ '/categories' | relative_url }}">Browse Categories</a>
     </div>
   </div>
@@ -77,27 +82,17 @@ layout: default
 </div>
 
 <div class="container">
-  <h4 class="display-6 fw-bold mb-4 mt-5 pt-5">About the Mission</h4>
-  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;">Founded as a clearinghouse for data rescue
-    efforts, the Data Rescue Project (DRP) focuses on preserving at-risk public information.
-    To streamline and organize the rescue process, DRP grew from a Google Sheet into crowdsourced tools designed to
-    catalog and coordinate data preservation efforts.</h6>
-  <div style="width: 400px;" class=""><img style=" margin-right: 2rem;" class="float-start"
-      src="./img/homepage-hero.jpg"></div>
-  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;">The Data Rescue Portal builds upon these
-    foundational efforts, serving as a centralized, user-friendly portal for accessing a diverse array of preserved
-    datasets.
-    It integrates information from many public data rescue efforts, such as DataLumos and more, enabling users to search
-    across institutions and datasets in one place.
-    This consolidation eliminates the need to navigate multiple sources, making critical data more accessible than ever
-    before.
-  </h6>
-  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;"> This platform allows users to track rescued
-    datasets, their archival locations, and last modified/download dates.
-    In addition, every dataset is categorized and labeled with its associated agency and organization, allowing for
-    faster and more convenient data access through our search and filtering functionalities.
-  </h6>
-  <h6 style="color: #737373; line-height: 150%; margin-bottom: 1.5rem;"> By fostering collaboration, the Tracker ensures
-    that no effort is duplicated and that all rescued data remains discoverable for future use.
-  </h6>
+  <h4 class="display-6 fw-bold mb-4 mt-2 pt-2">About the Mission</h4>
+  <div style="text-align: justify;">
+    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem;">The Data Rescue Project (DRP) serves as a clearinghouse for preserving at-risk public information. 
+      What began as a simple Google Sheet has evolved into a crowdsourced tool that catalogs and coordinates data preservation efforts across institutions.</h6>
+    <!-- <div class="w-100" style="margin-top: 1rem;"></div> -->
+      <img class="img-fluid float-start me-3 mt-1" src="./img/homepage-hero.jpg" alt="Hero Image">
+    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem; text-align: justify;">The Data Rescue Portal centralizes these efforts, providing a user-friendly gateway to over 1000 preserved datasets. By integrating information from multiple data rescue initiatives—including DataLumos and others—the portal eliminates the need to search across disparate sources, making critical data more accessible than ever.
+    </h6>
+    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem; text-align: justify;"> Users can explore metadata for each rescued dataset, including archived locations, maintaining volunteers, rescuer notes, and downloaded dates. Every dataset is also categorized by its government office and labeled for efficient searching and filtering. We are continuously working to enhance the depth and quality of this metadata.
+    </h6>
+    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem; text-align: justify;"> Through this centralized approach, the portal prevents duplicated rescue efforts while ensuring all preserved data remains discoverable for researchers, journalists, and the public.
+    </h6>
+  </div>
 </div>
