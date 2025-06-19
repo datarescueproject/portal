@@ -5,7 +5,7 @@ permalink: /categories/
 ---
 {% include breadcrumbs.html %}
 
-<input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
+<!-- <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3"> -->
 <div class="card-grid mt-2">
   {% for category in site.dataset_categories %}
     {% assign dataset_count = site.datasets | where:"category", category.name | size %}
