@@ -1,8 +1,8 @@
 ---
 schema: data_rescue_project 
 title: IIE Open Doors
-organization: Institute of International Education
-agency: Institute of International Education (IIE)
+organization: Institute of International Education (IIE)
+agency: Department of State
 websites: opendoorsdata.org
 data_source: https://opendoorsdata.org/
 description: 

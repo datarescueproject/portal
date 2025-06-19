@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 49.0
     download_date: 2025-02-21
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: Full dataset, currently in upload process to archive.org
 ---

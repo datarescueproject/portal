@@ -10,8 +10,8 @@ last_modified: 2025-06-07
 metadata_available: No
 metadata_url: 
 category:
-  - Military & Veterans Affairs 
   - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 1083
     url: https://sciop.net/datasets/us-va-open-data-bulk-download
@@ -19,6 +19,6 @@ resources:
     status: Uploading
     size: 6.3
     download_date: 2025-06-06
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: Alternate torrent location https://academictorrents.com/details/8857f112c317757ddd93e8f1849412b7ee1c9273
 ---

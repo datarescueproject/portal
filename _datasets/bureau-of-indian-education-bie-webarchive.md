@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 0.5
     download_date: 2025-04-21
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: Webarchive mirror of https://www.bie.edu/, using Archiveweb.page, in WACZ file form.
 ---

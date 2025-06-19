@@ -18,7 +18,7 @@ resources:
     status: Finished
     size: 0.1
     download_date: 2025-04-23
-    maintainer: DL, TSHRMP
+    maintainer: DRP, DL
     notes: All documents and datasets from the portal, does not include mapping applications directly as the underlying GIS data is included.
   - id: 797
     url: https://www.datalumos.org/datalumos/project/227423/version/V2/view

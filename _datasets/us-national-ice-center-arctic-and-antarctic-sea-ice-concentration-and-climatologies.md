@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 10.0
     download_date: 2025-02-10
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: The NSIDC portal is not .gov, but a direct part of NOAA's CIRES program/crucial gov-funded repo of cryosphere research
 ---

@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 80.0
     download_date: 2025-04-09
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/f750dafb20b1f5783a9e602793d8e917fcf7e95f
 ---

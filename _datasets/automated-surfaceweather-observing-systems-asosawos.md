@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 22.2
     download_date: 2025-02-22
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: Includes data up to Feb 2025.
 ---

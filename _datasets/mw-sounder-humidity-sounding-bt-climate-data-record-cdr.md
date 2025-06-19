@@ -18,6 +18,6 @@ resources:
     status: In Progress
     size: 1500.0
     download_date: 2025-02-15
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: No notes, all directories should be as they appear in the dataset URL.
 ---

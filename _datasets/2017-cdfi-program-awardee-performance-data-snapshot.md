@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: 2017 CDFI Program Awardee Performance Data Snapshot
-organization: CDFI
+organization: Community Development Financial Institution (CDFI)
 agency: Department of the Treasury
 websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/documents/cdfi-performance-data-snapshot_approval.pdf
