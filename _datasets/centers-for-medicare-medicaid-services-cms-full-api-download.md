@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Centers for Medicare & Medicaid Services (CMS) Full API Download
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: data.cms.gov
 data_source: https://data.cms.gov/
@@ -10,6 +10,7 @@ last_modified: 2025-04-28
 metadata_available: No
 metadata_url: 
 category:
+  - Social Services 
   - Health & Healthcare 
 resources:
   - id: 902

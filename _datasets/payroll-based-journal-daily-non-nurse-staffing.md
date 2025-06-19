@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Payroll Based Journal Daily Non-Nurse Staffing
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: data.cms.gov
 data_source: https://data.cms.gov/quality-of-care/payroll-based-journal-daily-non-nurse-staffing
@@ -10,6 +10,7 @@ last_modified: 2025-06-15
 metadata_available: No
 metadata_url: 
 category:
+  - Social Services 
   - Health & Healthcare 
 resources:
   - id: 1153

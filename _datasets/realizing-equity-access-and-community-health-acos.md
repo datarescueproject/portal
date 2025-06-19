@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Realizing Equity, Access, and Community Health ACOs
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: data.cms.gov
 data_source: https://data.cms.gov/cms-innovation-center-programs/aco-realizing-equity-access-and-community-health/realizing-equity-access-and-community-health-acos

@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Medicare Part D Prescribers - by Provider
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: data.cms.gov
 data_source: https://data.cms.gov/provider-summary-by-type-of-service/medicare-part-d-prescribers/medicare-part-d-prescribers-by-provider

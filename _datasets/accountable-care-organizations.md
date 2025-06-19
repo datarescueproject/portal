@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Accountable Care Organizations
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: data.cms.gov
 data_source: https://data.cms.gov/medicare-shared-savings-program/accountable-care-organizations

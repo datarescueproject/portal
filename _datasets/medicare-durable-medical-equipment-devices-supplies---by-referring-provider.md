@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Medicare Durable Medical Equipment, Devices & Supplies - by Referring Provider
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: data.cms.gov
 data_source: https://data.cms.gov/provider-summary-by-type-of-service/medicare-durable-medical-equipment-devices-supplies/medicare-durable-medical-equipment-devices-supplies-by-referring-provider

@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Centers for Medicare and Medicaid Services (CMS) Program Statistics
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: cms.gov
 data_source: https://www.cms.gov/
@@ -10,6 +10,7 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
+  - Social Services 
   - Health & Healthcare 
 resources:
   - id: 253

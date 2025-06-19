@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Medicare Part D Spending by Drug
-organization: Centers for Medicare and Medicaid Services
+organization: Centers for Medicare and Medicaid Services (CMS)
 agency: Department of Health and Human Services
 websites: data.cms.gov
 data_source: https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-spending-by-drug/medicare-part-d-spending-by-drug
@@ -10,6 +10,7 @@ last_modified: 2025-05-10
 metadata_available: No
 metadata_url: 
 category:
+  - Social Services 
   - Health & Healthcare 
 resources:
   - id: 931
