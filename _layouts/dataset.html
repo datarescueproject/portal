@@ -142,7 +142,7 @@ layout: default
               </div>
 
               {% if resource.url %}
-              <a href="{{ resource.url }}" class="btn btn-download" download>Download CSV</a>
+              <a href="{{ resource.url }}" class="btn btn-download" download>Download {{ resource.format }}</a>
               {% else %}
               <span class="btn btn-secondary" disabled>WIP</span>
               {% endif %}

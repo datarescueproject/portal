@@ -1,4 +1,4 @@
-title: Data Rescue Project
+title: Data Rescue Project Portal
 greeting: Data Rescue Project Portal
 description: Links to public data archived through combined efforts and coordinated by the Data Rescue Project.
 logo: /portal/img/drp-brand-3.png
@@ -22,10 +22,10 @@ pagination:
 navigation:
   - title: Datasets
     url: /datasets/
-  - title: Organizations
-    url: /organizations/
-  - title: Agencies
-    url: /agencies/
+  - title: Offices
+    url: /offices/
+  # - title: Agencies
+  #   url: /agencies/
   - title: Categories
     url: /categories/
 
@@ -36,10 +36,10 @@ collections:
     permalink: /datasets/:path/
   organizations:
     output: true
-    permalink: /organizations/:path/
-  agencies:
-    output: true
-    permalink: /agencies/:path/
+    permalink: /offices/:path/
+  # agencies:
+  #   output: true
+  #   permalink: /agencies/:path/
   dataset_categories:
     output: true
     permalink: /categories/:path/
@@ -63,11 +63,11 @@ defaults:
       type: organizations
     values:
       layout: organization
-  - scope:
-      path: ""
-      type: agencies
-    values:
-      layout: agency
+  # - scope:
+  #     path: ""
+  #     type: agencies
+  #   values:
+  #     layout: agency
 
 # Markdown settings
 markdown: kramdown
