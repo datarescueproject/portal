@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 840.0
     download_date: 2025-03-11
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: 
 ---

@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: FY 2024 NMTC Public Data Release 2003-2022 Data File
-organization: CDFI
+organization: Community Development Financial Institution (CDFI)
 agency: Department of the Treasury
 websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2024-06/NMTC_Public_Data_Release_includes_FY_2022_Data_final.xlsx

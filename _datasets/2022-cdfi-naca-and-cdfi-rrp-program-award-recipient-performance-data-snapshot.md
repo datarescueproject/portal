@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: 2022 CDFI NACA and CDFI RRP Program Award Recipient Performance Data Snapshot
-organization: CDFI
+organization: Community Development Financial Institution (CDFI)
 agency: Department of the Treasury
 websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2024-12/CDFI_RRP_Snapshot_FY22_Final.pdf

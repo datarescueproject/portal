@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 105.0
     download_date: 2025-04-18
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: Includes actively seeded torrent file (the one without _archive). Alternate torrent location https://academictorrents.com/details/9bcdcb5efbcec15e37d918784618329e487599ac
 ---

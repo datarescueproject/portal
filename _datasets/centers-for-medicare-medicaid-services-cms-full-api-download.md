@@ -10,8 +10,8 @@ last_modified: 2025-04-28
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 902
     url: https://sciop.net/datasets/centers-for-medicare-and-medicaid-services-full-data
@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 523.0
     download_date: 2025-04-26
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: Full bulk data dump, will need to pull datasets out for datalumosNow includes full download from CMS Open Payments and data.medicaid.gov
 ---

@@ -18,6 +18,6 @@ resources:
     status: In Progress
     size: 9000.0
     download_date: 2025-03-26
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: Specific link is for year 1981. 1981-2000 are stored and safe, each year is being uploaded to a single IA item, with this formathttps://archive.org/details/avhrr-hirs-reflectance-and-cloud-properties-patmosx-{year}Each year's data is between 95-600GB.
 ---

@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 237.0
     download_date: 2025-04-05
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: New corrected and updated torrentIncludes archive of entire data system, composed of many datasets. For posterity, all metadata files have been scraped and included in IA item, organized by accession number. Would be thousands of submissions otherwise. Alternate torrent location https://academictorrents.com/details/e490a659449cc55cf59a8f32fbd2b230f63e7829
 ---

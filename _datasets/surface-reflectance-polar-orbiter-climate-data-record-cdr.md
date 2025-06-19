@@ -18,6 +18,6 @@ resources:
     status: Uploading
     size: 2000.0
     download_date: 2025-05-04
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: Second metadata link https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01676/html# Alternate torrent location https://academictorrents.com/details/5bb7bc141b28e13b6622a0edd50adaeeee333ed7
 ---

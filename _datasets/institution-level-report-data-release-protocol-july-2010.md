@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Institution Level Report Data Release Protocol (July 2010)
-organization: CDFI
+organization: Community Development Financial Institution (CDFI)
 agency: Department of the Treasury
 websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/documents/institution_level_report_data_release_protocol.pdf

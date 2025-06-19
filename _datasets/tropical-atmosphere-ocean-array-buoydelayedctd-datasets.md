@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 13.0
     download_date: 2025-04-27
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: Other metadata linkshttps://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOFullReshttps://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.nodcNDBC-TAOCTDNew corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/af1e0b2d2e615f32787840714976ba95439a0b42
 ---

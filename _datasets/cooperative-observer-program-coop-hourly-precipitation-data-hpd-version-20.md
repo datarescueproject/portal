@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 0.8
     download_date: 2025-03-24
-    maintainer: IA, TSHRMP
+    maintainer: DRP, IA
     notes: Includes the archive zip files, not the access files. Includes all available data from June 7th, 1948 to March 3rd, 2025.
 ---

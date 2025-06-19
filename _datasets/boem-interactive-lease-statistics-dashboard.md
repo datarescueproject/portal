@@ -18,6 +18,6 @@ resources:
     status: Finished
     size: 0.68
     download_date: 2025-04-23
-    maintainer: DRP, DL, TSHRMP
+    maintainer: DRP, DL
     notes: Contains the files behind the Dashboard, not the dashboard itself (was unable to get a WACZ created so went with direct file download instead)
 ---

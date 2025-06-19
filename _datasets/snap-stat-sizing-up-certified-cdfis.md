@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Snap Stat Sizing Up Certified CDFIs
-organization: CDFI
+organization: Community Development Financial Institution (CDFI)
 agency: Department of the Treasury
 websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2020-11/snap-stat-june-1-2016.pdf

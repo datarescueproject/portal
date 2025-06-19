@@ -19,6 +19,6 @@ resources:
     status: Uploading
     size: 130.0
     download_date: 2025-05-07
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: Data retrieval unsuccessful for ImageServers and MapServers. Datasets with only metadata downloads kept for posterity. Ideally, someone with a USFW login can fill in any missing files (if you have access to this, please contact me).Alternate torrent location https://academictorrents.com/details/b9dc0aae229f4f5a215c8ea542bf1a1bb0892847
 ---

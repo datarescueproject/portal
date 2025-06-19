@@ -18,6 +18,6 @@ resources:
     status: Uploading
     size: 920.0
     download_date: 2025-05-12
-    maintainer: SRC, TSHRMP
+    maintainer: DRP, SRC
     notes: sciop dataset includes the bulk torrent file for all datasets, individual torrent creation in progress
 ---
