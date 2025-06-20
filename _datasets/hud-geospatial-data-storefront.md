@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: HUD Geospatial Data Storefront
-organization: Web Master Pulic Affair
+organization: Web Master Public Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
 data_source: https://hudgis-hud.opendata.arcgis.com/
@@ -10,8 +10,8 @@ last_modified: 2025-06-05
 metadata_available: Yes
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 1081
     url: 
