@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: FHA Loan Limits
-organization: Web Master Pulic Affair
+organization: Web Master Public Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
 data_source: http://portal.hud.gov/hudportal/HUD?src=/program_offices/housing/sfh/lender/origination/mortgage_limits

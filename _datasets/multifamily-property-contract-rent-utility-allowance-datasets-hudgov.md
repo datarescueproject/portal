@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Multifamily Property / Contract / Rent & Utility Allowance Datasets (HUD.GOV)
-organization: Web Master Pulic Affair
+organization: Web Master Public Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
 data_source: https://www.hud.gov/program_offices/housing/mfh/presrv/mfhpreservation

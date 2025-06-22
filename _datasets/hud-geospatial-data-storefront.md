@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: HUD Geospatial Data Storefront
-organization: Web Master Pulic Affair
+organization: Web Master Public Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
 data_source: https://hudgis-hud.opendata.arcgis.com/

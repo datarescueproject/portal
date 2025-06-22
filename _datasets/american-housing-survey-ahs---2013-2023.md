@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: American Housing Survey (AHS) - 2013-2023
-organization: Web Master Pulic Affair
+organization: Web Master Public Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
 data_source: https://www.hud.gov/
