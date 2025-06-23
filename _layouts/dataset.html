@@ -132,7 +132,7 @@ layout: default
 
               <div style="margin-bottom: .5rem;" class="d-flex align-items-top gap-1">
                 <h5>Notes:</h5>
-                <p class="card-text">
+                <p class="card-text" style="max-height: 150px; overflow-y: auto; word-break: break-word;">
                   {% if resource.notes and resource.notes != "" %}
                   {{ resource.notes }}
                   {% else %}
