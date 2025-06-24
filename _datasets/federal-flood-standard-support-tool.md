@@ -1,8 +1,8 @@
 ---
 schema: data_rescue_project 
 title: Federal Flood Standard Support Tool
-organization: Unknown
-agency: 
+organization: National Oceanic and Atmospheric Administration, Department of Housing and Urban Development
+agency: Department of Commerce, Department of Housing and Urban Development
 websites: ffrms.climate.gov
 data_source: https://ffrms.climate.gov/
 description: 
@@ -10,7 +10,6 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized 
 resources:
   - id: 216
     url: 

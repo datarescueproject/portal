@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Demographic Health Survey (DHS) Spatial Data Repository
-organization: M/CIO
+organization: M/CIO Development Information Solution (DIS)
 agency: U.S. Agency for International Development
 websites: usaid.gov
 data_source: https://spatialdata.dhsprogram.com/home/
