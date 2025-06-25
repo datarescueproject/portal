@@ -12,4 +12,12 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
+  - id: 1170
+    url: https://doi.org/10.3886/E225461V2
+    format: CSV, ZIP
+    status: Finished
+    size: 0.039
+    download_date: 2025-04-03
+    maintainer: DRP, DL
+    notes: 
 ---
