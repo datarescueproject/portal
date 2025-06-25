@@ -191,7 +191,7 @@ def create_markdowns():
 
     organizations = organizations.fillna('')
 
-    print(os.listdir('../_datasets'))
+    print(os.listdir('./_datasets'))
     # Remove files in _datasets and _organizations
     # remove_files_os('../_datasets')
     # remove_files_os('../_organizations')
