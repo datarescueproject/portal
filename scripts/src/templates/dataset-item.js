@@ -5,7 +5,6 @@ export default (data) => (
       <h5 class="card-title mb-2">
         <a href="${data.url}" class="stretched-link text-decoration-none">${data.title}</a>
       </h5>
-      ${data.agency ? `<div class='mb-2'><span class='badge bg-secondary'>${data.agency}</span></div>` : ''}
       ${data.notes ? `<p class="card-text">${data.notes}</p>` : ''}
     </div>
   </div>
