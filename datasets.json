@@ -3,7 +3,8 @@
 [{% for dataset in site.datasets %}
   {
     "title": {{ dataset.title | jsonify }},
-    "organization": {{ dataset.organization | jsonify }}{% if dataset.notes != "" %},
+    "organization": {{ dataset.organization | jsonify }}{% if dataset.agency != "" %},
+    "agency": {{ dataset.agency | jsonify }}{% endif %}{% if dataset.notes != "" %},
     "notes": {{ dataset.notes | markdownify | jsonify }}{% endif %}{% if dataset.category != "" %},
     "category": {{ dataset.category | jsonify }}{% endif %},
     "url": "{{ site.baseurl }}{{ dataset.url }}"
