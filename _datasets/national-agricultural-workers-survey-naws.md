@@ -10,12 +10,12 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
-  - Labor & Employment 
-  - Agriculture 
-  - Science & Research 
-  - State & Policy 
   - Justice & Public Safety 
+  - Social Services 
+  - State & Policy 
+  - Agriculture 
+  - Labor & Employment 
+  - Science & Research 
 resources:
   - id: 293
     url: https://www.dropbox.com/scl/fo/wvmf9cskmy60gmg9jpybr/AOSZUxR88iTlax-OLQy5Vos?rlkey=ob9lhs89v792zpk5vupe9f6eo&dl=0
