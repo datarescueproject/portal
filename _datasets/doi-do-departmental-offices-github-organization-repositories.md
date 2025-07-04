@@ -10,8 +10,8 @@ last_modified: 2025-02-12
 metadata_available: No
 metadata_url: 
 category:
-  - Communications 
   - Business & Economy 
+  - Communications 
   - Agriculture 
 resources:
   - id: 73
