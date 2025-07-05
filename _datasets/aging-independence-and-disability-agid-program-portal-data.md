@@ -10,8 +10,8 @@ last_modified: 2025-05-19
 metadata_available: Yes
 metadata_url: https://datacatalog.urban.org/dataset/aging-independence-and-disability-agid-program-portal-data
 category:
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 1048
     url: https://urban-data-catalog.s3.us-east-1.amazonaws.com/drupal-root-live/2025/03/28/race-and-equity/agid/data.zip

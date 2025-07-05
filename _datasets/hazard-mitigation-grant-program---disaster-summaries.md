@@ -10,8 +10,8 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250207083539/https://www.fema.gov/openfema-data-page/hazard-mitigation-grant-program-disaster-summaries-v2
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 46
     url: https://www.datalumos.org/datalumos/project/218521/version/V1/view
