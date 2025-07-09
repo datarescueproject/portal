@@ -10,8 +10,8 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250213183405/https://www.fema.gov/openfema-data-page/disaster-declarations-summaries-v2
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 27
     url: https://www.datalumos.org/datalumos/project/218462/version/V1/view
