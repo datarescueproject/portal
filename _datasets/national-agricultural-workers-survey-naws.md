@@ -12,10 +12,10 @@ metadata_url:
 category:
   - Justice & Public Safety 
   - State & Policy 
+  - Science & Research 
+  - Labor & Employment 
   - Agriculture 
   - Social Services 
-  - Labor & Employment 
-  - Science & Research 
 resources:
   - id: 293
     url: https://www.dropbox.com/scl/fo/wvmf9cskmy60gmg9jpybr/AOSZUxR88iTlax-OLQy5Vos?rlkey=ob9lhs89v792zpk5vupe9f6eo&dl=0
