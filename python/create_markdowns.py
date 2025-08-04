@@ -141,27 +141,28 @@ def create_dataset_md(row, backups, organizations):
 
     # Creating the organization markdown file
     org_filename = slugify(row['organization'])
-    org_md = "---\n"
-    org_md += f"title: {clean_text(row['organization'])} \n" 
-    org_md += "description: \n" 
-    org_md += "---\n"
+    if len(org_filename) < 250:    
+        org_md = "---\n"
+        org_md += f"title: {clean_text(row['organization'])} \n" 
+        org_md += "description: \n" 
+        org_md += "---\n"
 
-    # Writing the organization markdown file
-    with open(f'{org_path}/{org_filename}.md', 'w') as output:
-        output.write(org_md)
+        # Writing the organization markdown file
+        with open(f'{org_path}/{org_filename}.md', 'w') as output:
+            output.write(org_md)
 
     agency_path = "./_agencies"
     agency_filename = slugify(row['agency'])
+    if len(agency_filename) < 250:    
+        # Creating the agency markdown file
+        agency_md = "---\n"
+        agency_md += f"title: {clean_text(row['agency'])} \n"
+        agency_md += "description: \n"
+        agency_md += "---\n"
 
-    # Creating the agency markdown file
-    agency_md = "---\n"
-    agency_md += f"title: {clean_text(row['agency'])} \n"
-    agency_md += "description: \n"
-    agency_md += "---\n"
-
-    # Writing the agency markdown file
-    with open(f'{agency_path}/{agency_filename}.md', 'w') as output:
-        output.write(agency_md)
+        # Writing the agency markdown file
+        with open(f'{agency_path}/{agency_filename}.md', 'w') as output:
+            output.write(agency_md)
 
 
 def create_agency_md(row):
