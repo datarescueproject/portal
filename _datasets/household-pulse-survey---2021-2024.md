@@ -12,9 +12,9 @@ metadata_url:
 category:
   - Housing & Community Development 
   - Education 
+  - Business & Economy 
   - Social Services 
   - Health & Healthcare 
-  - Business & Economy 
   - Labor & Employment 
 resources:
   - id: 290

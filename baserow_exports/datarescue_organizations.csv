@@ -139,7 +139,7 @@ Federal Law Enforcement Training Center,Education;National Security & Defense
 Federal Law Enforcement Training Centers,Education;National Security & Defense
 Headquarters,National Security & Defense
 Inaccessible - U.S. Customs and Border Protection,National Security & Defense
-Server errpr - loads IIS welcome page - U.S. Customs and Border Protection,National Security & Defense
+U.S. Customs and Border Protection,National Security & Defense
 Transportation Security Administration,National Security & Defense
 U.S. Citizenship and Immigration Services,National Security & Defense;Social Services
 U.S. Coast Guard,National Security & Defense
@@ -187,13 +187,13 @@ Employment Training Administration (ETA) - Office of Foreign Labor Certification
 Employment Training Administration (ETA) - Office of Unemployment Insurance,Labor & Employment;Social Services
 Mine Safety & Health Administration,Labor & Employment
 Mine Safety and Health Administration,Labor & Employment
-Mine Safety and Health Administration - Replaced by egov.msha.gov and serves as a hot backup.,Labor & Employment
+Mine Safety and Health Administration,Labor & Employment
 Occupational Safety and Health Administration,Labor & Employment
 Office of Disability Employment Policy,Labor & Employment
 Office of Federal Contract Compliance Programs,Labor & Employment
 Office of Inspector General,Labor & Employment
 Office of Public Affairs,Labor & Employment
-Office of the Assistant Secretary for Administration and Management - For federal employees and contractors.,Labor & Employment
+Office of the Assistant Secretary for Administration and Management,Labor & Employment
 Office of the Assistant Secretary for Policy,Labor & Employment
 Office of the Chief Information Officer,Labor & Employment
 Office of Workers' Compensation Programs,Labor & Employment
@@ -324,7 +324,7 @@ Institute of Museum and Library Services,Arts & Culture
 Inter-American Foundation,Infrastructure;Social Services
 US Merit Systems Protection Board,Justice & Public Safety;Labor & Employment
 Morris K. Udall and Stewart L. Udall Foundation,Education;Infrastructure;Social Services
-Homepage appears to have no content - but content is available to public on sub-paths. NASA Stennis Space Center,Science & Research
+NASA Stennis Space Center,Science & Research
 Jet Propulsion Lab Communications and Education Directorate,Science & Research
 NASA Ames Research Center,Science & Research
 NASA Armstrong Flight Research Center,Science & Research
@@ -419,5 +419,4 @@ Health Resources and Services Administration,Health & Healthcare
 Institute of International Education (IIE),Education
 U.S. Patent and Trademark Office,Business & Economy
 National Center for Education Statistics,Education
-,
 Consumer Product Safety Commission,Business & Economy

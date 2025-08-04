@@ -1,9 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Survey of Mortgage Originations (NSMO)
-organization: 
-  - Consumer Financial Protection Bureau
-  - Federal Housing Finance Agency
+organization: Consumer Financial Protection Bureau, Federal Housing Finance Agency
 agency: Consumer Financial Protection Bureau, Federal Housing Finance Agency
 websites: consumerfinance.gov, fhfa.gov
 data_source: https://www.fhfa.gov/data/national-survey-mortgage-originations-nsmo-public-use-file
