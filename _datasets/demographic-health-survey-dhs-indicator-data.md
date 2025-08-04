@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Demographic Health Survey (DHS) Indicator Data
-organization: M/CIO
+organization: M/CIO Development Information Solution (DIS)
 agency: U.S. Agency for International Development
 websites: usaid.gov
 data_source: https://spatialdata.dhsprogram.com/home/

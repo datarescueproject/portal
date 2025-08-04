@@ -3,8 +3,8 @@ schema: data_rescue_project
 title: BIA Open Data
 organization: Bureau of Indian Affairs
 agency: Department of the Interior
-websites: opendata-1-bia-geospatial.hub.arcgis.com/
-data_source: https://opendata-1-bia-geospatial.hub.arcgis.com/
+websites: bia.gov
+data_source: https://opendata-1-bia-geospatial.hub.arcgis.com/search
 description: 
 last_modified: 2025-04-23
 metadata_available: No

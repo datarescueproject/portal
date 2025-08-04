@@ -6,8 +6,8 @@ agency: U.S. Department of Agriculture
 websites: aphis.usda.gov
 data_source: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/hpai-detections/wild-birds
 description: 
-last_modified: 2025-04-23
-metadata_available: No
+last_modified: 2025-04-22
+metadata_available: Yes
 metadata_url: 
 category:
   - Agriculture 
