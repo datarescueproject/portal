@@ -16,7 +16,7 @@ resources:
     url: https://www.datalumos.org/datalumos/project/232223/version/V1/view
     format: PDF, CSV
     status: Finished
-    size: 
+    size: 0.001
     download_date: 2025-06-02
     maintainer: DRP, DL
     notes: Note that while this file has similar field names to those in Commercial Aviation Departures, the time periods and variables differ somewhat. Even in cases where the same feature for the same date is present in both datasets, the values do not necessarily match. There is not sufficient metadata to explain the difference.

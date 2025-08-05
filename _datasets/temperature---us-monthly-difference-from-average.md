@@ -16,7 +16,7 @@ resources:
     url: https://www.datalumos.org/datalumos/project/233741/version/V2/view
     format: ZIP, PNG
     status: Finished
-    size: 
+    size: 1.373
     download_date: 2025-06-21
     maintainer: DRP, DL
     notes: 

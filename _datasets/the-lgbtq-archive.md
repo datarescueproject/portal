@@ -14,7 +14,7 @@ resources:
   - id: 1234
     url: https://www.thelgbtqarchive.org/
     format: PDF
-    status: In Progress
+    status: Finished
     size: 
     download_date: 
     maintainer: LGBT

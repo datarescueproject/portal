@@ -16,7 +16,7 @@ resources:
     url: https://sciop.net/uploads/061b946dfaf3e20e08ef5214ab7f6413983205af
     format: nc
     status: Uploading
-    size: 
+    size: 302.9
     download_date: 2025-04-13
     maintainer: DRP, SRC
     notes: New corrected/updated torrent. Alternate torrent location https://academictorrents.com/details/061b946dfaf3e20e08ef5214ab7f6413983205af

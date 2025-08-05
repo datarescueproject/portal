@@ -10,14 +10,14 @@ last_modified: 2025-04-23
 metadata_available: No
 metadata_url: 
 category:
-  - Military & Veterans Affairs 
   - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 853
-    url: https://doi.org/10.3886/E227202V1
+    url: https://www.datalumos.org/datalumos/project/227202/version/V1/view
     format: PDF, CSV
     status: Finished
-    size: 
+    size: 0.001
     download_date: 2025-04-20
     maintainer: DRP, DL
     notes: 

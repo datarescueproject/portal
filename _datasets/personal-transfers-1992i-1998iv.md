@@ -17,7 +17,7 @@ resources:
     url: https://www.datalumos.org/datalumos/project/232142/version/V1/view
     format: XLSX
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-06-06
     maintainer: DRP, DL
     notes: This table presents BEA’s statistics for personal transfers sent by the foreign-born population resident in the United States to households abroad for 1992I-1998IV. Personal transfers consist of all current transfers in cash or in kind made by resident households to nonresident households.
