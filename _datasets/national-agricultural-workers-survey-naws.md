@@ -11,11 +11,11 @@ metadata_available: No
 metadata_url: 
 category:
   - Labor & Employment 
-  - Agriculture 
-  - Science & Research 
-  - State & Policy 
   - Social Services 
+  - State & Policy 
+  - Agriculture 
   - Justice & Public Safety 
+  - Science & Research 
 resources:
   - id: 293
     url: https://www.dropbox.com/scl/fo/wvmf9cskmy60gmg9jpybr/AOSZUxR88iTlax-OLQy5Vos?rlkey=ob9lhs89v792zpk5vupe9f6eo&dl=0
