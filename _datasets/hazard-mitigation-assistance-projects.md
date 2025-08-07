@@ -10,8 +10,8 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206154846/https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-v4
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 43
     url: https://www.datalumos.org/datalumos/project/218521/version/V1/view

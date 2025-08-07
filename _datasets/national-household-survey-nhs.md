@@ -10,8 +10,8 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 20
     url: https://www.datalumos.org/datalumos/project/218642/version/V1/view
