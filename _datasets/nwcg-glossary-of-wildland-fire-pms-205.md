@@ -12,8 +12,8 @@ metadata_url:
 category:
   - Agriculture 
   - Climate & Environment 
-  - Infrastructure 
   - Humanitarian & Disaster Relief 
+  - Infrastructure 
 resources:
   - id: 621
     url: https://www.datalumos.org/datalumos/project/223503/version/V1/view
