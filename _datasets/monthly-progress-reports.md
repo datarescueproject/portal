@@ -19,5 +19,5 @@ resources:
     size: 0.01
     download_date: 2025-07-05
     maintainer: DRP, DL
-    notes: Most recent update in file is Sept. 2024
+    notes: Most recent update in file is Sept, 2024.
 ---

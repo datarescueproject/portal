@@ -18,5 +18,5 @@ resources:
     size: 
     download_date: 
     maintainer: LGBT
-    notes: large archive of LGBTQ+ related materials spanning many agencies. Mostly reports and fact-sheets (some data heavy).
+    notes: Large archive of LGBTQ+ related materials spanning many agencies. Mostly reports and fact-sheets (some data heavy).
 ---
