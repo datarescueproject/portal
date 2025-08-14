@@ -10,8 +10,8 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250204031445/https://www.fema.gov/openfema-data-page/individuals-and-households-program-valid-registrations-v1
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 34
     url: https://www.datalumos.org/datalumos/project/218466/version/V1/view
