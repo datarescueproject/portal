@@ -10,8 +10,8 @@ last_modified: 2025-02-11
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206041538/https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-mitigated-properties-v4
 category:
-  - Humanitarian & Disaster Relief 
   - Climate & Environment 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 42
     url: https://www.datalumos.org/datalumos/project/218521/version/V1/view
