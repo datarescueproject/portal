@@ -11,9 +11,9 @@ metadata_available: No
 metadata_url: 
 category:
   - Arts & Culture 
-  - Social Services 
-  - Education 
   - Science & Research 
+  - Education 
+  - Social Services 
 resources:
   - id: 99
     url: https://www.datalumos.org/datalumos/project/219155/version/V1/view
