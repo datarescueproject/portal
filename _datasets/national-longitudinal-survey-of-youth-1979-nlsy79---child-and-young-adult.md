@@ -10,8 +10,8 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - Labor & Employment 
+  - Business & Economy 
 resources:
   - id: 300
     url: https://www.dropbox.com/scl/fo/fqjdni0k8tvt2jq70b6ap/AHRb8pFrnO6p9dKBpKdXmhk?rlkey=8lmbhjmxwq4d38l0eyrss25oj&dl=0
