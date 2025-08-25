@@ -11,8 +11,8 @@ metadata_available: No
 metadata_url: 
 category:
   - Science & Research 
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 96
     url: https://www.datalumos.org/datalumos/project/218682/version/V2/view
