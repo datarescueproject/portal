@@ -11,11 +11,11 @@ metadata_available: No
 metadata_url: 
 category:
   - Business & Economy 
-  - Education 
   - Health & Healthcare 
+  - Education 
+  - Social Services 
   - Housing & Community Development 
   - Labor & Employment 
-  - Social Services 
 resources:
   - id: 323
     url: https://www.dropbox.com/scl/fo/axlk0xg1gvgrwpjs0rtw4/AObeIyAL3OLJn5-c-K-PiP0?rlkey=5yo9sbk7gl4ks0bk2hbuzct8d&dl=0
