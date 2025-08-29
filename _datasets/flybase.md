@@ -14,11 +14,11 @@ category:
   - Health & Healthcare 
 resources:
   - id: 1260
-    url: 
+    url: http://gofile.me/6YDWz/ezsiw8rOF
     format: 7z
-    status: In Progress
+    status: Finished
     size: 190.0
     download_date: 2025-02-28
     maintainer: ANON
-    notes: ftp release of Flybase as of february 2025; dataset review in progress
+    notes: ftp release of Flybase as of february 2025; size 190 GB decompressed
 ---
