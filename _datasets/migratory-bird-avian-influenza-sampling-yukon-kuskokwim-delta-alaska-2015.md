@@ -10,8 +10,8 @@ last_modified: 2025-04-29
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Climate & Environment 
+  - Science & Research 
   - Infrastructure 
 resources:
   - id: 909

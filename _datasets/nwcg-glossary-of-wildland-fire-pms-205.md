@@ -10,10 +10,10 @@ last_modified: 2025-03-30
 metadata_available: Yes
 metadata_url: 
 category:
-  - Humanitarian & Disaster Relief 
   - Agriculture 
   - Climate & Environment 
   - Infrastructure 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 621
     url: https://www.datalumos.org/datalumos/project/223503/version/V1/view
