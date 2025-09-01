@@ -3,7 +3,7 @@ schema: data_rescue_project
 title: Recalls and Unsafe Product Reports
 organization: Consumer Product Safety Commission
 agency: Consumer Product Safety Commission
-websites: https://www.saferproducts.gov/
+websites: www.saferproducts.gov
 data_source: https://www.saferproducts.gov/PublicSearch
 description: 
 last_modified: 2025-06-15

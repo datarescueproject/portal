@@ -3,7 +3,7 @@ schema: data_rescue_project
 title: A National Thermal Generator Performance Database
 organization: National Renewable Energy Laboratory
 agency: Department of Energy
-websites: https://data.nrel.gov/
+websites: data.nrel.gov
 data_source: https://data.nrel.gov/submissions/100
 description: 
 last_modified: 2025-06-15

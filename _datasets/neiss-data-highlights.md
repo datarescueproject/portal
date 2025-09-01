@@ -3,7 +3,7 @@ schema: data_rescue_project
 title: NEISS Data Highlights
 organization: Consumer Product Safety Commission
 agency: Consumer Product Safety Commission
-websites: https://www.cpsc.gov/
+websites: www.cpsc.gov/
 data_source: https://www.cpsc.gov/Research--Statistics/NEISS-Injury-Data
 description: 
 last_modified: 2025-05-26

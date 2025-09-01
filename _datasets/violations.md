@@ -3,7 +3,7 @@ schema: data_rescue_project
 title: Violations
 organization: Consumer Product Safety Commission
 agency: Consumer Product Safety Commission
-websites: https://www.cpsc.gov/
+websites: www.cpsc.gov/
 data_source: https://www.cpsc.gov/Recalls/violations
 description: 
 last_modified: 2025-06-15
