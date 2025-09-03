@@ -16,8 +16,8 @@ resources:
     url: https://zenodo.org/records/15061683
     format: CSV, PNG, ZIP
     status: Finished
-    size: 2.6
+    size: 13.1
     download_date: 2025-01-21
-    maintainer: PEDP, OEDP
+    maintainer: OEDP
     notes: Maintained by the Lawrence Berkeley National Laboratory in partnership with the US Department of Energy (DOE) Office of Economic Impact and Diversity, under the J40 initiative.
 ---

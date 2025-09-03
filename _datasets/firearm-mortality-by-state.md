@@ -14,10 +14,10 @@ category:
 resources:
   - id: 734
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/T7B1DG
-    format: CSV, PDF
+    format: PDF, tab
     status: Finished
     size: 0.002
     download_date: 2025-03-31
-    maintainer: PEDP, HD
+    maintainer: HD, CAFE-RCC
     notes: 
 ---

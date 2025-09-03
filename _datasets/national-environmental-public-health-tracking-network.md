@@ -5,8 +5,8 @@ organization: Centers for Disease Control and Prevention
 agency: Department of Health and Human Services
 websites: ephtracking.cdc.gov
 data_source: https://ephtracking.cdc.gov/
-description: 
-last_modified: 2025-03-26
+description: https://ephtracking.cdc.gov/DataExplorer/
+last_modified: 2025-09-02
 metadata_available: No
 metadata_url: 
 category:
@@ -19,5 +19,13 @@ resources:
     size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
+    notes: 
+  - id: 1267
+    url: 
+    format: 
+    status: In Progress
+    size: 300.0
+    download_date: 
+    maintainer: OEDP
     notes: 
 ---

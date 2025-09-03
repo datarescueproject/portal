@@ -16,8 +16,8 @@ resources:
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/U7WVNO
     format: XLSX, PDF
     status: Finished
-    size: 0.06
+    size: 0.056
     download_date: 2025-04-01
-    maintainer: PEDP, HD
+    maintainer: HD, CAFE-RCC
     notes: 
 ---

@@ -12,4 +12,12 @@ metadata_url:
 category:
   - Uncategorized 
 resources:
+  - id: 1273
+    url: https://www.arcgis.com/home/item.html?id=ee9ddbc95520442482cd511f9170663a
+    format: GIS
+    status: Finished
+    size: 
+    download_date: 2025-02-04
+    maintainer: ESRI
+    notes: 
 ---

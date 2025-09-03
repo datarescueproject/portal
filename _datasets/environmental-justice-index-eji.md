@@ -15,34 +15,34 @@ category:
 resources:
   - id: 53
     url: https://github.com/oedp/cdc-ej-index
-    format: CSV, Geodatabase
+    format: Git, ZIP
     status: Finished
     size: 0.0
     download_date: 2025-02-12
-    maintainer: PEDP, OEDP
+    maintainer: OEDP
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 54
     url: https://edgi-govdata-archiving.github.io/cdc_eji_county_level_reports/
-    format: CSV, Geodatabase
+    format: Webpage
     status: Finished
     size: 0.0
     download_date: 2025-02-12
-    maintainer: PEDP, EDGI
+    maintainer: EDGI
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 55
     url: https://zenodo.org/records/14675861
-    format: CSV, Geodatabase
+    format: CSV, ZIP, XLSX
     status: Finished
-    size: 24.8
+    size: 120.2
     download_date: 2025-02-12
-    maintainer: PEDP, EDGI
+    maintainer: EDGI
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 56
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/ZVKXVQ
-    format: CSV, Geodatabase
+    format: CSV, Geodatabase, XLSX, tab
     status: Finished
     size: 0.23
-    download_date: 2025-02-12
-    maintainer: PEDP, OEDP, HD
+    download_date: 2024-12-12
+    maintainer: OEDP, HD
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
 ---

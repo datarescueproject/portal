@@ -14,10 +14,10 @@ category:
 resources:
   - id: 733
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/NLIFTL
-    format: CSV, PDF
+    format: PDF
     status: Finished
     size: 0.004
     download_date: 2025-03-31
-    maintainer: PEDP, HD
+    maintainer: HD, CAFE-RCC
     notes: 
 ---

@@ -10,12 +10,12 @@ last_modified: 2025-02-12
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health & Healthcare 
-  - Housing & Community Development 
+  - Education 
   - Social Services 
   - Labor & Employment 
-  - Education 
   - Business & Economy 
+  - Health & Healthcare 
+  - Housing & Community Development 
 resources:
   - id: 64
     url: 
@@ -23,6 +23,6 @@ resources:
     status: In Progress
     size: 16.0
     download_date: 2025-02-12
-    maintainer: PEDP, OEDP
+    maintainer: OEDP
     notes: Local - OEDP; These files are accessible using the microdata access tool on data.census.gov and the Census Bureau's FTP site."
 ---
