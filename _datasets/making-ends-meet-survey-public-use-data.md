@@ -1,12 +1,12 @@
 ---
 schema: data_rescue_project 
-title: CFPB Making Ends Meet Survey Public Use Data
+title: Making Ends Meet Survey Public Use Data
 organization: Consumer Financial Protection Bureau
 agency: Consumer Financial Protection Bureau
 websites: consumerfinance.gov
 data_source: https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/public-data/
 description: 
-last_modified: 2025-09-04
+last_modified: 2025-09-05
 metadata_available: No
 metadata_url: 
 category:
