@@ -10,8 +10,8 @@ last_modified: 2025-03-05
 metadata_available: Yes
 metadata_url: https://biglocalnews.org/#/project/UHJvamVjdDo2ZDg5OTBiYy0xNjBkLTRjMzEtOTVkZC05M2JkMzFiNzIzN2E=
 category:
-  - Housing & Community Development 
   - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 350
     url: https://biglocalnews.org/#/project/UHJvamVjdDo2ZDg5OTBiYy0xNjBkLTRjMzEtOTVkZC05M2JkMzFiNzIzN2E=
