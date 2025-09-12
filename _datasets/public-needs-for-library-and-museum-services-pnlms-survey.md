@@ -10,9 +10,9 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Education 
   - Science & Research 
   - Arts & Culture 
+  - Education 
   - Social Services 
 resources:
   - id: 100

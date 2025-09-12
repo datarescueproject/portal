@@ -12,10 +12,10 @@ metadata_url:
 category:
   - Housing & Community Development 
   - Social Services 
-  - Education 
-  - Business & Economy 
   - Health & Healthcare 
+  - Business & Economy 
   - Labor & Employment 
+  - Education 
 resources:
   - id: 61
     url: https://livingatlas.arcgis.com/en/browse/?q=ACS%20by%20@esri_demographics#d=2&q=ACS+by+%40esri_demographics&type=layers
