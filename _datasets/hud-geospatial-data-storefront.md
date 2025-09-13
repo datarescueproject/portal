@@ -10,8 +10,8 @@ last_modified: 2025-06-05
 metadata_available: Yes
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 1081
     url: 

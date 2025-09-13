@@ -10,8 +10,8 @@ last_modified: 2025-04-23
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 800
     url: https://www.datalumos.org/datalumos/project/225661/version/V1/view
