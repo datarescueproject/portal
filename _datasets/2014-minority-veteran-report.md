@@ -10,8 +10,8 @@ last_modified: 2025-03-17
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 415
     url: https://www.datalumos.org/datalumos/project/222881/version/V1/view
