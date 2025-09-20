@@ -10,8 +10,8 @@ last_modified: 2025-03-10
 metadata_available: No
 metadata_url: 
 category:
-  - Humanitarian & Disaster Relief 
   - Military & Veterans Affairs 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 368
     url: https://www.datalumos.org/datalumos/project/221583/version/V1/view

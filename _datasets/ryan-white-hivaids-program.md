@@ -7,7 +7,7 @@ websites: data.hrsa.gov
 data_source: https://data.hrsa.gov/data/download
 description: 
 last_modified: 2025-04-19
-metadata_available: No
+metadata_available: Yes
 metadata_url: 
 category:
   - Health & Healthcare 
@@ -19,5 +19,13 @@ resources:
     size: 2.36
     download_date: 2025-04-17
     maintainer: DRP, DL
+    notes: 
+  - id: 1285
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/XCKYF0
+    format: XLSX, HTML, PDF, CSV
+    status: Finished
+    size: 0.003
+    download_date: 2025-04-30
+    maintainer: HD, CAFE-RCC
     notes: 
 ---
