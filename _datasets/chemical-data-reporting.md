@@ -7,7 +7,7 @@ websites: epa.gov
 data_source: https://www.epa.gov/chemical-data-reporting/access-chemical-data-reporting-data
 description: 
 last_modified: 2025-05-19
-metadata_available: No
+metadata_available: Yes
 metadata_url: 
 category:
   - Climate & Environment 
@@ -20,4 +20,12 @@ resources:
     download_date: 2025-05-15
     maintainer: DRP, SRC
     notes: Alternate torrent location https://academictorrents.com/details/54badf9e1df6b792f039d732455e78426933196a
+  - id: 1288
+    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/DGSBXU
+    format: mhtml, ZIP, PDF
+    status: Finished
+    size: 0.249
+    download_date: 2025-02-26
+    maintainer: HD, CAFE-RCC
+    notes: 
 ---

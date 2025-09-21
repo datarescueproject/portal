@@ -10,11 +10,11 @@ last_modified: 2025-03-02
 metadata_available: No
 metadata_url: 
 category:
-  - Justice & Public Safety 
-  - Labor & Employment 
   - State & Policy 
-  - Social Services 
+  - Labor & Employment 
   - Science & Research 
+  - Social Services 
+  - Justice & Public Safety 
   - Agriculture 
 resources:
   - id: 293

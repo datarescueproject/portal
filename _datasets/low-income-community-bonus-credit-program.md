@@ -10,8 +10,8 @@ last_modified: 2025-04-03
 metadata_available: Yes
 metadata_url: https://experience.arcgis.com/experience/12227d891a4d471497ac13f60fffd822
 category:
-  - Energy 
   - Climate & Environment 
+  - Energy 
 resources:
   - id: 68
     url: https://zenodo.org/records/15061838
