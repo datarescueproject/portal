@@ -17,7 +17,7 @@ resources:
     url: 
     format: Interactive Map, PDF
     status: In Progress
-    size: 
+    size: 0.0
     download_date: 
     maintainer: ESRI
     notes: Local - ESRI; Identify which building codes an area has adopted by hazard risk, PDF fact sheets by region

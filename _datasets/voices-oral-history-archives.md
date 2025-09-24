@@ -16,7 +16,7 @@ resources:
     url: https://tables.codeberg.page/voices.nmfs.noaa.gov/
     format: PDF, MP3, MP4, HTML
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-04-20
     maintainer: DRP
     notes: A functional interface allowing searching of the database, linking to archived copies of content on the WayBack Machine. A reduced version of the database was created by downloading and parsing the entire site. All necessary pages and files were archived on the WayBack Machine.

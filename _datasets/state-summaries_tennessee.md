@@ -16,7 +16,7 @@ resources:
     url: https://www.datalumos.org/datalumos/project/227673/version/V1/view
     format: CSV, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-05-29
     maintainer: DRP, DL
     notes: 

@@ -16,7 +16,7 @@ resources:
     url: https://www.datalumos.org/datalumos/workspace?goToPath=/datalumos/231314
     format: CSV, PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-06-29
     maintainer: DRP, DL
     notes: 

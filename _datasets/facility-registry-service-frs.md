@@ -16,7 +16,7 @@ resources:
     url: 
     format: 
     status: In Progress
-    size: 
+    size: 0.0
     download_date: 
     maintainer: ESRI
     notes: https://www.epa.gov/frs/frs-data-resources#Prepackaged%20Downloads

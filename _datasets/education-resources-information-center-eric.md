@@ -32,7 +32,7 @@ resources:
     url: https://erica.datarescueproject.org
     format: PDF, JSON, HTML
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-01
     maintainer: DRP
     notes: A functional search interface for all ERIC fulltext PDFs, linked to archived copies on the WayBack Machine. The interface uses a reduced version of the database, based on a full copy extracted via the ERIC API. The interface can be easily mirrored on any web server as it is client-side only. All PDFs were archived on the WayBack Machine.

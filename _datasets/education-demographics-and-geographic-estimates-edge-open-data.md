@@ -24,7 +24,7 @@ resources:
     url: 
     format: SHP
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-03-06
     maintainer: BTAA-GIN
     notes: locally archived; full geospatial metadata complete for 91 shapefiles

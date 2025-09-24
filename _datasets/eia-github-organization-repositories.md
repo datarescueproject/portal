@@ -16,7 +16,7 @@ resources:
     url: https://github.com/EIAgov-clone
     format: Git
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: PEDP, EDGI
     notes: 

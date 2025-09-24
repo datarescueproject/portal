@@ -10,8 +10,8 @@ last_modified: 2025-09-18
 metadata_available: Yes
 metadata_url: 
 category:
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
   - Science & Research 
 resources:
   - id: 310
@@ -26,7 +26,7 @@ resources:
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/AA28CJ
     format: HTML, PDF, TXT
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-06-01
     maintainer: HD, CAFE-RCC
     notes: 

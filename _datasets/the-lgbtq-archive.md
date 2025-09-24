@@ -15,7 +15,7 @@ resources:
     url: https://www.thelgbtqarchive.org/
     format: PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: LGBT
     notes: Large archive of LGBTQ+ related materials spanning many agencies. Mostly reports and fact-sheets (some data heavy).

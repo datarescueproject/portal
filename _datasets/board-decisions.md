@@ -16,7 +16,7 @@ resources:
     url: https://nlrbresearch.com/NLRB/NLRB_DB?_search=type%3A+%22Published+Board+Decision%22
     format: PDF
     status: Finished
-    size: 
+    size: 0.0
     download_date: 
     maintainer: NLRB-R
     notes: Captured as part of NLRB Research a free database a researcher made.

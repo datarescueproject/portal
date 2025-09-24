@@ -16,7 +16,7 @@ resources:
     url: https://www.arcgis.com/home/item.html?id=ee9ddbc95520442482cd511f9170663a
     format: GIS
     status: Finished
-    size: 
+    size: 0.0
     download_date: 2025-02-04
     maintainer: ESRI
     notes: 
