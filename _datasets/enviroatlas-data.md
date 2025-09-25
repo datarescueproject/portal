@@ -13,9 +13,9 @@ category:
   - Climate & Environment 
 resources:
   - id: 1030
-    url: https://sciop.net/datasets/epa-ord-enviroatlas-data
+    url: https://sciop.net/uploads/464095890fe5795496b9e20ba0d6b93f2c8f74bf
     format: TIFF, Shapefile, Geodatabase, CSV
-    status: Uploading
+    status: Finished
     size: 160.0
     download_date: 2025-05-14
     maintainer: DRP, SRC
