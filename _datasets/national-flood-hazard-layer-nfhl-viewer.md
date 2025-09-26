@@ -10,8 +10,8 @@ last_modified: 2025-03-23
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 209
     url: https://www.arcgis.com/apps/webappviewer/index.html?id=8b0adb51996444d4879338b5529aa9cd
