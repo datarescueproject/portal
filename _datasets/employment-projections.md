@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1021
+  - id: 1020
     url: https://www.datalumos.org/datalumos/project/227804/version/V1/view
     format: CSV, XLSX
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-04-24
     maintainer: DRP, DL
     notes: Employment projections 1
-  - id: 1022
+  - id: 1021
     url: https://www.datalumos.org/datalumos/project/227806/version/V1/view
     format: CSV, XLSX
     status: Finished
@@ -28,7 +28,7 @@ resources:
     download_date: 2025-04-24
     maintainer: DRP, DL
     notes: Employment projections 2
-  - id: 1023
+  - id: 1022
     url: https://www.datalumos.org/datalumos/project/227821/version/V1/view
     format: CSV, XLSX
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 522
+  - id: 521
     url: https://archive.org/details/fermi_gbm_burst
     format: FIT, RSP, PHA, GIF
     status: Finished

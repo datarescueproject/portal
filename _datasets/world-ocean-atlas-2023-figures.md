@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/data/oceans/woa/WOA23/DOCUMENTATION/WOA2
 category:
   - Climate & Environment 
 resources:
-  - id: 760
+  - id: 759
     url: https://archive.org/details/noaa-ncei-woa23-figures-2025-04-19
     format: PNG
     status: Finished

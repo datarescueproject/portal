@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=
 category:
   - Climate & Environment 
 resources:
-  - id: 624
+  - id: 623
     url: https://archive.org/details/hydrological-properties-2025-3-12
     format: nc
     status: In Progress

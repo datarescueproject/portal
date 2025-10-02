@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 594
+  - id: 593
     url: 
     format: ZIP, TSV
     status: In Progress

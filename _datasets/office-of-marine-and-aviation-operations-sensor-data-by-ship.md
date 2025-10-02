@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1282
+  - id: 1281
     url: https://sciop.net/datasets/noaa-ncei-omao-vessel-data
     format: RAW
     status: Finished

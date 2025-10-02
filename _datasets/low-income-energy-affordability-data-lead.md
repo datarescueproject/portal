@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 69
+  - id: 68
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/ZDV0KN
     format: PDF, CSV
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2024-12-18
     maintainer: PEDP, OEDP, HD
     notes: Fact Sheet https://www.energy.gov/sites/default/files/2024-07/lead-tool-factsheet_072624.pdf
-  - id: 70
+  - id: 69
     url: https://zenodo.org/records/14758685
     format: JSON, PDF, ZIP
     status: Finished

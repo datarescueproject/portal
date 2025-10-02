@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 354
+  - id: 353
     url: https://archive.org/details/amsu-a-brightness-temperature
     format: nc
     status: Finished

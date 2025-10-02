@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 329
+  - id: 328
     url: https://www.dropbox.com/scl/fo/2t0ehrteq62jqrj0slm3q/AHed9WK-9ydPJT1398w42zo?rlkey=pqb2fisu1rgjjc2badfyfq0nk&dl=0
     format: DTA, XLSX, do, MDB, dat, SPS, SAS
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 
-  - id: 1047
+  - id: 1046
     url: https://urban-data-catalog.s3.us-east-1.amazonaws.com/drupal-root-live/2025/03/31/health-policy/yrbss/data.zip
     format: ZIP
     status: Finished

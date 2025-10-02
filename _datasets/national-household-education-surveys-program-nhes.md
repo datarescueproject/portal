@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 15
+  - id: 14
     url: https://web.archive.org/web/20241214145413/https://nces.ed.gov/nhes/dataproducts.asp
     format: ZIP
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-02-06
     maintainer: DRP, WM
     notes: 
-  - id: 297
+  - id: 296
     url: https://www.dropbox.com/scl/fo/w549arop290vczzvvq4nd/APw9SJ4_X6s0sU8yo73A-QI?rlkey=7e8q1byu7wzszky8abf9vszne&dl=0
     format: ZIP, PDF, CSV
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1073
+  - id: 1072
     url: https://sciop.net/uploads/84315cd5876c68546cab11ba65b97553bc0d4543
     format: CSV, PDF, Shapefile, Geodatabase
     status: Uploading

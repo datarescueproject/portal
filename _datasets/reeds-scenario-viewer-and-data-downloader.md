@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
   - Energy 
 resources:
-  - id: 242
+  - id: 241
     url: https://zenodo.org/records/14783185
     format: ZIP
     status: Finished

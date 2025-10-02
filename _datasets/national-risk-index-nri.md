@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
   - Humanitarian & Disaster Relief 
 resources:
-  - id: 18
+  - id: 17
     url: https://www.datalumos.org/datalumos/project/218382/version/V1/view
     format: ZIP
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-02-07
     maintainer: DRP, DL
     notes: 
-  - id: 210
+  - id: 209
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/JSQ8KZ
     format: Geodatabase, Shapefile, CSV
     status: Finished

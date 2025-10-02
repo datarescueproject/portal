@@ -13,7 +13,7 @@ category:
   - Military & Veterans Affairs 
   - Science & Research 
 resources:
-  - id: 828
+  - id: 827
     url: https://www.datalumos.org/datalumos/project/226424/version/V1/view
     format: CSV
     status: Finished

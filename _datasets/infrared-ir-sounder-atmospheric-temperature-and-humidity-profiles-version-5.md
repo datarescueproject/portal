@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=
 category:
   - Climate & Environment 
 resources:
-  - id: 593
+  - id: 592
     url: https://archive.org/details/irs-temperature-and-humidity_1
     format: nc
     status: Finished

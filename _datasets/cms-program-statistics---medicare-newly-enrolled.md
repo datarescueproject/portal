@@ -13,11 +13,11 @@ category:
   - Health & Healthcare 
   - Social Services 
 resources:
-  - id: 1294
+  - id: 1293
     url: https://www.datalumos.org/datalumos/project/238228/version/V1/view
     format: XLSX, PDF
-    status: In Progress
-    size: 
+    status: Finished
+    size: 0.002
     download_date: 2025-09-22
     maintainer: DRP, DL
     notes: 

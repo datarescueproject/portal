@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Finance & Budget 
 resources:
-  - id: 351
+  - id: 350
     url: https://biglocalnews.org/#/project/UHJvamVjdDpjZjgyZTRkYS0xNTQ4LTQ4NGUtOTk2MC1mNzk4ZTg4NmY5ODM=
     format: JSON
     status: Finished

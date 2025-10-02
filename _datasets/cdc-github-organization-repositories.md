@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 52
+  - id: 51
     url: https://github.com/CDCgov-clone
     format: Git
     status: Finished

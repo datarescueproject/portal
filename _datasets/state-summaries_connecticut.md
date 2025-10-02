@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Military & Veterans Affairs 
 resources:
-  - id: 940
+  - id: 939
     url: https://www.datalumos.org/datalumos/project/228163/version/V1/view
     format: CSV, PDF
     status: Finished

@@ -12,7 +12,7 @@ metadata_url: https://icoads.noaa.gov/
 category:
   - Climate & Environment 
 resources:
-  - id: 703
+  - id: 702
     url: https://sciop.net/uploads/5acf89c8ead6fee0d3567da636ce2357cd4dc135
     format: dat, nc
     status: Uploading

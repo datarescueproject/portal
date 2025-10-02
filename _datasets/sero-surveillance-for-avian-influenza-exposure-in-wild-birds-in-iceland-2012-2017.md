@@ -10,11 +10,11 @@ last_modified: 2025-05-01
 metadata_available: Yes
 metadata_url: https://www.sciencebase.gov/catalog/item/662fb3e5d34ea70bd5f26088
 category:
-  - Infrastructure 
   - Climate & Environment 
   - Science & Research 
+  - Infrastructure 
 resources:
-  - id: 910
+  - id: 909
     url: https://www.datalumos.org/datalumos/project/228048/version/V1/view
     format: ZIP
     status: Finished

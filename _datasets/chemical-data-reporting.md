@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1037
+  - id: 1036
     url: https://sciop.net/uploads/54badf9e1df6b792f039d732455e78426933196a
     format: MDB, DBF, PDF
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-05-15
     maintainer: DRP, SRC
     notes: Alternate torrent location https://academictorrents.com/details/54badf9e1df6b792f039d732455e78426933196a
-  - id: 1288
+  - id: 1287
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/DGSBXU
     format: mhtml, ZIP, PDF
     status: Finished

@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/go
 category:
   - Climate & Environment 
 resources:
-  - id: 605
+  - id: 604
     url: https://sciop.net/uploads/d4f39bcbef17400329f4e14304df3ef451bea890
     format: nc
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Housing & Community Development 
 resources:
-  - id: 149
+  - id: 148
     url: https://www.datalumos.org/datalumos/project/219341/version/V1/view
     format: CSV, GeoJSON, GPKG, TXT, kmz, ZIP
     status: Finished

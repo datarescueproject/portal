@@ -12,7 +12,7 @@ metadata_url:
 category:
   - National Security & Defense 
 resources:
-  - id: 1060
+  - id: 1059
     url: https://www.datalumos.org/datalumos/project/230861/version/V1/view
     format: PDF
     status: Finished

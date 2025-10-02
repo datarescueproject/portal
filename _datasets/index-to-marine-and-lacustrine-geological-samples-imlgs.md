@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 925
+  - id: 924
     url: https://www.arcgis.com/apps/mapviewer/index.html?webmap=860330143ea34d8f9f47127d939161b7
     format: GIS
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-04-24
     maintainer: ANON
     notes: The map was decommissioned on May 5 as part of a variety of decommissioned maps listed by NOAA.
-  - id: 1076
+  - id: 1075
     url: https://purl.stanford.edu/kb879ww0098
     format: CSV
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 901
+  - id: 900
     url: https://sciop.net/uploads/9840fa77d032a3821180f7f1726df02431e37e53
     format: nc, XML
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-04-24
     maintainer: DRP, SRC
     notes: Torrent upload in progress. Alternate torrent location https://academictorrents.com/details/9840fa77d032a3821180f7f1726df02431e37e53
-  - id: 923
+  - id: 922
     url: https://doi.org/10.22002/cv2qh-hqe26
     format: nc, XML
     status: Finished

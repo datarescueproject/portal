@@ -12,7 +12,7 @@ metadata_url: https://github.com/Howard-Center-Investigations/FARA_Archive
 category:
   - Justice & Public Safety 
 resources:
-  - id: 779
+  - id: 778
     url: https://www.documentcloud.org/projects/221099-fara-storage-public/
     format: CSV, PDF
     status: Finished

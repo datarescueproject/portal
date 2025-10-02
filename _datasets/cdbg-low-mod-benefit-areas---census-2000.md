@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Housing & Community Development 
 resources:
-  - id: 503
+  - id: 502
     url: https://www.datalumos.org/datalumos/project/220601/version/V1/view
     format: PDF, XLS, XLSX
     status: Finished

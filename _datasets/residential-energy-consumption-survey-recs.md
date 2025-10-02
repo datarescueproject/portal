@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 186
+  - id: 185
     url: https://doi.org/10.5281/zenodo.14783267
     format: XLSX
     status: Finished

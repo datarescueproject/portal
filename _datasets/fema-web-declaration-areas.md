@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
   - Humanitarian & Disaster Relief 
 resources:
-  - id: 28
+  - id: 27
     url: https://www.datalumos.org/datalumos/project/218462/version/V1/view
     format: ZIP
     status: Finished

@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/data/coop-hourly-precipitation/v2/doc/CH
 category:
   - Climate & Environment 
 resources:
-  - id: 612
+  - id: 611
     url: https://archive.org/details/coop-hourly-precipitation
     format: ZIP, CSV
     status: Finished

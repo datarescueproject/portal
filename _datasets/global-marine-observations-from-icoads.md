@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/go
 category:
   - Climate & Environment 
 resources:
-  - id: 783
+  - id: 782
     url: https://archive.org/details/noaa-ncei-global-marine-from-icoads-2025-04-22
     format: TAR, CSV
     status: Finished

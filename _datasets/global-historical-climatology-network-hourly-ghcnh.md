@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 600
+  - id: 599
     url: https://archive.org/details/ghcnh_2025-02-28
     format: plain text
     status: Finished

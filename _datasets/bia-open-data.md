@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Social Services 
 resources:
-  - id: 784
+  - id: 783
     url: https://www.datalumos.org/datalumos/project/227423/version/V2/view
     format: CSV, Shapefile, Geodatabase, XLSX, TXT
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-04-23
     maintainer: DRP, DL
     notes: All documents and datasets from the portal, does not include mapping applications directly as the underlying GIS data is included.
-  - id: 797
+  - id: 796
     url: https://www.datalumos.org/datalumos/project/227423/version/V2/view
     format: ZIP
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 768
+  - id: 767
     url: https://doi.org/10.22002/421cf-rah98
     format: PDF, XLSX
     status: Finished

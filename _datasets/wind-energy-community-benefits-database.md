@@ -12,7 +12,7 @@ metadata_url: https://windexchange.energy.gov/community-benefits-guide#form
 category:
   - Energy 
 resources:
-  - id: 72
+  - id: 71
     url: https://github.com/oedp/doe-wind-exchange
     format: CSV, Git
     status: Finished

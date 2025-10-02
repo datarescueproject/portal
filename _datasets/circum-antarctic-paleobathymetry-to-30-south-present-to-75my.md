@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/products/circum-antarctic-paleobathymetr
 category:
   - Climate & Environment 
 resources:
-  - id: 899
+  - id: 898
     url: https://sciop.net/uploads/2add0421e5c67ff0caccedb8a4b45842acf5cc51
     format: TIFF, PNG, GIF, MOV, MP4, PDF, ASC
     status: Finished

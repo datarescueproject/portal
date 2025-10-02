@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
   - Energy 
 resources:
-  - id: 237
+  - id: 236
     url: https://zenodo.org/records/14784563
     format: Parquet, XLSX, JSON
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Agriculture 
 resources:
-  - id: 777
+  - id: 776
     url: https://www.datalumos.org/datalumos/project/226931/version/V1/view
     format: JSON, CSV
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-04-03
     maintainer: DL
     notes: 
-  - id: 798
+  - id: 797
     url: https://www.datalumos.org/datalumos/project/226931/version/V1/view
     format: JSON, PNG, CSV, plain text
     status: Finished
