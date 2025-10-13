@@ -1,0 +1,24 @@
+---
+schema: data_rescue_project 
+title: Commercial Aviation - Involuntary Denied Boarding
+organization: Bureau of Transportation Statistics
+agency: Department of Transportation
+websites: data.bts.gov
+data_source: https://data.bts.gov/Aviation/Commercial-Aviation-Involuntary-Denied-Boarding/xyfb-hgtv/about_data
+description: 
+last_modified: 2025-10-11
+metadata_available: No
+metadata_url: 
+category:
+  - Transportation 
+  - Science & Research 
+resources:
+  - id: 1326
+    url: https://www.datalumos.org/datalumos/project/238407/version/V1/view
+    format: CSV, PDF
+    status: Finished
+    size: 0.0003
+    download_date: 2025-09-18
+    maintainer: DRP, DL
+    notes: 
+---
