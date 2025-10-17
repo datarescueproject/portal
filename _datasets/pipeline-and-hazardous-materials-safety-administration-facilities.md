@@ -10,8 +10,8 @@ last_modified: 2025-02-12
 metadata_available: No
 metadata_url: 
 category:
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 73
     url: https://doi.org/10.5281/zenodo.7683351
