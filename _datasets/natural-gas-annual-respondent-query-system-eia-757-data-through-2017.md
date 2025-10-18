@@ -12,7 +12,7 @@ metadata_url: https://www.eia.gov/naturalgas/ngqs/ngqs_user_guide.pdf
 category:
   - Energy 
 resources:
-  - id: 184
+  - id: 182
     url: https://zenodo.org/records/10635277
     format: XLSX, JSON
     status: Finished

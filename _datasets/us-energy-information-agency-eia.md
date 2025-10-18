@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 1068
+  - id: 1063
     url: https://sciop.net/datasets/eia
     format: ZIP
     status: Finished

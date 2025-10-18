@@ -13,7 +13,7 @@ category:
   - Science & Research 
   - Agriculture 
 resources:
-  - id: 737
+  - id: 735
     url: https://sciop.net/datasets/usfs-rds-archive
     format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GBD, MDB, SQLite, PDF, PNG, MP3, MP4
     status: Finished

@@ -10,10 +10,10 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Energy 
+  - Climate & Environment 
 resources:
-  - id: 329
+  - id: 327
     url: https://data.openei.org/submissions/5987
     format: HDF5
     status: Finished

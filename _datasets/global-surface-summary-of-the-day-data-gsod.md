@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 520
+  - id: 518
     url: https://archive.org/details/global-surface-summary-day
     format: CSV, TAR
     status: Finished

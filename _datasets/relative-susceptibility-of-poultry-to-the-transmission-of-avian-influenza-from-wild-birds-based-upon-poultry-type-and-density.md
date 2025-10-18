@@ -14,7 +14,7 @@ category:
   - Climate & Environment 
   - Infrastructure 
 resources:
-  - id: 1092
+  - id: 1087
     url: https://www.datalumos.org/datalumos/project/227223/version/V1/view
     format: TIFF, XML
     status: Finished

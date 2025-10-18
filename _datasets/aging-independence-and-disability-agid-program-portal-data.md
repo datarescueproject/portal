@@ -13,7 +13,7 @@ category:
   - Social Services 
   - Health & Healthcare 
 resources:
-  - id: 1047
+  - id: 1042
     url: https://urban-data-catalog.s3.us-east-1.amazonaws.com/drupal-root-live/2025/03/28/race-and-equity/agid/data.zip
     format: ZIP
     status: Finished

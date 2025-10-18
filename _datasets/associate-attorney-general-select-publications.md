@@ -12,7 +12,7 @@ metadata_url: https://datacatalog.urban.org/dataset/us-department-justice-associ
 category:
   - Justice & Public Safety 
 resources:
-  - id: 1044
+  - id: 1039
     url: https://urban-data-catalog.s3.us-east-1.amazonaws.com/drupal-root-live/2025/03/28/justice-and-safety/doj-associate-attorney-general-publications/data.zip
     format: ZIP
     status: Finished

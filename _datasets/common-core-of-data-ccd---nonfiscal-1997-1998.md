@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 256
+  - id: 254
     url: https://www.dropbox.com/scl/fo/gu6dd1wz97ughirdwtq6h/AKKs7AaS8TdrzeczgoC4iuw?rlkey=0a3rbjry29p07cmx0h78i5hwo&dl=0
     format: PDF, ZIP, TXT
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 206
+  - id: 204
     url: https://github.com/oedp/epa-webfire
     format: CSV, Git
     status: Finished

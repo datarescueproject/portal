@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 763
+  - id: 761
     url: https://doi.org/10.3886/E226825V1
     format: CSV, TXT
     status: Finished

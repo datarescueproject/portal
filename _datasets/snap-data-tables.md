@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Agriculture 
 resources:
-  - id: 175
+  - id: 173
     url: https://doi.org/10.7910/DVN/AMUKJ0
     format: CSV, TSV, RData
     status: Finished

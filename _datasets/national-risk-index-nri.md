@@ -10,8 +10,8 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 17
     url: https://www.datalumos.org/datalumos/project/218382/version/V1/view
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-02-07
     maintainer: DRP, DL
     notes: 
-  - id: 209
+  - id: 207
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/JSQ8KZ
     format: Geodatabase, Shapefile, CSV
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 64
+  - id: 63
     url: https://github.com/oedp/doe-ira-energy-comm-data
     format: Git
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-02-12
     maintainer: PEDP, OEDP
     notes: Appears to be easy access to data and coding
-  - id: 65
+  - id: 64
     url: https://zenodo.org/records/14757122
     format: JSON, ZIP
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1260
+  - id: 1255
     url: https://sciop.net/datasets/epa-iris-comptox-warc-wacz
     format: WACZ, WARC
     status: Uploading

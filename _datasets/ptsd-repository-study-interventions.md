@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Military & Veterans Affairs 
 resources:
-  - id: 712
+  - id: 710
     url: https://www.openicpsr.org/openicpsr/project/221442/version/V1/view
     format: CSV
     status: Finished

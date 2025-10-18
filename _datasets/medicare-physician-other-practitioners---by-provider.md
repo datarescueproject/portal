@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 1005
+  - id: 1000
     url: https://www.datalumos.org/datalumos/project/227664/version/V1/view
     format: CSV, XLSX, PDF
     status: Finished

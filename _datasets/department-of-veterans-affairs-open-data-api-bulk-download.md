@@ -13,7 +13,7 @@ category:
   - Science & Research 
   - Military & Veterans Affairs 
 resources:
-  - id: 1082
+  - id: 1077
     url: https://sciop.net/datasets/us-va-open-data-bulk-download
     format: ZIP, XLSX, CSV, PDF
     status: Uploading

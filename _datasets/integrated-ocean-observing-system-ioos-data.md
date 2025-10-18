@@ -12,7 +12,7 @@ metadata_url: https://ioos.noaa.gov/
 category:
   - Climate & Environment 
 resources:
-  - id: 727
+  - id: 725
     url: https://sciop.net/uploads/25026815b9a57fd843e0e475cab251424e0bd41c
     format: nc
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 82
+  - id: 81
     url: https://www.datalumos.org/datalumos/project/218981/version/V1/view
     format: CSV, XLSX, SAS, SPS, do
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-02-10
     maintainer: DL
     notes: Supplemental data, including the reproducible script (R) used for data scraping, is available.
-  - id: 518
+  - id: 516
     url: https://zenodo.org/records/15028111
     format: ZIP, CSV, SPSS
     status: Finished

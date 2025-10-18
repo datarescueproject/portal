@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1077
+  - id: 1072
     url: https://purl.stanford.edu/sc616qw6024
     format: SHP, ZIP, HTML
     status: Finished

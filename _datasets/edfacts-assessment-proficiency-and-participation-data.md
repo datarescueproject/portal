@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 760
+  - id: 758
     url: https://www.zelma.ai/edfacts
     format: CSV
     status: Finished

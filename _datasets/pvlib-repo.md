@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 613
+  - id: 611
     url: https://github.com/pvlib
     format: Git
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1013
+  - id: 1008
     url: https://nlrbresearch.com/NLRB/NLRB_DB?_search=type%3A+%22regional+election+decision%22
     format: PDF
     status: Finished

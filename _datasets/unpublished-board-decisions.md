@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1015
+  - id: 1010
     url: https://nlrbresearch.com/NLRB/NLRB_DB?_search=type%253A+%22Unpublished+Board+Decision%22
     format: PDF
     status: Finished

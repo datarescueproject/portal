@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Business & Economy 
 resources:
-  - id: 307
+  - id: 305
     url: https://www.dropbox.com/scl/fo/uln0o0s5abhc6eimaythy/APMfrwigwB6Om5RlmWvUIBc?rlkey=mj3khovna9gupwnxy6wpgtdr2&dl=0
     format: ZIP, DOCX, PDF, CSV
     status: Finished

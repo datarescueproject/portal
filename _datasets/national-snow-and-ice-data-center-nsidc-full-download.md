@@ -12,7 +12,7 @@ metadata_url: https://nsidc.org/data
 category:
   - Climate & Environment 
 resources:
-  - id: 1028
+  - id: 1023
     url: https://sciop.net/datasets/noaa-nsidc-cires-full-data
     format: JPEG, XLSX, CSV, PDF, Shapefile, Geodatabase, NDC, dat, DAN, nc
     status: Uploading

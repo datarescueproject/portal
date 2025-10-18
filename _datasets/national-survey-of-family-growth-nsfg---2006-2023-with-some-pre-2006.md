@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 306
+  - id: 304
     url: https://www.dropbox.com/scl/fo/f15r2imeg6pcny6re497z/AGFcJo7O3k2BCDWmtR_L7iU/National%20Survey%20of%20Family%20Growth?rlkey=ey7kaoodi540d66s6kfvnqjn5&subfolder_nav_tracking=1&st=s2kjq7rx&dl=0
     format: dat, DTA, do, PDF, TXT, CSV
     status: Finished

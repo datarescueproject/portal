@@ -14,7 +14,7 @@ category:
   - Agriculture 
   - Communications 
 resources:
-  - id: 72
+  - id: 71
     url: https://github.com/DOI-DO-clone
     format: Git
     status: Finished

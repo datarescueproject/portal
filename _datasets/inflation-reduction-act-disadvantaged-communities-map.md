@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 199
+  - id: 197
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/FMKBXS
     format: Shapefile, ZIP, PDF, HTML
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-01-27
     maintainer: HD, CAFE-RCC
     notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https://gaftp.epa.gov/EPA_IRA_Public/
-  - id: 200
+  - id: 198
     url: https://zenodo.org/records/14833639
     format: Shapefile, ZIP, PDF
     status: Finished

@@ -12,20 +12,12 @@ metadata_url:
 category:
   - Agriculture 
 resources:
-  - id: 777
+  - id: 774
     url: https://www.datalumos.org/datalumos/project/226961/version/V1/view
     format: CSV, TXT, PDF
     status: Finished
     size: 0.001
     download_date: 2025-04-03
-    maintainer: DL
-    notes: 
-  - id: 798
-    url: https://www.datalumos.org/datalumos/project/226961/version/V1/view
-    format: plain text, ZIP
-    status: Finished
-    size: 0.001
-    download_date: 2025-03-04
     maintainer: DRP, DL
     notes: 
 ---

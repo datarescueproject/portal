@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 1242
+  - id: 1237
     url: https://www.datalumos.org/datalumos/project/235351/version/V1/view
     format: CSV, XLS, HTML, PDF
     status: Finished

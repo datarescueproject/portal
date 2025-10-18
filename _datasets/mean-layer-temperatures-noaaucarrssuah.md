@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/mean-layer
 category:
   - Climate & Environment 
 resources:
-  - id: 893
+  - id: 888
     url: https://sciop.net/uploads/da8a24f2
     format: nc
     status: Finished

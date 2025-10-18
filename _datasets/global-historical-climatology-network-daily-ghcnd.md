@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/products/land-based-station/global-histo
 category:
   - Climate & Environment 
 resources:
-  - id: 603
+  - id: 601
     url: https://sciop.net/uploads/db8f36fcce4134d2f7891c6d4347c1989f215bae
     format: CSV
     status: Finished

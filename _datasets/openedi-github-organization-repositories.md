@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 70
+  - id: 69
     url: https://github.com/openEDI-clone
     format: Git
     status: Finished

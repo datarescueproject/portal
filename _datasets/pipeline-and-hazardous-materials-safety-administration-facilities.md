@@ -13,7 +13,7 @@ category:
   - Science & Research 
   - Infrastructure 
 resources:
-  - id: 73
+  - id: 72
     url: https://doi.org/10.5281/zenodo.7683351
     format: XLSX, CSV
     status: Finished

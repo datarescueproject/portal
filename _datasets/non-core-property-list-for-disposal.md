@@ -13,7 +13,7 @@ category:
   - Business & Economy 
   - State & Policy 
 resources:
-  - id: 351
+  - id: 349
     url: https://biglocalnews.org/#/project/UHJvamVjdDpmMmNiODgyNy05ZWQ2LTQzM2UtYjI4Zi00MDQ4NzQxZTI2M2I=
     format: HTML, CSV
     status: Finished

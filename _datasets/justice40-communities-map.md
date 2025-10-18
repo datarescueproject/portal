@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Uncategorized 
 resources:
-  - id: 1272
+  - id: 1267
     url: https://www.arcgis.com/home/item.html?id=ee9ddbc95520442482cd511f9170663a
     format: GIS
     status: Finished

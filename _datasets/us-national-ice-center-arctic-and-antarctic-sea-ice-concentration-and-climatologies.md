@@ -12,7 +12,7 @@ metadata_url: https://nsidc.org/data/g10033/versions/1
 category:
   - Climate & Environment 
 resources:
-  - id: 868
+  - id: 863
     url: https://archive.org/details/noaa-nsidc-g10033_202504
     format: nc
     status: Finished

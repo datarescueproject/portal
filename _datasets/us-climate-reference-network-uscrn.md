@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/access/crn/
 category:
   - Climate & Environment 
 resources:
-  - id: 602
+  - id: 600
     url: https://sciop.net/uploads/362f3e47404d04b589a376b39ab7ee65b19b873d
     format: CSV, TXT
     status: Finished

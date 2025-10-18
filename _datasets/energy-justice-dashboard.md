@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 179
+  - id: 177
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/MWAKOZ
     format: XLSX
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-03-02
     maintainer: HD, SICS
     notes: Downloadable data. The data describes both active and completed contracts with US primary places of performance that were awarded as early as FY19. This data is subject to change and is for general informational purposes only.
-  - id: 180
+  - id: 178
     url: https://zenodo.org/records/14774726
     format: XLSX
     status: Finished

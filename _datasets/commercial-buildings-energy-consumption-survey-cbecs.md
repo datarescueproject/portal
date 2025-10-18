@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 75
+  - id: 74
     url: https://zenodo.org/records/14782474
     format: XLSX, JSON, ZIP
     status: Finished

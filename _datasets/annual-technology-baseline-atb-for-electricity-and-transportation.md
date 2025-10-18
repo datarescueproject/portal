@@ -10,10 +10,10 @@ last_modified: 2025-03-23
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Energy 
+  - Climate & Environment 
 resources:
-  - id: 236
+  - id: 234
     url: https://zenodo.org/records/14784563
     format: Parquet, XLSX, JSON
     status: Finished

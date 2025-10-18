@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 214
+  - id: 212
     url: https://hub.arcgis.com/maps/26e71d14067c4b3f8dd31d1a4e008cfb/about
     format: 
     status: Finished

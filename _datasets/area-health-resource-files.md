@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 81
+  - id: 80
     url: https://www.datalumos.org/datalumos/project/219145
     format: SAS, ASC, DPC, XLSX
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-02-12
     maintainer: PU
     notes: 1979, 1998-2000, 2005, 2008, 2012-2023) Site is down. This is data I had downloaded previously.
-  - id: 738
+  - id: 736
     url: https://www.datalumos.org/datalumos/project/227006/version/V1/view
     format: ZIP
     status: Finished

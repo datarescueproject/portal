@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 929
+  - id: 924
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/PNWDRB
     format: TIFF, GPKG, PDF
     status: Finished

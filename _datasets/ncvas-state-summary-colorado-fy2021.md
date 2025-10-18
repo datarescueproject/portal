@@ -13,7 +13,7 @@ category:
   - Science & Research 
   - Military & Veterans Affairs 
 resources:
-  - id: 1231
+  - id: 1226
     url: https://www.datalumos.org/datalumos/project/235346/version/V1/view
     format: CSV, PDF
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-07-07
     maintainer: DRP, DL
     notes: 
-  - id: 1362
+  - id: 1357
     url: https://www.datalumos.org/datalumos/project/238614/version/V1/view
     format: CSV, PDF
     status: Finished

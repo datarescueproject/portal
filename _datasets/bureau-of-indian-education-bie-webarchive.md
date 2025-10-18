@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Social Services 
 resources:
-  - id: 781
+  - id: 778
     url: https://archive.org/details/doi-bie-2025-04-21
     format: WACZ
     status: Finished
