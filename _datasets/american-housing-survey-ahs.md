@@ -11,11 +11,11 @@ metadata_available: No
 metadata_url: 
 category:
   - Social Services 
-  - Housing & Community Development 
-  - Health & Healthcare 
   - Business & Economy 
-  - Labor & Employment 
+  - Health & Healthcare 
+  - Housing & Community Development 
   - Education 
+  - Labor & Employment 
 resources:
   - id: 110
     url: https://www.datalumos.org/datalumos/project/218583/version/V1/view

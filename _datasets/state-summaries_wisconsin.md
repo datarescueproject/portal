@@ -15,9 +15,9 @@ resources:
   - id: 1130
     url: https://www.datalumos.org/datalumos/workspace?goToPath=/datalumos/231314
     format: CSV, PDF
-    status: Finished
+    status: Error
     size: 0.0
     download_date: 2025-06-29
     maintainer: DRP, DL
-    notes: 
+    notes: missing files; https://www.datalumos.org/datalumos/project/231314/version/V1/view
 ---

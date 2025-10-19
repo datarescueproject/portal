@@ -13,7 +13,7 @@ category:
   - Health & Healthcare 
 resources:
   - id: 1002
-    url: https://www.datalumos.org/datalumos/project/227659/version/V2/view
+    url: https://www.datalumos.org/datalumos/project/227661/view
     format: ZIP, PDF
     status: Finished
     size: 0.0

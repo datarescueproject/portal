@@ -18,6 +18,6 @@ resources:
     status: Uploading
     size: 30.0
     download_date: 2025-05-26
-    maintainer: DRP, DL
+    maintainer: DRP
     notes: Alternate torrent location https://academictorrents.com/details/3f4dc4c18816475ec608589c5141372576a80898
 ---
