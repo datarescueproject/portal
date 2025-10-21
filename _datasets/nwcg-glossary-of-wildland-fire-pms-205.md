@@ -10,9 +10,9 @@ last_modified: 2025-03-30
 metadata_available: Yes
 metadata_url: 
 category:
-  - Infrastructure 
-  - Humanitarian & Disaster Relief 
   - Climate & Environment 
+  - Humanitarian & Disaster Relief 
+  - Infrastructure 
   - Agriculture 
 resources:
   - id: 618
