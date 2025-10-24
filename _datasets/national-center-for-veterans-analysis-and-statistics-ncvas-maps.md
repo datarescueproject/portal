@@ -1,12 +1,12 @@
 ---
 schema: data_rescue_project 
-title: NCVAS Maps
+title: National Center for Veterans Analysis and Statistics (NCVAS) Maps
 organization: Department of Veterans Affairs
 agency: Department of Veterans Affairs
 websites: va.gov
 data_source: https://www.va.gov/vetdata/Maps.asp
 description: 
-last_modified: 2025-04-09
+last_modified: 2025-10-22
 metadata_available: No
 metadata_url: 
 category:
