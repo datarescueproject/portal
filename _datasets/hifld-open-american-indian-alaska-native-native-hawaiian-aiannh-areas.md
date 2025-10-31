@@ -17,7 +17,7 @@ resources:
     format: GeoJSON, Shapefile, XML, ZIP
     status: Finished
     size: 
-    download_date: 
+    download_date: 2025-08-26
     maintainer: DRP, DL
-    notes: 
+    notes: Archived from the HIFLD Open GIS data repository, which was deactivated on August 26, 2025.
 ---
