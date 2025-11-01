@@ -13,11 +13,11 @@ category:
   - Climate & Environment 
 resources:
   - id: 201
-    url: https://zenodo.org/records/15037755
+    url: https://zenodo.org/records/17018013
     format: JSON, ZIP
     status: Finished
-    size: 25.3
-    download_date: 2025-04-01
+    size: 14.1
+    download_date: 2025-09-01
     maintainer: CaCo
     notes: 
 ---
