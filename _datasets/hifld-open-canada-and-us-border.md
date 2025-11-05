@@ -6,11 +6,11 @@ agency: Department of Homeland Security
 websites: https://hifld-geoplatform.hub.arcgis.com/
 data_source: https://hifld-geoplatform.hub.arcgis.com
 description: 
-last_modified: 2025-10-27
+last_modified: 2025-11-03
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized 
+  - Infrastructure 
 resources:
   - id: 1410
     url: https://www.datalumos.org/datalumos/project/238829/view

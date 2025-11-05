@@ -6,10 +6,11 @@ agency: U.S. Agency for International Development
 websites: data.usaid.gov
 data_source: data.usaid.gov
 description: 
-last_modified: 2025-10-29
+last_modified: 2025-11-03
 metadata_available: No
 metadata_url: 
 category:
+  - Education 
   - Humanitarian & Disaster Relief 
 resources:
   - id: 1440
