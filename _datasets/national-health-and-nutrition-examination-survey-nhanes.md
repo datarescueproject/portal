@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Health and Nutrition Examination Survey (NHANES)
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://wwwn.cdc.gov/nchs/nhanes/default.aspx

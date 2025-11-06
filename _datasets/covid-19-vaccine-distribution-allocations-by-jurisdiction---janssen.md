@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: COVID-19 Vaccine Distribution Allocations by Jurisdiction - Janssen
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/w9zu-fywh/about_data

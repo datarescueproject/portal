@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Weekly Hospital Respiratory Data (HRD) Metrics by Jurisdiction, National Healthcare Safety Network (NHSN) (Preliminary)
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Weekly-Hospital-Respiratory-Data-HRD-Metrics-by-Ju/mpgq-jmmr/about_data

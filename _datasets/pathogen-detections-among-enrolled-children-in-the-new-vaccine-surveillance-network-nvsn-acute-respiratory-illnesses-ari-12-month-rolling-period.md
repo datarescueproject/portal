@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Pathogen Detections Among Enrolled Children in the New Vaccine Surveillance Network (NVSN), Acute Respiratory Illnesses (ARI), 12 Month Rolling Period
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Pathogen-Detections-Among-Enrolled-Children-in-the/r229-z6ma/about_data

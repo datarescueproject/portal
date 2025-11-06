@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Efficacy of Portable Air Cleaners and Masking for Reducing Indoor Exposure to Simulated Exhaled SARS-CoV-2 Aerosols — United States, 2021
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Efficacy-of-Portable-Air-Cleaners-and-Masking-for-/wtvk-6zfr/about_data

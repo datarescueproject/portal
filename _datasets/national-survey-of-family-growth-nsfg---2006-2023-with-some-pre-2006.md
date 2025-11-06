@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Survey of Family Growth (NSFG) - 2006-2023 (with some pre 2006)
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/index.html

@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Prevalence of Pneumoconiosis and its Relationship to Dust Exposure in a Cohort of U.S. Bituminous Coal Miners and ex-Miners
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Prevalence-of-Pneumoconiosis-and-its-Relationship-/rv55-x8ff/about_data

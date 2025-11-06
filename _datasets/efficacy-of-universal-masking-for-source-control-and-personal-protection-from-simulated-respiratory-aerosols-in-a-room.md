@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Efficacy of universal masking for source control and personal protection from simulated respiratory aerosols in a room
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Efficacy-of-universal-masking-for-source-control-a/q8qz-3pb6/about_data

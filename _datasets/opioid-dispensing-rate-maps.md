@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Opioid Dispensing Rate Maps
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/drugoverdose/rxrate-maps/opioid.html

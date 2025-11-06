@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: standardized precipitation evapotranspiration index (1895-2016)/cdc - ev data
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/index.html

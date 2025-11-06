@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Provisional COVID-19 death counts, rates, and percent of total deaths, by jurisdiction of residence
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/Provisional-COVID-19-death-counts-rates-and-percen/mpx5-t7tu/about_data

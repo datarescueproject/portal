@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: HHS Unaccompanied Children Program
-organization: Office of the Secretary, Centers for Disease Control and Prevention
+organization: Office of the Secretary, Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services, Department of Commerce
 websites: cdc.gov, healthdata.gov
 data_source: https://healthdata.gov/National/HHS-Unaccompanied-Children-Program/ehpz-xc9n/about_data

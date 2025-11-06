@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Percent Positivity of Viral Detections Among Enrolled Children in the New Vaccine Surveillance Network (NVSN), Acute Respiratory Illnesses (ARI), 2017–Present
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Percent-Positivity-of-Viral-Detections-Among-Enrol/kipu-qxy8/about_data

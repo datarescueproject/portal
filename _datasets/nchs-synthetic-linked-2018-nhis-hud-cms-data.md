@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: NCHS Synthetic Linked 2018 NHIS-HUD-CMS Data
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/NCHS-Synthetic-Linked-2018-NHIS-HUD-CMS-Data/x4hb-v5iw/about_data

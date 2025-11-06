@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Environmental Public Health Tracking Network
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: ephtracking.cdc.gov
 data_source: https://ephtracking.cdc.gov/

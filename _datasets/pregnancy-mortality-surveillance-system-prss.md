@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Pregnancy Mortality Surveillance System (PRSS)
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/maternal-mortality/php/pregnancy-mortality-surveillance/index.html

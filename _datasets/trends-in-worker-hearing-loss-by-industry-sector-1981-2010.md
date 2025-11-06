@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Trends in Worker Hearing Loss by Industry Sector, 1981-2010
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Trends-in-Worker-Hearing-Loss-by-Industry-Sector-1/c294-dri5/about_data

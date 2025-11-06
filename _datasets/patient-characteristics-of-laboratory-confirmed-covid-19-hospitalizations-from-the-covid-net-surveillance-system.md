@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Patient Characteristics of Laboratory-Confirmed COVID-19 Hospitalizations from the COVID-NET Surveillance System
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Patient-Characteristics-of-Laboratory-Confirmed-CO/bigw-pgk2/about_data

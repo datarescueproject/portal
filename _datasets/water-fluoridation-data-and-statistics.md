@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Water Fluoridation Data and Statistics
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/fluoridation/php/statistics/?CDC_AAref_Val=https://www.cdc.gov/fluoridation/statistics/index.htm

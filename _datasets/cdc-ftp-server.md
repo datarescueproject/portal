@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: CDC FTP Server
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: ftp.cdc.gov
 data_source: https://ftp.cdc.gov/

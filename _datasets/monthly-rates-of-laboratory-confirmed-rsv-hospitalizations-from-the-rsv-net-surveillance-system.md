@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Monthly Rates of Laboratory-Confirmed RSV Hospitalizations from the RSV-NET Surveillance System
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Monthly-Rates-of-Laboratory-Confirmed-RSV-Hospital/pbq2-7wr2

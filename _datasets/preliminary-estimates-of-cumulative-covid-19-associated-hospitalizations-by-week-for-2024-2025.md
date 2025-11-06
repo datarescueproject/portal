@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Preliminary Estimates of Cumulative COVID-19-associated Hospitalizations by Week for 2024-2025
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Preliminary-Estimates-of-Cumulative-COVID-19-assoc/xnjn-rdmd/about_data

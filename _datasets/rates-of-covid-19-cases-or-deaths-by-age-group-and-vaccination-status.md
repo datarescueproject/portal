@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Rates of COVID-19 Cases or Deaths by Age Group and Vaccination Status
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a

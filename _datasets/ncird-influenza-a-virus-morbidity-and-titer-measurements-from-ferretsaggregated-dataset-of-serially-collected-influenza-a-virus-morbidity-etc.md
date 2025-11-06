@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: ncird influenza a virus morbidity and titer measurements from ferrets/aggregated dataset of serially collected influenza a virus morbidity etc
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/index.html

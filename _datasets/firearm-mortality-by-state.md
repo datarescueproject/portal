@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Firearm Mortality by State
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/nchs/pressroom/sosmap/firearm_mortality/firearm.htm

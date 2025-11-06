@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Environmental Justice Index (EJI)
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: atsdr.cdc.gov
 data_source: https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html

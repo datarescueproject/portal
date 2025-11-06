@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: DQS Hospital admission, average length of stay, outpatient visits, and outpatient surgery by type of ownership and size of hospital United States
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/DQS-Hospital-admission-average-length-of-stay-outp/4q35-rqzk/about_data

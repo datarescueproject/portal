@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: COVID-19 Vaccinations in the United States,County
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Vaccinations/COVID-19-Vaccinations-in-the-United-States-County/8xkx-amqh

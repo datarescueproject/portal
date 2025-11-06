@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: The effects of diesel exhaust inhalation on cardiovascular function
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/The-effects-of-diesel-exhaust-inhalation-on-cardio/jgkt-w9bh/about_data

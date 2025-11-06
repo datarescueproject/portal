@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Provisional COVID-19 Deaths Focus on Ages 0-18 Years
-organization: Centers for Disease Control and Prevention
+organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/Provisional-COVID-19-Deaths-Focus-on-Ages-0-18-Yea/nr4s-juj3/about_data
