@@ -3,7 +3,7 @@ schema: data_rescue_project
 title: HIFLD OPEN American Indian / Alaska Native / Native Hawaiian (AIANNH) Areas
 organization: Homeland Infrastructure Foundation-Level Data (HIFLD)
 agency: Department of Homeland Security
-websites: https://hifld-geoplatform.hub.arcgis.com/
+websites: hifld-geoplatform.hub.arcgis.com/
 data_source: https://hifld-geoplatform.hub.arcgis.com
 description: 
 last_modified: 2025-11-03
