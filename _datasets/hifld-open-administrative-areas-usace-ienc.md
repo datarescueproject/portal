@@ -10,7 +10,7 @@ last_modified: 2025-11-05
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized 
+  - Infrastructure 
 resources:
   - id: 1508
     url: https://www.datalumos.org/datalumos/project/238556/view
