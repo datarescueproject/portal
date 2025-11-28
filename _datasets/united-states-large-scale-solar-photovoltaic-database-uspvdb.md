@@ -10,8 +10,8 @@ last_modified: 2025-03-03
 metadata_available: Under Review
 metadata_url: 
 category:
-  - Infrastructure 
   - Climate & Environment 
+  - Infrastructure 
   - Science & Research 
 resources:
   - id: 594
