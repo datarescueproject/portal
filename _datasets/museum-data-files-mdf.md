@@ -10,10 +10,10 @@ last_modified: 2025-03-26
 metadata_available: No
 metadata_url: 
 category:
-  - Education 
-  - Social Services 
   - Arts & Culture 
+  - Social Services 
   - Science & Research 
+  - Education 
 resources:
   - id: 97
     url: https://www.datalumos.org/datalumos/project/219155/version/V1/view
