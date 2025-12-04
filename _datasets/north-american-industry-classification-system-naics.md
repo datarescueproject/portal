@@ -11,11 +11,11 @@ metadata_available: No
 metadata_url: 
 category:
   - Business & Economy 
+  - Education 
+  - Social Services 
   - Labor & Employment 
   - Health & Healthcare 
   - Housing & Community Development 
-  - Education 
-  - Social Services 
 resources:
   - id: 61
     url: https://github.com/oedp/NAICS
