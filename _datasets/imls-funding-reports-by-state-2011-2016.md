@@ -12,8 +12,8 @@ metadata_url:
 category:
   - Arts & Culture 
   - Social Services 
-  - Education 
   - Science & Research 
+  - Education 
 resources:
   - id: 1476
     url: https://www.datalumos.org/datalumos/project/101765/view
