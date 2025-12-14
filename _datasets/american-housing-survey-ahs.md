@@ -10,8 +10,8 @@ last_modified: 2025-04-29
 metadata_available: No
 metadata_url: 
 category:
-  - Health & Healthcare 
   - Labor & Employment 
+  - Health & Healthcare 
   - Business & Economy 
   - Social Services 
   - Housing & Community Development 
