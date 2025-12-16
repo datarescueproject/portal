@@ -11,8 +11,8 @@ metadata_available: No
 metadata_url: 
 category:
   - Infrastructure 
-  - Science & Research 
   - Climate & Environment 
+  - Science & Research 
 resources:
   - id: 596
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/2FQEK6&version=DRAFT

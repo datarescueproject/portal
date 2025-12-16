@@ -11,8 +11,8 @@ metadata_available: Under Review
 metadata_url: 
 category:
   - Infrastructure 
-  - Science & Research 
   - Climate & Environment 
+  - Science & Research 
 resources:
   - id: 594
     url: https://zenodo.org/records/14736300
