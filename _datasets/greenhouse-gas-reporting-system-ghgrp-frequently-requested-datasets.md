@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
 resources:
   - id: 1477
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/J5TMCS
+    url: https://doi.org/10.7910/DVN/J5TMCS
     format: mhtml, PDF, ZIP, XLSX, xlsb
     status: Finished
     size: 0.0518
