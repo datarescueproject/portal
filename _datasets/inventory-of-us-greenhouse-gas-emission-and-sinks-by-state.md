@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
 resources:
   - id: 199
-    url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/3VIXG4
+    url: https://doi.org/10.7910/DVN/3VIXG4
     format: XLSX, Interactive Data Explorer
     status: Finished
     size: 0.081
