@@ -1,12 +1,12 @@
 ---
 schema: data_rescue_project 
-title: Behavioral Risk Factor Surveillance System - Prevalence Data 2014-2024
+title: Behavioral Risk Factor Surveillance System (BRFSS) - Prevalence Data
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/index.html
 description: 
-last_modified: 2025-03-02
+last_modified: 2025-12-21
 metadata_available: No
 metadata_url: 
 category:
@@ -19,5 +19,13 @@ resources:
     size: 0.0
     download_date: 2025-01-31
     maintainer: ICPSR
-    notes: 
+    notes: Coverage 2014-2024
+  - id: 1738
+    url: https://www.datalumos.org/datalumos/project/240461/version/V1/view
+    format: PDF, CSV
+    status: Finished
+    size: 0.9816
+    download_date: 2025-11-18
+    maintainer: DRP, DL
+    notes: Coverage 2011-2025
 ---
