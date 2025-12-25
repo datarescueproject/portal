@@ -14,7 +14,7 @@ category:
   - Business & Economy 
 resources:
   - id: 1749
-    url: 
+    url: https://www.datalumos.org/datalumos/project/241523/version/V1/view
     format: PDF, ZIP, XLSX
     status: Finished
     size: 0.01
