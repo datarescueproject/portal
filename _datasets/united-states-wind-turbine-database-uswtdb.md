@@ -10,9 +10,9 @@ last_modified: 2025-03-03
 metadata_available: Under Review
 metadata_url: 
 category:
-  - Infrastructure 
-  - Climate & Environment 
   - Science & Research 
+  - Climate & Environment 
+  - Infrastructure 
 resources:
   - id: 593
     url: https://zenodo.org/records/14783215

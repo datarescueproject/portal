@@ -11,9 +11,9 @@ metadata_available: No
 metadata_url: 
 category:
   - Health & Healthcare 
+  - Labor & Employment 
   - Social Services 
   - Housing & Community Development 
-  - Labor & Employment 
   - Education 
   - Business & Economy 
 resources:
