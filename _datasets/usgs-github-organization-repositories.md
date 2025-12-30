@@ -10,8 +10,8 @@ last_modified: 2025-03-03
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
-  - Science & Research 
   - Infrastructure 
+  - Science & Research 
+  - Climate & Environment 
 resources:
 ---

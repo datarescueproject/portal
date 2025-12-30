@@ -10,12 +10,12 @@ last_modified: 2025-02-12
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health & Healthcare 
   - Education 
+  - Labor & Employment 
+  - Health & Healthcare 
+  - Housing & Community Development 
   - Business & Economy 
   - Social Services 
-  - Labor & Employment 
-  - Housing & Community Development 
 resources:
   - id: 62
     url: 
