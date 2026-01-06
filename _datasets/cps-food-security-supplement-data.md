@@ -10,12 +10,12 @@ last_modified: 2025-10-01
 metadata_available: Yes
 metadata_url: 
 category:
-  - Business & Economy 
   - Education 
   - Social Services 
   - Labor & Employment 
-  - Housing & Community Development 
   - Health & Healthcare 
+  - Business & Economy 
+  - Housing & Community Development 
 resources:
   - id: 1291
     url: https://www.datalumos.org/datalumos/project/238230/version/V1/view
