@@ -10,6 +10,7 @@ last_modified: 2025-04-17
 metadata_available: No
 metadata_url: 
 category:
+  - Climate & Environment 
   - Agriculture 
   - Science & Research 
 resources:
