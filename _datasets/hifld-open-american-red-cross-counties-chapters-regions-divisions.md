@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Infrastructure 
 resources:
-  - id: 1422
+  - id: 1419
     url: https://www.datalumos.org/datalumos/project/238572/view
     format: GeoJSON, Shapefile, XML, ZIP
     status: Finished

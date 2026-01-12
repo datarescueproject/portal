@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Business & Economy 
 resources:
-  - id: 1695
+  - id: 1692
     url: https://www.datalumos.org/datalumos/project/235681
     format: 
     status: Finished

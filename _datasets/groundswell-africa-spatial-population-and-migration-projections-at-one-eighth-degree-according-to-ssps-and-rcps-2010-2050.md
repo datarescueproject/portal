@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 1723
+  - id: 1720
     url: https://www.datalumos.org/datalumos/project/240783/version/V1/view
     format: GPKG
     status: Finished

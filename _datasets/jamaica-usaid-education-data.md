@@ -13,7 +13,7 @@ category:
   - Education 
   - Humanitarian & Disaster Relief 
 resources:
-  - id: 1433
+  - id: 1430
     url: https://www.datalumos.org/datalumos/project/238632/view
     format: CSV, PDF, DOCX, XLSX
     status: Finished

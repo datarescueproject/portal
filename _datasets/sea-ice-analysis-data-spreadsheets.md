@@ -12,12 +12,12 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1693
+  - id: 1690
     url: https://www.datalumos.org/datalumos/project/239286
-    format: 
+    format: XLSX, CSV
     status: Finished
-    size: 
-    download_date: 
-    maintainer: DL
+    size: 0.02
+    download_date: 2025-10-25
+    maintainer: DRP, DL
     notes: These Excel workbooks organize Arctic and Antarctic sea ice data in spreadsheets for ease of analysis. See the “Documentation” tab in each workbook for more description, and links to more information about the workbooks. See included PDF file for more detailed documentation.
 ---

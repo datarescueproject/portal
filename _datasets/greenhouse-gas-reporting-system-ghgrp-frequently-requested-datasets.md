@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1477
+  - id: 1474
     url: https://doi.org/10.7910/DVN/J5TMCS
     format: mhtml, PDF, ZIP, XLSX, xlsb
     status: Finished

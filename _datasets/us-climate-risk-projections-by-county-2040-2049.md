@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 1724
+  - id: 1721
     url: https://www.datalumos.org/datalumos/project/240749/version/V1/view
     format: SHP, XLSX
     status: Finished

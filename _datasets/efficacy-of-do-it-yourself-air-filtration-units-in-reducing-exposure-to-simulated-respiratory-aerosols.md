@@ -4,10 +4,10 @@ title: Efficacy of Do-It-Yourself Air Filtration Units in Reducing Exposure to S
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Efficacy-of-Do-It-Yourself-Air-Filtration-Units-in/g7ty-3t6s
+data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Efficacy-of-Do-It-Yourself-Air-Filtration-Units-in/g7ty-3t6s/about_data
 description: 
-last_modified: 2025-11-05
-metadata_available: No
+last_modified: 2025-09-02
+metadata_available: Yes
 metadata_url: 
 category:
   - Health & Healthcare 
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-04-23
     maintainer: HD, CAFE-RCC
     notes: 
-  - id: 1529
+  - id: 1526
     url: https://www.datalumos.org/datalumos/project/233570/view
     format: 
     status: Finished
