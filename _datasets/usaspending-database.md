@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Finance & Budget 
 resources:
-  - id: 608
+  - id: 607
     url: https://archive.org/details/usaspending-db_20250106
     format: ZIP, dat
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-01-06
     maintainer: DRP, IA
     notes: Full upload in process. For reconstruction, see usaspending-db-setup.pdf.This is the complete database as of Jan. 6, 2025.
-  - id: 902
+  - id: 901
     url: https://doi.org/10.60503/D3/2LKHZ9
     format: PDF, JSON, dat, tab, tar.gz
     status: Finished

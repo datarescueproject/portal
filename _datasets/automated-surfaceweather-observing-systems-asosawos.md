@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 512
+  - id: 511
     url: https://archive.org/details/automated-surface-observing-system-five-minute
     format: dat
     status: Finished

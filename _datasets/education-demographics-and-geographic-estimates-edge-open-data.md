@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 788
+  - id: 787
     url: https://www.datalumos.org/datalumos/project/218863/version/V1/view
     format: ZIP, plain text
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-02-06
     maintainer: DRP, DL
     notes: 
-  - id: 1050
+  - id: 1049
     url: 
     format: SHP
     status: Finished

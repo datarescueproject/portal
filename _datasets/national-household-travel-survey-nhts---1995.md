@@ -13,7 +13,7 @@ category:
   - Energy 
   - Science & Research 
 resources:
-  - id: 1246
+  - id: 1245
     url: https://www.datalumos.org/datalumos/project/236968/version/V1/view
     format: PDF, TXT, ZIP
     status: Finished

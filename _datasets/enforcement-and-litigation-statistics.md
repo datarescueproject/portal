@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1021
+  - id: 1020
     url: https://www.datalumos.org/datalumos/project/227685/version/V1/view
     format: CSV, PDF
     status: Finished

@@ -22,7 +22,7 @@ resources:
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 
-  - id: 1277
+  - id: 1276
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/AA28CJ
     format: HTML, PDF, TXT
     status: Finished

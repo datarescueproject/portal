@@ -10,12 +10,12 @@ last_modified: 2025-05-23
 metadata_available: No
 metadata_url: 
 category:
-  - Health & Healthcare 
-  - Housing & Community Development 
-  - Social Services 
-  - Education 
-  - Labor & Employment 
   - Business & Economy 
+  - Social Services 
+  - Health & Healthcare 
+  - Labor & Employment 
+  - Education 
+  - Housing & Community Development 
 resources:
   - id: 3
     url: 
@@ -25,7 +25,7 @@ resources:
     download_date: 2025-02-01
     maintainer: DRP
     notes: Partial download.
-  - id: 1051
+  - id: 1050
     url: 
     format: PDF, ZIP, XLS, HTML, TXT
     status: Uploading
@@ -33,7 +33,7 @@ resources:
     download_date: 2025-02-17
     maintainer: DRP, ANON
     notes: Created as a torrent by Reddit user enchanting_endeavour and can be downloaded using the following magnet link magnet?xt=urnbtihda7f54c14ca6ab795ddb9f87b953c3dd8f22fbcd&dn=ftp2_census_gov_2025_02_17_torrents&tr=http%3A%2F%2Fwww.torrentsnipe.info%3A2701%2Fannounce&tr=udp%3A%2F%2Fdiscord.heihachi.pw%3A6969%2Fannounce. Original description "In order to make the data manageable, the whole dataset is broken up into 41 pieces. This file is a torrent of torrents which has a torrent file for each of those pieces. Note that due to an error on my part, piece 31 is just an empty data structure and has no other data in it. The top level directory, ftp2.census.gov, in each of the pieces should merge cleanly without conflicts with the others. This dataset includes data for many of the census.gov subdomains, though I have not be able to verify which domains specifically are included and which are not."
-  - id: 1052
+  - id: 1051
     url: 
     format: PDF, ZIP, XLS, HTML, TXT
     status: Uploading
@@ -41,7 +41,7 @@ resources:
     download_date: 2025-02-13
     maintainer: DRP, CREP
     notes: 
-  - id: 1053
+  - id: 1052
     url: 
     format: PDF, ZIP, XLS, HTML, TXT
     status: Uploading

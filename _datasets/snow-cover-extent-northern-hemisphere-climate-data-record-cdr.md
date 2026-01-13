@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=
 category:
   - Climate & Environment 
 resources:
-  - id: 703
+  - id: 702
     url: https://archive.org/details/snow-cover-extent-cdr-noaa
     format: nc
     status: Finished

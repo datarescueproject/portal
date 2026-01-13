@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Military & Veterans Affairs 
 resources:
-  - id: 1028
+  - id: 1027
     url: https://doi.org/10.3886/E229801V1
     format: CSV, PDF, RDF, TSV, XLSX
     status: Finished

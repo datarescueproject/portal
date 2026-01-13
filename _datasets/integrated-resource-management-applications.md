@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1205
+  - id: 1204
     url: https://sciop.net/datasets/irma-nps-gov-datastore
     format: ZIP
     status: Finished

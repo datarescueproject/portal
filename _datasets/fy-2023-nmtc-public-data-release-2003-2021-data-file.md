@@ -13,7 +13,7 @@ category:
   - Housing & Community Development 
   - Finance & Budget 
 resources:
-  - id: 670
+  - id: 669
     url: https://www.datalumos.org/datalumos/project/224381/version/V1/view
     format: ZIP
     status: Finished

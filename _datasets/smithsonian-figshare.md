@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Uncategorized 
 resources:
-  - id: 1760
+  - id: 1759
     url: https://sciop.net/datasets/us-smithsonian-institution-figshare-bulk-data
     format: 
     status: Finished

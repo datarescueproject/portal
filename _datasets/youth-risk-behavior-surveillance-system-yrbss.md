@@ -20,7 +20,7 @@ resources:
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 
-  - id: 1041
+  - id: 1040
     url: https://urban-data-catalog.s3.us-east-1.amazonaws.com/drupal-root-live/2025/03/31/health-policy/yrbss/data.zip
     format: ZIP
     status: Finished

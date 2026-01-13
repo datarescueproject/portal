@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 1506
+  - id: 1505
     url: https://www.datalumos.org/datalumos/project/235805/view
     format: 
     status: Finished

@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 1298
+  - id: 1297
     url: https://zenodo.org/records/17162945
     format: ZIP
     status: Finished

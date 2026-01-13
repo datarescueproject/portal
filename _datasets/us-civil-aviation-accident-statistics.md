@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Transportation 
 resources:
-  - id: 1697
+  - id: 1696
     url: https://www.datalumos.org/datalumos/project/238803/version/V1/view
     format: XLSX
     status: Finished

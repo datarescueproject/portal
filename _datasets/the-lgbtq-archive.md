@@ -11,7 +11,7 @@ metadata_available: No
 metadata_url: 
 category:
 resources:
-  - id: 1228
+  - id: 1227
     url: https://www.thelgbtqarchive.org/
     format: PDF
     status: Finished

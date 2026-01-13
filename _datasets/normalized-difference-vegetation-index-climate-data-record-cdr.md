@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/normalized
 category:
   - Climate & Environment 
 resources:
-  - id: 906
+  - id: 905
     url: https://sciop.net/uploads/d7c94efb457b7094b8f7497563801b62b9e49278
     format: nc
     status: Uploading

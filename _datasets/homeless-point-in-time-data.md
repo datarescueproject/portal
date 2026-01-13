@@ -20,12 +20,4 @@ resources:
     download_date: 2025-03-10
     maintainer: DRP, DL
     notes: 
-  - id: 502
-    url: https://www.datalumos.org/datalumos/project/219142/version/V1/view
-    format: XLSX, PDF
-    status: Finished
-    size: 0.006
-    download_date: 2025-02-12
-    maintainer: DRP, DL
-    notes: 
 ---

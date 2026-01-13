@@ -12,7 +12,7 @@ metadata_url: https://datacatalog.urban.org/dataset/treasury-advisory-committee-
 category:
   - Finance & Budget 
 resources:
-  - id: 1047
+  - id: 1046
     url: https://urban-data-catalog.s3.us-east-1.amazonaws.com/drupal-root-live/2025/03/28/race-and-equity/treasury-advisory-committee-on-racial-equity/data.zip
     format: ZIP
     status: Finished

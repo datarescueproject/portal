@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 1260
+  - id: 1259
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/BX3XRF
     format: PDF, CSV, DOCX
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-05-06
     maintainer: HD, CAFE-RCC
     notes: 
-  - id: 1527
+  - id: 1526
     url: https://www.datalumos.org/datalumos/project/233591/view
     format: 
     status: Finished

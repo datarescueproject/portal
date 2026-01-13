@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 1009
+  - id: 1008
     url: https://nlrbresearch.com/NLRB/NLRB_DB?_search=type%3A+%22ALJ%22
     format: PDF
     status: Finished

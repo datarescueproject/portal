@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 1733
+  - id: 1732
     url: https://www.datalumos.org/datalumos/project/239963/version/V1/view
     format: GeoTIFF, PDF, PNG, WMS
     status: Finished

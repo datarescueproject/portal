@@ -12,7 +12,7 @@ metadata_url: https://data.noaa.gov/onestop/api/registry/metadata/collection/unk
 category:
   - Climate & Environment 
 resources:
-  - id: 588
+  - id: 587
     url: https://archive.org/details/atmospheric-rivers_202503
     format: nc
     status: Finished

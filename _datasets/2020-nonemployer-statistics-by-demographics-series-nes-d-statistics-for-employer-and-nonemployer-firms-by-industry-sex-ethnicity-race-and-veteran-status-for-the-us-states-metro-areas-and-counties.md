@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Business & Economy 
 resources:
-  - id: 698
+  - id: 697
     url: https://www.datalumos.org/datalumos/project/223441/version/V1/view
     format: ZIP, CSV, TXT
     status: Finished

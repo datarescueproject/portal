@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1305
+  - id: 1304
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/OCSLGR
     format: 
     status: Finished

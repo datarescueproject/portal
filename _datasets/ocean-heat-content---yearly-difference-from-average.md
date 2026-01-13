@@ -14,7 +14,7 @@ category:
   - Humanitarian & Disaster Relief 
   - Climate & Environment 
 resources:
-  - id: 1146
+  - id: 1145
     url: https://doi.org/10.3886/E232841V1
     format: KML, PNG, ZIP
     status: Finished

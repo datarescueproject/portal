@@ -12,7 +12,7 @@ metadata_url: https://hads.ncep.noaa.gov/WhatIsHADS.shtml
 category:
   - Climate & Environment 
 resources:
-  - id: 587
+  - id: 586
     url: https://archive.org/details/nws-hydrometeorological-automated-data-system
     format: dat
     status: Finished

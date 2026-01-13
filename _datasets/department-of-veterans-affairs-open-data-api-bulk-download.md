@@ -10,10 +10,10 @@ last_modified: 2025-06-07
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
-  - id: 1077
+  - id: 1076
     url: https://sciop.net/datasets/us-va-open-data-bulk-download
     format: ZIP, XLSX, CSV, PDF
     status: Uploading

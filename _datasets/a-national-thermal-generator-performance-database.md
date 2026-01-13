@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
   - Energy 
 resources:
-  - id: 1143
+  - id: 1142
     url: https://www.datalumos.org/datalumos/project/231316/version/V1/view
     format: ZIP, PNG, CSV, DOCX
     status: Finished

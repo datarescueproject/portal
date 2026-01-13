@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 606
+  - id: 605
     url: https://www.datalumos.org/datalumos/project/224362
     format: XLSX
     status: Finished

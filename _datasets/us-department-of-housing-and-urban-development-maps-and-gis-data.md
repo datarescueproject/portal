@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Housing & Community Development 
 resources:
-  - id: 1357
+  - id: 1356
     url: https://purl.stanford.edu/wc590wy7435
     format: Geodatabase, Shapefile, GIS
     status: Finished

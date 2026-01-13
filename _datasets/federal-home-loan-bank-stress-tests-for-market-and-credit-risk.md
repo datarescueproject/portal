@@ -13,7 +13,7 @@ category:
   - Housing & Community Development 
   - Finance & Budget 
 resources:
-  - id: 504
+  - id: 503
     url: https://www.datalumos.org/datalumos/project/221821/version/V1/view
     format: XLSX, PDF
     status: Finished

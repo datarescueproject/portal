@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 1494
+  - id: 1493
     url: https://www.datalumos.org/datalumos/project/220802/view
     format: 
     status: Finished

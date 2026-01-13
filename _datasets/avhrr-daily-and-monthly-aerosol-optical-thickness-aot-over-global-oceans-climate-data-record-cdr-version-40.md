@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 515
+  - id: 514
     url: https://archive.org/details/avhrr-aerosol-optical-thickness
     format: nc
     status: Finished

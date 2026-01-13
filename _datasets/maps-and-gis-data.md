@@ -12,7 +12,7 @@ metadata_url: https://www.boem.gov/oil-gas-energy/mapping-and-data
 category:
   - Climate & Environment 
 resources:
-  - id: 889
+  - id: 888
     url: https://sciop.net/datasets/doi-boem-oil-gas-mapping-gis-data
     format: Shapefile, Geodatabase, PDF
     status: Uploading

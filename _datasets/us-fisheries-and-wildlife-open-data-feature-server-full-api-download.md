@@ -13,7 +13,7 @@ category:
   - State & Policy 
   - Climate & Environment 
 resources:
-  - id: 922
+  - id: 921
     url: https://sciop.net/datasets/usfw-open-data-gis-full-crawl
     format: GeoJSON, JSON
     status: Uploading
