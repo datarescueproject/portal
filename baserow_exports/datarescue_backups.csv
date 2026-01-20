@@ -1943,3 +1943,17 @@ BRFSS Prevalence And Trends Data: Tobacco Use - Adults Who Are Current Smokers f
 "Selected Trend Table from Health, United States, 2011. Leading causes of death and numbers of deaths, by sex, race, and Hispanic origin: United States, 1980 and 2009",1940,Finished,https://data.cdc.gov/Health-Statistics/Selected-Trend-Table-from-Health-United-States-201/vp9c-m6nq/about_data,data.cdc.gov,Centers for Disease Control and Prevention (CDC),Department of Health and Human Services,2026-01-02,0.0004,"DRP, DL",https://www.datalumos.org/datalumos/project/242325/version/V1/view,"PDF, CSV",,,
 NNDSS - Table II. Salmonellosis to Shigellosis,1941,Finished,https://data.cdc.gov/NNDSS/NNDSS-Table-II-Salmonellosis-to-Shigellosis/52cr-rw4k/about_data,data.cdc.gov,Centers for Disease Control and Prevention (CDC),Department of Health and Human Services,2026-01-02,0.0011,"DRP, DL",https://www.datalumos.org/datalumos/project/242326/version/V1/view,"PDF, CSV",,,
 NNDSS - Table II. Varicella to West Nile virus disease,1942,Finished,https://data.cdc.gov/NNDSS/NNDSS-Table-II-Varicella-to-West-Nile-virus-diseas/ig4m-ub43/about_data,data.cdc.gov,Centers for Disease Control and Prevention (CDC),Department of Health and Human Services,2026-01-02,0.0010,"DRP, DL",https://www.datalumos.org/datalumos/project/242327/version/V1/view,"PDF, CSV",,,
+Global Fire Weather Inventory,1943,In Progress,https://data.giss.nasa.gov/impacts/gfwed/,data.giss.nasa.gov,NASA Goddard Space Flight Center,National Aeronautics and Space Administration,,,"DRP, SRC",,,,,
+Presidential Archives,1944,Finished,https://www.archives.gov/presidential-records,archives.gov,National Archives and Records Administration,National Archives and Records Administration,2025-10-27,8300.0000,"DRP, SRC",https://sciop.net/datasets/nara-presidential-records-s3-mirror,"JPEG, PDF, TIFF","Full mirror of the NARA AWS S3 bucket folder for the presidential records/archives:
+
+    Description
+        National Archives Catalog
+    Resource type
+        S3 Bucket
+    Amazon Resource Name (ARN)
+        arn:aws:s3:::nara-national-archives-catalog
+    AWS Region
+        us-east-2
+    AWS CLI Access (No AWS account required)
+        aws s3 ls --no-sign-request s3://nara-national-archives-catalog/",,
+Report: What NIJ Research Tells Us About Domestic Terrorism,1945,Finished,https://www.ojp.gov/pdffiles1/nij/306123.pdf,ojp.gov,Office of Justice Programs,Department of Justice,2025-09-11,0.0020,"DRP, SRC",https://sciop.net/datasets/nij-research-domestic-terrorism,PDF,,,

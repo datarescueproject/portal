@@ -10,8 +10,8 @@ last_modified: 2025-07-31
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Energy 
+  - Science & Research 
 resources:
   - id: 1244
     url: https://www.datalumos.org/datalumos/project/236970/version/V1/view
