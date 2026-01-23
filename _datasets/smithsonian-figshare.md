@@ -10,7 +10,7 @@ last_modified: 2025-12-25
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized 
+  - Arts & Culture 
 resources:
   - id: 1759
     url: https://sciop.net/datasets/us-smithsonian-institution-figshare-bulk-data
