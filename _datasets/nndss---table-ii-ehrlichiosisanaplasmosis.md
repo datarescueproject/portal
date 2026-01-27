@@ -4,9 +4,9 @@ title: NNDSS - Table II. Ehrlichiosis/Anaplasmosis
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-II-Ehrlichiosis-Anaplasmosis/edtz-vibe/about_data
+data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-II-Ehrlichiosis-Anaplasmosis/keia-pvvn/about_data
 description: 
-last_modified: 2026-01-11
+last_modified: 2026-01-25
 metadata_available: No
 metadata_url: 
 category:
@@ -18,6 +18,22 @@ resources:
     status: Finished
     size: 0.001
     download_date: 2026-01-02
+    maintainer: DRP, DL
+    notes: 
+  - id: 2493
+    url: https://www.datalumos.org/datalumos/project/244034/version/V1/view
+    format: PDF, CSV
+    status: Finished
+    size: 0.0004
+    download_date: 2026-01-13
+    maintainer: DRP, DL
+    notes: 
+  - id: 2494
+    url: https://www.datalumos.org/datalumos/project/243992/version/V1/view
+    format: PDF, CSV
+    status: Finished
+    size: 0.0004
+    download_date: 2026-01-12
     maintainer: DRP, DL
     notes: 
 ---
