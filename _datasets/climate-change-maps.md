@@ -10,9 +10,9 @@ last_modified: 2026-01-27
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
-  - Climate & Environment 
   - Infrastructure 
+  - Climate & Environment 
+  - Science & Research 
 resources:
   - id: 3000
     url: https://www.datalumos.org/datalumos/project/240249/version/V1/view
