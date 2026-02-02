@@ -14,7 +14,7 @@ category:
 resources:
   - id: 1304
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/OCSLGR
-    format: 
+    format: PNG, PDF, SVG, JPEG, js, css, xlsm
     status: Finished
     size: 0.0515
     download_date: 2025-05-12

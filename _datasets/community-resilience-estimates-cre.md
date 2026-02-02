@@ -10,12 +10,12 @@ last_modified: 2025-04-15
 metadata_available: No
 metadata_url: 
 category:
-  - Education 
-  - Social Services 
   - Business & Economy 
+  - Education 
+  - Health & Healthcare 
   - Housing & Community Development 
   - Labor & Employment 
-  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 60
     url: https://github.com/oedp/community-resilience-estimates
