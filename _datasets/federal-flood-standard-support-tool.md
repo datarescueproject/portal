@@ -6,10 +6,12 @@ agency: Department of Commerce, Department of Housing and Urban Development
 websites: ffrms.climate.gov
 data_source: https://ffrms.climate.gov/
 description: 
-last_modified: 2025-03-26
+last_modified: 2026-02-01
 metadata_available: No
 metadata_url: 
 category:
+  - Climate & Environment 
+  - Housing & Community Development 
 resources:
   - id: 213
     url: 
