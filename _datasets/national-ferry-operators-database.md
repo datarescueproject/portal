@@ -10,8 +10,8 @@ last_modified: 2025-10-11
 metadata_available: Yes
 metadata_url: https://www.bts.gov/sites/bts.dot.gov/files/2024-05/NCFO_2022_DataDictionary_May102024.xlsx
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1326
     url: https://www.datalumos.org/datalumos/project/238706/version/V1/view

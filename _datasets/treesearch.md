@@ -10,9 +10,9 @@ last_modified: 2025-04-17
 metadata_available: No
 metadata_url: 
 category:
-  - Agriculture 
   - Science & Research 
   - Climate & Environment 
+  - Agriculture 
 resources:
   - id: 733
     url: https://sciop.net/datasets/usfs-treesearch
