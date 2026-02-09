@@ -10,8 +10,8 @@ last_modified: 2025-11-09
 metadata_available: No
 metadata_url: 
 category:
-  - State & Policy 
   - Climate & Environment 
+  - State & Policy 
 resources:
   - id: 1687
     url: https://www.datalumos.org/datalumos/project/239406

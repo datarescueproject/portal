@@ -10,8 +10,8 @@ last_modified: 2025-02-25
 metadata_available: Yes
 metadata_url: 
 category:
-  - Labor & Employment 
   - Social Services 
+  - Labor & Employment 
   - Justice & Public Safety 
 resources:
   - id: 171
