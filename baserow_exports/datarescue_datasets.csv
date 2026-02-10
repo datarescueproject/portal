@@ -162,7 +162,7 @@ National Mortgage Database (NMDB) Aggregate Data,,167,https://www.fhfa.gov/data/
 Monthly Interest Rate Survey (MIRS),,168,https://www.fhfa.gov/data/mirs,fhfa.gov,Federal Housing Finance Agency,Federal Housing Finance Agency,[],2025-03-26
 FHFA House Price Index (HPI),,169,https://www.fhfa.gov/data/hpi,fhfa.gov,Federal Housing Finance Agency,Federal Housing Finance Agency,[],2025-04-29
 Multifamily: Property / Contract / Rent & Utility Allowance Datasets (HUD.GOV),,170,https://www.hud.gov/program_offices/housing/mfh/presrv/mfhpreservation,hud.gov,Web Master Public Affair,Department of Housing and Urban Development,[],2025-02-21
-Federal AI Use Case Inventory,,171,https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory,https://github.com/ombegov,Office of the Chief Information Officer,Office of Management and Budget,[],2025-06-18
+Federal AI Use Case Inventory,,171,https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory,https://github.com/ombegov,Office of the Chief Information Officer,Office of Management and Budget (OMB),[],2025-06-18
 Thermophysical Properties of Fluid Systems,,172,https://webbook.nist.gov/chemistry/fluid/,webbook.nist.gov,National Institute of Standards and Technology,Department of Commerce,[],2025-02-25
 FEC Campaign Finance Data,,173,https://www.fec.gov/data/browse-data/?tab=bulk-data,fec.gov,GSA -FAS -Technology Transformation Service,General Services Administration,[],2025-02-25
 Civil Rights Data Collection,,174,https://civilrightsdata.ed.gov/data,civilrightsdata.ed.gov,Office for Civil Rights,Department of Education,[],2025-02-25
@@ -2972,3 +2972,4 @@ Medicare Provider and Supplier Taxonomy Crosswalk,,5037,https://data.cms.gov/pro
 Provider of Services File - Clinical Laboratories,,5039,https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/provider-of-services-file-clinical-laboratories,data.cms.gov,Centers for Medicare and Medicaid Services (CMS),Department of Health and Human Services,[],2026-02-01
 Skilled Nursing Facility Cost Report,,5040,https://data.cms.gov/provider-compliance/cost-report/skilled-nursing-facility-cost-report,data.cms.gov,Centers for Medicare and Medicaid Services (CMS),Department of Health and Human Services,[],2026-02-01
 Survey of Service Academy Students,,5041,https://www.gao.gov/products/gao-26-108179,gao.gov,United States Government Accountability Office (GAO),United States Government Accountability Office (GAO),[],2026-02-04
+Approved Apportionments,,5043,https://apportionment-public.max.gov,max.gov,Office of Management and Budget (OMB),Office of Management and Budget (OMB),[],2026-02-09
