@@ -13,8 +13,8 @@ category:
   - Social Services 
   - Labor & Employment 
   - State & Policy 
-  - Science & Research 
   - Justice & Public Safety 
+  - Science & Research 
   - Agriculture 
 resources:
   - id: 290

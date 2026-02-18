@@ -12,10 +12,10 @@ metadata_url:
 category:
   - Social Services 
   - Labor & Employment 
-  - Housing & Community Development 
   - Health & Healthcare 
   - Business & Economy 
   - Education 
+  - Housing & Community Development 
 resources:
   - id: 302
     url: https://www.dropbox.com/scl/fo/kkvl7l3joy1tdkotmpxms/AEZ-dDpGeE-I8HsQFNpELRs?rlkey=j0jzpyhdy4kmvqcocujp64dqc&dl=0
