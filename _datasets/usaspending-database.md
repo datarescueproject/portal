@@ -28,4 +28,12 @@ resources:
     download_date: 2025-04-15
     maintainer: LDSP
     notes: USAspending.gov is the official source for spending data for the U.S. Government. Its mission is to show the American public what the federal government spends every year and how it spends the money. You can follow the money from the Congressional appropriations to the federal agencies and down to local communities and businesses.
+  - id: 3033
+    url: https://archive.org/download/gov_backup_niema/usaspending-db_20260206.zip
+    format: ZIP
+    status: Finished
+    size: 156.0
+    download_date: 2026-02-16
+    maintainer: ANON
+    notes: 
 ---

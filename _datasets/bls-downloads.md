@@ -6,12 +6,12 @@ agency: Department of Labor
 websites: download.bls.gov
 data_source: https://download.bls.gov
 description: 
-last_modified: 2025-02-10
+last_modified: 2026-02-19
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - Labor & Employment 
+  - Business & Economy 
 resources:
   - id: 1
     url: 
