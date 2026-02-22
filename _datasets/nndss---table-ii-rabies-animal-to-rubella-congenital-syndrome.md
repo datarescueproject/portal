@@ -4,7 +4,7 @@ title: NNDSS - Table II. Rabies, animal to Rubella, congenital syndrome
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-II-Rabies-animal-to-Rubella-congenital/qvvb-s7gu/about_data
+data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-II-Rabies-animal-to-Rubella-congenital/scxv-4u4u/about_data
 description: 
 last_modified: 2026-01-25
 metadata_available: No

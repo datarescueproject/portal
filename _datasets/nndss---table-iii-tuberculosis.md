@@ -4,7 +4,7 @@ title: NNDSS - Table III. Tuberculosis
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-III-Tuberculosis/u3yt-gdfa/about_data
+data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-III-Tuberculosis/9g7x-sfq4/about_data
 description: 
 last_modified: 2026-01-25
 metadata_available: No

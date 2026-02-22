@@ -10,10 +10,10 @@ last_modified: 2025-03-22
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
-  - Social Services 
-  - Arts & Culture 
   - Education 
+  - Science & Research 
+  - Arts & Culture 
+  - Social Services 
 resources:
   - id: 591
     url: https://box.hu-berlin.de/f/7a630b642def4ef58931/

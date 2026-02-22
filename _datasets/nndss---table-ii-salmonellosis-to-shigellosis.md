@@ -4,9 +4,9 @@ title: NNDSS - Table II. Salmonellosis to Shigellosis
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-II-Salmonellosis-to-Shigellosis/hwyq-75wu/about_data
+data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-II-Salmonellosis-to-Shigellosis/52cr-rw4k/about_data
 description: 
-last_modified: 2026-01-25
+last_modified: 2026-01-11
 metadata_available: No
 metadata_url: 
 category:

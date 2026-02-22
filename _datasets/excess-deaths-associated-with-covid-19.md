@@ -3,10 +3,10 @@ schema: data_rescue_project
 title: Excess Deaths Associated with COVID-19
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
-websites: data.cdc.gov
-data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/Excess-Deaths-Associated-with-COVID-19/xkkf-xrst/about_data
+websites: cdc.gov
+data_source: https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm
 description: 
-last_modified: 2026-01-25
+last_modified: 2025-11-05
 metadata_available: No
 metadata_url: 
 category:

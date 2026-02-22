@@ -4,7 +4,7 @@ title: Daily Census Tract-Level PM2.5 Concentrations, 2006-2010
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/Environmental-Health-Toxicology/Daily-Census-Tract-Level-PM2-5-Concentrations-2006/ujra-cbx5/about_data
+data_source: https://data.cdc.gov/Environmental-Health-Toxicology/Daily-Census-Tract-Level-PM2-5-Concentrations-2006/fpqb-s69d/about_data
 description: 
 last_modified: 2026-01-25
 metadata_available: No

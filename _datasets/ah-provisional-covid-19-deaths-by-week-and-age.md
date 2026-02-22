@@ -4,7 +4,7 @@ title: AH Provisional COVID-19 Deaths by Week and Age
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/AH-Provisional-COVID-19-Deaths-by-Week-and-Age/6mjs-pnrx/about_data
+data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/AH-Provisional-COVID-19-Deaths-by-Week-and-Age/ikd3-vynf/about_data
 description: 
 last_modified: 2026-01-25
 metadata_available: No

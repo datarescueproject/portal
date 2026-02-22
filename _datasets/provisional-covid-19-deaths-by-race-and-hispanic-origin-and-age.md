@@ -4,9 +4,9 @@ title: Provisional COVID-19 Deaths by Race and Hispanic Origin, and Age
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/Provisional-COVID-19-Deaths-by-Race-and-Hispanic-O/ks3g-spdg/about_data
+data_source: https://data.cdc.gov/d/ks3g-spdg
 description: 
-last_modified: 2026-01-25
+last_modified: 2025-12-20
 metadata_available: No
 metadata_url: 
 category:

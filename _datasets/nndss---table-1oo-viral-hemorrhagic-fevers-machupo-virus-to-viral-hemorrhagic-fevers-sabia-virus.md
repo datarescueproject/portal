@@ -4,7 +4,7 @@ title: NNDSS - TABLE 1OO. Viral hemorrhagic fevers, Machupo virus to Viral hemor
 organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: data.cdc.gov
-data_source: https://data.cdc.gov/NNDSS/NNDSS-TABLE-1OO-Viral-hemorrhagic-fevers-Machupo-v/snev-n7vb/about_data
+data_source: https://data.cdc.gov/NNDSS/NNDSS-TABLE-1OO-Viral-hemorrhagic-fevers-Machupo-v/g3g2-srtq/about_data
 description: 
 last_modified: 2026-01-25
 metadata_available: No
