@@ -10,8 +10,8 @@ last_modified: 2026-02-12
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
   - Business & Economy 
+  - Labor & Employment 
 resources:
   - id: 296
     url: https://www.dropbox.com/scl/fo/recbmlil5viw44nsl0j5s/AK9EVDRzW_NvMbwgnLEM0Lg?rlkey=pcjg6lvbxw3ab5mqe378mqdoi&dl=0
