@@ -10,9 +10,9 @@ last_modified: 2026-01-27
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
+  - Climate & Environment 
 resources:
   - id: 3003
     url: https://www.datalumos.org/datalumos/project/240367/version/V1/view?path=/datalumos/240367/fcrversions/V1/usgs&type=folder

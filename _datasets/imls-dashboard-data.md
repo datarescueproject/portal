@@ -11,9 +11,9 @@ metadata_available: No
 metadata_url: 
 category:
   - Science & Research 
-  - Arts & Culture 
   - Social Services 
   - Education 
+  - Arts & Culture 
 resources:
   - id: 591
     url: https://box.hu-berlin.de/f/7a630b642def4ef58931/
