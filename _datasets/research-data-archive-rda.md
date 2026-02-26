@@ -10,9 +10,9 @@ last_modified: 2025-04-17
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Agriculture 
   - Climate & Environment 
+  - Science & Research 
 resources:
   - id: 734
     url: https://sciop.net/datasets/usfs-rds-archive
