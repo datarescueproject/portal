@@ -15,9 +15,9 @@ resources:
   - id: 1068
     url: https://sciop.net/uploads/3f4dc4c18816475ec608589c5141372576a80898
     format: nc
-    status: Uploading
+    status: Finished
     size: 30.0
     download_date: 2025-05-26
-    maintainer: DRP
+    maintainer: DRP, SRC
     notes: Alternate torrent location https://academictorrents.com/details/3f4dc4c18816475ec608589c5141372576a80898
 ---

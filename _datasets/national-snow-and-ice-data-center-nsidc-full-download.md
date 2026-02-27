@@ -15,7 +15,7 @@ resources:
   - id: 1022
     url: https://sciop.net/datasets/noaa-nsidc-cires-full-data
     format: JPEG, XLSX, CSV, PDF, Shapefile, Geodatabase, NDC, dat, DAN, nc
-    status: Uploading
+    status: Finished
     size: 920.0
     download_date: 2025-05-12
     maintainer: DRP, SRC

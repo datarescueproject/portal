@@ -15,7 +15,7 @@ resources:
   - id: 905
     url: https://sciop.net/uploads/d7c94efb457b7094b8f7497563801b62b9e49278
     format: nc
-    status: Uploading
+    status: Finished
     size: 950.0
     download_date: 2025-04-12
     maintainer: DRP, SRC

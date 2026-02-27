@@ -15,7 +15,7 @@ resources:
   - id: 1066
     url: https://sciop.net/uploads/84315cd5876c68546cab11ba65b97553bc0d4543
     format: CSV, PDF, Shapefile, Geodatabase
-    status: Uploading
+    status: Finished
     size: 152.0
     download_date: 2025-05-19
     maintainer: DRP, SRC

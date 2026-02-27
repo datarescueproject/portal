@@ -15,7 +15,7 @@ resources:
   - id: 620
     url: https://archive.org/details/hydrological-properties-2025-3-12
     format: nc
-    status: In Progress
+    status: Finished
     size: 517.0
     download_date: 2025-03-12
     maintainer: DRP, IA

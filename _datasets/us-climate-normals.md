@@ -15,7 +15,7 @@ resources:
   - id: 1148
     url: https://sciop.net/uploads/e49ada3218036c3a5523b8f02e59955205f6a59a
     format: CSV
-    status: Uploading
+    status: Finished
     size: 4.0
     download_date: 2025-06-18
     maintainer: DRP, SRC

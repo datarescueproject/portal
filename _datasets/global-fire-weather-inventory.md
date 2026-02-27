@@ -15,7 +15,7 @@ resources:
   - id: 1772
     url: 
     format: 
-    status: In Progress
+    status: Finished
     size: 
     download_date: 
     maintainer: DRP, SRC

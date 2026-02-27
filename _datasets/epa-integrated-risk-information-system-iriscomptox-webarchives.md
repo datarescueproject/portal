@@ -15,7 +15,7 @@ resources:
   - id: 1254
     url: https://sciop.net/datasets/epa-iris-comptox-warc-wacz
     format: WACZ, WARC
-    status: Uploading
+    status: Finished
     size: 1000.0
     download_date: 2025-07-27
     maintainer: DRP, SRC

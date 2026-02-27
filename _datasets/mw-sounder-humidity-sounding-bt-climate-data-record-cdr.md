@@ -15,7 +15,7 @@ resources:
   - id: 597
     url: https://archive.org/details/amsu-a-brightness-temperature
     format: nc
-    status: In Progress
+    status: Finished
     size: 1500.0
     download_date: 2025-02-15
     maintainer: DRP, IA

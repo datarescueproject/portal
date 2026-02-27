@@ -15,7 +15,7 @@ resources:
   - id: 603
     url: https://archive.org/details/nih_pub_pmc
     format: TXT, TAR, CSV
-    status: Uploading
+    status: Finished
     size: 239.0
     download_date: 2025-06-22
     maintainer: DRP, SRC

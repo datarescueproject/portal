@@ -15,7 +15,7 @@ resources:
   - id: 1067
     url: https://sciop.net/uploads/540be3f4732dc099ff43b77882b53830ccc980af
     format: RUV
-    status: Uploading
+    status: Finished
     size: 800.0
     download_date: 2025-05-26
     maintainer: DRP, SRC

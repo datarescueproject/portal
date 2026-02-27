@@ -15,7 +15,7 @@ resources:
   - id: 699
     url: https://sciop.net/uploads/5acf89c8ead6fee0d3567da636ce2357cd4dc135
     format: dat, nc
-    status: Uploading
+    status: Finished
     size: 1800.0
     download_date: 2025-03-31
     maintainer: DRP, SRC
