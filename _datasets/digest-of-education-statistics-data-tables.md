@@ -20,4 +20,12 @@ resources:
     download_date: 2025-07-13
     maintainer: DRP, DL
     notes: This dataset represents the tables from the Most Current Digest Tables page https://nces.ed.gov/programs/digest/current_tables.asp, as downloaded 2025-07-13.The folder system has three levels. Level 1 is the chapters of the data digest. Level 2 is the subsections of the chapters. Level 3 is a folder each for each table. Each table folder contains an excel file for the table.The top level folder contains a catalog csv with a cross walk between the folder name and the original table titles.There is also a folder for Machine Readable tables downloaded from this page in the top level folder https://nces.ed.gov/programs/digest/mrt_tables.asp.
+  - id: 3038
+    url: https://doi.org/10.3886/E236421V2
+    format: ZIP, XLSX, XLS
+    status: Finished
+    size: 
+    download_date: 2026-02-25
+    maintainer: DRP, DL
+    notes: Updated version containing both the 2022 edition of the Digest of Education Statistics (created on 2025-07-13) and an archive of all the digest tables from 2013.
 ---
