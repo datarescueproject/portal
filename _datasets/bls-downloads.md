@@ -10,8 +10,8 @@ last_modified: 2026-02-19
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - Labor & Employment 
+  - Business & Economy 
 resources:
   - id: 1
     url: 
