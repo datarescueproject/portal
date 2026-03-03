@@ -10,8 +10,8 @@ last_modified: 2025-10-14
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 1331
     url: https://doi.org/10.3886/E237245V1

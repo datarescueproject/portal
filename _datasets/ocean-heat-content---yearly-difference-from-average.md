@@ -10,8 +10,8 @@ last_modified: 2025-06-15
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Climate & Environment 
+  - Science & Research 
   - Humanitarian & Disaster Relief 
 resources:
   - id: 1145
