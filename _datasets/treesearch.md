@@ -10,8 +10,8 @@ last_modified: 2025-04-17
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Science & Research 
+  - Climate & Environment 
   - Agriculture 
 resources:
   - id: 733
