@@ -11,8 +11,8 @@ metadata_available: No
 metadata_url: 
 category:
   - Science & Research 
-  - Arts & Culture 
   - Education 
+  - Arts & Culture 
   - Social Services 
 resources:
   - id: 96
