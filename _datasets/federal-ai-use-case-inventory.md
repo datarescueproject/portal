@@ -14,8 +14,8 @@ category:
   - State & Policy 
   - Justice & Public Safety 
   - Labor & Employment 
-  - Social Services 
   - Science & Research 
+  - Social Services 
 resources:
   - id: 168
     url: https://www.datalumos.org/datalumos/project/220361/version/V2/view
