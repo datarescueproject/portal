@@ -10,8 +10,8 @@ last_modified: 2026-02-22
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - Science & Research 
+  - Business & Economy 
 resources:
   - id: 3036
     url: https://www.datalumos.org/datalumos/project/243726/version/V1/view
