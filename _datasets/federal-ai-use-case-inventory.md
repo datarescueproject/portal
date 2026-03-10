@@ -11,11 +11,11 @@ metadata_available: No
 metadata_url: 
 category:
   - Agriculture 
-  - Justice & Public Safety 
+  - Science & Research 
   - Labor & Employment 
+  - Justice & Public Safety 
   - State & Policy 
   - Social Services 
-  - Science & Research 
 resources:
   - id: 168
     url: https://www.datalumos.org/datalumos/project/220361/version/V2/view
