@@ -11,8 +11,8 @@ metadata_available: No
 metadata_url: 
 category:
   - Climate & Environment 
-  - Science & Research 
   - Humanitarian & Disaster Relief 
+  - Science & Research 
 resources:
   - id: 1145
     url: https://doi.org/10.3886/E232841V1

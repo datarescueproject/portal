@@ -12,10 +12,10 @@ metadata_url:
 category:
   - Health & Healthcare 
   - Business & Economy 
-  - Housing & Community Development 
   - Labor & Employment 
-  - Education 
   - Social Services 
+  - Housing & Community Development 
+  - Education 
 resources:
   - id: 110
     url: https://www.datalumos.org/datalumos/project/218583/version/V1/view
