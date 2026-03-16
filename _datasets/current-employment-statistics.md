@@ -10,8 +10,8 @@ last_modified: 2025-12-10
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
   - Business & Economy 
+  - Labor & Employment 
 resources:
   - id: 1714
     url: https://www.datalumos.org/datalumos/project/238628/version/V1/view
