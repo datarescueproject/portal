@@ -10,8 +10,8 @@ last_modified: 2025-08-11
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 1252
     url: https://www.datalumos.org/datalumos/project/236301/version/V1/view
