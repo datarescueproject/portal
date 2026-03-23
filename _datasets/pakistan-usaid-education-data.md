@@ -15,7 +15,7 @@ category:
 resources:
   - id: 1447
     url: https://www.datalumos.org/datalumos/project/238471/view
-    format: 
+    format: XLSX, CSV, TXT, PDF, DTA, DOCX
     status: Finished
     size: 
     download_date: 2025-06-26

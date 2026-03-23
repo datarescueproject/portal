@@ -11,10 +11,10 @@ metadata_available: No
 metadata_url: 
 category:
   - Science & Research 
-  - Social Services 
-  - Justice & Public Safety 
   - Agriculture 
+  - Justice & Public Safety 
   - State & Policy 
+  - Social Services 
   - Labor & Employment 
 resources:
   - id: 168
