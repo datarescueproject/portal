@@ -119,5 +119,3 @@ print("Backups saved")
 print("Categories saved")
 print("Organizations saved")
 print("Agencies saved")
-
-create_markdowns()

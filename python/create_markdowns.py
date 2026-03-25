@@ -213,3 +213,6 @@ def create_markdowns():
 
     categories.apply(create_category_md, axis=1)
     datasets.apply(create_dataset_md, axis=1, args=(backups, organizations))
+
+
+create_markdowns()
