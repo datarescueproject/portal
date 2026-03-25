@@ -194,12 +194,21 @@ def create_markdowns():
 
     organizations = organizations.fillna('')
 
+    os.makedirs('./_datasets', exist_ok=True)
+    os.makedirs('./_organizations', exist_ok=True)
+    os.makedirs('./_dataset_categories', exist_ok=True)
+
     # print(os.listdir('./_datasets'))
     # Remove files in _datasets and _organizations
     remove_files_os('./_datasets')
     remove_files_os('./_organizations')
     remove_files_os('./_dataset_categories')
     # remove_files_os('./agencies')
+
+    os.makedirs('./_datasets', exist_ok=True)
+    os.makedirs('./_organizations', exist_ok=True)
+    os.makedirs('./_dataset_categories', exist_ok=True)
+
 
     categories.apply(create_category_md, axis=1)
     datasets.apply(create_dataset_md, axis=1, args=(backups, organizations))
