@@ -7,6 +7,7 @@ websites: climate.gov
 data_source: https://www.climate.gov/maps-data/data-snapshots/data-source/temperature-maximum-1991-2020-monthly-average
 description: 
 last_modified: 2025-07-06
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

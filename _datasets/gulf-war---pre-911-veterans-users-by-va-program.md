@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Gulf-War-Pre-9-11-Veterans-Users-by-VA-Program/h7i3-id66
 description: 
 last_modified: 2025-03-04
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 318
     url: https://www.datalumos.org/datalumos/project/221284/version/V1/view

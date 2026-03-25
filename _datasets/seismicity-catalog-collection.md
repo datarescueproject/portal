@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/products/natural-hazards/tsunamis-earthquakes-volcanoes/earthquakes/cd-collection
 description: 
 last_modified: 2025-05-30
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.hazardsG01318;view=iso
 category:

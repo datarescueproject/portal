@@ -7,6 +7,7 @@ websites: ncses.nsf.gov
 data_source: https://ncses.nsf.gov/surveys/early-career-doctorates/2017
 description: 
 last_modified: 2025-03-26
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

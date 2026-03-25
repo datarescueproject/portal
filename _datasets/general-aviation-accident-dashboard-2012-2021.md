@@ -7,6 +7,7 @@ websites: ntsb.gov
 data_source: https://www.ntsb.gov/safety/data/Pages/GeneralAviationDashboard.aspx#AVSpreadsheet
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

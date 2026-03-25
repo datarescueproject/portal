@@ -7,6 +7,7 @@ websites: bts.gov
 data_source: https://www.bts.gov/browse-statistical-products-and-data/info-gallery/average-daily-number-people-screened-tsa-0
 description: 
 last_modified: 2025-06-21
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

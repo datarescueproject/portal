@@ -7,6 +7,7 @@ websites: aphis.usda.gov
 data_source: https://www.aphis.usda.gov/livestock-poultry-disease/avian/avian-influenza/wild-bird-surveillance-dashboard
 description: 
 last_modified: 2025-04-22
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

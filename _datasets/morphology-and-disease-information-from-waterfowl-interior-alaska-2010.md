@@ -7,12 +7,13 @@ websites: data.usgs.gov
 data_source: https://data.usgs.gov/datacatalog/data/USGSASC53
 description: 
 last_modified: 2025-06-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
   - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 1085
     url: https://www.datalumos.org/datalumos/project/231130/version/V2/view

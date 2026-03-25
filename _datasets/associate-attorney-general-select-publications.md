@@ -7,6 +7,7 @@ websites: justice.gov
 data_source: https://www.justice.gov/asg/select-publications
 description: 
 last_modified: 2025-05-19
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://datacatalog.urban.org/dataset/us-department-justice-associate-attorney-general-select-publications
 category:

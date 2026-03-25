@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Research-and-Statistics/Citizen-Connect-Congressional-District-geography-l/iynb-tzyd/about_data
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 847
     url: https://www.datalumos.org/datalumos/project/226446/version/V1/view

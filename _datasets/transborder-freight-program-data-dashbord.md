@@ -7,11 +7,12 @@ websites: bts.gov
 data_source: https://www.bts.gov/topics/transborder-raw-data
 description: 
 last_modified: 2025-11-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1659
     url: https://www.datalumos.org/datalumos/project/239021

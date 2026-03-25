@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Percentage-of-Service-Connected-Disabled-Who-Used-/8fua-qvw7
 description: 
 last_modified: 2025-03-04
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 321
     url: https://www.datalumos.org/datalumos/project/221301/version/V1/view

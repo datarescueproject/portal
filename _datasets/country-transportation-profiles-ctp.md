@@ -7,11 +7,12 @@ websites: bts.gov
 data_source: https://www.bts.gov/ctp
 description: 
 last_modified: 2025-04-29
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 849
     url: https://doi.org/10.3886/E225581V1

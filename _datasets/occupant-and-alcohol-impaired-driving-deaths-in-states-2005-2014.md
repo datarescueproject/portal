@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Motor-Vehicle/Occupant-and-Alcohol-Impaired-Driving-Deaths-in-St/haed-k2ka/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

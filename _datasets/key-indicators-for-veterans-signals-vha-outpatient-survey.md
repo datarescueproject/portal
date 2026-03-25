@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/stories/s/3vge-s486
 description: 
 last_modified: 2025-03-18
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 429
     url: https://www.datalumos.org/datalumos/project/223241/version/V1/view

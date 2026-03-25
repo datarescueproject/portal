@@ -7,6 +7,7 @@ websites: nhtsa.gov
 data_source: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/
 description: 
 last_modified: 2025-12-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

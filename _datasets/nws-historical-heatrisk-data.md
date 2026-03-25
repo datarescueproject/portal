@@ -7,6 +7,7 @@ websites: wpc.ncep.noaa.gov
 data_source: https://www.wpc.ncep.noaa.gov/heatrisk/data.html
 description: 
 last_modified: 2025-03-30
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Monthly-COVID-19-Death-Rates-per-100-000-Populatio/89qs-mr7i/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Efficacy-of-universal-masking-for-source-control-a/q8qz-3pb6/about_data
 description: 
 last_modified: 2025-09-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

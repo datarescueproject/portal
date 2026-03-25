@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/nws-hydrometeorological-automated-data-system/
 description: 
 last_modified: 2025-03-22
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://hads.ncep.noaa.gov/WhatIsHADS.shtml
 category:

@@ -7,15 +7,16 @@ websites: census.gov
 data_source: https://www.census.gov/data/datasets/time-series/demo/cps/cps-supp_cps-repwgt/cps-food-security.2023.html
 description: 
 last_modified: 2025-10-01
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Labor & Employment 
   - Health & Healthcare 
-  - Education 
-  - Social Services 
-  - Business & Economy 
+  - Labor & Employment 
   - Housing & Community Development 
+  - Education 
+  - Business & Economy 
+  - Social Services 
 resources:
   - id: 1259
     url: https://www.datalumos.org/datalumos/project/238230/version/V1/view

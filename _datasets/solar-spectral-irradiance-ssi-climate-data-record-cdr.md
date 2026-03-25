@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/solar-spectral-irradiance/
 description: 
 last_modified: 2025-03-25
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/metadata/geoportal/rest/metadata/item/gov.noaa.ncdcC01722/html
 category:

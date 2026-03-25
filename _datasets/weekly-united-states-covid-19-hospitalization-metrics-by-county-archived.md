@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Weekly-United-States-COVID-19-Hospitalization-Metr/akn2-qxic/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

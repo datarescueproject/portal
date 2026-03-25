@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Aviation/AFF-T100-Segment-Summary-By-Carrier/q4tb-tbff/about_data
 description: 
 last_modified: 2025-10-11
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1282
     url: https://www.datalumos.org/datalumos/project/238363/version/V1/view

@@ -7,6 +7,7 @@ websites: apps.cr.nps.gov/nagprapublic/Home/Inventory
 data_source: https://apps.cr.nps.gov/nagprapublic/Home/Inventory
 description: 
 last_modified: 2025-05-30
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

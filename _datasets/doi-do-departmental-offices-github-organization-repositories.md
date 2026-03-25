@@ -7,12 +7,13 @@ websites: doi.gov
 data_source: https://github.com/DOI-DO
 description: 
 last_modified: 2025-02-12
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
-  - Agriculture 
   - Communications 
+  - Agriculture 
+  - Business & Economy 
 resources:
   - id: 62
     url: https://github.com/DOI-DO-clone

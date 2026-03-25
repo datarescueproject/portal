@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/Loss-of-Work-Due-to-Illness-from-COVID-19/qgkx-mswu/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

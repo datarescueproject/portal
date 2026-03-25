@@ -7,12 +7,13 @@ websites: usgs.gov
 data_source: https://energy.usgs.gov/uswtdb/data/
 description: 
 last_modified: 2025-03-03
+dataset_source_status: 
 metadata_available: Under Review
 metadata_url: 
 category:
   - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 577
     url: https://zenodo.org/records/14783215

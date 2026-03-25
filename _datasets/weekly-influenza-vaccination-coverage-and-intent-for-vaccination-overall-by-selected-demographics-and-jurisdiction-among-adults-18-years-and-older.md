@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Flu-Vaccinations/Weekly-Influenza-Vaccination-Coverage-and-Intent-f/sw5n-wg2p/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

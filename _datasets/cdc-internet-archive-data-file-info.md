@@ -7,6 +7,7 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/index.html
 description: Contains information what data is included in the CDC data torrent available from archive.org including subject tags/keywords.
 last_modified: 2025-03-02
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

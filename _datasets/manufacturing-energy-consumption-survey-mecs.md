@@ -7,6 +7,7 @@ websites: eia.gov
 data_source: https://www.eia.gov/consumption/manufacturing/data/2018/#r13
 description: 
 last_modified: 2025-03-02
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Transit/Daily-Transit-Ridership/dc74-f8qd/about_data
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 858
     url: https://www.datalumos.org/datalumos/project/222626/version/V1/view

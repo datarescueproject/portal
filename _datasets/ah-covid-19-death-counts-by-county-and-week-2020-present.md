@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/AH-COVID-19-Death-Counts-by-County-and-Week-2020-p/ite7-j2w7/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

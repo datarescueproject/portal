@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Public-Transit/National-Transit-Map-All-Stop-Locations/39cr-5x89/about_data
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 850
     url: https://www.datalumos.org/datalumos/project/225621/version/V1/view

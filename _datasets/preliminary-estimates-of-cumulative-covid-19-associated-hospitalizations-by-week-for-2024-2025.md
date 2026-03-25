@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Preliminary-Estimates-of-Cumulative-COVID-19-assoc/xnjn-rdmd/about_data
 description: 
 last_modified: 2025-10-21
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

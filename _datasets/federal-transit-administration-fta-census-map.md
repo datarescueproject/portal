@@ -7,6 +7,7 @@ websites: usdot.maps.arcgis.com
 data_source: https://usdot.maps.arcgis.com/apps/mapviewer/index.html?webmap=5287ba87422448c7a97e5d60cc5e4f7b
 description: 
 last_modified: 2026-01-11
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.transit.dot.gov/ntd/fta-census-map
 category:

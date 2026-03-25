@@ -7,6 +7,7 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/fluoridation/php/statistics/?CDC_AAref_Val=https://www.cdc.gov/fluoridation/statistics/index.htm
 description: 
 last_modified: 2025-04-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Percentage-Era-Distribution-of-Male-Users-and-Non-/t42x-hwar
 description: 
 last_modified: 2025-03-17
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 407
     url: https://www.datalumos.org/datalumos/project/223001/version/V1/view

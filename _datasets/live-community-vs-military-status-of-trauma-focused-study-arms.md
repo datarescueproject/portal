@@ -7,6 +7,7 @@ websites: ptsd-va.data.socrata.com
 data_source: https://ptsd-va.data.socrata.com/PTSD-Repository/LIVE-Community-vs-Military-Status-of-Trauma-focuse/iext-qjky
 description: 
 last_modified: 2025-05-13
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

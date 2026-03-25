@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.va.gov/vetdata/veteran_population.asp
 description: 
 last_modified: 2025-03-04
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 315
     url: https://www.datalumos.org/datalumos/project/221201/version/V1/view

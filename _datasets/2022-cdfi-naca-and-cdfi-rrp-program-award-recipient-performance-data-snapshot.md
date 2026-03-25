@@ -7,11 +7,12 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2024-12/CDFI_RRP_Snapshot_FY22_Final.pdf
 description: 
 last_modified: 2025-03-31
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 646
     url: https://www.datalumos.org/datalumos/project/224342/version/V1/view

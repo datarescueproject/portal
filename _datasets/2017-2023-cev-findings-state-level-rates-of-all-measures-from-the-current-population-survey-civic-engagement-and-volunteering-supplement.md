@@ -7,11 +7,12 @@ websites: data.americorps.gov
 data_source: https://data.americorps.gov/dataset/2017-2023-CEV-Findings-State-Level-Rates-of-All-Me/4r6x-re58/about_data
 description: 
 last_modified: 2025-03-10
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Humanitarian & Disaster Relief 
   - Military & Veterans Affairs 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 385
     url: https://www.datalumos.org/datalumos/project/222044/version/V2/view

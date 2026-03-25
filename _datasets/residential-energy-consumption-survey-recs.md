@@ -7,6 +7,7 @@ websites: eia.gov
 data_source: https://www.eia.gov/consumption/residential/data/2020/
 description: 
 last_modified: 2025-03-03
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,15 +7,16 @@ websites: census.gov
 data_source: https://www.census.gov/naics/?input=1531&year=2022
 description: 
 last_modified: 2025-03-03
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
   - Health & Healthcare 
-  - Education 
-  - Social Services 
-  - Business & Economy 
+  - Labor & Employment 
   - Housing & Community Development 
+  - Education 
+  - Business & Economy 
+  - Social Services 
 resources:
   - id: 53
     url: https://github.com/oedp/NAICS

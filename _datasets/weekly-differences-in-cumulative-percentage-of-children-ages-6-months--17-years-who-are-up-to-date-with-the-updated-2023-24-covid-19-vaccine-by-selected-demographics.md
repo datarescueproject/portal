@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Child-Vaccinations/Weekly-Differences-in-Cumulative-Percentage-of-Chi/qfiq-jir6/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

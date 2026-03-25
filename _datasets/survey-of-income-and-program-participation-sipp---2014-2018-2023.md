@@ -7,15 +7,16 @@ websites: census.gov
 data_source: https://www.census.gov/programs-surveys/sipp.html
 description: 
 last_modified: 2025-03-03
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
   - Health & Healthcare 
-  - Education 
-  - Social Services 
-  - Business & Economy 
+  - Labor & Employment 
   - Housing & Community Development 
+  - Education 
+  - Business & Economy 
+  - Social Services 
 resources:
   - id: 306
     url: https://www.dropbox.com/scl/fo/axlk0xg1gvgrwpjs0rtw4/AObeIyAL3OLJn5-c-K-PiP0?rlkey=5yo9sbk7gl4ks0bk2hbuzct8d&dl=0

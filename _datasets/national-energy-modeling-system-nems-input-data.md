@@ -7,6 +7,7 @@ websites: eiagov.github.com
 data_source: https://github.com/EIAgov/NEMS/tree/main/input/emm/emm_db
 description: Input data to NEMS model. lots of granular real and imputed data
 last_modified: 2025-04-24
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

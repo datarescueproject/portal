@@ -7,11 +7,12 @@ websites: nhts.ornl.gov
 data_source: https://nhts.ornl.gov/download.shtml
 description: 
 last_modified: 2025-07-31
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Energy 
+  - Science & Research 
 resources:
   - id: 1214
     url: https://www.datalumos.org/datalumos/project/236970/version/V1/view

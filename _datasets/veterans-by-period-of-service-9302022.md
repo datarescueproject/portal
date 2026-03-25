@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Veterans-by-period-of-service-9-30-2022/fppf-663f
 description: 
 last_modified: 2025-03-10
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 340
     url: https://www.datalumos.org/datalumos/project/221746/version/V1/view

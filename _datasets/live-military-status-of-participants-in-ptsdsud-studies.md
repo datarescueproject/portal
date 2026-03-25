@@ -7,6 +7,7 @@ websites: ptsd-va.data.socrata.com
 data_source: https://ptsd-va.data.socrata.com/PTSD-Repository/LIVE-Military-Status-of-Participants-in-PTSD-SUD-S/8vi4-e5tc
 description: 
 last_modified: 2025-05-13
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

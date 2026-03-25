@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Case-Surveillance/COVID-19-Cases-Among-Healthcare-Personnel-by-week-/4zxn-f9dq/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Aviation/AFF-GA-Performance/kxxg-a7c6/about_data
 description: 
 last_modified: 2025-10-11
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1283
     url: https://www.datalumos.org/datalumos/project/238403/version/V1/view

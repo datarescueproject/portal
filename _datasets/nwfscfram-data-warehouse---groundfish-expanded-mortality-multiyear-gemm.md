@@ -7,6 +7,7 @@ websites: apps-afsc.fisheries.noaa.gov
 data_source: https://www.webapps.nwfsc.noaa.gov/data/metadata/observer.gemm_fact
 description: 
 last_modified: 2025-04-29
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.datalumos.org/datalumos/project/219902/version/V1/view?path=/datalumos/219902/fcrversions/V1/Metadata-GEMM-Fact-Layer-.csv&type=file
 category:

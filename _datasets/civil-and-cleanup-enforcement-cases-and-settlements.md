@@ -7,6 +7,7 @@ websites: epa.gov
 data_source: https://www.epa.gov/enforcement/civil-and-cleanup-enforcement-cases-and-settlements
 description: 
 last_modified: 2025-09-19
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

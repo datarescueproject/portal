@@ -7,12 +7,13 @@ websites: sciencebase.gov
 data_source: https://www.sciencebase.gov/catalog/item/58e6840ce4b09da6799ac85b
 description: 
 last_modified: 2026-01-27
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
   - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 2922
     url: https://www.datalumos.org/datalumos/project/240463/version/V1/view

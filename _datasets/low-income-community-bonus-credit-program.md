@@ -7,6 +7,7 @@ websites: lists.nrel.gov
 data_source: https://data.nrel.gov/submissions/222
 description: 
 last_modified: 2025-04-03
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://experience.arcgis.com/experience/12227d891a4d471497ac13f60fffd822
 category:

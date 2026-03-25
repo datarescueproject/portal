@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Trends-in-Worker-Hearing-Loss-by-Industry-Sector-1/c294-dri5/about_data
 description: 
 last_modified: 2025-09-02
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

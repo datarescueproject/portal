@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/stories/s/fbhj-bg8n
 description: 
 last_modified: 2025-04-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 700
     url: https://www.datalumos.org/datalumos/project/224424/version/V1/view

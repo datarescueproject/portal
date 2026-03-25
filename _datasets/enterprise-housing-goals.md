@@ -7,11 +7,12 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/data/enterprise-housing-goals
 description: 
 last_modified: 2025-02-21
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 147
     url: https://www.datalumos.org/datalumos/project/219804/version/V1/view

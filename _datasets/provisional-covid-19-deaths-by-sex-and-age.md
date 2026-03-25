@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/Provisional-COVID-19-Deaths-by-Sex-and-Age/9bhg-hcku/about_data
 description: 
 last_modified: 2025-10-24
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

@@ -7,6 +7,7 @@ websites: bea.gov
 data_source: https://www.bea.gov/data/intl-trade-investment/activities-us-affiliates-foreign-mnes
 description: 
 last_modified: 2025-11-24
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

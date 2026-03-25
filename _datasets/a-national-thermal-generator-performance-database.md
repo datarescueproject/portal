@@ -7,6 +7,7 @@ websites: data.nrel.gov
 data_source: https://data.nrel.gov/submissions/100
 description: 
 last_modified: 2025-06-15
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

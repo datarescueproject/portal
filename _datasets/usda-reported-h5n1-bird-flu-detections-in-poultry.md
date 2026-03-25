@@ -7,6 +7,7 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/bird-flu/situation-summary/data-map-commercial.html
 description: 
 last_modified: 2025-05-16
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

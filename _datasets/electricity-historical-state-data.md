@@ -7,6 +7,7 @@ websites: eia.gov
 data_source: https://www.eia.gov/electricity/data/state/
 description: 
 last_modified: 2025-04-24
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

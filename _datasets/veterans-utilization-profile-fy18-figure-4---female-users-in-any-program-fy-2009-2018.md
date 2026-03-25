@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-4-Female-Users-in-Any-Program-FY-2009-2018/yrqh-6wwf
 description: 
 last_modified: 2025-04-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 703
     url: https://www.datalumos.org/datalumos/project/224643/version/V1/view

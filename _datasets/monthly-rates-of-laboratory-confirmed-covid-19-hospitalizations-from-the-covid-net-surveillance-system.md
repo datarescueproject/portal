@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Monthly-Rates-of-Laboratory-Confirmed-COVID-19-Hos/cf5u-bm9w/about_data
 description: 
 last_modified: 2025-10-14
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

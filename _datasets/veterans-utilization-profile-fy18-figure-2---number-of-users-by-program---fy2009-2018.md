@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-2-Number-of-Users-by-Program-FY2009-2018/bdir-tym7
 description: 
 last_modified: 2025-04-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 706
     url: https://www.datalumos.org/datalumos/project/224663/version/V1/view

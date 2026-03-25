@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Health-Statistics/Provisional-COVID-19-death-counts-and-rates-by-mon/yrur-wghw/about_data
 description: 
 last_modified: 2025-10-14
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

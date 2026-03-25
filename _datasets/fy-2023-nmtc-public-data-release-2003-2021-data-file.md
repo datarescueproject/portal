@@ -7,11 +7,12 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2023-08/NMTC_Public_Data_Release_includes_FY_2021_Data_final.xlsx
 description: 
 last_modified: 2025-03-31
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 653
     url: https://www.datalumos.org/datalumos/project/224381/version/V1/view

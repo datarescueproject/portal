@@ -7,6 +7,7 @@ websites: noaa.gov
 data_source: https://noaadata.apps.nsidc.org/NOAA/G02186/
 description: 
 last_modified: 2025-04-25
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://nsidc.org/data/g02186/versions/1
 category:

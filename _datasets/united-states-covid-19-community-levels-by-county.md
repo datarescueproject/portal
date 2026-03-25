@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/United-States-COVID-19-Community-Levels-by-County/3nnm-4jni/about_data
 description: 
 last_modified: 2025-10-25
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Research-and-Statistics/Intercity-Air-Bus-and-Rail-Transportation-Faciliti/xnub-2sc4/about_data
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 859
     url: https://doi.org/10.3886/E227104V1

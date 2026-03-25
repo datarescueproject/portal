@@ -7,6 +7,7 @@ websites: eia.gov
 data_source: https://www.eia.gov/state/seds/seds-data-fuel.php?sid=US#DataFiles
 description: 
 last_modified: 2025-10-01
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

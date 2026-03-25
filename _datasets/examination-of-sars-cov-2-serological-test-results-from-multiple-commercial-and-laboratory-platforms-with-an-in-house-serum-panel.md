@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Coronavirus-and-Other-Respiratory-Viruses/Examination-of-SARS-CoV-2-serological-test-results/hhvg-83jq/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,6 +7,7 @@ websites: fhwa.dot.gov
 data_source: https://www.fhwa.dot.gov/policy/otps/nhcci/
 description: 
 last_modified: 2025-10-11
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

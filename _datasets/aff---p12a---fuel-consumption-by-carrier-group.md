@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Aviation/AFF-P12a-Fuel-Consumption-by-Carrier-Group/33xp-y9fx/about_data
 description: 
 last_modified: 2025-10-11
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1278
     url: https://www.datalumos.org/datalumos/project/238366/version/V1/view

@@ -7,6 +7,7 @@ websites: transit.dot.gov
 data_source: https://www.transit.dot.gov/ntd/transit-agency-profiles
 description: 
 last_modified: 2025-11-22
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

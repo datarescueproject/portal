@@ -7,6 +7,7 @@ websites: hud.gov
 data_source: https://www.hud.gov/AFFH
 description: 
 last_modified: 2025-05-19
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://datacatalog.urban.org/dataset/us-department-housing-and-urban-development-affirmatively-furthering-fair-housing-hud-affh
 category:

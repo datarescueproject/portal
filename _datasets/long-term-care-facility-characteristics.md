@@ -7,6 +7,7 @@ websites: data.cms.gov
 data_source: https://data.cms.gov/quality-of-care/long-term-care-facility-characteristics
 description: 
 last_modified: 2025-06-15
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

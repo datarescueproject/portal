@@ -7,6 +7,7 @@ websites: bea.gov
 data_source: https://www.bea.gov/data/intl-trade-investment/international-trade-goods-and-services
 description: 
 last_modified: 2025-05-26
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

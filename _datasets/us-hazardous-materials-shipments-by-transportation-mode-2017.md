@@ -7,11 +7,12 @@ websites: bts.gov
 data_source: https://www.bts.gov/content/us-hazardous-materials-shipments-transportation-mode-2007
 description: 
 last_modified: 2025-04-22
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 756
     url: https://www.datalumos.org/datalumos/project/222162/version/V1/view

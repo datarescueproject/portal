@@ -7,6 +7,7 @@ websites: epa.gov
 data_source: https://www.epa.gov/egrid/download-data
 description: 
 last_modified: 2025-03-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.epa.gov/system/files/documents/2024-01/egrid2022_technical_guide.pdf
 category:

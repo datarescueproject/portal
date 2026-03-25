@@ -7,11 +7,12 @@ websites: neh.gov
 data_source: https://catalog.data.gov/dataset/neh-grant-products-conference-presentations
 description: 
 last_modified: 2025-03-21
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Finance & Budget 
   - Energy 
+  - Finance & Budget 
 resources:
   - id: 554
     url: https://www.datalumos.org/datalumos/project/223141/version/V1/view

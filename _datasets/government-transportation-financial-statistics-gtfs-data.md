@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Research-and-Statistics/Government-Transportation-Financial-Statistics-GTF/nu8j-7gmn/about_data
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 851
     url: https://www.datalumos.org/datalumos/project/224442/version/V1/view

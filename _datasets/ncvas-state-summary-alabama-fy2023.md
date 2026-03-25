@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: http://data.va.gov/stories/s/jfpg-kfan
 description: 
 last_modified: 2025-04-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 798
     url: https://www.datalumos.org/datalumos/project/226443/version/V1/view

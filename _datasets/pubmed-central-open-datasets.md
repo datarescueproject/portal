@@ -7,6 +7,7 @@ websites: ftp.ncbi.nih.gov
 data_source: https://ftp.ncbi.nlm.nih.gov/pub/pmc/
 description: 
 last_modified: 2025-06-23
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://pmc.ncbi.nlm.nih.gov/tools/textmining/
 category:

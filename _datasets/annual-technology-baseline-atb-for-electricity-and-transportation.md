@@ -7,6 +7,7 @@ websites: nrel.gov
 data_source: https://atb.nrel.gov/
 description: 
 last_modified: 2025-03-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

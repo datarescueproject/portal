@@ -7,11 +7,12 @@ websites: catalog.data.gov
 data_source: https://catalog.data.gov/dataset/inventory-of-owned-and-leased-properties-iolp
 description: 
 last_modified: 2025-03-05
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://biglocalnews.org/#/project/UHJvamVjdDo2ZDg5OTBiYy0xNjBkLTRjMzEtOTVkZC05M2JkMzFiNzIzN2E=
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 333
     url: https://biglocalnews.org/#/project/UHJvamVjdDo2ZDg5OTBiYy0xNjBkLTRjMzEtOTVkZC05M2JkMzFiNzIzN2E=

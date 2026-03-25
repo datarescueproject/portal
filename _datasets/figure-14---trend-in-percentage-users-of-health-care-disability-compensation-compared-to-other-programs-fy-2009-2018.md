@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-14-Trend-in-Percentage-Users-of-Health-Care/aghm-8q3t
 description: 
 last_modified: 2025-03-17
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 399
     url: https://www.datalumos.org/datalumos/project/223001/version/V1/view

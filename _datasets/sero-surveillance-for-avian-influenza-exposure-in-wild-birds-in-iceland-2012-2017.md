@@ -7,12 +7,13 @@ websites: data.usgs.gov
 data_source: https://data.usgs.gov/datacatalog/data/USGS662fb3e5d34ea70bd5f26088
 description: 
 last_modified: 2025-05-01
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.sciencebase.gov/catalog/item/662fb3e5d34ea70bd5f26088
 category:
   - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 881
     url: https://www.datalumos.org/datalumos/project/228048/version/V1/view

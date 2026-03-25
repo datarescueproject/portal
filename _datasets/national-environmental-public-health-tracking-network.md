@@ -7,6 +7,7 @@ websites: ephtracking.cdc.gov
 data_source: https://ephtracking.cdc.gov/
 description: https://ephtracking.cdc.gov/DataExplorer/
 last_modified: 2025-09-02
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

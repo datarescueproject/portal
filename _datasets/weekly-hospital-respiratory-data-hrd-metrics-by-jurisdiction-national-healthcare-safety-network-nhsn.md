@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Weekly-Hospital-Respiratory-Data-HRD-Metrics-by-Ju/ua7e-t2fy/about_data
 description: 
 last_modified: 2025-10-21
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

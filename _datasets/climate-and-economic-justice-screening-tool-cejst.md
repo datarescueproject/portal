@@ -7,6 +7,7 @@ websites: ejscreen.epa.gov
 data_source: https://www.epa.gov/ejscreen
 description: 
 last_modified: 2025-09-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://datacatalog.urban.org/dataset/climate-and-economic-justice-screening-tool-data
 category:

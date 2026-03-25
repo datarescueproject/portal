@@ -7,12 +7,13 @@ websites: usgs.gov
 data_source: https://eerscmap.usgs.gov/uspvdb/data/
 description: 
 last_modified: 2025-03-03
+dataset_source_status: 
 metadata_available: Under Review
 metadata_url: 
 category:
   - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 578
     url: https://zenodo.org/records/14736300

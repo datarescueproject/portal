@@ -7,6 +7,7 @@ websites: gis.cdc.gov
 data_source: https://gis.cdc.gov/grasp/nchhstpatlas/tables.html
 description: 
 last_modified: 2026-02-26
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

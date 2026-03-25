@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/products/natural-hazards/tsunamis-earthquakes-volcanoes/earthquakes/intensity-database-1638-1985
 description: 
 last_modified: 2025-05-30
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

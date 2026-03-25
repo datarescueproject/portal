@@ -7,11 +7,12 @@ websites: data.americorps.gov
 data_source: https://data.americorps.gov/National-Service/AmeriCorps-Research-Grantee-Map-2015-2023/8p8a-e8de
 description: 
 last_modified: 2025-03-10
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Humanitarian & Disaster Relief 
   - Military & Veterans Affairs 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 372
     url: https://www.datalumos.org/datalumos/project/222041/version/V1/view

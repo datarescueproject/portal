@@ -7,6 +7,7 @@ websites: fhwa.dot.gov
 data_source: https://www.fhwa.dot.gov/policyinformation/travel_monitoring/tvt.cfm
 description: 
 last_modified: 2025-11-15
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

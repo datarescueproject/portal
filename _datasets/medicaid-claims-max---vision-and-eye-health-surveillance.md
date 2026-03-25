@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Vision-Eye-Health/Medicaid-Claims-MAX-Vision-and-Eye-Health-Surveill/bwx3-gx66/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
