@@ -7,6 +7,7 @@ websites: cdc.gov
 data_source: https://wwwn.cdc.gov/nchs/nhanes/default.aspx
 description: 
 last_modified: 2025-09-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

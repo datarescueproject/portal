@@ -7,6 +7,7 @@ websites: chs.coast.noaa.gov
 data_source: https://chs.coast.noaa.gov/htdata/Inundation/GreatLakes/BulkDownload/index.html
 description: 
 last_modified: 2025-05-09
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

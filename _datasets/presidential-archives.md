@@ -7,6 +7,7 @@ websites: archives.gov
 data_source: https://www.archives.gov/presidential-records
 description: 
 last_modified: 2026-01-20
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

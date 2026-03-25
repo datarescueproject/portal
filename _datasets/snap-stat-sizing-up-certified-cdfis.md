@@ -7,11 +7,12 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/2020-11/snap-stat-june-1-2016.pdf
 description: 
 last_modified: 2025-04-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 779
     url: https://www.datalumos.org/datalumos/project/225761/version/V1/view

@@ -7,6 +7,7 @@ websites: fisheries.noaa.gov
 data_source: https://www.fisheries.noaa.gov/inport/item/18418
 description: 
 last_modified: 2025-05-19
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://purl.stanford.edu/vk442nc9859
 category:

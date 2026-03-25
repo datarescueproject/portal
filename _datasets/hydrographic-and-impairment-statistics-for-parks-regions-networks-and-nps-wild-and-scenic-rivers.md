@@ -7,6 +7,7 @@ websites: irma.nps.gov
 data_source: https://irma.nps.gov/DataStore/Reference/Profile/2188821
 description: 
 last_modified: 2025-03-30
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

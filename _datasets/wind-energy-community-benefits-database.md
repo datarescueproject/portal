@@ -7,6 +7,7 @@ websites: windexchange.energy.gov
 data_source: https://windexchange.energy.gov/projects/community-benefit-agreements
 description: 
 last_modified: 2025-02-12
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://windexchange.energy.gov/community-benefits-guide#form
 category:

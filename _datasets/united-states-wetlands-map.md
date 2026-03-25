@@ -7,12 +7,13 @@ websites: wim.usgs.gov
 data_source: https://fwspublicservices.wim.usgs.gov/wetlandsmapservice/rest/services/Wetlands/MapServer
 description: 
 last_modified: 2025-03-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
   - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 579
     url: https://arcgis.com/home/item.html?id=050d4dd33df7462db3ea3b76c1320462

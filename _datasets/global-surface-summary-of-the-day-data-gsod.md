@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/global-summary-of-the-day/
 description: 
 last_modified: 2025-03-20
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

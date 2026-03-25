@@ -7,6 +7,7 @@ websites: data.cms.gov
 data_source: https://data.cms.gov/provider-characteristics/hospitals-and-other-facilities/rural-health-clinic-all-owners
 description: 
 last_modified: 2025-06-17
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

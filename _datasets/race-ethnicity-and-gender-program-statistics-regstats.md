@@ -7,6 +7,7 @@ websites: regstats.usda.gov
 data_source: https://www.regstats.usda.gov/
 description: 
 last_modified: 2025-05-19
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://datacatalog.urban.org/dataset/us-department-agriculture-race-ethnicity-and-gender-program-statistics-regstats
 category:

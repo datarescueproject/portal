@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Aviation/AFF-GA-Inventory/u2pk-kyws/about_data
 description: 
 last_modified: 2025-09-22
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1254
     url: https://www.datalumos.org/datalumos/project/238142/version/V1/view

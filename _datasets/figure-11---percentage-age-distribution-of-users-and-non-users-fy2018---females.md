@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-11-Percentage-Age-Distribution-of-Users-and/id78-az72
 description: 
 last_modified: 2025-03-10
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 346
     url: https://www.datalumos.org/datalumos/project/221982/version/V1/view

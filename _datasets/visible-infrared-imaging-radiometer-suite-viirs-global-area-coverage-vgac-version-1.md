@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/viirs-global-area-coverage/
 description: 
 last_modified: 2025-05-18
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/metadata/geoportal//rest/metadata/item/gov.noaa.ncdc%3AC01703
 category:

@@ -7,6 +7,7 @@ websites: bls.gov
 data_source: https://data.bls.gov/cew/apps/bls_naics/v3/bls_naics_app.htm#tab=search&naics=2022&keyword=%22retailers%22&searchType=indexes&filter=6_filter&sort=text_asc&resultIndex=0
 description: 
 last_modified: 2025-05-14
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

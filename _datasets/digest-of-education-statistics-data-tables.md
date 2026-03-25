@@ -7,6 +7,7 @@ websites: nces.ed.gov
 data_source: https://nces.ed.gov/programs/digest/current_tables.asp
 description: 
 last_modified: 2025-07-31
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

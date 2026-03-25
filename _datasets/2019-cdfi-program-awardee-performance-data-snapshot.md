@@ -7,11 +7,12 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/documents/data-releases?page=1#~text=2019%20CDFI%20Program%20Awardee%20Performance%20Data%20Snapshot
 description: 
 last_modified: 2025-03-31
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 647
     url: https://www.datalumos.org/datalumos/project/224361/version/V1/view

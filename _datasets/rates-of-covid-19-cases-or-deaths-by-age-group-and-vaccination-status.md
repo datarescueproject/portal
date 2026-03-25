@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Public-Health-Surveillance/Rates-of-COVID-19-Cases-or-Deaths-by-Age-Group-and/3rge-nu2a
 description: 
 last_modified: 2025-10-25
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

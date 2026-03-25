@@ -7,6 +7,7 @@ websites: bea.gov
 data_source: https://apps.bea.gov/histdata/histChildLevels.html?HMI=14&oldDiv=International%20Accounts
 description: 
 last_modified: 2026-01-11
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Research-and-Statistics/Citizen-Connect-County-data-live-/t3kh-5nek/about_data
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 848
     url: https://www.datalumos.org/datalumos/project/226761/version/V1/view

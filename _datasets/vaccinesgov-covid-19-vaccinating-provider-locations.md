@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Vaccinations/Vaccines-gov-COVID-19-vaccinating-provider-locatio/5jp2-pgaw/about_data
 description: 
 last_modified: 2025-10-25
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

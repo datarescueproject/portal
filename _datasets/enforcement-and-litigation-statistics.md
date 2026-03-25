@@ -7,6 +7,7 @@ websites: eeoc.gov
 data_source: https://www.eeoc.gov/data/enforcement-and-litigation-statistics-0
 description: 
 last_modified: 2025-05-14
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

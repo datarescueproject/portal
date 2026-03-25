@@ -7,11 +7,12 @@ websites: fhfa.gov
 data_source: https://www.fhfa.gov/document/fair-lending-data-files
 description: 
 last_modified: 2025-03-11
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 394
     url: https://www.datalumos.org/datalumos/project/222281/version/V1/view

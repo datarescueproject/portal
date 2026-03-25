@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Models/CDC-COVID-19-Cases-and-Deaths-Ensemble-Forecast-Ar/ci7c-73kg/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

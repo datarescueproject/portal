@@ -7,6 +7,7 @@ websites: eia.gov
 data_source: https://www.eia.gov/naturalgas/ngqs/#?report=RP9&year1=2017&year2=2017&company=Name
 description: 
 last_modified: 2025-03-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.eia.gov/naturalgas/ngqs/ngqs_user_guide.pdf
 category:

@@ -7,6 +7,7 @@ websites: echo.epa.gov
 data_source: https://echo.epa.gov/files/echodownloads
 description: 
 last_modified: 2025-03-26
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://echo.epa.gov/tools/data-downloads#exporter
 category:

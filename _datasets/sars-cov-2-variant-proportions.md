@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Laboratory-Surveillance/SARS-CoV-2-Variant-Proportions/jr58-6ysp/about_data
 description: 
 last_modified: 2025-10-21
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

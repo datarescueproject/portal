@@ -7,6 +7,7 @@ websites: gsa.gov
 data_source: https://origin-www.gsa.gov/real-estate/real-estate-services/real-property-disposition/noncore-property-list
 description: 
 last_modified: 2025-03-05
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

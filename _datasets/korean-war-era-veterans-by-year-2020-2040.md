@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Korean-War-Era-Veterans-by-Year-2020-2040/b3vf-kuiz
 description: 
 last_modified: 2025-03-04
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 317
     url: https://www.datalumos.org/datalumos/project/221282/version/V1/view

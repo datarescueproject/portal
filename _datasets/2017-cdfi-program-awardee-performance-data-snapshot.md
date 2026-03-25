@@ -7,11 +7,12 @@ websites: cdfifund.gov
 data_source: https://www.cdfifund.gov/sites/cdfi/files/documents/cdfi-performance-data-snapshot_approval.pdf
 description: 
 last_modified: 2025-04-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
   - id: 778
     url: https://www.datalumos.org/datalumos/project/225743/version/V1/view

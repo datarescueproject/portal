@@ -7,6 +7,7 @@ websites: data.hrsa.gov
 data_source: https://data.hrsa.gov/data/download
 description: Workforce projections for the supply of and demand for healthcare workers in the United States.
 last_modified: 2025-09-18
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

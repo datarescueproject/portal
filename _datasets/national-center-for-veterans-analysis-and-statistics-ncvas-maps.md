@@ -7,6 +7,7 @@ websites: va.gov
 data_source: https://www.va.gov/vetdata/Maps.asp
 description: 
 last_modified: 2025-10-22
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

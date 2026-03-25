@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-8-Percentage-Distributions-of-Gender-Use-Ra/3map-zpzw
 description: 
 last_modified: 2025-04-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 702
     url: https://www.datalumos.org/datalumos/project/224641/version/V1/view

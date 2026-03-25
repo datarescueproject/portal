@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/integrated-global-radiosonde-archive/
 description: 
 last_modified: 2025-03-25
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/weather-balloon/integrated-global-radiosonde-archive
 category:

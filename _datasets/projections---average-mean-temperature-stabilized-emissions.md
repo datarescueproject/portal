@@ -7,6 +7,7 @@ websites: climate.gov
 data_source: https://www.climate.gov/maps-data/data-snapshots/data-source/projections-average-mean-temperature-stabilized-emissions
 description: 
 last_modified: 2025-06-28
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

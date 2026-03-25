@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Survey-Questions-Tobacco-Use-/Question-Inventory-on-Tobacco-QIT-/vdgb-f9s3/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Center-for-Emerging-and-Zoonotic-Infectio/Lyme-disease-public-use-line-listed-data-without-g/e2a5-s9pr/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

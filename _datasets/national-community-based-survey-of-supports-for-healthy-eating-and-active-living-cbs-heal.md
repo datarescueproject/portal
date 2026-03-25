@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Nutrition-Physical-Activity-and-Obesity/National-Community-Based-Survey-of-Supports-for-He/8hus-y5nc/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

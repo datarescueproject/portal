@@ -7,11 +7,12 @@ websites: bts.gov
 data_source: https://www.bts.gov/faf
 description: 
 last_modified: 2025-06-13
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1092
     url: https://www.datalumos.org/datalumos/project/231642/version/V2/view

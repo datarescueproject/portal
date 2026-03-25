@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/irs-temperature-and-humidity/
 description: 
 last_modified: 2025-03-22
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ncdcC01713
 category:

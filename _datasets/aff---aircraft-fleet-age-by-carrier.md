@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Aviation/AFF-Aircraft-Fleet-Age-by-Carrier/hinw-eisy/about_data
 description: 
 last_modified: 2025-09-22
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1255
     url: https://www.datalumos.org/datalumos/project/238101/version/V1/view

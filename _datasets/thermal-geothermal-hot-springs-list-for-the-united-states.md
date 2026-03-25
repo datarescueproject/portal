@@ -7,6 +7,7 @@ websites: ngdc.noaa.gov
 data_source: https://www.ngdc.noaa.gov/hazard/data/publications/NCEI-thermal-springs.xlsx
 description: 
 last_modified: 2025-05-30
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=gov.noaa.ngdc.mgg.hazards%3AG01139
 category:

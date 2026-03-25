@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Pregnancy-Vaccination/Monthly-Nirsevimab-Receipt-and-Intent-Among-Female/8ame-63pc/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

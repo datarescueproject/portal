@@ -7,6 +7,7 @@ websites: energy.gov
 data_source: https://www.energy.gov/justice/energy-justice-dashboard-beta
 description: 
 last_modified: 2025-03-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

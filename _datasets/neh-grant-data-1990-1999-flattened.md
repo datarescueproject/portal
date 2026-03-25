@@ -7,11 +7,12 @@ websites: neh.gov
 data_source: https://catalog.data.gov/dataset/neh-grant-data-1990-1999-flattened
 description: 
 last_modified: 2025-03-21
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:
-  - Finance & Budget 
   - Energy 
+  - Finance & Budget 
 resources:
   - id: 533
     url: https://www.datalumos.org/datalumos/project/223141/version/V1/view

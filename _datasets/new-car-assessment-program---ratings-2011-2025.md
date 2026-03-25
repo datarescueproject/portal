@@ -7,6 +7,7 @@ websites: nhtsa.gov
 data_source: https://www.nhtsa.gov/nhtsa-datasets-and-apis
 description: 
 last_modified: 2025-11-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

@@ -7,6 +7,7 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/nchs/nvss/vsrr/covid19/excess_deaths.htm
 description: 
 last_modified: 2025-11-05
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

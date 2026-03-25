@@ -7,6 +7,7 @@ websites: nps.gov
 data_source: https://www.nps.gov/articles/publications-diverse.htm
 description: 
 last_modified: 2025-03-18
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

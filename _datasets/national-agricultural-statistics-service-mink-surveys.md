@@ -7,6 +7,7 @@ websites: release.nass.usda.gov
 data_source: https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Mink/index.php
 description: 
 last_modified: 2025-09-27
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

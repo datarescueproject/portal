@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/oceans/coris/
 description: 
 last_modified: 2025-04-17
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.coris.noaa.gov/
 category:

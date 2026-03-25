@@ -7,6 +7,7 @@ websites: data.giss.nasa.gov
 data_source: https://data.giss.nasa.gov/impacts/gfwed/
 description: 
 last_modified: 2026-01-20
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

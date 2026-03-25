@@ -7,6 +7,7 @@ websites: bjs.ojp.gov
 data_source: https://bjs.ojp.gov/library/publications/national-law-enforcement-accountability-database-2018-2023
 description: 
 last_modified: 2025-02-28
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

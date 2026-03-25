@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Motor-Vehicle/Percentage-of-Drivers-and-Front-Seat-Passengers-We/iz46-hpaa/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

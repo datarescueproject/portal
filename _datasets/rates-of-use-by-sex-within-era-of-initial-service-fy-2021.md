@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Rates-of-Use-by-Sex-within-Era-of-Initial-Service-/rkt9-3vj6
 description: 
 last_modified: 2025-03-17
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 405
     url: https://www.datalumos.org/datalumos/project/223001/version/V1/view

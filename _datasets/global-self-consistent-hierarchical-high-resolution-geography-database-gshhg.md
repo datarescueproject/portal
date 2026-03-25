@@ -7,6 +7,7 @@ websites: ngdc.noaa.gov
 data_source: https://www.ngdc.noaa.gov/mgg/shorelines/gshhs.html
 description: 
 last_modified: 2025-04-26
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/96JB00104
 category:

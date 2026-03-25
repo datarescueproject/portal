@@ -7,6 +7,7 @@ websites: eddataexpress.ed.gov
 data_source: https://eddataexpress.ed.gov/download/data-builder/data-download-tool?f%5B0%5D=school_year%3A2022-2023&f%5B1%5D=state_name%3AALABAMA
 description: 
 last_modified: 2025-04-20
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

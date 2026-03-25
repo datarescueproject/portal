@@ -7,6 +7,7 @@ websites: fema.gov
 data_source: https://www.fema.gov/about/openfema/data-sets
 description: 
 last_modified: 2025-02-11
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206042421/https://www.fema.gov/openfema-data-page/declaration-denials-v1
 category:

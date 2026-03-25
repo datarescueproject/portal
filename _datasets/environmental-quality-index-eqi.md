@@ -7,6 +7,7 @@ websites: epa.gov
 data_source: https://www.epa.gov/healthresearch/environmental-quality-index-eqi
 description: 
 last_modified: 2025-03-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.epa.gov/healthresearch/environmental-quality-index-eqi#downloads
 category:

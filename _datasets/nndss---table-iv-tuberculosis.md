@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-IV-Tuberculosis/pxa6-asqb/about_data
 description: 
 last_modified: 2026-01-11
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

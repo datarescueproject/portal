@@ -7,6 +7,7 @@ websites: ffiec.cfpb.gov
 data_source: https://ffiec.cfpb.gov/documentation/api/file-serving/
 description: 
 last_modified: 2025-04-23
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://ffiec.cfpb.gov/documentation/api/file-serving/#s3-file-service
 category:

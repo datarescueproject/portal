@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Effects-of-antimicrobial-chemical-exposures-on-inf/5bep-4fv6
 description: 
 last_modified: 2025-11-05
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

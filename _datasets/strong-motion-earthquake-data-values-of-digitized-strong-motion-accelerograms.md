@@ -7,6 +7,7 @@ websites: ngdc.noaa.gov
 data_source: https://www.ngdc.noaa.gov/hazard/data/cdroms/EQ_StrongMotion_v1/
 description: 
 last_modified: 2025-05-12
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

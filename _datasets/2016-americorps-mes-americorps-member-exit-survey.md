@@ -7,11 +7,12 @@ websites: data.americorps.gov
 data_source: https://data.americorps.gov/National-Service/2016-AmeriCorps-MES-AmeriCorps-Member-Exit-Survey/wqhv-fm5d/about_data
 description: 
 last_modified: 2025-03-10
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Humanitarian & Disaster Relief 
   - Military & Veterans Affairs 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 382
     url: https://www.datalumos.org/datalumos/project/222043/version/V1/view

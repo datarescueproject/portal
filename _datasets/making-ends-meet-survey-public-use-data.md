@@ -7,6 +7,7 @@ websites: consumerfinance.gov
 data_source: https://www.consumerfinance.gov/data-research/making-ends-meet-survey-data/public-data/
 description: 
 last_modified: 2025-09-05
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

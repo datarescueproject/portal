@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/products/estuarine-bathymetric-digital-elevation-models
 description: 
 last_modified: 2025-04-27
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

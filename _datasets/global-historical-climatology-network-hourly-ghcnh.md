@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/oa/global-historical-climatology-network/index.html#hourly/
 description: 
 last_modified: 2025-03-23
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

@@ -7,14 +7,15 @@ websites: https://github.com/ombegov
 data_source: https://github.com/ombegov/2024-Federal-AI-Use-Case-Inventory
 description: 
 last_modified: 2025-06-18
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
   - Labor & Employment 
-  - Science & Research 
   - State & Policy 
-  - Social Services 
   - Agriculture 
+  - Science & Research 
+  - Social Services 
   - Justice & Public Safety 
 resources:
   - id: 158

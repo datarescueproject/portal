@@ -7,15 +7,16 @@ websites: census.gov
 data_source: https://www.census.gov/construction/soc/index.html
 description: 
 last_modified: 2025-09-02
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
   - Health & Healthcare 
-  - Education 
-  - Social Services 
-  - Business & Economy 
+  - Labor & Employment 
   - Housing & Community Development 
+  - Education 
+  - Business & Economy 
+  - Social Services 
 resources:
   - id: 1225
     url: https://www.datalumos.org/datalumos/project/228781/version/V1/view

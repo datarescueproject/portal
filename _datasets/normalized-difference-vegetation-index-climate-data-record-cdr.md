@@ -7,6 +7,7 @@ websites: ncei.noaa.gov
 data_source: https://www.ncei.noaa.gov/data/land-normalized-difference-vegetation-index/
 description: 
 last_modified: 2025-05-05
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/normalized-difference-vegetation-index
 category:

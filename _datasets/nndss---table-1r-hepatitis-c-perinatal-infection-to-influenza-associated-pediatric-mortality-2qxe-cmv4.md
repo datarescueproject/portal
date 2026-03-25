@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/NNDSS/NNDSS-TABLE-1R-Hepatitis-C-perinatal-infection-to-/2qxe-cmv4/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

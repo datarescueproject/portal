@@ -7,6 +7,7 @@ websites: cdc.gov
 data_source: https://www.cdc.gov/brfss/acbs/index.htm
 description: 
 last_modified: 2025-12-22
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

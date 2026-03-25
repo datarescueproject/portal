@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-6-Rates-of-Use-by-Gender-within-Age-Group-F/fd2x-er3n
 description: 
 last_modified: 2025-04-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 707
     url: https://www.datalumos.org/datalumos/project/224681/version/V1/view

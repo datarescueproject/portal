@@ -7,6 +7,7 @@ websites: data.ntsb.gov
 data_source: https://data.ntsb.gov/carol-main-public/basic-search
 description: 
 last_modified: 2025-11-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

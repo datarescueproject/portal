@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/Vaccinations/COVID-19-Vaccine-Distribution-Allocations-by-Juris/saz5-9hgg/about_data
 description: 
 last_modified: 2025-10-25
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

@@ -7,6 +7,7 @@ websites: americanhistory.si.edu
 data_source: https://smithsonian.figshare.com/
 description: 
 last_modified: 2025-12-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

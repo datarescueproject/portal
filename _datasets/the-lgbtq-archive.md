@@ -7,27 +7,28 @@ websites: nsa.gov, data.ed.gov, data.doe.gov, hhs.gov, dhs.gov, hud.gov, dol.gov
 data_source: 
 description: 
 last_modified: 2025-07-14
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
-  - Health & Healthcare 
-  - Education 
-  - Finance & Budget 
-  - Science & Research 
-  - State & Policy 
-  - Social Services 
-  - Agriculture 
-  - Justice & Public Safety 
-  - Infrastructure 
-  - Energy 
   - Communications 
   - Climate & Environment 
-  - Humanitarian & Disaster Relief 
-  - Business & Economy 
-  - National Security & Defense 
-  - Housing & Community Development 
+  - Health & Healthcare 
   - Military & Veterans Affairs 
+  - Labor & Employment 
+  - Education 
+  - Housing & Community Development 
+  - State & Policy 
+  - National Security & Defense 
+  - Infrastructure 
+  - Humanitarian & Disaster Relief 
+  - Agriculture 
+  - Energy 
+  - Finance & Budget 
+  - Business & Economy 
+  - Science & Research 
+  - Social Services 
+  - Justice & Public Safety 
 resources:
   - id: 1197
     url: https://www.thelgbtqarchive.org/

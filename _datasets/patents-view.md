@@ -7,6 +7,7 @@ websites: patentsview.org
 data_source: https://patentsview.org/download/data-download-tables
 description: 
 last_modified: 2025-04-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

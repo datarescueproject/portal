@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/dataset/Figure-3-Trend-in-Use-of-Any-Benefit-FY2009-2018/kpxb-5q8d
 description: 
 last_modified: 2025-04-09
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 705
     url: https://www.datalumos.org/datalumos/project/224662/version/V1/view

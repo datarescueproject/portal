@@ -7,6 +7,7 @@ websites: bea.gov
 data_source: https://apps.bea.gov/histdatacore/histChildLevels.html?HMI=8&oldDiv=Industry%20Accounts
 description: 
 last_modified: 2026-03-18
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

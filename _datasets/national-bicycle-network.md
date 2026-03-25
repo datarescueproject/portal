@@ -7,6 +7,7 @@ websites: data.transportation.gov
 data_source: https://data.transportation.gov/stories/s/National-Bicycle-Network/88zh-3rqb/
 description: 
 last_modified: 2025-07-05
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

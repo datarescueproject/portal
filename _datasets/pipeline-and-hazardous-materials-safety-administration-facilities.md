@@ -7,11 +7,12 @@ websites: phmsa.dot.gov
 data_source: https://www.phmsa.dot.gov/data-and-statistics/pipeline/gas-distribution-gas-gathering-gas-transmission-hazardous-liquids
 description: 
 last_modified: 2025-02-12
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 63
     url: https://doi.org/10.5281/zenodo.7683351

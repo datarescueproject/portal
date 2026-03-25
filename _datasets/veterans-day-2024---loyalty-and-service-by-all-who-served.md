@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/stories/s/qtzp-vapu
 description: 
 last_modified: 2025-03-18
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 432
     url: https://www.datalumos.org/datalumos/project/223282/version/V1/view

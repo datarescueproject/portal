@@ -7,6 +7,7 @@ websites: bia.gov
 data_source: https://opendata-1-bia-geospatial.hub.arcgis.com/search
 description: 
 last_modified: 2025-04-23
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

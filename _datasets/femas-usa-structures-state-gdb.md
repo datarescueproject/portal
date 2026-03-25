@@ -7,6 +7,7 @@ websites: geoplatform.gov
 data_source: https://disasters.geoplatform.gov/USA_Structures/
 description: 
 last_modified: 2025-03-03
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250211023510/https://gis-fema.hub.arcgis.com/pages/usa-structures
 category:

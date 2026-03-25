@@ -7,6 +7,7 @@ websites: nlrb.gov
 data_source: https://www.nlrb.gov/what-we-do/investigate-charges/10j-injunctions
 description: 
 last_modified: 2025-04-20
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

@@ -7,11 +7,12 @@ websites: data.va.gov
 data_source: https://www.data.va.gov/data.json
 description: 
 last_modified: 2025-06-07
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 1049
     url: https://sciop.net/datasets/us-va-open-data-bulk-download

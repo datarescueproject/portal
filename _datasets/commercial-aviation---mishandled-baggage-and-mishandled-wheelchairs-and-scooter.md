@@ -7,11 +7,12 @@ websites: data.bts.gov
 data_source: https://data.bts.gov/Aviation/Commercial-Aviation-Mishandled-Baggage-and-Mishand/6u8d-47ih/about_data
 description: 
 last_modified: 2025-10-11
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Transportation 
+  - Science & Research 
 resources:
   - id: 1288
     url: https://www.datalumos.org/datalumos/project/238406/version/V1/view

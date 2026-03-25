@@ -7,6 +7,7 @@ websites: epa.maps.arcgis.com
 data_source: https://www.arcgis.com/home/webmap/viewer.html?url=https://geopub.epa.gov/arcgis/rest/services/ejscreen/environmental_climate_justice_program/MapServer&source=sd
 description: 
 last_modified: 2025-03-02
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: 
 category:

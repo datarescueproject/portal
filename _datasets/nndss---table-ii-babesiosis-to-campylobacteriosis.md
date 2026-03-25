@@ -7,6 +7,7 @@ websites: data.cdc.gov
 data_source: https://data.cdc.gov/NNDSS/NNDSS-Table-II-Babesiosis-to-Campylobacteriosis/s5s8-d82d/about_data
 description: 
 last_modified: 2026-01-25
+dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:

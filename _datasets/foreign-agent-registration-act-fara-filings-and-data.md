@@ -7,6 +7,7 @@ websites: efile.fara.gov
 data_source: https://efile.fara.gov/ords/fara/f?p=138117299515917868
 description: 
 last_modified: 2025-04-22
+dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://github.com/Howard-Center-Investigations/FARA_Archive
 category:
