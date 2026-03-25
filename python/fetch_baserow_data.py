@@ -105,7 +105,7 @@ for row in dataset_table:
 
 rows = [row for row in rows if row is not None]
 datasets = pd.DataFrame(rows)
-datasets = datasets[datasets["dataset_id"].isin(backups["dataset_id"])]
+datasets = datasets[datasets["dataset"].isin(backups["dataset"])]
 
 datasets.to_csv("baserow_exports/datarescue_datasets.csv", index=False)
 backups.to_csv("baserow_exports/datarescue_backups.csv", index=False)
