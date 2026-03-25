@@ -52,7 +52,7 @@ def process_dataset_row(d):
         "agency": get_arr_vals(d["Agency"], col="value"),
         "categories": d["Categories"],
         "last_modified": d["Last modified"],
-        "dataset_source_status": d["Dataset Status"]
+        "dataset_source_status": get_arr_vals(d["Dataset Status"], col="value")
     }
 
 
