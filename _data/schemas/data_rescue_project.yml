@@ -15,7 +15,10 @@ dataset_fields:
     datajson: description
   - field_name: data_source
     label: Data Source
-    datajson: source    
+    datajson: source
+  - field_name: dataset_source_status
+    label: Source Status
+    datajson: dataset_source_status  
   - field_name: websites
     label: Websites
     datajson: websites    
