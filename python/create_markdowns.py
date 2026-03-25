@@ -62,7 +62,9 @@ def get_dataset_category(row, organizations):
         cats = ['Uncategorized']
     else:
         # Get categories from organization
-        cats_from_org = organizations[organizations['Organizations'] == row['organization']]['Categories'].values
+        orgs = row['organization'].split(',')
+        orgs = [s.strip() for s in orgs]
+        cats_from_org = organizations[organizations['Organizations'].isin(orgs)]['Categories'].values
         cats = []
         [cats.extend(v.split(';')) for v in cats_from_org]      
         cats = list(set(cats))
