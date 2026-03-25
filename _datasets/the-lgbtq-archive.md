@@ -10,6 +10,24 @@ last_modified: 2025-07-14
 metadata_available: No
 metadata_url: 
 category:
+  - Infrastructure 
+  - Humanitarian & Disaster Relief 
+  - National Security & Defense 
+  - Science & Research 
+  - Education 
+  - Labor & Employment 
+  - State & Policy 
+  - Housing & Community Development 
+  - Communications 
+  - Justice & Public Safety 
+  - Health & Healthcare 
+  - Agriculture 
+  - Finance & Budget 
+  - Social Services 
+  - Military & Veterans Affairs 
+  - Energy 
+  - Business & Economy 
+  - Climate & Environment 
 resources:
   - id: 1227
     url: https://www.thelgbtqarchive.org/
