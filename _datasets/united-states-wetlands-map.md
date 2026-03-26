@@ -11,9 +11,9 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
-  - Science & Research 
   - Infrastructure 
+  - Science & Research 
+  - Climate & Environment 
 resources:
   - id: 579
     url: https://arcgis.com/home/item.html?id=050d4dd33df7462db3ea3b76c1320462

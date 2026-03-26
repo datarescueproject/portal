@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Military & Veterans Affairs 
   - Humanitarian & Disaster Relief 
+  - Military & Veterans Affairs 
 resources:
   - id: 352
     url: https://www.datalumos.org/datalumos/project/221701/version/V1/view
