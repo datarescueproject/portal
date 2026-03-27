@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Energy 
+  - Science & Research 
 resources:
   - id: 1216
     url: https://www.datalumos.org/datalumos/project/236969/version/V1/view
