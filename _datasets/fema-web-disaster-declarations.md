@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250208080013/https://www.fema.gov/openfema-data-page/fema-web-disaster-declarations-v1
 category:
-  - Humanitarian & Disaster Relief 
   - Climate & Environment 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 19
     url: https://www.datalumos.org/datalumos/project/218462/version/V1/view
