@@ -190,3 +190,70 @@ a{
     width: 50%;
   }
 }
+
+/* Dataset Source Status Badges */
+.dataset-status-badge {
+  display: inline-block;
+  padding: 0.375rem 0.75rem;
+  border-radius: 0.25rem;
+  font-weight: 500;
+  font-size: 0.875rem;
+  text-transform: capitalize;
+  letter-spacing: 0.5px;
+  color: white;
+  cursor: help;
+  transition: all 0.2s;
+}
+
+.dataset-status-badge:hover {
+  opacity: 0.9;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+}
+
+.dataset-status-badge.status-unchanged {
+  background-color: #0ea5e9;
+}
+
+.dataset-status-badge.status-removed {
+  background-color: #dc2626;
+}
+
+.dataset-status-badge.status-modified {
+  background-color: #f59e0b;
+  color: #1f2937;
+}
+
+.dataset-status-badge.status-reinstated {
+  background-color: #059669;
+}
+
+.dataset-status-badge.status-restricted {
+  background-color: #7c3aed;
+}
+
+/* Tippy.js Tooltip Styling */
+.tippy-box[data-theme~='badge'] {
+  background-color: #E2E2E2;
+  color: black;
+}
+
+.tippy-box[data-theme~='badge'][data-placement^='top'] > .tippy-arrow::before {
+  border-top-color: #E2E2E2;
+}
+
+.tippy-box[data-theme~='badge'][data-placement^='bottom'] > .tippy-arrow::before {
+  border-bottom-color: #E2E2E2;
+}
+
+.tippy-box[data-theme~='badge'][data-placement^='left'] > .tippy-arrow::before {
+  border-left-color: #E2E2E2;
+}
+
+.tippy-box[data-theme~='badge'][data-placement^='right'] > .tippy-arrow::before {
+  border-right-color: #E2E2E2;
+}
+
+.tippy-content {
+  font-weight: 500;
+  font-size: 0.875rem;
+}

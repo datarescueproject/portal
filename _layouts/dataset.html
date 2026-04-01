@@ -95,6 +95,7 @@ layout: default
               {% assign field_label = "Source" %}
               {% endif %}
 
+              {% unless field.field_name == "dataset_source_status" %}
               {% if url_fields contains field.field_name %}
               <div class="d-flex gap-2 overflow-auto">
                 <div class="fw-bold">{{ field_label }}</div>
@@ -106,6 +107,27 @@ layout: default
                 <div>{{ value }}</div>
               </div>
               {% endif %}
+              {% endunless %}
+              {% if field.field_name == "dataset_source_status" %}
+              <div class="d-flex gap-2 overflow-auto align-items-center">
+                <div class="fw-bold">{{ field_label }}</div>
+                <span class="dataset-status-badge status-{{ value }}"
+                        {% if value == 'removed' %}
+                        data-tippy-content="Removed: Dataset has been removed from government sites and discontinued"
+                        {% elsif value == 'modified' %}
+                        data-tippy-content="Modified: Dataset continues to be published but has data elements removed"
+                        {% elsif value == 'reinstated' %}
+                        data-tippy-content="Reinstated: Dataset was removed but then reinstated"
+                        {% elsif value == 'restricted' %}
+                        data-tippy-content="Restricted: Dataset now requires password access, previously openly available"
+                        {% elsif value == '' %}
+                        {% assign value = "unchanged" %}
+                        data-tippy-content="Unchanged: Dataset continues to be publicly available"
+                        {% endif %}>
+                    {{ value }}
+                </span>
+                </div>
+                {% endif %}
               {% endif %}
               {% endif %}
               {% endunless %}

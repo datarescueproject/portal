@@ -18,6 +18,7 @@
     <script id="_fed_an_ua_tag" src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{ site.digital_analytics_program.agency }}&subagency={{ site.digital_analytics_program.subagency }}"></script>
   {% endif %}
 
+  <!-- <script defer src="https://cloud.umami.is/script.js" data-website-id="f0822e66-8def-4901-a549-667d3b049a09"></script> -->
   {% if site.google_analytics.enabled == true %}
     <!-- Google Analytics -->
     {% include addons/google-analytics.html %}
@@ -48,5 +49,21 @@
     REPO_OWNER: {{ site.github.owner_name | jsonify }},
     REPO_NAME: {{ site.github.project_title | jsonify }}
   }
+  </script>
+
+  <!-- Tippy.js Tooltip Library -->
+  <script src="https://unpkg.com/@popperjs/core@2"></script>
+  <script src="https://unpkg.com/tippy.js@6"></script>
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Initialize Tippy tooltips for dataset status badges
+      tippy('.dataset-status-badge', {
+        theme: 'badge',
+        delay: [0, 0],
+        duration: [100, 75],
+        placement: 'top'
+      });
+    });
   </script>
 </head>
