@@ -11,9 +11,9 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
+  - Social Services 
   - Health & Healthcare 
   - Science & Research 
-  - Social Services 
 resources:
   - id: 80
     url: https://www.datalumos.org/datalumos/project/218621/version/V2/view
