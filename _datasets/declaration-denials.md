@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206042421/https://www.fema.gov/openfema-data-page/declaration-denials-v1
 category:
-  - Humanitarian & Disaster Relief 
   - Climate & Environment 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 16
     url: https://www.datalumos.org/datalumos/project/218462/version/V1/view
