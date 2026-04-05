@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206180933/https://www.fema.gov/openfema-data-page/hazard-mitigation-assistance-projects-nfip-crs-communities-v2
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 34
     url: https://www.datalumos.org/datalumos/project/218521/version/V1/view
