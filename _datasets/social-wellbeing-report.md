@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
+  - Arts & Culture 
+  - Education 
   - Social Services 
   - Science & Research 
-  - Education 
-  - Arts & Culture 
 resources:
   - id: 91
     url: https://www.datalumos.org/datalumos/project/219021/version/V1/view
