@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - State & Policy 
+  - Climate & Environment 
 resources:
   - id: 1128
     url: https://sciop.net/datasets/usfw-feather-atlas-webarchive-mirror
