@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250202120428/https://www.fema.gov/openfema-data-page/mission-assignments-v2
 category:
-  - Climate & Environment 
   - Humanitarian & Disaster Relief 
+  - Climate & Environment 
 resources:
   - id: 21
     url: https://www.datalumos.org/datalumos/project/218462/version/V1/view
