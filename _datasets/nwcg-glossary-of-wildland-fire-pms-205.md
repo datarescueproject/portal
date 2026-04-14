@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Humanitarian & Disaster Relief 
-  - Climate & Environment 
-  - Agriculture 
   - Infrastructure 
+  - Humanitarian & Disaster Relief 
+  - Agriculture 
+  - Climate & Environment 
 resources:
   - id: 601
     url: https://www.datalumos.org/datalumos/project/223503/version/V1/view
