@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
+  - Arts & Culture 
   - Education 
   - Social Services 
   - Science & Research 
-  - Arts & Culture 
 resources:
   - id: 576
     url: https://box.hu-berlin.de/f/7a630b642def4ef58931/
