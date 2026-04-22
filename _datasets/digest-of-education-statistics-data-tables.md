@@ -21,7 +21,7 @@ resources:
     download_date: 2025-07-13
     maintainer: DRP, DL
     notes: This dataset represents the tables from the Most Current Digest Tables page https://nces.ed.gov/programs/digest/current_tables.asp, as downloaded 2025-07-13.The folder system has three levels. Level 1 is the chapters of the data digest. Level 2 is the subsections of the chapters. Level 3 is a folder each for each table. Each table folder contains an excel file for the table.The top level folder contains a catalog csv with a cross walk between the folder name and the original table titles.There is also a folder for Machine Readable tables downloaded from this page in the top level folder https://nces.ed.gov/programs/digest/mrt_tables.asp.
-  - id: 3007
+  - id: 3008
     url: https://doi.org/10.3886/E236421V2
     format: ZIP, XLSX, XLS
     status: Finished
