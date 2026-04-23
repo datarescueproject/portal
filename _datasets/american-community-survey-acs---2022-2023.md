@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Education 
-  - Labor & Employment 
+  - Health & Healthcare 
   - Housing & Community Development 
+  - Labor & Employment 
   - Social Services 
   - Business & Economy 
-  - Health & Healthcare 
+  - Education 
 resources:
   - id: 229
     url: https://www.dropbox.com/scl/fo/f15r2imeg6pcny6re497z/AOolRrKzvlmIYnjuZBurd0U/American%20Community%20Survey?rlkey=ey7kaoodi540d66s6kfvnqjn5&subfolder_nav_tracking=1&st=q4alyzlg&dl=0
