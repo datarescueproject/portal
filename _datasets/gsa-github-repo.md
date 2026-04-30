@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - State & Policy 
+  - Business & Economy 
 resources:
   - id: 194
     url: https://github.com/gsa-clone
