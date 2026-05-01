@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health & Healthcare 
-  - Housing & Community Development 
-  - Business & Economy 
-  - Social Services 
   - Labor & Employment 
+  - Business & Economy 
+  - Housing & Community Development 
   - Education 
+  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 51
     url: https://livingatlas.arcgis.com/en/browse/?q=ACS%20by%20@esri_demographics#d=2&q=ACS+by+%40esri_demographics&type=layers
