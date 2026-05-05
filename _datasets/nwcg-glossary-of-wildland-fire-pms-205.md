@@ -11,9 +11,9 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Climate & Environment 
-  - Humanitarian & Disaster Relief 
   - Infrastructure 
+  - Humanitarian & Disaster Relief 
+  - Climate & Environment 
   - Agriculture 
 resources:
   - id: 601

@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
+  - State & Policy 
   - Science & Research 
   - Social Services 
-  - State & Policy 
-  - Justice & Public Safety 
+  - Labor & Employment 
   - Agriculture 
+  - Justice & Public Safety 
 resources:
   - id: 276
     url: https://www.dropbox.com/scl/fo/wvmf9cskmy60gmg9jpybr/AOSZUxR88iTlax-OLQy5Vos?rlkey=ob9lhs89v792zpk5vupe9f6eo&dl=0

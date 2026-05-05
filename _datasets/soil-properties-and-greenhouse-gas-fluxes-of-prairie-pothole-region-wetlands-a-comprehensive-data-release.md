@@ -11,9 +11,9 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
-  - Science & Research 
   - Infrastructure 
+  - Science & Research 
+  - Climate & Environment 
 resources:
   - id: 2963
     url: https://www.datalumos.org/datalumos/project/244235/version/V1/view
