@@ -11,11 +11,11 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Health & Healthcare 
-  - Social Services 
   - Labor & Employment 
-  - Business & Economy 
+  - Health & Healthcare 
   - Housing & Community Development 
+  - Social Services 
+  - Business & Economy 
   - Education 
 resources:
   - id: 100

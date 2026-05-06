@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250211023510/https://gis-fema.hub.arcgis.com/pages/usa-structures
 category:
-  - Humanitarian & Disaster Relief 
   - Climate & Environment 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 14
     url: https://www.datalumos.org/datalumos/project/218721/version/V1/view
