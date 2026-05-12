@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Arts & Culture 
   - Science & Research 
+  - Arts & Culture 
 resources:
   - id: 1742
     url: https://sciop.net/datasets/nara-presidential-records-s3-mirror
