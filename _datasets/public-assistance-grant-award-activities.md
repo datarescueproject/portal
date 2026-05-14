@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250206145557/https://www.fema.gov/openfema-data-page/public-assistance-grant-award-activities-v2
 category:
-  - Humanitarian & Disaster Relief 
   - Climate & Environment 
+  - Humanitarian & Disaster Relief 
 resources:
   - id: 30
     url: https://www.datalumos.org/datalumos/project/218481/version/V1/view

@@ -14,9 +14,9 @@ category:
   - Housing & Community Development 
   - Labor & Employment 
   - Business & Economy 
-  - Social Services 
-  - Education 
   - Health & Healthcare 
+  - Education 
+  - Social Services 
 resources:
   - id: 53
     url: https://github.com/oedp/NAICS

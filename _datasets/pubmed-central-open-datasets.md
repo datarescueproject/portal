@@ -14,11 +14,11 @@ category:
   - Health & Healthcare 
 resources:
   - id: 587
-    url: https://archive.org/details/nih_pub_pmc
+    url: https://sciop.net/datasets/nih-ncbi-bulk-archives-pmc-lit
     format: TXT, TAR, CSV
     status: Finished
     size: 239.0
     download_date: 2025-06-22
     maintainer: DRP, SRC
-    notes: Actively seeded torrent file in IA item (the one without _archive). Direct file upload in process.Additional torrent location https://academictorrents.com/details/1eff24113fe7c99b696c3e6d5bb3de0f174ac378
+    notes: Additional torrent location https://academictorrents.com/details/1eff24113fe7c99b696c3e6d5bb3de0f174ac378
 ---
