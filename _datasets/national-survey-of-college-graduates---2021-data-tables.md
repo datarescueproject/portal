@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
-  - Housing & Community Development 
-  - Labor & Employment 
-  - Health & Healthcare 
   - Education 
+  - Housing & Community Development 
+  - Health & Healthcare 
+  - Labor & Employment 
   - Business & Economy 
+  - Social Services 
 resources:
   - id: 289
     url: https://www.dropbox.com/scl/fo/b4525g7cf1caxspsyqse0/AHT32v5BowMGF9DcRQLze8c?rlkey=63i8kdxccbu41vcq2esze9dwi&dl=0
