@@ -11,9 +11,9 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
+  - Agriculture 
   - Labor & Employment 
   - State & Policy 
-  - Agriculture 
   - Justice & Public Safety 
   - Social Services 
   - Science & Research 
