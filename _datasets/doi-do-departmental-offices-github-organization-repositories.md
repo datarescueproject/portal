@@ -12,8 +12,8 @@ metadata_available: No
 metadata_url: 
 category:
   - Agriculture 
-  - Business & Economy 
   - Communications 
+  - Business & Economy 
 resources:
   - id: 62
     url: https://github.com/DOI-DO-clone
