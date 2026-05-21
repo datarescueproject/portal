@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://www.datalumos.org/datalumos/project/220542/version/V1/view
 category:
-  - Housing & Community Development 
   - Finance & Budget 
+  - Housing & Community Development 
 resources:
   - id: 160
     url: https://www.datalumos.org/datalumos/project/220542/version/V1/view
