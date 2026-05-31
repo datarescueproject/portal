@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://www.sciencebase.gov/catalog/item/662fb3e5d34ea70bd5f26088
 category:
-  - Climate & Environment 
   - Infrastructure 
+  - Climate & Environment 
   - Science & Research 
 resources:
   - id: 881
