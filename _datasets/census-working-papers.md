@@ -1,14 +1,14 @@
 ---
 schema: data_rescue_project 
-title: National Survey of College Graduates - 2021
+title: Census Working Papers
 organization: Census Bureau
 agency: Department of Commerce
 websites: census.gov
-data_source: https://www.census.gov/
+data_source: https://www2.census.gov/library/working-papers/
 description: 
-last_modified: 2025-03-02
+last_modified: 2026-06-05
 dataset_source_status: 
-metadata_available: No
+metadata_available: Yes
 metadata_url: 
 category:
   - Social Services 
@@ -18,12 +18,12 @@ category:
   - Education 
   - Labor & Employment 
 resources:
-  - id: 288
-    url: https://www.dropbox.com/scl/fo/kkvl7l3joy1tdkotmpxms/AEZ-dDpGeE-I8HsQFNpELRs?rlkey=j0jzpyhdy4kmvqcocujp64dqc&dl=0
-    format: ZIP, PDF, XLSX
+  - id: 3051
+    url: https://www.datalumos.org/datalumos/project/248515/version/V1/view
+    format: PDF
     status: Finished
-    size: 0.0
-    download_date: 2025-01-31
-    maintainer: ICPSR
+    size: 6.53
+    download_date: 2026-05-29
+    maintainer: DRP, DL
     notes: 
 ---

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - Science & Research 
+  - Business & Economy 
 resources:
   - id: 1714
     url: https://www.datalumos.org/datalumos/project/241523/version/V1/view
