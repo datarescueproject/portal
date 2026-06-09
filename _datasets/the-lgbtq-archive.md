@@ -11,24 +11,24 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Agriculture 
-  - Social Services 
-  - Science & Research 
-  - Justice & Public Safety 
-  - Infrastructure 
   - Education 
-  - Climate & Environment 
-  - Communications 
-  - Health & Healthcare 
-  - National Security & Defense 
-  - Finance & Budget 
-  - State & Policy 
+  - Agriculture 
   - Housing & Community Development 
-  - Business & Economy 
+  - State & Policy 
+  - Justice & Public Safety 
+  - Science & Research 
+  - Infrastructure 
   - Energy 
-  - Labor & Employment 
-  - Humanitarian & Disaster Relief 
+  - Climate & Environment 
+  - Social Services 
+  - Finance & Budget 
+  - Health & Healthcare 
+  - Communications 
   - Military & Veterans Affairs 
+  - Business & Economy 
+  - Humanitarian & Disaster Relief 
+  - Labor & Employment 
+  - National Security & Defense 
 resources:
   - id: 1197
     url: https://www.thelgbtqarchive.org/
