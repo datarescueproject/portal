@@ -12,8 +12,8 @@ metadata_available: No
 metadata_url: 
 category:
   - Climate & Environment 
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 1057
     url: https://www.datalumos.org/datalumos/project/231520/version/V1/view
