@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Energy 
+  - Climate & Environment 
 resources:
   - id: 227
     url: https://zenodo.org/records/14590487
