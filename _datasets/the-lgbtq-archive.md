@@ -11,23 +11,23 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Health & Healthcare 
-  - Social Services 
-  - Finance & Budget 
-  - National Security & Defense 
-  - Business & Economy 
-  - Education 
-  - Energy 
-  - Labor & Employment 
-  - Housing & Community Development 
-  - State & Policy 
-  - Climate & Environment 
-  - Communications 
-  - Humanitarian & Disaster Relief 
-  - Military & Veterans Affairs 
-  - Infrastructure 
-  - Science & Research 
   - Agriculture 
+  - Education 
+  - Climate & Environment 
+  - Infrastructure 
+  - Health & Healthcare 
+  - Finance & Budget 
+  - Business & Economy 
+  - Housing & Community Development 
+  - Communications 
+  - Military & Veterans Affairs 
+  - Social Services 
+  - National Security & Defense 
+  - State & Policy 
+  - Energy 
+  - Humanitarian & Disaster Relief 
+  - Science & Research 
+  - Labor & Employment 
   - Justice & Public Safety 
 resources:
   - id: 1197
