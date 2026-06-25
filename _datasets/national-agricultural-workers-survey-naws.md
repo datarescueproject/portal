@@ -11,11 +11,11 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
-  - Social Services 
-  - Labor & Employment 
   - Justice & Public Safety 
+  - Labor & Employment 
   - State & Policy 
+  - Social Services 
+  - Science & Research 
   - Agriculture 
 resources:
   - id: 276
