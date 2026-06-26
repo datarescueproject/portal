@@ -23,7 +23,7 @@ resources:
     download_date: 2025-04-04
     maintainer: SRC
     notes: Compressed .zip file of US Forest Service Research Data Archive. Expands to 138GB.Raw data of USFS field research going back decades.
-  - id: 3059
+  - id: 3063
     url: https://sciop.net/datasets/usfs-rda-full-archive
     format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GBD, MDB, SQLite, PDF
     status: Finished
