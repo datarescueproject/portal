@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://www.datalumos.org/datalumos/project/244297/version/V1/view
 category:
-  - Social Services 
   - Agriculture 
+  - Social Services 
 resources:
   - id: 3067
     url: https://www.datalumos.org/datalumos/project/244297/version/V1/view
