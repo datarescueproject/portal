@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health & Healthcare 
   - Labor & Employment 
+  - Health & Healthcare 
   - Social Services 
   - Housing & Community Development 
   - Business & Economy 
