@@ -21,4 +21,12 @@ resources:
     download_date: 2025-01-31
     maintainer: ICPSR
     notes: 
+  - id: 3095
+    url: https://sciop.net/datasets/cdc-nephtn-data
+    format: CSV, JSON
+    status: Finished
+    size: 80.0
+    download_date: 2026-05-15
+    maintainer: DRP, SRC
+    notes: 
 ---

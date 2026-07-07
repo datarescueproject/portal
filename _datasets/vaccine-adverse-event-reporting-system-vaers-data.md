@@ -21,4 +21,12 @@ resources:
     download_date: 2025-03-03
     maintainer: DL
     notes: Includes Vaccine Adverse Event Reporting System Data Files from 1990 to January 2025. A reproduceable Rmd file, website screenshots, and documentation have been included in the Supplementary Information folder.
+  - id: 3091
+    url: https://sciop.net/datasets/cdc-vaers-csvs
+    format: CSV
+    status: Finished
+    size: 0.5
+    download_date: 2025-02-08
+    maintainer: DRP, SRC
+    notes: Includes a copy of the full VAERS CSV data for all years, downloaded Feb. 8th, 2025
 ---

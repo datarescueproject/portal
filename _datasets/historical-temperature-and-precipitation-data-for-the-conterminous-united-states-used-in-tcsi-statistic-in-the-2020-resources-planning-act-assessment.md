@@ -1,0 +1,26 @@
+---
+schema: data_rescue_project 
+title: Historical temperature and precipitation data for the conterminous United States used in TCSI statistic in the 2020 Resources Planning Act Assessment
+organization: US Forest Service
+agency: U.S. Department of Agriculture
+websites: fs.usda.gov
+data_source: https://www.fs.usda.gov/rds/archive/catalog/RDS-2026-0009
+description: 
+last_modified: 2026-06-29
+dataset_source_status: 
+metadata_available: Yes
+metadata_url: https://web.archive.org/web/20260410100111/https://www.fs.usda.gov/rds/archive/catalog/RDS-2026-0009
+category:
+  - Agriculture 
+  - Science & Research 
+  - Climate & Environment 
+resources:
+  - id: 3086
+    url: https://www.datalumos.org/datalumos/project/248716/version/V1/view
+    format: PDF, ZIP
+    status: Finished
+    size: 0.4771
+    download_date: 2026-05-27
+    maintainer: DRP, DL
+    notes: 
+---
