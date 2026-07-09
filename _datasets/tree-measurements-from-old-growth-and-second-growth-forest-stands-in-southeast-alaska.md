@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://doi.org/10.3886/E248713V1
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
   - Climate & Environment 
 resources:
   - id: 3084
