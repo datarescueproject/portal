@@ -13,9 +13,9 @@ metadata_url:
 category:
   - Agriculture 
   - Justice & Public Safety 
-  - Labor & Employment 
   - Science & Research 
   - Social Services 
+  - Labor & Employment 
   - State & Policy 
 resources:
   - id: 158
