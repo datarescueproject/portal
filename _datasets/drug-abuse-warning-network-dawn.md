@@ -5,15 +5,15 @@ organization: Substance Abuse and Mental Health Services Administration
 agency: Department of Health and Human Services
 websites: samhsa.gov
 data_source: https://www.samhsa.gov/data/data-we-collect/dawn-drug-abuse-warning-network/legacy
-description: 
-last_modified: 2025-04-01
-dataset_source_status: 
+description: https://www.samhsa.gov/data/data-we-collect/dawn-drug-abuse-warning-network
+last_modified: 2026-07-11
+dataset_source_status: discontinued
 metadata_available: No
 metadata_url: 
 category:
   - Social Services 
-  - Health & Healthcare 
   - Science & Research 
+  - Health & Healthcare 
 resources:
   - id: 85
     url: https://www.datalumos.org/datalumos/project/218682/version/V2/view

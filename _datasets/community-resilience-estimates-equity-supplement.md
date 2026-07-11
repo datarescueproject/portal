@@ -6,17 +6,17 @@ agency: Department of Commerce
 websites: census.gov
 data_source: https://www.census.gov/programs-surveys/community-resilience-estimates/data/supplement.html
 description: 
-last_modified: 2025-03-25
-dataset_source_status: 
+last_modified: 2026-07-11
+dataset_source_status: discontinued
 metadata_available: Yes
 metadata_url: 
 category:
-  - Business & Economy 
   - Education 
   - Labor & Employment 
-  - Social Services 
-  - Health & Healthcare 
   - Housing & Community Development 
+  - Social Services 
+  - Business & Economy 
+  - Health & Healthcare 
 resources:
   - id: 588
     url: https://www.datalumos.org/datalumos/project/224161/version/V1/view

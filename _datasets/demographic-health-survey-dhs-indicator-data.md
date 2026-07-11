@@ -5,9 +5,9 @@ organization: M/CIO Development Information Solution (DIS)
 agency: U.S. Agency for International Development
 websites: usaid.gov
 data_source: https://spatialdata.dhsprogram.com/home/
-description: 
-last_modified: 2025-03-28
-dataset_source_status: 
+description: https://www.datarescueproject.org/demographic-and-health-surveys/
+last_modified: 2026-07-11
+dataset_source_status: removed, reinstated
 metadata_available: No
 metadata_url: 
 category:

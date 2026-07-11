@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Health & Healthcare 
   - Science & Research 
+  - Health & Healthcare 
 resources:
   - id: 3094
     url: https://sciop.net/datasets/nlm-ncbi-clinical-trials-study-files
