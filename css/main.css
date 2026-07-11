@@ -218,6 +218,14 @@ a{
   background-color: #dc2626;
 }
 
+.dataset-status-badge.status-discontinued {
+  background-color: #dc2626;
+}
+
+.dataset-status-badge.status-tool-removed {
+  background-color: #dc2626;
+}
+
 .dataset-status-badge.status-modified {
   background-color: #f59e0b;
   color: #1f2937;

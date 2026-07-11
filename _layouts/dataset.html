@@ -109,6 +109,7 @@ layout: default
               {% endif %}
               {% endunless %}
               {% if field.field_name == "dataset_source_status" %}
+              {% assign value = value | replace: "tool removed", "tool-removed" %}
               <div class="d-flex gap-2 overflow-auto align-items-center">
                 <div class="fw-bold">{{ field_label }}</div>
                 <span class="dataset-status-badge status-{{ value }}"
@@ -120,6 +121,10 @@ layout: default
                         data-tippy-content="Reinstated: Dataset was removed but then reinstated"
                         {% elsif value == 'restricted' %}
                         data-tippy-content="Restricted: Dataset now requires password access, previously openly available"
+                        {% elsif value == 'discontinued' %}
+                        data-tippy-content="Discontinued:  New data is no longer being created"
+                        {% elsif value == 'tool-removed' %}
+                        data-tippy-content="Tool Removed: Access tool has been removed"
                         {% elsif value == '' %}
                         {% assign value = "unchanged" %}
                         data-tippy-content="Unchanged: Dataset continues to be publicly available"
