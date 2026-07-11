@@ -5,9 +5,9 @@ organization: Office of Justice Programs
 agency: Department of Justice
 websites: bjs.ojp.gov
 data_source: https://bjs.ojp.gov/data-collection/ncvs
-description: 
-last_modified: 2025-03-03
-dataset_source_status: 
+description: Gender identity questions removed (https://essentialdata.us/in-memoriam)
+last_modified: 2026-07-10
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:
