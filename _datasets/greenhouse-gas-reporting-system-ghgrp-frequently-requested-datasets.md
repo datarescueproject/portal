@@ -5,9 +5,9 @@ organization: Environmental Protection Agency
 agency: Environmental Protection Agency
 websites: epa.gov
 data_source: https://www.epa.gov/ghgreporting/data-sets
-description: 
-last_modified: 2025-10-30
-dataset_source_status: 
+description: Proposed discontinuation of Greenhouse Gas Reporting Program (GHGRP), currently in limbo https://www.utilitydive.com/news/greenhouse-gas-reporting-program-annual-deadline-delay/813787/
+last_modified: 2026-07-11
+dataset_source_status: discontinued
 metadata_available: Yes
 metadata_url: 
 category:
