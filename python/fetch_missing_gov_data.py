@@ -77,7 +77,7 @@ try:
             requests.post(
             "https://baserow.datarescueproject.org/api/database/rows/table/1054/?user_field_names=true",
             headers={
-                "Authorization": "Token {BASEROW_ACCESS_TOKEN}",
+                "Authorization": f"Token {BASEROW_ACCESS_TOKEN}",
                 "Content-Type": "application/json"
             },
             json=r
@@ -89,13 +89,13 @@ try:
     rows_to_toggle_status = rows_on_baserow[~rows_on_baserow.hashed_id.isin(df_expanded.hashed_id)]
     rows_to_toggle_status = rows_to_toggle_status[rows_to_toggle_status.status == "Missing from data.gov"]
     print(f"{len(rows_to_toggle_status)} rows to mark not missing")
-    
+
     if(len(rows_to_toggle_status)) > 0:
         for i in rows_to_toggle_status.id:
             requests.patch(
                 "https://baserow.datarescueproject.org/api/database/rows/table/1054/{i}/?user_field_names=true",
                 headers={
-                    "Authorization": "Token {BASEROW_ACCESS_TOKEN}",
+                    "Authorization": f"Token {BASEROW_ACCESS_TOKEN}",
                     "Content-Type": "application/json"
                 },
                 json={
@@ -114,7 +114,7 @@ try:
             requests.patch(
                 "https://baserow.datarescueproject.org/api/database/rows/table/1054/{i}/?user_field_names=true",
                 headers={
-                    "Authorization": "Token {BASEROW_ACCESS_TOKEN}",
+                    "Authorization": f"Token {BASEROW_ACCESS_TOKEN}",
                     "Content-Type": "application/json"
                 },
                 json={
