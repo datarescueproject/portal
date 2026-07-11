@@ -2,6 +2,7 @@ import requests
 import pandas as pd
 from datetime import date, timedelta
 import json
+import os
 
 BASEROW_ACCESS_TOKEN = os.environ.get("BASEROW_ACCESS_TOKEN")
 
