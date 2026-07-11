@@ -69,24 +69,27 @@ try:
     rows_on_baserow = rows_on_baserow.drop(columns=['order'])
     rows_to_add = df_expanded[~df_expanded.hashed_id.isin(rows_on_baserow.hashed_id)]
     rows_to_add_json = rows_to_add.to_dict(orient='records')
-    
-    ## Posting rows to baserow table
-    for r in rows_to_add_json:
-        requests.post(
-        "https://baserow.datarescueproject.org/api/database/rows/table/1054/?user_field_names=true",
-        headers={
-            "Authorization": "Token {BASEROW_ACCESS_TOKEN}",
-            "Content-Type": "application/json"
-        },
-        json=r
-        )
+    print(f"{len(rows_to_add_json)} rows to add")
 
-    print(f"{len(rows_to_add_json)} rows added to Baserow table")
+    ## Posting rows to baserow table
+    if(len(rows_to_add_json)) > 0:
+        for r in rows_to_add_json:
+            requests.post(
+            "https://baserow.datarescueproject.org/api/database/rows/table/1054/?user_field_names=true",
+            headers={
+                "Authorization": "Token {BASEROW_ACCESS_TOKEN}",
+                "Content-Type": "application/json"
+            },
+            json=r
+            )
+
+        print(f"{len(rows_to_add_json)} rows added to Baserow table")
     
     ## Check if any datasets previously marked as missing from data.gov are back
     rows_to_toggle_status = rows_on_baserow[~rows_on_baserow.hashed_id.isin(df_expanded.hashed_id)]
     rows_to_toggle_status = rows_to_toggle_status[rows_to_toggle_status.status == "Missing from data.gov"]
-
+    print(f"{len(rows_to_toggle_status)} rows to mark not missing")
+    
     if(len(rows_to_toggle_status)) > 0:
         for i in rows_to_toggle_status.id:
             requests.patch(
