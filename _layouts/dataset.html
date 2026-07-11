@@ -109,7 +109,7 @@ layout: default
               {% endif %}
               {% endunless %}
               {% if field.field_name == "dataset_source_status" %}
-              {% assign status_list = value | replace: "tool removed", "tool-removed" | split: "," %}
+              {% assign status_list = value | replace: "tool removed", "tool-removed" | split: ", " %}
               <div class="d-flex gap-2 overflow-auto align-items-center">
                 <div class="fw-bold">{{ field_label }}</div>
                 {% for status in status_list %}
