@@ -7,7 +7,7 @@ websites: usaid.gov
 data_source: https://spatialdata.dhsprogram.com/home/
 description: https://www.datarescueproject.org/demographic-and-health-surveys/
 last_modified: 2026-07-11
-dataset_source_status: removed, reinstated
+dataset_source_status: reinstated
 metadata_available: No
 metadata_url: 
 category:
