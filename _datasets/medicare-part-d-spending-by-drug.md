@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 901
     url: https://doi.org/10.3886/E227922V1
