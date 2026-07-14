@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20260521200355/https://www.fs.usda.gov/rds/archive/catalog/RDS-2025-0042
 category:
-  - Climate & Environment 
   - Science & Research 
+  - Climate & Environment 
   - Agriculture 
 resources:
   - id: 3100
