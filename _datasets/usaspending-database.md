@@ -15,7 +15,7 @@ category:
 resources:
   - id: 591
     url: https://archive.org/details/usaspending-db_20250106
-    format: ZIP, dat
+    format: ZIP, DAT
     status: Finished
     size: 145.0
     download_date: 2025-01-06
@@ -23,7 +23,7 @@ resources:
     notes: Full upload in process. For reconstruction, see usaspending-db-setup.pdf.This is the complete database as of Jan. 6, 2025.
   - id: 879
     url: https://doi.org/10.60503/D3/2LKHZ9
-    format: PDF, JSON, dat, tab, tar.gz
+    format: PDF, JSON, DAT, TAB, TAR.GZ
     status: Finished
     size: 200.0
     download_date: 2025-04-15

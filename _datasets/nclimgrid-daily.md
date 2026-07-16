@@ -15,7 +15,7 @@ category:
 resources:
   - id: 595
     url: https://archive.org/details/nclimgrid-daily-2025-03-24
-    format: TAR, nc, CSV
+    format: TAR, NC, CSV
     status: Finished
     size: 107.0
     download_date: 2025-03-24

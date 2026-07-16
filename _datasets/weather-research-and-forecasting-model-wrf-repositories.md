@@ -15,7 +15,7 @@ category:
 resources:
   - id: 219
     url: https://github.com/wrf-model-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

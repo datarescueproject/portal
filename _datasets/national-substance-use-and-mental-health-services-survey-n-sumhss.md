@@ -12,8 +12,8 @@ metadata_available: Yes
 metadata_url: 
 category:
   - Science & Research 
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 82
     url: https://www.datalumos.org/datalumos/project/218662/version/V2/view
@@ -25,7 +25,7 @@ resources:
     notes: 
   - id: 1242
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi%3A10.7910%2FDVN%2FRWLDVJ
-    format: ZIP, PDF, mhtml
+    format: ZIP, PDF, MHTML
     status: Finished
     size: 1.6
     download_date: 2025-04-22

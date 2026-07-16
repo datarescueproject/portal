@@ -15,7 +15,7 @@ category:
 resources:
   - id: 894
     url: https://sciop.net/uploads/5476dbfcacb18d3e5ba80c845262709ca9c06f0d
-    format: nc
+    format: NC
     status: Finished
     size: 150.0
     download_date: 2025-04-25

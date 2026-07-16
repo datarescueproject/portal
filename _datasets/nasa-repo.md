@@ -15,7 +15,7 @@ category:
 resources:
   - id: 195
     url: https://github.com/nasa-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

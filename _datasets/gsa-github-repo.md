@@ -16,7 +16,7 @@ category:
 resources:
   - id: 194
     url: https://github.com/gsa-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

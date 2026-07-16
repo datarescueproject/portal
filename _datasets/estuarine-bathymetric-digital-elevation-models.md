@@ -15,7 +15,7 @@ category:
 resources:
   - id: 872
     url: https://sciop.net/uploads/9840fa77d032a3821180f7f1726df02431e37e53
-    format: nc, XML
+    format: NC, XML
     status: Finished
     size: 5.0
     download_date: 2025-04-24
@@ -23,7 +23,7 @@ resources:
     notes: Torrent upload in progress. Alternate torrent location https://academictorrents.com/details/9840fa77d032a3821180f7f1726df02431e37e53
   - id: 893
     url: https://doi.org/10.22002/cv2qh-hqe26
-    format: nc, XML
+    format: NC, XML
     status: Finished
     size: 0.001
     download_date: 2025-05-02

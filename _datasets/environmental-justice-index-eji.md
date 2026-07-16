@@ -16,7 +16,7 @@ category:
 resources:
   - id: 43
     url: https://github.com/oedp/cdc-ej-index
-    format: Git, ZIP
+    format: GIT, ZIP
     status: Finished
     size: 0.0
     download_date: 2025-02-12
@@ -40,7 +40,7 @@ resources:
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 46
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/ZVKXVQ
-    format: CSV, Geodatabase, XLSX, tab
+    format: CSV, Geodatabase, XLSX, TAB
     status: Finished
     size: 0.23
     download_date: 2024-12-12

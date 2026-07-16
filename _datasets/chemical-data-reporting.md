@@ -23,7 +23,7 @@ resources:
     notes: Alternate torrent location https://academictorrents.com/details/54badf9e1df6b792f039d732455e78426933196a
   - id: 1250
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/DGSBXU
-    format: mhtml, ZIP, PDF
+    format: MHTML, ZIP, PDF
     status: Finished
     size: 0.249
     download_date: 2025-02-26

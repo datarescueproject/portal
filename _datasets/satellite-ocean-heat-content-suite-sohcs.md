@@ -15,7 +15,7 @@ category:
 resources:
   - id: 887
     url: https://sciop.net/uploads/ebfb85f2efdea5a0bb65098ecf33ba655cfc7ff3
-    format: nc, GIF, dat
+    format: NC, GIF, DAT
     status: Finished
     size: 200.0
     download_date: 2025-04-27

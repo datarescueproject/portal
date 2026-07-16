@@ -15,7 +15,7 @@ category:
 resources:
   - id: 287
     url: https://www.dropbox.com/scl/fo/sgscixaa4myy3w5et3yzp/APxMNPFcZXfwsQkGIztj4qU?rlkey=bnb7d62vflcaifnold3bysa1u&dl=0
-    format: PDF, dat, do, ZIP
+    format: PDF, DAT, DO, ZIP
     status: Finished
     size: 0.0
     download_date: 2025-01-31

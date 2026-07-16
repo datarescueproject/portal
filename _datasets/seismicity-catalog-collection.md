@@ -15,7 +15,7 @@ category:
 resources:
   - id: 877
     url: https://doi.pangaea.de/10.1594/PANGAEA.981231
-    format: tar.gz
+    format: TAR.GZ
     status: Finished
     size: 0.38
     download_date: 2025-04-23

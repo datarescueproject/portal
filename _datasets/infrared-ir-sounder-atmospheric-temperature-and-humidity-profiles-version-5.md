@@ -15,7 +15,7 @@ category:
 resources:
   - id: 575
     url: https://archive.org/details/irs-temperature-and-humidity_1
-    format: nc
+    format: NC
     status: Finished
     size: 840.0
     download_date: 2025-03-11

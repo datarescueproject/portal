@@ -15,7 +15,7 @@ category:
 resources:
   - id: 861
     url: https://sciop.net/uploads/c2761718707de6963191e7e20855e8a90bdd9a8d
-    format: BIN, nc
+    format: BIN, NC
     status: Finished
     size: 0.3
     download_date: 2025-04-25

@@ -11,16 +11,16 @@ dataset_source_status: discontinued
 metadata_available: Yes
 metadata_url: 
 category:
-  - Business & Economy 
-  - Health & Healthcare 
-  - Labor & Employment 
-  - Education 
-  - Housing & Community Development 
   - Social Services 
+  - Labor & Employment 
+  - Housing & Community Development 
+  - Health & Healthcare 
+  - Business & Economy 
+  - Education 
 resources:
   - id: 588
     url: https://www.datalumos.org/datalumos/project/224161/version/V1/view
-    format: CSV, TXT, rtf
+    format: CSV, TXT, RTF
     status: Finished
     size: 0.0
     download_date: 2025-03-25

@@ -15,7 +15,7 @@ category:
 resources:
   - id: 140
     url: https://www.datalumos.org/datalumos/project/219421/version/V1/view
-    format: DOCX, PDF, rtf, PNG, XLSX, TXT
+    format: DOCX, PDF, RTF, PNG, XLSX, TXT
     status: Finished
     size: 0.0
     download_date: 2025-02-14

@@ -23,7 +23,7 @@ resources:
     notes: These are census tract–level data on marginalization caused by underinvestment and pollution burden. Data include information on energy, health, housing, pollution, transportation, water and waste, and workforce development.
   - id: 1234
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/B6ULET
-    format: PDF, tab, PNG, SHP, SHX
+    format: PDF, TAB, PNG, SHP, SHX
     status: Finished
     size: 0.841
     download_date: 2024-12-10

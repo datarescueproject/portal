@@ -15,7 +15,7 @@ category:
 resources:
   - id: 497
     url: https://archive.org/details/automated-surface-observing-system-five-minute
-    format: dat
+    format: DAT
     status: Finished
     size: 22.2
     download_date: 2025-02-22

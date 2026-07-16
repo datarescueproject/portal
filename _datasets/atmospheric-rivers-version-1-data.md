@@ -15,7 +15,7 @@ category:
 resources:
   - id: 573
     url: https://archive.org/details/atmospheric-rivers_202503
-    format: nc
+    format: NC
     status: Finished
     size: 1.67
     download_date: 2025-02-21

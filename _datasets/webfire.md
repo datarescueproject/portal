@@ -15,7 +15,7 @@ category:
 resources:
   - id: 191
     url: https://github.com/oedp/epa-webfire
-    format: CSV, Git
+    format: CSV, GIT
     status: Finished
     size: 0.0
     download_date: 

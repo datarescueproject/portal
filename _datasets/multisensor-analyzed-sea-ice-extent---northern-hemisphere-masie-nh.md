@@ -15,7 +15,7 @@ category:
 resources:
   - id: 842
     url: https://archive.org/details/noaa-nsidc-g02186
-    format: CSV, TXT, nc, TIFF
+    format: CSV, TXT, NC, TIFF
     status: Finished
     size: 17.0
     download_date: 2025-02-06

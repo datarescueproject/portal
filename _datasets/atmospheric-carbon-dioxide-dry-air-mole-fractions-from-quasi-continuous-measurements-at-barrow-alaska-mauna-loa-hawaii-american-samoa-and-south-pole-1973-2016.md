@@ -15,7 +15,7 @@ category:
 resources:
   - id: 593
     url: https://archive.org/details/carbon-cycle-and-greenhouse-gases-esrl-gmd
-    format: nc, TXT
+    format: NC, TXT
     status: Finished
     size: 0.14
     download_date: 2025-03-24

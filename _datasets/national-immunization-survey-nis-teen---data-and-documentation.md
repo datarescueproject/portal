@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3048
     url: https://www.datalumos.org/datalumos/project/248453/version/V2/view
-    format: PDF, dat, SAS, CSV, R
+    format: PDF, DAT, SAS, CSV, R
     status: Finished
     size: 0.89
     download_date: 2026-05-19

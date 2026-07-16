@@ -15,7 +15,7 @@ category:
 resources:
   - id: 500
     url: https://archive.org/details/avhrr-aerosol-optical-thickness
-    format: nc
+    format: NC
     status: Finished
     size: 49.0
     download_date: 2025-02-21

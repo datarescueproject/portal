@@ -15,7 +15,7 @@ category:
 resources:
   - id: 178
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/TUMSLH
-    format: CSV, DOCX, XLSX, tab
+    format: CSV, DOCX, XLSX, TAB
     status: Finished
     size: 2.2
     download_date: 2024-12-11

@@ -15,7 +15,7 @@ category:
 resources:
   - id: 47
     url: https://github.com/oedp/cdc-places
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 2025-02-12

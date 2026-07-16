@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Energy 
   - Climate & Environment 
+  - Energy 
 resources:
   - id: 223
     url: https://github.com/NREL-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

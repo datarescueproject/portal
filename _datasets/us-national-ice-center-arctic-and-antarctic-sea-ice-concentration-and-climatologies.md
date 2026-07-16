@@ -15,7 +15,7 @@ category:
 resources:
   - id: 843
     url: https://archive.org/details/noaa-nsidc-g10033_202504
-    format: nc
+    format: NC
     status: Finished
     size: 10.0
     download_date: 2025-02-10

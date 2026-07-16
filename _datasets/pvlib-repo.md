@@ -15,7 +15,7 @@ category:
 resources:
   - id: 594
     url: https://github.com/pvlib
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

@@ -16,7 +16,7 @@ category:
 resources:
   - id: 3019
     url: https://sciop.net/datasets/nara-electronic-records-s3-mirror
-    format: PDF, TXT, HTML, dat
+    format: PDF, TXT, HTML, DAT
     status: Finished
     size: 8800.0
     download_date: 2026-03-15

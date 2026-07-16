@@ -15,7 +15,7 @@ category:
 resources:
   - id: 590
     url: https://sciop.net/datasets/noaa-ncei-avhrr-hirs-reflectance-and-cloud-properties-patmosx
-    format: nc
+    format: NC
     status: Finished
     size: 40000.0
     download_date: 2025-08-06

@@ -15,7 +15,7 @@ category:
 resources:
   - id: 686
     url: https://archive.org/details/snow-cover-extent-cdr-noaa
-    format: nc
+    format: NC
     status: Finished
     size: 0.1
     download_date: 2025-03-31

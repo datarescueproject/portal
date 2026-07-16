@@ -15,7 +15,7 @@ category:
 resources:
   - id: 200
     url: https://github.com/NOAA-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

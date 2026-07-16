@@ -15,7 +15,7 @@ category:
 resources:
   - id: 54
     url: https://github.com/oedp/doe-ira-energy-comm-data
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 2025-02-12

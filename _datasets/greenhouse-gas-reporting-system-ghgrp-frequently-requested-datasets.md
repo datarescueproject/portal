@@ -15,7 +15,7 @@ category:
 resources:
   - id: 1442
     url: https://doi.org/10.7910/DVN/J5TMCS
-    format: mhtml, PDF, ZIP, XLSX, xlsb
+    format: MHTML, PDF, ZIP, XLSX, XLSB
     status: Finished
     size: 0.0518
     download_date: 2025-02-14

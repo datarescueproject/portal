@@ -15,7 +15,7 @@ category:
 resources:
   - id: 844
     url: https://archive.org/details/noaa-nsidc-g02202_v5
-    format: nc
+    format: NC
     status: Finished
     size: 15.0
     download_date: 2025-02-10

@@ -15,7 +15,7 @@ category:
 resources:
   - id: 604
     url: https://archive.org/details/hydrological-properties-2025-3-12
-    format: nc
+    format: NC
     status: Finished
     size: 517.0
     download_date: 2025-03-12

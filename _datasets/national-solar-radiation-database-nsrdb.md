@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Energy 
   - Climate & Environment 
+  - Energy 
 resources:
   - id: 222
     url: https://github.com/NREL/nsrdb/tree/v4.1.1
-    format: HDF5, Git
+    format: HDF5, GIT
     status: Finished
     size: 3.1
     download_date: 

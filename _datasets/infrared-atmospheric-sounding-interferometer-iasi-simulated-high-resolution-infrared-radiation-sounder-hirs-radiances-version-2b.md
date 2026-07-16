@@ -15,7 +15,7 @@ category:
 resources:
   - id: 888
     url: https://sciop.net/uploads/bab5734902386005a2ff715b7a682428e7e97e92
-    format: nc, TXT, CSV
+    format: NC, TXT, CSV
     status: Finished
     size: 30.0
     download_date: 2025-05-03

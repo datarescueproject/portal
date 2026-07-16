@@ -15,7 +15,7 @@ category:
 resources:
   - id: 605
     url: https://sciop.net/uploads/2ff9743464c285a24346b29716648aced930e8e2
-    format: nc, CSV, Shapefile
+    format: NC, CSV, Shapefile
     status: Finished
     size: 3.6
     download_date: 2025-03-29

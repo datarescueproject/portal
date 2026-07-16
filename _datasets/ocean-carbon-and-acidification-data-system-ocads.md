@@ -15,7 +15,7 @@ category:
 resources:
   - id: 690
     url: https://sciop.net/uploads/e490a659449cc55cf59a8f32fbd2b230f63e7829
-    format: CSV, JPEG, XLS, ps, PDF
+    format: CSV, JPEG, XLS, PS, PDF
     status: Finished
     size: 237.0
     download_date: 2025-04-05

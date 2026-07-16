@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 3024
     url: https://www.datalumos.org/datalumos/project/247453/version/V1/view
-    format: CSV, HTML, PNG, css, js
+    format: CSV, HTML, PNG, CSS, JS
     status: Finished
     size: 0.11
     download_date: 2026-04-15

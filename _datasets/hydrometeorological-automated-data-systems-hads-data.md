@@ -15,7 +15,7 @@ category:
 resources:
   - id: 572
     url: https://archive.org/details/nws-hydrometeorological-automated-data-system
-    format: dat
+    format: DAT
     status: Finished
     size: 87.0
     download_date: 2025-03-15

@@ -15,7 +15,7 @@ category:
 resources:
   - id: 582
     url: https://archive.org/details/noaa-global-surface-temperature
-    format: ASC, TXT, nc, INV
+    format: ASC, TXT, NC, INV
     status: Finished
     size: 2.4
     download_date: 2025-03-14

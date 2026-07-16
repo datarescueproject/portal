@@ -15,7 +15,7 @@ category:
 resources:
   - id: 190
     url: https://github.com/USEPA-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

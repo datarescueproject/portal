@@ -15,7 +15,7 @@ category:
 resources:
   - id: 1673
     url: https://www.datalumos.org/datalumos/project/238762/version/V1/view
-    format: GPKG, DBF, PRJ, SHP, SHX, cpg, qmd
+    format: GPKG, DBF, PRJ, SHP, SHX, CPG, QMD
     status: Finished
     size: 1.3
     download_date: 2025-10-10

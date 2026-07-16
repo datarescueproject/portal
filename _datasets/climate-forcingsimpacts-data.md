@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3021
     url: https://sciop.net/uploads/3abd8db9a2fefea701108a4035c8ebe4349068fb
-    format: TXT, GIF, ps, NC4, nc
+    format: TXT, GIF, PS, NC4, NC
     status: Finished
     size: 36.0
     download_date: 2026-01-06

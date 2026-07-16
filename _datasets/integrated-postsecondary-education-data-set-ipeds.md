@@ -15,7 +15,7 @@ category:
 resources:
   - id: 72
     url: https://www.datalumos.org/datalumos/project/218981/version/V1/view
-    format: CSV, XLSX, SAS, SPS, do
+    format: CSV, XLSX, SAS, SPS, DO
     status: Finished
     size: 2.4
     download_date: 2025-02-10

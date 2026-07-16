@@ -15,7 +15,7 @@ category:
 resources:
   - id: 1161
     url: https://www.datalumos.org/datalumos/project/233742/version/V1/view
-    format: TXT, PNG, nc
+    format: TXT, PNG, NC
     status: Finished
     size: 10.29
     download_date: 2025-06-21

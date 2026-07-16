@@ -16,7 +16,7 @@ category:
 resources:
   - id: 3178
     url: https://www.datalumos.org/datalumos/project/250206/version/V1/view
-    format: HTML, JSON, xlsm
+    format: HTML, JSON, XLSM
     status: Finished
     size: 0.0008
     download_date: 2026-06-26

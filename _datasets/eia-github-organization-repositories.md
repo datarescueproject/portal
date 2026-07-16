@@ -15,7 +15,7 @@ category:
 resources:
   - id: 69
     url: https://github.com/EIAgov-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 

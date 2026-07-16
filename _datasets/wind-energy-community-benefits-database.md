@@ -15,7 +15,7 @@ category:
 resources:
   - id: 61
     url: https://github.com/oedp/doe-wind-exchange
-    format: CSV, Git
+    format: CSV, GIT
     status: Finished
     size: 0.0
     download_date: 2025-02-12

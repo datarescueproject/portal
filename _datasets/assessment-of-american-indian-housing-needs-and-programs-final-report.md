@@ -15,7 +15,7 @@ category:
 resources:
   - id: 101
     url: https://www.datalumos.org/datalumos/project/218865/version/V1/view
-    format: XLS, dat, PDF
+    format: XLS, DAT, PDF
     status: Finished
     size: 0.0
     download_date: 2025-02-10

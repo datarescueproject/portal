@@ -15,7 +15,7 @@ category:
 resources:
   - id: 42
     url: https://github.com/CDCgov-clone
-    format: Git
+    format: GIT
     status: Finished
     size: 0.0
     download_date: 2025-02-12

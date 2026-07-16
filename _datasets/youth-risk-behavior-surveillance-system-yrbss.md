@@ -15,7 +15,7 @@ category:
 resources:
   - id: 312
     url: https://www.dropbox.com/scl/fo/2t0ehrteq62jqrj0slm3q/AHed9WK-9ydPJT1398w42zo?rlkey=pqb2fisu1rgjjc2badfyfq0nk&dl=0
-    format: DTA, XLSX, do, MDB, dat, SPS, SAS
+    format: DTA, XLSX, DO, MDB, DAT, SPS, SAS
     status: Finished
     size: 0.0
     download_date: 2025-01-31

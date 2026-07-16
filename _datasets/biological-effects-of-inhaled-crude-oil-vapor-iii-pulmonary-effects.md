@@ -15,7 +15,7 @@ category:
 resources:
   - id: 1227
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/0L9K3E
-    format: PDF, tab
+    format: PDF, TAB
     status: Finished
     size: 0.001
     download_date: 2025-05-22
