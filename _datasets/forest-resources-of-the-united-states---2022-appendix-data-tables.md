@@ -12,8 +12,8 @@ metadata_available: Yes
 metadata_url: https://web.archive.org/web/20260520191621/https://www.fs.usda.gov/rds/archive/catalog/WO-GTR-107-s1
 category:
   - Climate & Environment 
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3097
     url: https://www.datalumos.org/datalumos/project/248724/version/V1/view

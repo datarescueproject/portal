@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110013234/https://agdatacommons.nal.usda.gov/articles/dataset/Catajapyx_aquilonaris_genome_annotations_v0_5_3/24662157
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3278
     url: https://www.datalumos.org/datalumos/project/250315/version/V1/view

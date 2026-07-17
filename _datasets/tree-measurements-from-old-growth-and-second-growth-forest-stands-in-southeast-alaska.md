@@ -12,8 +12,8 @@ metadata_available: Yes
 metadata_url: https://doi.org/10.3886/E248713V1
 category:
   - Climate & Environment 
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3084
     url: https://www.datalumos.org/datalumos/project/248713/version/V1/view

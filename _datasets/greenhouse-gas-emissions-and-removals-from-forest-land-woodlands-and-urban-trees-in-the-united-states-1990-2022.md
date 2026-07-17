@@ -12,8 +12,8 @@ metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260519140158/https://www.fs.usda.gov/rds/archive/catalog/RDS-2024-0065
 category:
   - Climate & Environment 
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3171
     url: https://www.datalumos.org/datalumos/project/248809/version/V1/view

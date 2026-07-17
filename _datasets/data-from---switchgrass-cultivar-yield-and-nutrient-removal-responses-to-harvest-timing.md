@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012171133/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Switchgrass_cultivar_yield_and_nutrient_removal_responses_to_harvest_timing/24660825
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3245
     url: https://www.datalumos.org/datalumos/project/250281/version/V1/view

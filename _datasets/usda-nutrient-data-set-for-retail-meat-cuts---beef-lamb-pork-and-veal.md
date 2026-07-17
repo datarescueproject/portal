@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251215052318/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Nutrient_Data_Set_for_Retail_Meat_Cuts_Beef_Lamb_Pork_and_Veal/24660840
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3247
     url: https://www.datalumos.org/datalumos/project/250283/version/V1/view
