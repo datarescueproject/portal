@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113000136/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_National_Nutrient_Database_for_Standard_Reference_Dataset_for_What_We_Eat_In_America_NHANES_Survey-SR_/24660927
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3250
     url: https://www.datalumos.org/datalumos/project/250286/version/V1/view

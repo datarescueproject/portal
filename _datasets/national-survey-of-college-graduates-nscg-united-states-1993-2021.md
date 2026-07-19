@@ -19,6 +19,6 @@ resources:
     status: Finished
     size: 
     download_date: 
-    maintainer: DL
+    maintainer: DRP, DL
     notes: 
 ---

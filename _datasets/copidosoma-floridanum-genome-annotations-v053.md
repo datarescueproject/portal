@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251114002333/https://agdatacommons.nal.usda.gov/articles/dataset/Copidosoma_floridanum_genome_annotations_v0_5_3/24662163
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3280
     url: https://www.datalumos.org/datalumos/project/250317/version/V1/view

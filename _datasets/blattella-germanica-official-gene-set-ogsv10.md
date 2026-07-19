@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205212135/https://agdatacommons.nal.usda.gov/articles/dataset/Blattella_germanica_Official_Gene_Set_OGSv1_0/24661989
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3269
     url: https://www.datalumos.org/datalumos/project/250305/version/V1/view

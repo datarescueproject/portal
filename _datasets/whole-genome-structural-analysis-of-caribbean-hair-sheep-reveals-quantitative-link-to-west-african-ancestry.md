@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906010602/https://agdatacommons.nal.usda.gov/articles/dataset/Whole_Genome_Structural_Analysis_of_Caribbean_hair_sheep_reveals_quantitative_link_to_West_African_Ancestry/24660639
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3226
     url: https://www.datalumos.org/datalumos/project/250262/version/V1/view

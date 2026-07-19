@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251015085544/https://agdatacommons.nal.usda.gov/articles/software/Code_from_Fast_and_robust_curve_skeletonization_for_real-world_elongated_objects/24660759
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3240
     url: https://www.datalumos.org/datalumos/project/250276/version/V1/view

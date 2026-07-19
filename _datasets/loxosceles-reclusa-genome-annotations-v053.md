@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007021356/https://agdatacommons.nal.usda.gov/articles/dataset/Loxosceles_reclusa_genome_annotations_v0_5_3/24662280
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3285
     url: https://www.datalumos.org/datalumos/project/250322/version/V1/view

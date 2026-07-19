@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251213163301/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Zea_mays_corn_stover_Alcohol-to-Jet_Central_East_Mar_2017/24660660
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3231
     url: https://www.datalumos.org/datalumos/project/250267/version/V1/view
