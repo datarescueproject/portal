@@ -1,6 +1,8 @@
 dataset,notes,dataset_id,url,websites,organization,agency,categories,last_modified,dataset_source_status
 Billion-Dollar Weather and Climate Disasters,,1,https://www.ncei.noaa.gov/access/billions/mapping,ncei.noaa.gov,National Oceanic and Atmospheric Administration,Department of Commerce,[],2025-02-10,
 American Communities Survey (ACS),,3,https://www.census.gov/programs-surveys/acs,census.gov,Census Bureau,Department of Commerce,[],2025-03-03,
+BLS Downloads,,6,https://download.bls.gov,download.bls.gov,Bureau of Labor Statistics,Department of Labor,[],2026-02-19,
+CDC FTP Server,,7,https://ftp.cdc.gov/,ftp.cdc.gov,Centers for Disease Control and Prevention (CDC),Department of Health and Human Services,[],2025-05-23,
 Enforcement and Compliance History Online (ECHO),,13,https://echo.epa.gov/files/echodownloads,echo.epa.gov,Environmental Protection Agency,Environmental Protection Agency,[],2025-03-26,
 College Scorecard,,15,https://collegescorecard.ed.gov/data/,collegescorecard.ed.gov,Office of Chief Information Officer,Department of Education,[],2025-02-11,
 Campus Safety and Security,,16,https://ope.ed.gov/campussafety/#/datafile/list,ope.ed.gov,Office of Chief Information Officer,Department of Education,[],2025-02-11,
