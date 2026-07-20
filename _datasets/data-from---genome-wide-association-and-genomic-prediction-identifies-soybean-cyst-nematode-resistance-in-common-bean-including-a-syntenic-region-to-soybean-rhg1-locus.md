@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214014602/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genome-wide_Association_and_Genomic_Prediction_Identifies_Soybean_Cyst_Nematode_Resistance_in_Common_Bean_Including_a_Syntenic_Region_to_Soybean_Rhg1_Locus/24661782
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3266
     url: https://www.datalumos.org/datalumos/project/250302/version/V1/view

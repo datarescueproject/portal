@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260112211525/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Agricultural_Research_Service-_Patented_Animal_Production_and_Protection_Technologies/24661659
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3262
     url: https://www.datalumos.org/datalumos/project/250298/version/V1/view

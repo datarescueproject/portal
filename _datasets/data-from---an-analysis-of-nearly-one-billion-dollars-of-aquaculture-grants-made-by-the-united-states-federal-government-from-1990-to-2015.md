@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205220212/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_An_Analysis_of_Nearly_One_Billion_Dollars_of_Aquaculture_Grants_made_by_the_United_States_Federal_Government_from_1990_to_2015/24660645
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3227
     url: https://www.datalumos.org/datalumos/project/250263/version/V1/view

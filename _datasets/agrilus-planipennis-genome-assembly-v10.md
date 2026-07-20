@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210210313/https://agdatacommons.nal.usda.gov/articles/dataset/Agrilus_planipennis_genome_assembly_v1_0/24662133
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3275
     url: https://www.datalumos.org/datalumos/project/250311/version/V1/view

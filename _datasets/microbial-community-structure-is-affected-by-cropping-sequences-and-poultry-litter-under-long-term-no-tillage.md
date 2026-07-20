@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108093105/https://agdatacommons.nal.usda.gov/articles/dataset/Microbial_community_structure_is_affected_by_cropping_sequences_and_poultry_litter_under_long-term_no-tillage/24660822
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3244
     url: https://www.datalumos.org/datalumos/project/250280/version/V1/view

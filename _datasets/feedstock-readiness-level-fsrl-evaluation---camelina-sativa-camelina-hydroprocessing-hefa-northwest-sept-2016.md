@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006015822/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Camelina_sativa_camelina_hydroprocessing_HEFA_Northwest_Sept_2016/24660576
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3218
     url: https://www.datalumos.org/datalumos/project/250254/version/V1/view
