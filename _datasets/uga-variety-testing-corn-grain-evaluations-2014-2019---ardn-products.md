@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251013182927/https://agdatacommons.nal.usda.gov/articles/dataset/UGA_Variety_Testing_Corn_Grain_Evaluations_2014-2019_ARDN_products/24666885
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3416
     url: https://www.datalumos.org/datalumos/project/250477/version/V1/view

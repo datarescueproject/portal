@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251217065810/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Dietary_Guidelines_Sentiment_Analysis/24662361
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3291
     url: https://www.datalumos.org/datalumos/project/250328/version/V1/view

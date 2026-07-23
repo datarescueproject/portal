@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018231410/https://agdatacommons.nal.usda.gov/articles/dataset/Drumbeats_Alaska_Course_Enrollment_Trends_Curricula/24665820
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3380
     url: https://www.datalumos.org/datalumos/project/250435/version/V1/view

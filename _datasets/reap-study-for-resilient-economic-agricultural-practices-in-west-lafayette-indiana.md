@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114061915/https://agdatacommons.nal.usda.gov/articles/dataset/REAP_Study_for_Resilient_Economic_Agricultural_Practices_in_West_Lafayette_Indiana/24665307
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3347
     url: https://www.datalumos.org/datalumos/project/250400/version/V1/view

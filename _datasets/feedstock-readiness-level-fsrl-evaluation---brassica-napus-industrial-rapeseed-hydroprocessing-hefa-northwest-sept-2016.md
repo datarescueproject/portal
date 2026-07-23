@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250814175742/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Brassica_napus_industrial_rapeseed_hydroprocessing_HEFA_Northwest_Sept_2016/24660579
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3219
     url: https://www.datalumos.org/datalumos/project/250255/version/V1/view

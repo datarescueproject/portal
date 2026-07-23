@@ -15,7 +15,7 @@ category:
 resources:
   - id: 1226
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/OXD7BP
-    format: PDF, TAB
+    format: PDF, TAB, CSV
     status: Finished
     size: 0.008
     download_date: 2025-04-23
@@ -23,10 +23,10 @@ resources:
     notes: 
   - id: 1494
     url: https://www.datalumos.org/datalumos/project/233570/view
-    format: 
+    format: PDF, CSV
     status: Finished
-    size: 
-    download_date: 
+    size: 0.0074
+    download_date: 2025-06-19
     maintainer: DL
     notes: 
 ---

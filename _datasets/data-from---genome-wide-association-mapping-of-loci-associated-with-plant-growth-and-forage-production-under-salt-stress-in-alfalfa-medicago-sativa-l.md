@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006010938/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genome-Wide_Association_Mapping_of_Loci_Associated_with_Plant_Growth_and_Forage_Production_under_Salt_Stress_in_Alfalfa_Medicago_sativa_L_/24662910
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3320
     url: https://www.datalumos.org/datalumos/project/250349/version/V1/view

@@ -23,10 +23,10 @@ resources:
     notes: 
   - id: 1495
     url: https://www.datalumos.org/datalumos/project/233591/view
-    format: 
+    format: PDF, CSV
     status: Finished
-    size: 
-    download_date: 
+    size: 0.0011
+    download_date: 2025-06-19
     maintainer: DL
     notes: 
 ---

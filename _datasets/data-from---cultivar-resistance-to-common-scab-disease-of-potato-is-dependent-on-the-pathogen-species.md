@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250915125622/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Cultivar_resistance_to_common_scab_disease_of_potato_is_dependent_on_the_pathogen_species/24663270
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3325
     url: https://www.datalumos.org/datalumos/project/250355/version/V1/view

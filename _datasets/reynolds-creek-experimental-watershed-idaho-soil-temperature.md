@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251213071943/https://agdatacommons.nal.usda.gov/articles/dataset/Reynolds_Creek_Experimental_Watershed_Idaho_Soil_Temperature_/24665436
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3357
     url: https://www.datalumos.org/datalumos/project/250410/version/V1/view

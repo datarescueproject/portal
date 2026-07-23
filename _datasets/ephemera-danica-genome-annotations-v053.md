@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210212803/https://agdatacommons.nal.usda.gov/articles/dataset/Ephemera_danica_genome_annotations_v0_5_3/24662190
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3281
     url: https://www.datalumos.org/datalumos/project/250318/version/V1/view

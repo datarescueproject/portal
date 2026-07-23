@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260405011027/https://agdatacommons.nal.usda.gov/articles/dataset/Soil_erosion_and_organic_matter_for_central_Great_Plains_cropping_systems_under_residue_removal/24660222
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3431
     url: https://www.datalumos.org/datalumos/project/250218/version/V1/view

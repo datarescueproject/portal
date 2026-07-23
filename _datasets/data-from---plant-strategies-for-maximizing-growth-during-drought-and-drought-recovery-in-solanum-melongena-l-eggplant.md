@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251017044638/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Plant_strategies_for_maximizing_growth_during_drought_and_drought_recovery_in_Solanum_melongena_L_eggplant_/24666036
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3392
     url: https://www.datalumos.org/datalumos/project/250452/version/V1/view

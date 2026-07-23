@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113050419/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Enzymatic_Modification_of_Menhaden_Oil_to_Incorporate_Caprylic_and_or_Stearic_Acid/24665550
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3364
     url: https://www.datalumos.org/datalumos/project/250417/version/V1/view

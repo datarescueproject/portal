@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911053842/https://agdatacommons.nal.usda.gov/articles/dataset/Sustainable_Corn_CAP_Research_Data_USDA-NIFA_Award_No_2011-68002-30190_ARDN_Products/24665640
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3371
     url: https://www.datalumos.org/datalumos/project/250425/version/V1/view

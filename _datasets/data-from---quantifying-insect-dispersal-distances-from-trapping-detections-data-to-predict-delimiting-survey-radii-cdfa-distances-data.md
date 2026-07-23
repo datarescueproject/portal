@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911215804/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Quantifying_Insect_Dispersal_Distances_from_Trapping_Detections_Data_to_Predict_Delimiting_Survey_Radii_CDFA_distances_data/24666069
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3396
     url: https://www.datalumos.org/datalumos/project/250456/version/V1/view

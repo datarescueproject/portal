@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114041838/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Sorghum_bicolor_sweet_sorghum_Alcohol-to-Jet_Southeast_Sept_2016/24660552
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3211
     url: https://www.datalumos.org/datalumos/project/250247/version/V1/view

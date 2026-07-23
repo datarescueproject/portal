@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112232920/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Identification_of_Single-Nucleotide_Polymorphic_Loci_Associated_with_Biomass_Yield_under_Water_Deficit_in_Alfalfa_Medicago_sativa_L_Using_Genome-Wide_Sequencing_and_Association_Mapping/24662886
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3319
     url: https://www.datalumos.org/datalumos/project/250348/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116091354/https://agdatacommons.nal.usda.gov/articles/dataset/Reynolds_Creek_Experimental_Watershed_Idaho_Sediment_/24665457
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3359
     url: https://www.datalumos.org/datalumos/project/250412/version/V1/view

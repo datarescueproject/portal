@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110010120/https://agdatacommons.nal.usda.gov/articles/dataset/Summarized_responses_from_USDA_Agriculture_Innovation_Strategy_2020_Request_for_Information/24665886
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3385
     url: https://www.datalumos.org/datalumos/project/250444/version/V1/view

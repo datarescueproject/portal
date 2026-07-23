@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251114232108/https://agdatacommons.nal.usda.gov/articles/dataset/UGA_Variety_Testing_Corn_Silage_Evaluations_2016-2019/24665856
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3383
     url: https://www.datalumos.org/datalumos/project/250438/version/V1/view

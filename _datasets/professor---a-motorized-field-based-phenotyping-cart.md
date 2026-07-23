@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905174216/https://agdatacommons.nal.usda.gov/articles/dataset/Professor_A_Motorized_Field-Based_Phenotyping_Cart/24661773
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3265
     url: https://www.datalumos.org/datalumos/project/250301/version/V1/view

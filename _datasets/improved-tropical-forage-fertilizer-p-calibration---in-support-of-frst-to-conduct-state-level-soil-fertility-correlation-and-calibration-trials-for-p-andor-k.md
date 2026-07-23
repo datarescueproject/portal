@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260112201218/https://agdatacommons.nal.usda.gov/articles/dataset/Improved_Tropical_Forage_Fertilizer-P_Calibration_In_support_of_FRST_to_conduct_state-level_soil-fertility_correlation_and_calibration_trials_for_P_and_or_K/24667659
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3427
     url: https://www.datalumos.org/datalumos/project/250488/version/V1/view

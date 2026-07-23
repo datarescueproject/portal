@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906201640/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Bacteria_in_the_genus_Streptomyces_are_effective_biological_control_agents_for_management_of_fungal_plant_pathogens_-_a_meta-analysis/24666114
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3403
     url: https://www.datalumos.org/datalumos/project/250463/version/V1/view
