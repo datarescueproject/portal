@@ -42,11 +42,13 @@ export function collapseListGroup (container, show) {
 
   const itemsToHide = $('.list-group-item:gt(' + (show - 1) + '):not(.active)', container)
   if (itemsToHide.length) {
-    itemsToHide.hide()
+    // Bootstrap's d-flex utility uses !important, so jQuery's inline
+    // display: none is overridden. Use Bootstrap's matching utility class.
+    itemsToHide.addClass('d-none')
 
     const showMoreButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
     showMoreButton.on('click', function (e) {
-      itemsToHide.show()
+      itemsToHide.removeClass('d-none')
       $(this).off('click')
       $(this).remove()
       e.preventDefault()

@@ -9,7 +9,7 @@ permalink: /datasets/
 <div class="row">
   <div class="col-sm-3">
     <h3>Categories</h3>
-    <div class="list-group js-shown" data-component="categories-filter" data-show="5"></div>
+    <div class="list-group js-shown" data-component="categories-filter" data-show="10"></div>
     <div class="list-group js-hidden">
       {% for category in site.dataset_categories %}
       {% assign count = site.datasets | where: "category", category.name | size %}
@@ -34,7 +34,7 @@ permalink: /datasets/
       {% endfor %}
     </div>
   </div>
-  <div class="col-sm-8" data-component="datasets-list">
+  <div class="col-sm-8" data-component="datasets-list" data-page-size="20">
     <h3 class="datasets-count" data-hook="datasets-count">{{ datasets_count }}
       {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</h3>
     <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
@@ -56,5 +56,8 @@ permalink: /datasets/
       </div>
       {% endfor %}
     </div>
+    <nav data-hook="datasets-pagination-nav" aria-label="Datasets pages">
+      <ul class="pagination justify-content-center" data-hook="datasets-pagination"></ul>
+    </nav>
   </div>
 </div>
