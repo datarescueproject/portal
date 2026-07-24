@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205025318/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Quantifying_Insect_Dispersal_Distances_from_Trapping_Detections_Data_to_Predict_Delimiting_Survey_Radii_Raw_Florida_fruit_fly_Distances/24666108
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3401
     url: https://www.datalumos.org/datalumos/project/250461/version/V1/view

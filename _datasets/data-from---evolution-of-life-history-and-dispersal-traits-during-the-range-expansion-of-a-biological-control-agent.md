@@ -9,10 +9,10 @@ description:
 last_modified: 2026-07-20
 dataset_source_status: 
 metadata_available: Yes
-metadata_url: http://web.archive.org/web/20260404190207/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Evolution_of_life_history_and_dispersal_traits_during_the_range_expansion_of_a_biological_control_agent/24666171
+metadata_url: http://web.archive.org/web/20250714180723/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Evolution_of_life_history_and_dispersal_traits_during_the_range_expansion_of_a_biological_control_agent/24666171
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3414
     url: https://www.datalumos.org/datalumos/project/250474/version/V1/view

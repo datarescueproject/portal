@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251016025032/https://agdatacommons.nal.usda.gov/articles/dataset/Organic_Amendment_Study_for_Greenhouse_gas_Reduction_through_Agricultural_Carbon_Enhancement_network_and_Nutrient_Use_and_Outcome_Network_in_Fort_Collins_Colorado/24665259
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3342
     url: https://www.datalumos.org/datalumos/project/250395/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205031225/https://agdatacommons.nal.usda.gov/articles/dataset/Central_Mississippi_River_Basin_LTAR_Dataset_NFARM_Inorganic_N_C_Production_2016-2018/24666006
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3391
     url: https://www.datalumos.org/datalumos/project/250451/version/V1/view

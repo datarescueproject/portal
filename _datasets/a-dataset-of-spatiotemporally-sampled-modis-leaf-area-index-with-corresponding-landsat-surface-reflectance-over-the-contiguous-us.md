@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212003019/https://agdatacommons.nal.usda.gov/articles/dataset/A_dataset_of_spatiotemporally_sampled_MODIS_Leaf_Area_Index_with_corresponding_Landsat_surface_reflectance_over_the_contiguous_US/24666042
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3393
     url: https://www.datalumos.org/datalumos/project/250453/version/V1/view

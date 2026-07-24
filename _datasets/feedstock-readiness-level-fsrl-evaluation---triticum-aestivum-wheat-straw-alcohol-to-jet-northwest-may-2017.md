@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112051303/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Triticum_aestivum_wheat_straw_Alcohol-to-Jet_Northwest_May_2017/24660735
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3238
     url: https://www.datalumos.org/datalumos/project/250274/version/V1/view

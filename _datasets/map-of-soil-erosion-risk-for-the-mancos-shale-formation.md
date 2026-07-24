@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107010655/https://agdatacommons.nal.usda.gov/articles/dataset/Map_of_Soil_Erosion_Risk_for_the_Mancos_Shale_Formation/24664872
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3335
     url: https://www.datalumos.org/datalumos/project/250371/version/V1/view

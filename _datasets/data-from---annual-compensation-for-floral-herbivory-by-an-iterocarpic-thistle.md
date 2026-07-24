@@ -9,10 +9,10 @@ description:
 last_modified: 2026-07-20
 dataset_source_status: 
 metadata_available: Yes
-metadata_url: http://web.archive.org/web/20260405010954/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Annual_Compensation_for_Floral_Herbivory_by_an_Iterocarpic_Thistle/24666129
+metadata_url: http://web.archive.org/web/20251110014954/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Annual_Compensation_for_Floral_Herbivory_by_an_Iterocarpic_Thistle/24666129
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3406
     url: https://www.datalumos.org/datalumos/project/250466/version/V1/view

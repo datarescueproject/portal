@@ -9,10 +9,10 @@ description:
 last_modified: 2026-07-20
 dataset_source_status: 
 metadata_available: Yes
-metadata_url: http://web.archive.org/web/20260404190207/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Classical_biological_control_and_apparent_competition_evaluating_a_waterhyacinth_invaded_community_module/24664818
+metadata_url: http://web.archive.org/web/20251206003042/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Classical_biological_control_and_apparent_competition_evaluating_a_waterhyacinth_invaded_community_module/24664818
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3333
     url: https://www.datalumos.org/datalumos/project/250369/version/V1/view

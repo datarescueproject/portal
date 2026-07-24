@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251217060902/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Solenopsis_invicta_virus_3_infection_alters_worker_foraging_behavior_in_its_host_Solenopsis_invicta/24665793
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3376
     url: https://www.datalumos.org/datalumos/project/250431/version/V1/view

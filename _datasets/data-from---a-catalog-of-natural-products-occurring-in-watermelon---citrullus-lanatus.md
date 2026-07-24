@@ -9,10 +9,10 @@ description:
 last_modified: 2026-07-20
 dataset_source_status: 
 metadata_available: Yes
-metadata_url: http://web.archive.org/web/20260306024141/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_catalog_of_natural_products_occurring_in_watermelon_-_Citrullus_lanatus/24666144
+metadata_url: http://web.archive.org/web/20250812020245/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_catalog_of_natural_products_occurring_in_watermelon_-_Citrullus_lanatus/24666144
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3409
     url: https://www.datalumos.org/datalumos/project/250469/version/V1/view

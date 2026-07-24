@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250915090459/https://agdatacommons.nal.usda.gov/articles/dataset/Nitrogen_Rate_Study_for_Greenhouse_gas_Reduction_through_Agricultural_Carbon_Enhancement_network_in_Fort_Collins_Colorado/24665322
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3348
     url: https://www.datalumos.org/datalumos/project/250401/version/V1/view

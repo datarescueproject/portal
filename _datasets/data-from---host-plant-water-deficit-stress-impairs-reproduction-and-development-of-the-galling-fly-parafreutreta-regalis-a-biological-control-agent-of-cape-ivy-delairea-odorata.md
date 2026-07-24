@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260405010954/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Host_plant_water_deficit_stress_impairs_reproduction_and_development_of_the_galling_fly_Parafreutreta_regalis_a_biological_control_agent_of_Cape-ivy_Delairea_odorata_/24666126
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3405
     url: https://www.datalumos.org/datalumos/project/250465/version/V1/view

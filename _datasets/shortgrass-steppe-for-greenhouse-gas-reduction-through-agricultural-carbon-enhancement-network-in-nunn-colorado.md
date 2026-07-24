@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116092153/https://agdatacommons.nal.usda.gov/articles/dataset/Shortgrass_Steppe_for_Greenhouse_gas_Reduction_through_Agricultural_Carbon_Enhancement_network_in_Nunn_Colorado/24665280
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3343
     url: https://www.datalumos.org/datalumos/project/250396/version/V1/view

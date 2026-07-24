@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112204559/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Metabolic_Coevolution_in_the_Bacterial_Symbiosis_of_Whiteflies_and_Related_Plant_Sap-Feeding_Insects/24662805
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3314
     url: https://www.datalumos.org/datalumos/project/250343/version/V1/view

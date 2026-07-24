@@ -9,10 +9,10 @@ description:
 last_modified: 2026-07-13
 dataset_source_status: 
 metadata_available: Yes
-metadata_url: 
+metadata_url: https://web.archive.org/web/20250616235932/https://agdatacommons.nal.usda.gov/articles/dataset/Hopkins_U_S_System_Index_HUSSI_/24659835
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3177
     url: https://www.datalumos.org/datalumos/project/250205/version/V1/view

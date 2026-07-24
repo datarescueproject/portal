@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018235420/https://agdatacommons.nal.usda.gov/articles/dataset/Honey_bee_Apis_mellifera_and_Varroa_mite_Varroa_destructor_toxicity_data/24667650
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3424
     url: https://www.datalumos.org/datalumos/project/250485/version/V1/view

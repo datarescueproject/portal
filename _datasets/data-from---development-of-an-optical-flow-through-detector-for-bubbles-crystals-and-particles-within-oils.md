@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108095316/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Development_of_an_optical_flow_through_detector_for_bubbles_crystals_and_particles_within_oils/24667815
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3430
     url: https://www.datalumos.org/datalumos/project/250492/version/V1/view

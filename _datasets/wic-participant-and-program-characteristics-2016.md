@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207042848/https://agdatacommons.nal.usda.gov/articles/dataset/WIC_Participant_and_Program_Characteristics_2016/24665535
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3363
     url: https://www.datalumos.org/datalumos/project/250416/version/V1/view
