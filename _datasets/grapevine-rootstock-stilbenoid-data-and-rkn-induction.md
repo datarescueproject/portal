@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006042526/https://agdatacommons.nal.usda.gov/articles/dataset/Grapevine_rootstock_stilbenoid_data_and_RKN_induction/24665595
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3368
     url: https://www.datalumos.org/datalumos/project/250421/version/V1/view

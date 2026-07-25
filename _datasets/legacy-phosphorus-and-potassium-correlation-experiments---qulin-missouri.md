@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109224746/https://agdatacommons.nal.usda.gov/articles/dataset/Legacy_Phosphorus_and_Potassium_Correlation_Experiments_Qulin_Missouri/24667656
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3426
     url: https://www.datalumos.org/datalumos/project/250487/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112055919/https://agdatacommons.nal.usda.gov/articles/software/US_Federal_LCA_Commons_Life_Cycle_Inventory_Unit_Process_Template/24851925
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3528
     url: https://www.datalumos.org/datalumos/project/250579/version/V1/view

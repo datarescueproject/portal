@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116210425/https://agdatacommons.nal.usda.gov/articles/dataset/Comparison_of_four_extractants_used_in_soil_phosphorus_and_potassium_testing_for_two_soils_in_a_corn-wheat-soybean_rotation_in_Tennessee_receiving_various_amounts_of_P_and_K_fertilizer/24665652
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3373
     url: https://www.datalumos.org/datalumos/project/250427/version/V1/view

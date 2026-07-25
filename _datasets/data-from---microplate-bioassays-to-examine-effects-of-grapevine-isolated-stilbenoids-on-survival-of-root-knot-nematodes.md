@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012165916/https://agdatacommons.nal.usda.gov/articles/dataset/Data_From_Microplate_bioassays_to_examine_effects_of_grapevine-isolated_stilbenoids_on_survival_of_root_knot_nematodes/24667944
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3460
     url: https://www.datalumos.org/datalumos/project/250503/version/V1/view

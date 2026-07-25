@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007112219/https://agdatacommons.nal.usda.gov/articles/dataset/Delta_Food_Outlets_Study/24663303
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3326
     url: https://www.datalumos.org/datalumos/project/250356/version/V1/view

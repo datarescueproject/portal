@@ -13,8 +13,8 @@ metadata_url:
 category:
   - Labor & Employment 
   - Business & Economy 
-  - Education 
   - Health & Healthcare 
+  - Education 
   - Housing & Community Development 
   - Social Services 
 resources:

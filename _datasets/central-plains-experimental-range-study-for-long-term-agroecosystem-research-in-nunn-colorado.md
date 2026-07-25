@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014032319/https://agdatacommons.nal.usda.gov/articles/dataset/Central_Plains_Experimental_Range_Study_for_Long-Term_Agroecosystem_Research_in_Nunn_Colorado/24665343
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3350
     url: https://www.datalumos.org/datalumos/project/250403/version/V1/view

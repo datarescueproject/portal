@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113064033/https://agdatacommons.nal.usda.gov/articles/dataset/Soybean_Yield_Response_to_Fertilizer-Phosphorus_Rate_on_Soils_having_different_Mehlich-3_Phosphorus_Values_in_Arkansas/24667830
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3451
     url: https://www.datalumos.org/datalumos/project/250494/version/V1/view

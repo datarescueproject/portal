@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911205319/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Identification_and_functional_characterization_of_immunity-suppressing_candidate_effector_proteins_in_the_parasitic_weed_Phelipanche_aegyptiaca/24664671
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3332
     url: https://www.datalumos.org/datalumos/project/250363/version/V1/view

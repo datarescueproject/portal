@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017051305/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Pennisetum_purpureum_napiergrass_Alcohol-to-Jet_Southeast_June_2018/24662676
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3304
     url: https://www.datalumos.org/datalumos/project/250332/version/V1/view

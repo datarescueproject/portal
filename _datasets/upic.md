@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251209181253/https://agdatacommons.nal.usda.gov/articles/model/UPIC/24664173
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3331
     url: https://www.datalumos.org/datalumos/project/250361/version/V1/view
