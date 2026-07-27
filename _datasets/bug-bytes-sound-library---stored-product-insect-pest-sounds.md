@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251213160331/https://agdatacommons.nal.usda.gov/articles/dataset/Bug_Bytes_sound_library_stored_product_insect_pest_sounds/24664824
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3334
     url: https://www.datalumos.org/datalumos/project/250370/version/V1/view

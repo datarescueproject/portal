@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250907045146/https://agdatacommons.nal.usda.gov/articles/dataset/Diaphorina_citri_MCOT_transcriptome/24660612
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3222
     url: https://www.datalumos.org/datalumos/project/250258/version/V1/view

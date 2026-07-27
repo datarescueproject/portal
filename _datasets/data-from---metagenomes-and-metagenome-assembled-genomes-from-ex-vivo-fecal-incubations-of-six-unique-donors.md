@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251106235253/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Metagenomes_and_Metagenome-Assembled_Genomes_from_Ex_Vivo_Fecal_Incubations_of_Six_Unique_Donors/24668784
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3506
     url: https://www.datalumos.org/datalumos/project/250550/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212055338/https://agdatacommons.nal.usda.gov/articles/dataset/USLE_Project/24661365
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3255
     url: https://www.datalumos.org/datalumos/project/250291/version/V1/view

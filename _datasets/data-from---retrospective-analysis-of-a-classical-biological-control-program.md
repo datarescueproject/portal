@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251213170603/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Retrospective_Analysis_of_a_Classical_Biological_Control_Program/24660723
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3235
     url: https://www.datalumos.org/datalumos/project/250271/version/V1/view

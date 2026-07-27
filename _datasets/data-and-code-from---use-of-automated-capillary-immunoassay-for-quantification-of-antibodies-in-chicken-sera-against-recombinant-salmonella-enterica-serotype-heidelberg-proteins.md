@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212070748/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Use_of_automated_capillary_immunoassay_for_quantification_of_antibodies_in_chicken_sera_against_recombinant_Salmonella_enterica_serotype_Heidelberg_proteins/24668550
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3490
     url: https://www.datalumos.org/datalumos/project/250534/version/V1/view

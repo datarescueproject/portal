@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017022001/https://agdatacommons.nal.usda.gov/articles/dataset/Field_70_71_Study_for_Resilient_Economic_Agricultural_Practices_in_Ames_Iowa/24665298
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3345
     url: https://www.datalumos.org/datalumos/project/250398/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207060317/https://agdatacommons.nal.usda.gov/articles/dataset/ACRE_Study_for_Greenhouse_gas_Reduction_through_Agricultural_Carbon_Enhancement_network_in_West_Lafayette_Indiana/24665079
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3340
     url: https://www.datalumos.org/datalumos/project/250376/version/V1/view

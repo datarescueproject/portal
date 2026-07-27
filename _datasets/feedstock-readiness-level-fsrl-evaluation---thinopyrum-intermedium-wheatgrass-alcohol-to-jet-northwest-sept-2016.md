@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108102035/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Thinopyrum_intermedium_wheatgrass_Alcohol-to-Jet_Northwest_Sept_2016/24660567
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3215
     url: https://www.datalumos.org/datalumos/project/250251/version/V1/view

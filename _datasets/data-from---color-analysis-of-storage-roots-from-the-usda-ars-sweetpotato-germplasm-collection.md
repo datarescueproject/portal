@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116220603/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Color_Analysis_of_Storage_Roots_from_the_USDA_ARS_Sweetpotato_Germplasm_Collection/24660708
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3234
     url: https://www.datalumos.org/datalumos/project/250270/version/V1/view

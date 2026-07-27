@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107215047/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Agricultural_Research_Service-_Patented_Food_Processing_and_Products_Technologies/24661650
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3259
     url: https://www.datalumos.org/datalumos/project/250295/version/V1/view

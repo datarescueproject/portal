@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250915034433/https://agdatacommons.nal.usda.gov/articles/dataset/Validation_Dataset_for_Hydroponically_Cultivated_Bibb_Lettuce/29646779
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3068
     url: https://www.datalumos.org/datalumos/project/250199/version/V1/view

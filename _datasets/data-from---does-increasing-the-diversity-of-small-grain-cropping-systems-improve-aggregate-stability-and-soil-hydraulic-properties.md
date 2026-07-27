@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905120142/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Does_Increasing_the_Diversity_of_Small_Grain_Cropping_Systems_Improve_Aggregate_Stability_and_Soil_Hydraulic_Properties_/24668775
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3505
     url: https://www.datalumos.org/datalumos/project/250549/version/V1/view

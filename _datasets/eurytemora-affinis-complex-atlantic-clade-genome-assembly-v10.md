@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007123905/https://agdatacommons.nal.usda.gov/articles/dataset/Eurytemora_affinis_complex_Atlantic_clade_genome_assembly_v1_0/24662106
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3273
     url: https://www.datalumos.org/datalumos/project/250309/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109014345/https://agdatacommons.nal.usda.gov/articles/dataset/Manuresheds_Redesigning_crop-livestock_agriculture_for_sustainable_intensification/24665478
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3361
     url: https://www.datalumos.org/datalumos/project/250414/version/V1/view

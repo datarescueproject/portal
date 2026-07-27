@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214021217/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Chondroitin_sulfate_disaccharides_modified_the_structure_and_function_of_the_murine_gut_microbiome_under_healthy_and_stressed_conditions/24662874
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3318
     url: https://www.datalumos.org/datalumos/project/250347/version/V1/view

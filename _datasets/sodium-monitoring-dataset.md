@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205062735/https://agdatacommons.nal.usda.gov/articles/dataset/Sodium_Monitoring_Dataset/24661689
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3264
     url: https://www.datalumos.org/datalumos/project/250300/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112140213/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_U_S_Agriculture_and_Forestry_Greenhouse_Gas_Inventory_1990-2018/24666054
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3395
     url: https://www.datalumos.org/datalumos/project/250455/version/V1/view

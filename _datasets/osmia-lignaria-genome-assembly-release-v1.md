@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110165534/https://agdatacommons.nal.usda.gov/articles/dataset/Osmia_lignaria_genome_assembly_release_v1/24665529
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3362
     url: https://www.datalumos.org/datalumos/project/250415/version/V1/view

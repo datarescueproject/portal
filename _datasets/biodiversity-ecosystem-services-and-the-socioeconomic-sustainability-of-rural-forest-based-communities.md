@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108063425/https://agdatacommons.nal.usda.gov/articles/dataset/Biodiversity_ecosystem_services_and_the_socioeconomic_sustainability_of_rural_forest-based_communities/24666048
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3394
     url: https://www.datalumos.org/datalumos/project/250454/version/V1/view

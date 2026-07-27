@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251114000351/https://agdatacommons.nal.usda.gov/articles/dataset/Amino_acid_and_phenolic_compound_levels_in_grapevine_leaves_infected_with_Grapevine_leafroll-associated_virus_3_and_Grapevine_red_blotch-associated_virus/24667803
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3429
     url: https://www.datalumos.org/datalumos/project/250491/version/V1/view

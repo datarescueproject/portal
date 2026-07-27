@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112052659/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_The_reference_transcriptome_of_the_adult_female_biting_midge_Culicoides_sonorensis_and_differential_gene_expression_profiling_during_teneral_blood_and_sucrose_feeding_conditions/24851883
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3523
     url: https://www.datalumos.org/datalumos/project/250574/version/V1/view

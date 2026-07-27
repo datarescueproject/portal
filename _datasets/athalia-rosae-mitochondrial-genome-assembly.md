@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911203057/https://agdatacommons.nal.usda.gov/articles/dataset/Athalia_rosae_mitochondrial_genome_assembly/24662739
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3308
     url: https://www.datalumos.org/datalumos/project/250337/version/V1/view

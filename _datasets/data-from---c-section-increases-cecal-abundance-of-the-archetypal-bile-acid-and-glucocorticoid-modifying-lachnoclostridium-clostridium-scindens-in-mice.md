@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014040529/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_C-section_increases_cecal_abundance_of_the_archetypal_bile_acid_and_glucocorticoid_modifying_Lachnoclostridium_Clostridium_scindens_in_mice/24667761
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3428
     url: https://www.datalumos.org/datalumos/project/250489/version/V1/view

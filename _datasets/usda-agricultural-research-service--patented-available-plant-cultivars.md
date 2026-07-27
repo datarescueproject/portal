@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251115155821/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Agricultural_Research_Service-_Patented_Available_Plant_Cultivars/24661641
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3258
     url: https://www.datalumos.org/datalumos/project/250294/version/V1/view

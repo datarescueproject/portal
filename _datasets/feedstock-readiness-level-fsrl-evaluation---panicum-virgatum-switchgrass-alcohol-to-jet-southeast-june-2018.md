@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107001826/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Panicum_virgatum_switchgrass_Alcohol-to-Jet_Southeast_June_2018/24662664
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3303
     url: https://www.datalumos.org/datalumos/project/250331/version/V1/view

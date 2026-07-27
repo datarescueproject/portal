@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109004223/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Thlaspi_arvense_pennycress_hydroprocessing_HEFA_Midwest_Jun_2021/24666150
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3411
     url: https://www.datalumos.org/datalumos/project/250471/version/V1/view
