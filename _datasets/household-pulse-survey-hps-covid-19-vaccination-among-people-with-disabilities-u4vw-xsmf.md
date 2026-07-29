@@ -6,7 +6,7 @@ agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Vaccinations/Household-Pulse-Survey-HPS-COVID-19-Vaccination-am/u4vw-xsmf/about_data
 description: 
-last_modified: 2026-01-25
+last_modified: 2026-07-29
 dataset_source_status: 
 metadata_available: No
 metadata_url: 

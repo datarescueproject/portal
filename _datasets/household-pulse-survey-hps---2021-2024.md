@@ -1,21 +1,21 @@
 ---
 schema: data_rescue_project 
-title: Household Pulse Survey - 2021-2024
+title: Household Pulse Survey (HPS) - 2021-2024
 organization: Census Bureau
 agency: Department of Commerce
 websites: census.gov
 data_source: https://www.census.gov/data/experimental-data-products/household-pulse-survey.html
 description: 
-last_modified: 2025-03-03
+last_modified: 2026-07-29
 dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
-  - Health & Healthcare 
   - Labor & Employment 
   - Education 
+  - Social Services 
   - Business & Economy 
+  - Health & Healthcare 
   - Housing & Community Development 
 resources:
   - id: 273

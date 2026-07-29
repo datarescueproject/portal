@@ -16,7 +16,7 @@ category:
 resources:
   - id: 1223
     url: http://gofile.me/6YDWz/ezsiw8rOF
-    format: 7z
+    format: 7Z
     status: Finished
     size: 190.0
     download_date: 2025-02-28

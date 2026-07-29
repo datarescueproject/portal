@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Agriculture 
   - Communications 
+  - Agriculture 
   - Business & Economy 
 resources:
   - id: 62

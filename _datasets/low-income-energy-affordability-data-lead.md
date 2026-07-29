@@ -29,4 +29,12 @@ resources:
     download_date: 2025-01-28
     maintainer: PEDP, CaCo
     notes: Fact Sheet https://www.energy.gov/sites/default/files/2024-07/lead-tool-factsheet_072624.pdf
+  - id: 3844
+    url: https://datacatalog.urban.org/dataset/low-income-energy-affordability-data-lead-tool
+    format: ZIP, PDF, XLSX
+    status: Finished
+    size: 0.0005
+    download_date: 2025-04-05
+    maintainer: UI
+    notes: 
 ---
