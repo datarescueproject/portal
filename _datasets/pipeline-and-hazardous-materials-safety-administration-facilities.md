@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Infrastructure 
   - Science & Research 
+  - Infrastructure 
 resources:
   - id: 63
     url: https://doi.org/10.5281/zenodo.7683351
