@@ -13,10 +13,10 @@ metadata_url:
 category:
   - Health & Healthcare 
   - Business & Economy 
-  - Housing & Community Development 
-  - Education 
   - Labor & Employment 
   - Social Services 
+  - Education 
+  - Housing & Community Development 
 resources:
   - id: 3846
     url: https://zenodo.org/records/20533174
