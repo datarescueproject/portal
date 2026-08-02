@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
-  - Education 
   - Housing & Community Development 
+  - Education 
   - Business & Economy 
-  - Health & Healthcare 
   - Labor & Employment 
+  - Social Services 
+  - Health & Healthcare 
 resources:
   - id: 3846
     url: https://zenodo.org/records/20533174

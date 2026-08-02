@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Business & Economy 
   - Labor & Employment 
+  - Business & Economy 
 resources:
   - id: 1682
     url: https://www.datalumos.org/datalumos/project/237529/version/V1/view
