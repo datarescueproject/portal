@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007131256/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_randomized_controlled_trial_of_positive_outcome_expectancies_during_high-intensity_interval_training_in_inactive_adults/24666948
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3420
     url: https://www.datalumos.org/datalumos/project/250481/version/V1/view

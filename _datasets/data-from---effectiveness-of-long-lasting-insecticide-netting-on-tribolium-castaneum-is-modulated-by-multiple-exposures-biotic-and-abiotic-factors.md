@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110013553/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Effectiveness_of_Long-Lasting_Insecticide_Netting_on_Tribolium_castaneum_is_Modulated_by_Multiple_Exposures_Biotic_and_Abiotic_Factors/24853569
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3611
     url: https://www.datalumos.org/datalumos/project/250677/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010185654/https://agdatacommons.nal.usda.gov/articles/dataset/ARS_Collection_of_Entomopathogenic_Fungal_Cultures_ARSEF_/24660507
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3946
     url: https://www.datalumos.org/datalumos/project/251307/version/V1/view

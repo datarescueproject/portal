@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251216025650/https://agdatacommons.nal.usda.gov/articles/dataset/Alfalfa_Medicago_sativa_L_cultivars_mean_annual_forage_yield_US_Ton_ac-1_from_Northeast_USA_and_Ontario_Canada_from_1995_to_2013/24853239
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3598
     url: https://www.datalumos.org/datalumos/project/250663/version/V1/view

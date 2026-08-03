@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006051703/https://agdatacommons.nal.usda.gov/articles/software/Agricultural_Conservation_Planning_Framework_ACPF_Toolbox/24660141
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3938
     url: https://www.datalumos.org/datalumos/project/251296/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251217073542/https://agdatacommons.nal.usda.gov/articles/dataset/The_Cause_of_Increased_Effectiveness_of_Water-In-Oil_Emulsion_over_Water_Application_of_Trichoderma_ovalisporum_on_Therobroma_cacao_Pods/24852684
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3571
     url: https://www.datalumos.org/datalumos/project/250634/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251211114922/https://agdatacommons.nal.usda.gov/articles/dataset/Conserved_B_cell_signaling_activation_and_differentiation_in_porcine_jejunal_and_ileal_Peyer_s_patches_despite_distinct_immune_landscapes/24857538
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3948
     url: https://www.datalumos.org/datalumos/project/250873/version/V1/view

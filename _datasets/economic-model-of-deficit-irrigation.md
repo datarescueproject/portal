@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251213075231/https://agdatacommons.nal.usda.gov/articles/software/Economic_Model_of_Deficit_Irrigation/25212473
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3834
     url: https://www.datalumos.org/datalumos/project/250923/version/V1/view

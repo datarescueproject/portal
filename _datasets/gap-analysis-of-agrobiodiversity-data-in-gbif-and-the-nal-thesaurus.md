@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251115145722/https://agdatacommons.nal.usda.gov/articles/dataset/Gap_Analysis_of_Agrobiodiversity_data_in_GBIF_and_the_NAL_Thesaurus/24662769
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3311
     url: https://www.datalumos.org/datalumos/project/250340/version/V1/view

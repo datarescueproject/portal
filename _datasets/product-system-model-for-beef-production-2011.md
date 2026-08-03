@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251013184830/https://agdatacommons.nal.usda.gov/articles/dataset/Product_System_Model_for_Beef_Production_2011/25212353
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3827
     url: https://www.datalumos.org/datalumos/project/250915/version/V1/view

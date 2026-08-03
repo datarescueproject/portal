@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905195038/https://agdatacommons.nal.usda.gov/articles/dataset/Supporting_Materials_Skeletal_muscle_transcriptome_in_myoglobin_knockout_mice/24665898
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3386
     url: https://www.datalumos.org/datalumos/project/250446/version/V1/view

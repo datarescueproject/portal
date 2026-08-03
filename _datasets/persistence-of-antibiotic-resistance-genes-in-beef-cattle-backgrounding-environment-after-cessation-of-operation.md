@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250913021709/https://agdatacommons.nal.usda.gov/articles/dataset/Persistence_of_antibiotic_resistance_genes_in_beef_cattle_backgrounding_environment_after_cessation_of_operation/24852984
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3588
     url: https://www.datalumos.org/datalumos/project/250651/version/V1/view

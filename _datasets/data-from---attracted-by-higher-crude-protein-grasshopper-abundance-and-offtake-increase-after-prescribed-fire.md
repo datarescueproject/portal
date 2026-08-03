@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114070422/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Attracted_by_higher_crude_protein_grasshopper_abundance_and_offtake_increase_after_prescribed_fire/24668526
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3486
     url: https://www.datalumos.org/datalumos/project/250530/version/V1/view

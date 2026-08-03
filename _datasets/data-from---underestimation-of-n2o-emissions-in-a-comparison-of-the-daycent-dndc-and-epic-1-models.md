@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251201074122/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Underestimation_of_N2O_emissions_in_a_comparison_of_the_DayCent_DNDC_and_EPIC_1_models/24852498
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3567
     url: https://www.datalumos.org/datalumos/project/250628/version/V1/view

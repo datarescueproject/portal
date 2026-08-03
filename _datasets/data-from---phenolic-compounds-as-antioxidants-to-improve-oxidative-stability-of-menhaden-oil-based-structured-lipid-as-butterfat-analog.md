@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018234833/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Phenolic_Compounds_as_Antioxidants_to_Improve_Oxidative_Stability_of_Menhaden_Oil-Based_Structured_Lipid_as_Butterfat_Analog/24665766
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3375
     url: https://www.datalumos.org/datalumos/project/250430/version/V1/view

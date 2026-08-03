@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205210941/https://agdatacommons.nal.usda.gov/articles/dataset/Soils_Data_for_North_Dakota_Mined_Land_Reclamation_Experiments_in_the_1970_s_Using_Soil_Respreading/24857181
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3781
     url: https://www.datalumos.org/datalumos/project/250863/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251209172522/https://agdatacommons.nal.usda.gov/articles/dataset/Agronomic_Calendars_for_the_Bushland_Texas_Maize_for_Grain_Datasets/24855873
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3682
     url: https://www.datalumos.org/datalumos/project/250758/version/V1/view

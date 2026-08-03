@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251217130817/https://agdatacommons.nal.usda.gov/articles/dataset/Weighing_Lysimeter_Data_for_The_Bushland_Texas_Alfalfa_Datasets/24856035
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3696
     url: https://www.datalumos.org/datalumos/project/250769/version/V1/view

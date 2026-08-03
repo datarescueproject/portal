@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210213415/https://agdatacommons.nal.usda.gov/articles/dataset/Genome_analysis_of_the_ubiquitous_boxwood_pathogen_Pseudonectria_foliicola_A_small_fungal_genome_with_an_increased_cohort_of_genes_associated_with_loss_of_virulence/24852438
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3565
     url: https://www.datalumos.org/datalumos/project/250626/version/V1/view

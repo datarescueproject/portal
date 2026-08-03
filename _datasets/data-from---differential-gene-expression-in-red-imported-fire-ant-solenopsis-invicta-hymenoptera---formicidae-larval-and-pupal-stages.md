@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109215834/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Differential_gene_expression_in_red_imported_fire_ant_Solenopsis_invicta_Hymenoptera_Formicidae_larval_and_pupal_stages/24662730
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3941
     url: https://www.datalumos.org/datalumos/project/250336/version/V1/view

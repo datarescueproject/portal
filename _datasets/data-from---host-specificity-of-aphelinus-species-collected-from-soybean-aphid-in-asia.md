@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251216034004/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Host_specificity_of_Aphelinus_species_collected_from_soybean_aphid_in_Asia/24852360
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3562
     url: https://www.datalumos.org/datalumos/project/250622/version/V1/view

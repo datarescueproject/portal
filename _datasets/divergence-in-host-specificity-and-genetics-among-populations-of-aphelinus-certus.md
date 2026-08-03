@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251017021824/https://agdatacommons.nal.usda.gov/articles/dataset/Divergence_in_host_specificity_and_genetics_among_populations_of_Aphelinus_certus/24852993
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3589
     url: https://www.datalumos.org/datalumos/project/250652/version/V1/view

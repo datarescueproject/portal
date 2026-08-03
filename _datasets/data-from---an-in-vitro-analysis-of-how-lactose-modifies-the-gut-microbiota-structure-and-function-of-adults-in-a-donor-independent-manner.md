@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212005931/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_An_in_vitro_analysis_of_how_lactose_modifies_the_gut_microbiota_structure_and_function_of_adults_in_a_donor-independent_manner/24857139
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3776
     url: https://www.datalumos.org/datalumos/project/250858/version/V1/view

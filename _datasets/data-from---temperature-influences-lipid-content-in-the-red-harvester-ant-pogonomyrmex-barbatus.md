@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116221624/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Temperature_influences_lipid_content_in_the_red_harvester_ant_Pogonomyrmex_barbatus/24857061
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3770
     url: https://www.datalumos.org/datalumos/project/250851/version/V1/view

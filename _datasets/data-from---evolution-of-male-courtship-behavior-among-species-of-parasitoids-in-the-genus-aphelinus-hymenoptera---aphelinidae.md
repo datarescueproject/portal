@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112054616/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Evolution_of_male_courtship_behavior_among_species_of_parasitoids_in_the_genus_Aphelinus_Hymenoptera_Aphelinidae_/24853524
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3606
     url: https://www.datalumos.org/datalumos/project/250672/version/V1/view

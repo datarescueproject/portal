@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911155404/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_First_Field_Evaluation_of_a_Polylactic_Acid-based_Weed_Barrier_with_Compost_for_Carrot_Production/27912960
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3910
     url: https://www.datalumos.org/datalumos/project/250998/version/V1/view

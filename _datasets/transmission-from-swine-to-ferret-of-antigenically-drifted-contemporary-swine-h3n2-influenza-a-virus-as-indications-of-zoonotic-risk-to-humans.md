@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006042000/https://agdatacommons.nal.usda.gov/articles/dataset/Transmission_from_swine-to-ferret_of_antigenically_drifted_contemporary_swine_H3N2_influenza_A_virus_as_indications_of_zoonotic_risk_to_humans/24856497
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3933
     url: https://www.datalumos.org/datalumos/project/250807/version/V1/view

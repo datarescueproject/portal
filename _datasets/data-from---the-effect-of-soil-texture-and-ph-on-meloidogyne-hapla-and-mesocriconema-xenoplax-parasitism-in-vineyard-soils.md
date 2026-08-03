@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20260113053931/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_The_effect_of_soil_texture_and_pH_on_Meloidogyne_hapla_and_Mesocriconema_xenoplax_parasitism_in_vineyard_soils/25217351
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3876
     url: https://www.datalumos.org/datalumos/project/250962/version/V1/view

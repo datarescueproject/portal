@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251013185312/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Thermal_tolerance_regulates_foraging_behavior_of_ants/24856104
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3703
     url: https://www.datalumos.org/datalumos/project/250776/version/V1/view

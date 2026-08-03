@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://doi.org/10.3886/E251003V1
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3915
     url: https://www.datalumos.org/datalumos/project/251003/version/V1/view

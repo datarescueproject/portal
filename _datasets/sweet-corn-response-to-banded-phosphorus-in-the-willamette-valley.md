@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110142213/https://agdatacommons.nal.usda.gov/articles/dataset/Sweet_corn_response_to_banded_phosphorus_in_the_Willamette_Valley/24668616
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3494
     url: https://www.datalumos.org/datalumos/project/250538/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251015091045/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_High-Quality_Genome_Assembly_from_a_Single_Field-collected_Spotted_Lanternfly_Lycorma_delicatula_using_the_PacBio_Sequel_II_System/24853107
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3928
     url: https://www.datalumos.org/datalumos/project/250658/version/V1/view

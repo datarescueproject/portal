@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251017051609/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Precipitation_manipulation_experiments_may_be_confounded_by_water_source/24856968
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3761
     url: https://www.datalumos.org/datalumos/project/250841/version/V1/view

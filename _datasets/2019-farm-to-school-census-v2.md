@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251022062649/https://agdatacommons.nal.usda.gov/articles/dataset/2019_Farm_to_School_Census/25212905
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3850
     url: https://www.datalumos.org/datalumos/project/250936/version/V1/view

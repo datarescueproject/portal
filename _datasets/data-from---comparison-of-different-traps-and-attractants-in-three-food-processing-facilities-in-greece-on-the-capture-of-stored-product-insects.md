@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014203431/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Comparison_of_different_traps_and_attractants_in_three_food_processing_facilities_in_Greece_on_the_capture_of_stored_product_insects/24856686
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3747
     url: https://www.datalumos.org/datalumos/project/250827/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211045409/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Identification_of_a_key_target_for_elimination_of_nitrous_oxide_a_major_greenhouse_gas/24668340
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3943
     url: https://www.datalumos.org/datalumos/project/251305/version/V1/view

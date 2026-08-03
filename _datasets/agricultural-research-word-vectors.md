@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250813122722/https://agdatacommons.nal.usda.gov/articles/model/Agricultural_Research_Word_Vectors/24853329
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3945
     url: https://www.datalumos.org/datalumos/project/250668/version/V1/view

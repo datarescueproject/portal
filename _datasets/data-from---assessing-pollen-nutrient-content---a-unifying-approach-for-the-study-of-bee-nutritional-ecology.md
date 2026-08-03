@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205215015/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Assessing_pollen_nutrient_content_a_unifying_approach_for_the_study_of_bee_nutritional_ecology/24855975
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3688
     url: https://www.datalumos.org/datalumos/project/250765/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250907045623/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Taxonomic_geographic_and_diversity_trends_for_exotic_plant_pests_in_recent_biosurveillance_articles/24666072
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3397
     url: https://www.datalumos.org/datalumos/project/250457/version/V1/view

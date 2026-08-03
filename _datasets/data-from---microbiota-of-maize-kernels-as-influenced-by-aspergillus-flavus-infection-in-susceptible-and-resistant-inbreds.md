@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250809032310/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Microbiota_of_maize_kernels_as_influenced_by_Aspergillus_flavus_infection_in_susceptible_and_resistant_inbreds/24857544
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3789
     url: https://www.datalumos.org/datalumos/project/250874/version/V1/view

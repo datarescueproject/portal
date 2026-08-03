@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251206002752/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_High_genetic_diversity_in_the_landscape_suggests_frequent_seedling_recruitment_by_Euphorbia_virgata_Waldst_Kit_leafy_spurge_in_the_northern_U_S_A_/24856524
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3734
     url: https://www.datalumos.org/datalumos/project/250812/version/V1/view

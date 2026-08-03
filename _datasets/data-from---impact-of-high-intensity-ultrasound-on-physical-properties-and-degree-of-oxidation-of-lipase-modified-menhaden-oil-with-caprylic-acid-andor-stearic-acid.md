@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205204405/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Impact_of_high-intensity_ultrasound_on_physical_properties_and_degree_of_oxidation_of_lipase_modified_menhaden_oil_with_caprylic_acid_and_or_stearic_acid/24667653
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3425
     url: https://www.datalumos.org/datalumos/project/250486/version/V1/view

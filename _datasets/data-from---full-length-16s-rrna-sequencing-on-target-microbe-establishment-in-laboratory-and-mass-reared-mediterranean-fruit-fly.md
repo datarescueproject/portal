@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251108090917/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Full-length_16S_rRNA_sequencing_on_target_microbe_establishment_in_laboratory_and_mass-reared_Mediterranean_fruit_fly/28514825
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3919
     url: https://www.datalumos.org/datalumos/project/251007/version/V1/view

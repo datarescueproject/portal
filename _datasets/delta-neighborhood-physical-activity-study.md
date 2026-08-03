@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207125728/https://agdatacommons.nal.usda.gov/articles/dataset/Delta_Neighborhood_Physical_Activity_Study/24853047
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3591
     url: https://www.datalumos.org/datalumos/project/250655/version/V1/view

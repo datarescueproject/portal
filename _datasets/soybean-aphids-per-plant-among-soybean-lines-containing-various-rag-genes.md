@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250909124126/https://agdatacommons.nal.usda.gov/articles/dataset/Soybean_Aphids_per_Plant_Among_Soybean_Lines_Containing_Various_Rag_Genes/24854166
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3619
     url: https://www.datalumos.org/datalumos/project/250685/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906064607/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_The_pathogenicity_and_transmission_of_live_bird_market_H2N2_avian_influenza_viruses_in_chickens_Pekin_ducks_and_guinea_fowl/24666075
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3398
     url: https://www.datalumos.org/datalumos/project/250458/version/V1/view

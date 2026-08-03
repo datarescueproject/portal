@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017004539/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genome_resources_for_Thelonectria_rubi_the_causal_agent_of_Nectria_canker_of_caneberries/24853449
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3604
     url: https://www.datalumos.org/datalumos/project/250670/version/V1/view

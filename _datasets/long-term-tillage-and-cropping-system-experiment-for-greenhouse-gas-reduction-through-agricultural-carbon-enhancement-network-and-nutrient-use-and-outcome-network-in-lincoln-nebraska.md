@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113232336/https://agdatacommons.nal.usda.gov/articles/dataset/Long-term_tillage_and_cropping_system_experiment_for_Greenhouse_gas_Reduction_through_Agricultural_Carbon_Enhancement_network_and_Nutrient_Use_and_Outcome_Network_in_Lincoln_Nebraska/24665073
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3339
     url: https://www.datalumos.org/datalumos/project/250375/version/V1/view

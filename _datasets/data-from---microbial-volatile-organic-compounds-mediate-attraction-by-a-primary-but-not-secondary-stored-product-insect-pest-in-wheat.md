@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113053433/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Microbial_volatile_organic_compounds_mediate_attraction_by_a_primary_but_not_secondary_stored_product_insect_pest_in_wheat/24855063
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3636
     url: https://www.datalumos.org/datalumos/project/250704/version/V1/view

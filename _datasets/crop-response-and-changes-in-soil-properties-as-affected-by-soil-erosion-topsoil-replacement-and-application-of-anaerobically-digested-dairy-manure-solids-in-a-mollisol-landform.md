@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906073851/https://agdatacommons.nal.usda.gov/articles/dataset/Crop_response_and_changes_in_soil_properties_as_affected_by_soil_erosion_topsoil_replacement_and_application_of_anaerobically_digested_dairy_manure_solids_in_a_Mollisol_landform/28724138
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3920
     url: https://www.datalumos.org/datalumos/project/251008/version/V1/view

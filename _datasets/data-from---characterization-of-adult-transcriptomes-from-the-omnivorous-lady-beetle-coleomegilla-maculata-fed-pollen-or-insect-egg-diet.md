@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007034012/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Characterization_of_Adult_Transcriptomes_from_the_Omnivorous_Lady_Beetle_Coleomegilla_maculata_Fed_Pollen_or_Insect_Egg_Diet/24662757
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3310
     url: https://www.datalumos.org/datalumos/project/250339/version/V1/view

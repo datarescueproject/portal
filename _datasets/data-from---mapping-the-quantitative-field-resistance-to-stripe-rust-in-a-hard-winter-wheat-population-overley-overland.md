@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210211228/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Mapping_the_Quantitative_Field_Resistance_to_Stripe_Rust_in_a_Hard_Winter_Wheat_Population_Overley_Overland_/24856644
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3742
     url: https://www.datalumos.org/datalumos/project/250822/version/V1/view
