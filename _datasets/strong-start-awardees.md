@@ -1,0 +1,25 @@
+---
+schema: data_rescue_project 
+title: Strong Start Awardees
+organization: Centers for Medicare and Medicaid Services (CMS)
+agency: Department of Health and Human Services
+websites: data.cms.gov
+data_source: https://data.cms.gov/cms-innovation-center-programs/strong-start-for-mothers-and-newborns-initiative/strong-start-awardees
+description: 
+last_modified: 2026-08-03
+dataset_source_status: 
+metadata_available: Yes
+metadata_url: 
+category:
+  - Health & Healthcare 
+  - Social Services 
+resources:
+  - id: 3996
+    url: https://www.datalumos.org/datalumos/project/247104/version/V1/view
+    format: PDF, ZIP
+    status: Finished
+    size: 587.3
+    download_date: 2026-03-23
+    maintainer: DRP, DL
+    notes: 
+---
