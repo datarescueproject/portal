@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Transportation 
   - Science & Research 
+  - Transportation 
 resources:
   - id: 848
     url: https://www.datalumos.org/datalumos/project/226761/version/V1/view

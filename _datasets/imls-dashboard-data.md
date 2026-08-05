@@ -13,8 +13,8 @@ metadata_url:
 category:
   - Education 
   - Science & Research 
-  - Arts & Culture 
   - Social Services 
+  - Arts & Culture 
 resources:
   - id: 576
     url: https://box.hu-berlin.de/f/7a630b642def4ef58931/
