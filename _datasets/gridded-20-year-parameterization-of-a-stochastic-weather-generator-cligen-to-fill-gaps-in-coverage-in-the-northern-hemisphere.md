@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251209173511/https://agdatacommons.nal.usda.gov/articles/dataset/Gridded_20-year_Parameterization_of_a_Stochastic_Weather_Generator_CLIGEN_to_Fill_Gaps_in_Coverage_in_the_Northern_Hemisphere/25217369
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3878
+  - id: 3877
     url: https://www.datalumos.org/datalumos/project/250964/version/V1/view
     format: DOCX, HTML, JSON, KMZ, ZIP
     status: Finished

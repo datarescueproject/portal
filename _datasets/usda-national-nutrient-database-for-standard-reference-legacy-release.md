@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251224094111/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_National_Nutrient_Database_for_Standard_Reference_Legacy_Release/24661818
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3268
+  - id: 3267
     url: https://www.datalumos.org/datalumos/project/250304/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

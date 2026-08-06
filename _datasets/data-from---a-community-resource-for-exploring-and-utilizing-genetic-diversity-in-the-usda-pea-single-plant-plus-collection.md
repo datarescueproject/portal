@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018225623/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_Community_Resource_for_Exploring_and_Utilizing_Genetic_Diversity_in_the_USDA_Pea_Single_Plant_Plus_Collection/24852186
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3554
+  - id: 3553
     url: https://www.datalumos.org/datalumos/project/250593/version/V1/view
     format: DOCX, HTML, JSON, TXT
     status: Finished

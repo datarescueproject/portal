@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911160402/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Interseeded_cover_crop_mixtures_influence_soil_water_storage_during_the_corn_phase_of_corn-soybean-wheat_no-till_cropping_systems/24856689
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3748
+  - id: 3747
     url: https://www.datalumos.org/datalumos/project/250828/version/V1/view
     format: DOCX, HTML, JSON, XLSX
     status: Finished

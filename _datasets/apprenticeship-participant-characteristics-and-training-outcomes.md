@@ -13,7 +13,7 @@ metadata_url: https://web.archive.org/web/20260213172814/https://data.dol.gov/da
 category:
   - Labor & Employment 
 resources:
-  - id: 3059
+  - id: 3058
     url: https://www.datalumos.org/datalumos/project/247529/version/V1/view
     format: PDF, ZIP
     status: Finished

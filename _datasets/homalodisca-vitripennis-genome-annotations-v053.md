@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017163624/https://agdatacommons.nal.usda.gov/articles/dataset/Homalodisca_vitripennis_genome_annotations_v0_5_3/24852168
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3553
+  - id: 3552
     url: https://www.datalumos.org/datalumos/project/250592/version/V1/view
     format: HTML, JSON, TGZ
     status: Finished

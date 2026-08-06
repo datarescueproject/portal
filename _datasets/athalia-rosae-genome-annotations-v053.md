@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017171809/https://agdatacommons.nal.usda.gov/articles/dataset/Athalia_rosae_genome_annotations_v0_5_3/24662151
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3276
+  - id: 3275
     url: https://www.datalumos.org/datalumos/project/250312/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

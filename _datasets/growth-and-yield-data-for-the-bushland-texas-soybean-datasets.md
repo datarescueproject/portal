@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251219115501/https://agdatacommons.nal.usda.gov/articles/dataset/Growth_and_Yield_Data_for_the_Bushland_Texas_Soybean_Datasets/24856533
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3736
+  - id: 3735
     url: https://www.datalumos.org/datalumos/project/250814/version/V1/view
     format: HTML, JSON, TXT, XLSX
     status: Finished

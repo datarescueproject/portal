@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250325180544/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_ARS_Maize_Modelling_Dataset_Greeley_Colorado/24660264
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3438
+  - id: 3437
     url: https://www.datalumos.org/datalumos/project/250222/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

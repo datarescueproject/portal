@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010035440/https://agdatacommons.nal.usda.gov/articles/dataset/Dispersal_Distances_of_Spotted_Lanternfly_in_Virginia_2020_from_Detections_Data/24668517
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3484
+  - id: 3483
     url: https://www.datalumos.org/datalumos/project/250528/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

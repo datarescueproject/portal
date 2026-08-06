@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905195318/https://agdatacommons.nal.usda.gov/articles/dataset/Halyomorpha_halys_Cytochrome_P450_protein_sequences/24664650
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3829
+  - id: 3828
     url: https://www.datalumos.org/datalumos/project/250917/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

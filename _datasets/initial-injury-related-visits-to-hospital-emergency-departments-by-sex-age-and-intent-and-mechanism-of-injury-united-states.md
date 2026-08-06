@@ -13,7 +13,7 @@ metadata_url: https://web.archive.org/web/20250519095515/https://data.cdc.gov/Na
 category:
   - Health & Healthcare 
 resources:
-  - id: 4043
+  - id: 4042
     url: https://www.datalumos.org/datalumos/project/244867/version/V1/view
     format: CSV, PDF
     status: Finished

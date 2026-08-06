@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251215043142/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Development_of_PLEAD_a_database_containing_event-based_runoff_P_loadings_from_agricultural_fields/24852981
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3587
+  - id: 3586
     url: https://www.datalumos.org/datalumos/project/250650/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

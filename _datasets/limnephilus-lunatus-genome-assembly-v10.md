@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110162452/https://agdatacommons.nal.usda.gov/articles/dataset/Limnephilus_lunatus_genome_assembly_v1_0/25234162
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3893
+  - id: 3892
     url: https://www.datalumos.org/datalumos/project/250979/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

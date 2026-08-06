@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250915101044/https://agdatacommons.nal.usda.gov/articles/dataset/Immigration_and_cyclical_bottlenecks_High_inbreeding_despite_high_genetic_diversity_in_an_oscillating_population_of_the_biting_midge_Culicoides_sonorensis_Diptera_Ceratopogonidae_/24668667
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3499
+  - id: 3498
     url: https://www.datalumos.org/datalumos/project/250543/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

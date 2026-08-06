@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251116093708/https://agdatacommons.nal.usda.gov/articles/dataset/Agronomic_Calendars_for_the_Bushland_Texas_Cotton_Datasets/24856809
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3753
+  - id: 3752
     url: https://www.datalumos.org/datalumos/project/250833/version/V1/view
     format: HTML, JSON, TXT, XLSX
     status: Finished

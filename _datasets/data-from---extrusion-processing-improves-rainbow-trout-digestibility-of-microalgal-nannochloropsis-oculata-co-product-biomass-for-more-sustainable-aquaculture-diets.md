@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911125651/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Extrusion_processing_improves_rainbow_trout_digestibility_of_microalgal_i_Nannochloropsis_oculata_i_co-product_biomass_for_more_sustainable_aquaculture_diets/29621015
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3912
+  - id: 3911
     url: https://www.datalumos.org/datalumos/project/251000/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

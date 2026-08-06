@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108100259/https://agdatacommons.nal.usda.gov/articles/dataset/Child_Nutrition_Program_Operations_Study_School_Year_2017-2018/25217342
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3874
+  - id: 3873
     url: https://www.datalumos.org/datalumos/project/250960/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006140154/https://agdatacommons.nal.usda.gov/articles/dataset/Agricultural_Research_Service_Culture_Collection_NRRL_-_Northern_Regional_Research_Laboratory_Database/24660504
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3940
+  - id: 3939
     url: https://www.datalumos.org/datalumos/project/251303/version/V1/view
     format: HTML, JSON, PDF, XLS, XLSX
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251009053648/https://agdatacommons.nal.usda.gov/articles/dataset/Upper_Chesapake_Bay_LTAR_Dataset_NFARM_Inorganic_N_C_Production_2016-2018/24666000
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3389
+  - id: 3388
     url: https://www.datalumos.org/datalumos/project/250449/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

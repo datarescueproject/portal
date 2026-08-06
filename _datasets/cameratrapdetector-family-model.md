@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251210172901/https://agdatacommons.nal.usda.gov/articles/model/CameraTrapDetectoR_Family_Model/25234243
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3899
+  - id: 3898
     url: https://www.datalumos.org/datalumos/project/250987/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

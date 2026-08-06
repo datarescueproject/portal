@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006135206/https://agdatacommons.nal.usda.gov/articles/dataset/Protein_predictions_for_Calonectria_henricotiae_CBS138102_aka_CB045_/24665814
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3379
+  - id: 3378
     url: https://www.datalumos.org/datalumos/project/250434/version/V1/view
     format: HTML, JSON, TXT
     status: Finished

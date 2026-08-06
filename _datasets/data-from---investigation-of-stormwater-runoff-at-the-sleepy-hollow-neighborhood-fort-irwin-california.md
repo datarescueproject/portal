@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905190437/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Investigation_of_Stormwater_Runoff_at_the_Sleepy_Hollow_Neighborhood_Fort_Irwin_California/27327498
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3909
+  - id: 3908
     url: https://www.datalumos.org/datalumos/project/250997/version/V1/view
     format: DOCX, HTML, JSON, ODT, OUT, PAR, PDF, PRE, TXT, XLSX
     status: Finished

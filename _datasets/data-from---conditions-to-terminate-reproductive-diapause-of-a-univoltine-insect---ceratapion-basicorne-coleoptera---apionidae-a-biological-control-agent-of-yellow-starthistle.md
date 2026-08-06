@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20260113065534/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Conditions_to_terminate_reproductive_diapause_of_a_univoltine_insect_Ceratapion_basicorne_Coleoptera_Apionidae_a_biological_control_agent_of_yellow_starthistle/24855396
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3655
+  - id: 3654
     url: https://www.datalumos.org/datalumos/project/250729/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

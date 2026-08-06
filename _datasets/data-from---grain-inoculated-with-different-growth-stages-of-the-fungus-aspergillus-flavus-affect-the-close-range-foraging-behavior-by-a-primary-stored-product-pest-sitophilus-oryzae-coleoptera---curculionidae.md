@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207063538/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Grain_inoculated_with_different_growth_stages_of_the_fungus_Aspergillus_flavus_affect_the_close-range_foraging_behavior_by_a_primary_stored_product_pest_Sitophilus_oryzae_Coleoptera_Curculionidae_/24856257
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3715
+  - id: 3714
     url: https://www.datalumos.org/datalumos/project/250789/version/V1/view
     format: CSV, HTML, JSON, TXT
     status: Finished

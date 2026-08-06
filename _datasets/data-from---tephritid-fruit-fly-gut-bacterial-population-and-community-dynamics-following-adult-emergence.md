@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906003811/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Tephritid_fruit_fly_gut_bacterial_population_and_community_dynamics_following_adult_emergence/24668664
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3498
+  - id: 3497
     url: https://www.datalumos.org/datalumos/project/250542/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

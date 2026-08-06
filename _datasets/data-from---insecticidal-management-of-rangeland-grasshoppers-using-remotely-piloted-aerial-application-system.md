@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110015302/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Insecticidal_Management_of_Rangeland_Grasshoppers_Using_Remotely_Piloted_Aerial_Application_System/24668646
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3497
+  - id: 3496
     url: https://www.datalumos.org/datalumos/project/250541/version/V1/view
     format: HTML, JSON, PDF, XLSX
     status: Finished

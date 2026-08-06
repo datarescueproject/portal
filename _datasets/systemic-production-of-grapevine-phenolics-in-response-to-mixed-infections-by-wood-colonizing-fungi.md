@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260112201624/https://agdatacommons.nal.usda.gov/articles/dataset/Systemic_production_of_grapevine_phenolics_in_response_to_mixed_infections_by_wood-colonizing_fungi/24667881
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3455
+  - id: 3454
     url: https://www.datalumos.org/datalumos/project/250498/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 3300
+  - id: 3299
     url: https://sciop.net/datasets/cdc-ftp-full-mirror
     format: PDF, SAS7BCAT, SAS7BDAT, TXT, HTML, ZIP, SAS, DAT
     status: Finished

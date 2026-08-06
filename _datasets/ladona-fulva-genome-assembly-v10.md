@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114082250/https://agdatacommons.nal.usda.gov/articles/dataset/Ladona_fulva_genome_assembly_v1_0/25234150
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3891
+  - id: 3890
     url: https://www.datalumos.org/datalumos/project/250977/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

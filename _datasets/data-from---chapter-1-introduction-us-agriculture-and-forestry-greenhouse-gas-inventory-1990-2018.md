@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207030100/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Chapter_1_Introduction_U_S_Agriculture_and_Forestry_Greenhouse_Gas_Inventory_1990-2018/24855534
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3672
+  - id: 3671
     url: https://www.datalumos.org/datalumos/project/250746/version/V1/view
     format: CSV, HTML, JSON, ZIP
     status: Finished

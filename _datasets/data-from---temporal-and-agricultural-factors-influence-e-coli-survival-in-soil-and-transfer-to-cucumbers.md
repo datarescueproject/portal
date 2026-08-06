@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109001948/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Temporal_and_agricultural_factors_influence_E_coli_survival_in_soil_and_transfer_to_cucumbers/24665826
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3381
+  - id: 3380
     url: https://www.datalumos.org/datalumos/project/250436/version/V1/view
     format: CSV, HTML, JSON, PDF, XLSX
     status: Finished

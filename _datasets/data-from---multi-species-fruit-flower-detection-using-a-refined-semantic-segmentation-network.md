@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114074342/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Multi-species_fruit_flower_detection_using_a_refined_semantic_segmentation_network/24852636
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3927
+  - id: 3926
     url: https://www.datalumos.org/datalumos/project/250632/version/V1/view
     format: HTML, JSON, TXT, ZIP
     status: Finished

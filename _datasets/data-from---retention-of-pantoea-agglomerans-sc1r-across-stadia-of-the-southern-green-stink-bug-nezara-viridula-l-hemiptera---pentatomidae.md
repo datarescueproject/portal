@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109003917/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Retention_of_Pantoea_agglomerans_Sc1R_across_stadia_of_the_southern_green_stink_bug_Nezara_viridula_L_Hemiptera_Pentatomidae_/24854511
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3626
+  - id: 3625
     url: https://www.datalumos.org/datalumos/project/250694/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007025129/https://agdatacommons.nal.usda.gov/articles/dataset/County-level_Estimates_of_Landscape_Complexity_and_Configuration_in_the_Coterminous_US/25217363
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3877
+  - id: 3876
     url: https://www.datalumos.org/datalumos/project/250963/version/V1/view
     format: HTML, JSON, TXT
     status: Finished

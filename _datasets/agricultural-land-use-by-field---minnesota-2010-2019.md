@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250912043531/https://agdatacommons.nal.usda.gov/articles/dataset/Agricultural_land_use_by_field_Minnesota_2010-2019/24854703
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3631
+  - id: 3630
     url: https://www.datalumos.org/datalumos/project/250699/version/V1/view
     format: HTML, JSON, PDF, ZIP
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251018231718/https://agdatacommons.nal.usda.gov/articles/dataset/Growth_and_Yield_Data_for_the_Bushland_Texas_Sorghum_Datasets/24856872
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3755
+  - id: 3754
     url: https://www.datalumos.org/datalumos/project/250835/version/V1/view
     format: HTML, JSON, PDF, TXT, XLSX
     status: Finished

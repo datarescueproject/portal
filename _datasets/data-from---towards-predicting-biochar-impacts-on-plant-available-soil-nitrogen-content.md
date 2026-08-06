@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114074104/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Towards_predicting_biochar_impacts_on_plant-available_soil_nitrogen_content/24855366
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3653
+  - id: 3652
     url: https://www.datalumos.org/datalumos/project/250727/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

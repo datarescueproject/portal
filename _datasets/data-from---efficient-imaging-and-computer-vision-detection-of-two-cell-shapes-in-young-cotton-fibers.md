@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210181836/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Efficient_imaging_and_computer_vision_detection_of_two_cell_shapes_in_young_cotton_fibers/25213340
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3863
+  - id: 3862
     url: https://www.datalumos.org/datalumos/project/250949/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

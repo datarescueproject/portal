@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108072401/https://agdatacommons.nal.usda.gov/articles/dataset/A_Survey_to_Evaluate_the_Current_Status_of_Land_Grant_University_and_State_Department_of_Agriculture_Soil_Fertility_Recommendations_and_Analytical_Methods/24680958
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3534
+  - id: 3533
     url: https://www.datalumos.org/datalumos/project/250564/version/V1/view
     format: HTML, JSON, PDF, XLSX
     status: Finished

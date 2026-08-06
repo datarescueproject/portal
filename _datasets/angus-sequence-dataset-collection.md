@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017050000/https://agdatacommons.nal.usda.gov/articles/dataset/Angus_Sequence_Dataset_Collection/24667893
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3457
+  - id: 3456
     url: https://www.datalumos.org/datalumos/project/250500/version/V1/view
     format: CSV, HTML, JSON, PNG
     status: Finished

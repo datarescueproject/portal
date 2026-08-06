@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006020838/https://agdatacommons.nal.usda.gov/articles/dataset/Data_From_Evaluating_accuracy_of_DNA_pool_construction_based_on_leukocyte_counts_versus_two_common_DNA_quantification_methods/25301107
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3904
+  - id: 3903
     url: https://www.datalumos.org/datalumos/project/250992/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

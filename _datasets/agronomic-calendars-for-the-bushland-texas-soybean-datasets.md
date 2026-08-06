@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251217130434/https://agdatacommons.nal.usda.gov/articles/dataset/Agronomic_Calendars_for_the_Bushland_Texas_Soybean_Datasets/24856539
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3737
+  - id: 3736
     url: https://www.datalumos.org/datalumos/project/250817/version/V1/view
     format: HTML, JSON, TXT, XLSX
     status: Finished

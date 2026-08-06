@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211130801/https://agdatacommons.nal.usda.gov/articles/dataset/NAL_Agricultural_Thesaurus_and_Glossary/24852972
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3944
+  - id: 3943
     url: https://www.datalumos.org/datalumos/project/251306/version/V1/view
     format: HTML, JSON, PDF, ZIP
     status: Finished

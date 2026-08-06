@@ -14,7 +14,7 @@ category:
   - Labor & Employment 
   - Business & Economy 
 resources:
-  - id: 3299
+  - id: 3298
     url: https://sciop.net/datasets/bls-pub-labstat-time-series-full-files
     format: TSV, ASCII, TXT
     status: Finished

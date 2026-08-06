@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018232410/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Life_history_changes_in_Trogoderma_variabile_and_T_inclusum_due_to_mating_delay_with_implications_for_mating_disruption_as_a_management_tactic/24852573
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3568
+  - id: 3567
     url: https://www.datalumos.org/datalumos/project/250630/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

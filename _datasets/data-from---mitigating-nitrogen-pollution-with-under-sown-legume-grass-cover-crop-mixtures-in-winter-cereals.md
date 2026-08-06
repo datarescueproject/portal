@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007125631/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Mitigating_nitrogen_pollution_with_under-sown_legume-grass_cover_crop_mixtures_in_winter_cereals/24664794
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3444
+  - id: 3443
     url: https://www.datalumos.org/datalumos/project/250366/version/V1/view
     format: CSV, HTML, JSON, PDF
     status: Finished

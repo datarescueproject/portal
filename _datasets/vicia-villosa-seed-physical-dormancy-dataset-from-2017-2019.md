@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017014757/https://agdatacommons.nal.usda.gov/articles/dataset/Vicia_villosa_seed_physical_dormancy_dataset_from_2017-2019/24854484
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3625
+  - id: 3624
     url: https://www.datalumos.org/datalumos/project/250693/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

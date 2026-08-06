@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251015080732/https://agdatacommons.nal.usda.gov/articles/dataset/Ceratitis_capitata_genome_annotations_v0_5_3/25212206
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3823
+  - id: 3822
     url: https://www.datalumos.org/datalumos/project/250911/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007123634/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genome_resources_for_seven_fungal_isolates_that_cause_turfgrass_dollar_spot_disease_including_Clarireedia_jacksonii_and_C_monteithiana/25212551
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3836
+  - id: 3835
     url: https://www.datalumos.org/datalumos/project/250926/version/V1/view
     format: HTML, JSON, TXT, ZIP
     status: Finished

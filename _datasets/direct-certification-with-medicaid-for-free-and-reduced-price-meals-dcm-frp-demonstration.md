@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205054335/https://agdatacommons.nal.usda.gov/articles/dataset/Direct_Certification_with_Medicaid_for_Free_and_Reduced-Price_Meals_DCM-F_RP_Demonstration/25213493
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3868
+  - id: 3867
     url: https://www.datalumos.org/datalumos/project/250954/version/V1/view
     format: CSV, HTML, JSON, PDF, ZIP
     status: Finished

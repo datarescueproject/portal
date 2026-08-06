@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007131312/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Andropogon_gerardii_big_bluestem_Alcohol-to-Jet_Central_East_Mar_2017/24660657
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3230
+  - id: 3229
     url: https://www.datalumos.org/datalumos/project/250266/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

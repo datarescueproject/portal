@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109012522/https://agdatacommons.nal.usda.gov/articles/dataset/Patterns_of_precipitation_and_productivity_on_various_topographic_positions_on_the_Central_Plains_Experimental_Range_Nunn_Colorado/24854316
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3623
+  - id: 3622
     url: https://www.datalumos.org/datalumos/project/250690/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

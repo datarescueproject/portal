@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251208100502/https://agdatacommons.nal.usda.gov/articles/dataset/Effects_of_tannin_in_dairy_cow_diets_and_land_application_of_manure_on_soil_gas_fluxes_and_nitrogen_dynamics/24852111
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3551
+  - id: 3550
     url: https://www.datalumos.org/datalumos/project/250590/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010032346/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_s_Expanded_Flavonoid_Database_for_the_Assessment_of_Dietary_Intakes_-_September_2014/25060826
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3806
+  - id: 3805
     url: https://www.datalumos.org/datalumos/project/250893/version/V1/view
     format: HTML, JSON, PDF, ZIP
     status: Finished

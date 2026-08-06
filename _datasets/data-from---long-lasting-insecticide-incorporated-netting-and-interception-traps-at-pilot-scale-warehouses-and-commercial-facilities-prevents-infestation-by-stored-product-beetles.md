@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012171206/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Long-lasting_insecticide-incorporated_netting_and_interception_traps_at_pilot-scale_warehouses_and_commercial_facilities_prevents_infestation_by_stored_product_beetles/24853584
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3612
+  - id: 3611
     url: https://www.datalumos.org/datalumos/project/250678/version/V1/view
     format: HTML, JSON, TXT, XLSX
     status: Finished
