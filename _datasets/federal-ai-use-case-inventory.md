@@ -12,11 +12,11 @@ metadata_available: No
 metadata_url: 
 category:
   - Agriculture 
+  - Social Services 
+  - State & Policy 
   - Labor & Employment 
   - Science & Research 
   - Justice & Public Safety 
-  - State & Policy 
-  - Social Services 
 resources:
   - id: 158
     url: https://www.datalumos.org/datalumos/project/220361/version/V2/view

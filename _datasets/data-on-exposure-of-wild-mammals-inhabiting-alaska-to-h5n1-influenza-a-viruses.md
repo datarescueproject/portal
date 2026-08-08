@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Infrastructure 
   - Climate & Environment 
+  - Infrastructure 
   - Science & Research 
 resources:
   - id: 878
