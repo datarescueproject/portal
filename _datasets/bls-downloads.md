@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Labor & Employment 
   - Business & Economy 
+  - Labor & Employment 
 resources:
   - id: 3298
     url: https://sciop.net/datasets/bls-pub-labstat-time-series-full-files

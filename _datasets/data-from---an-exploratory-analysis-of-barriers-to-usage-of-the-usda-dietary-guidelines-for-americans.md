@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113061351/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_An_Exploratory_Analysis_of_Barriers_to_Usage_of_the_USDA_Dietary_Guidelines_for_Americans/24857241
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3784
     url: https://www.datalumos.org/datalumos/project/250867/version/V1/view

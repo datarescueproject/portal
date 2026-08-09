@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110012233/https://agdatacommons.nal.usda.gov/articles/dataset/X-ray_CT_data_with_semantic_annotations_for_the_paper_A_workflow_for_segmenting_soil_and_plant_X-ray_CT_images_with_deep_learning_in_Google_s_Colaboratory_/24855852
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3679
     url: https://www.datalumos.org/datalumos/project/250756/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207034838/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Database_for_the_Proanthocyanidin_Content_of_Selected_Foods_-_2004/25060832
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3806
     url: https://www.datalumos.org/datalumos/project/250894/version/V1/view

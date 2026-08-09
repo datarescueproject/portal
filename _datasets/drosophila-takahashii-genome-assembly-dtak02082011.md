@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112131321/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_takahashii_genome_assembly_Dtak02082011/24855444
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3661
     url: https://www.datalumos.org/datalumos/project/250736/version/V1/view
