@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251006145801/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Tomato_Chemical_Defenses_Intensify_Corn_Earworm_Helicoverpa_zea_Mortality_from_Opportunistic_Bacterial_Pathogens/24668538
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3487
     url: https://www.datalumos.org/datalumos/project/250532/version/V1/view

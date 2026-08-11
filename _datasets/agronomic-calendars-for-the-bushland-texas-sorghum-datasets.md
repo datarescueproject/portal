@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251213164324/https://agdatacommons.nal.usda.gov/articles/dataset/Agronomic_Calendars_for_the_Bushland_Texas_Sorghum_Datasets/24857232
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3831
     url: https://www.datalumos.org/datalumos/project/250920/version/V1/view

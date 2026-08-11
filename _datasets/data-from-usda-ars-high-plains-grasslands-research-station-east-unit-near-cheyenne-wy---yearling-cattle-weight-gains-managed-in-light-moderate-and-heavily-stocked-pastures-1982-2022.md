@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113202142/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_USDA_ARS_High_Plains_Grasslands_Research_Station_East_Unit_near_Cheyenne_WY_Yearling_cattle_weight_gains_managed_in_light_moderate_and_heavily_stocked_pastures_1982-2022_/25217243
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3869
     url: https://www.datalumos.org/datalumos/project/250956/version/V1/view

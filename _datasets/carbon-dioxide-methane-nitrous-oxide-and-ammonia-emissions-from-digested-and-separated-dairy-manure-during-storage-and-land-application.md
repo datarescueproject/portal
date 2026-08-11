@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251129225009/https://agdatacommons.nal.usda.gov/articles/dataset/Carbon_Dioxide_Methane_Nitrous_Oxide_and_Ammonia_Emissions_from_Digested_and_Separated_Dairy_Manure_during_Storage_and_Land_Application/24852060
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3546
     url: https://www.datalumos.org/datalumos/project/250586/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205052415/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Population_structure_and_genetic_diversity_within_the_endangered_species_Pityopsis_ruthii_Asteraceae_/24852633
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3568
     url: https://www.datalumos.org/datalumos/project/250631/version/V1/view

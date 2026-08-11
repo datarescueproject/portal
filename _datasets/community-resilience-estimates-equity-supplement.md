@@ -11,11 +11,11 @@ dataset_source_status: discontinued
 metadata_available: Yes
 metadata_url: 
 category:
+  - Social Services 
   - Business & Economy 
   - Education 
-  - Health & Healthcare 
   - Housing & Community Development 
-  - Social Services 
+  - Health & Healthcare 
   - Labor & Employment 
 resources:
   - id: 588

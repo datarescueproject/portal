@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014204949/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_The_Biology_of_IncI2_Plasmids_Shown_by_Whole-Plasmid_Multi-Locus_Sequence_Typing/25234132
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3886
     url: https://www.datalumos.org/datalumos/project/250973/version/V1/view

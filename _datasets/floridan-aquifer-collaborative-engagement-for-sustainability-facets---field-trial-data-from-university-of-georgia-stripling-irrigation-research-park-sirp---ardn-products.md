@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107211318/https://agdatacommons.nal.usda.gov/articles/dataset/Floridan_Aquifer_Collaborative_Engagement_for_Sustainability_FACETS_-_Field_trial_data_from_University_of_Georgia_Stripling_Irrigation_Research_Park_SIRP_ARDN_Products/25213391
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3864
     url: https://www.datalumos.org/datalumos/project/250951/version/V1/view

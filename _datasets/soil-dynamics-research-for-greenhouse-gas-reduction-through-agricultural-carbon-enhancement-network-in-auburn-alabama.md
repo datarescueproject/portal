@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250812130303/https://agdatacommons.nal.usda.gov/articles/dataset/Soil_Dynamics_Research_for_Greenhouse_gas_Reduction_through_Agricultural_Carbon_Enhancement_network_in_Auburn_Alabama/24665037
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3337
     url: https://www.datalumos.org/datalumos/project/250374/version/V1/view

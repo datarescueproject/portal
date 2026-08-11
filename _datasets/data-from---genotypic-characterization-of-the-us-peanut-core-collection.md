@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214081723/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genotypic_characterization_of_the_U_S_peanut_core_collection/24853530
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3606
     url: https://www.datalumos.org/datalumos/project/250673/version/V1/view

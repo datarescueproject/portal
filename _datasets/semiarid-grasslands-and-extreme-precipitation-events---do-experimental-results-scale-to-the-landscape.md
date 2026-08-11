@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214065927/https://agdatacommons.nal.usda.gov/articles/dataset/Semiarid_grasslands_and_extreme_precipitation_events_Do_experimental_results_scale_to_the_landscape_/24855249
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3643
     url: https://www.datalumos.org/datalumos/project/250718/version/V1/view

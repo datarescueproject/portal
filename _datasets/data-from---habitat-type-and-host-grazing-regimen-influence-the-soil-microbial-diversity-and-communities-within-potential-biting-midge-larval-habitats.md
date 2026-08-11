@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214084148/https://agdatacommons.nal.usda.gov/articles/dataset/Data_From_Habitat_type_and_host_grazing_regimen_influence_the_soil_microbial_diversity_and_communities_within_potential_biting_midge_larval_habitats/25234225
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3897
     url: https://www.datalumos.org/datalumos/project/250986/version/V1/view
