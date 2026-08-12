@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107011329/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Stem_borer_herbivory_dependent_on_interactions_of_sugarcane_variety_associated_traits_and_presence_of_prior_borer_damage/24668355
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3480
     url: https://www.datalumos.org/datalumos/project/250524/version/V1/view

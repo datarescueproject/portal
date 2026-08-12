@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210171004/https://agdatacommons.nal.usda.gov/articles/dataset/Annotated_reference_transcriptome_for_female_Culicoides_sonorensis_biting_midges/24851886
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3523
     url: https://www.datalumos.org/datalumos/project/250575/version/V1/view

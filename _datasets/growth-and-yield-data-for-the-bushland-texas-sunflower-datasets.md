@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251217124646/https://agdatacommons.nal.usda.gov/articles/dataset/Growth_and_Yield_Data_for_the_Bushland_Texas_Sunflower_Datasets/25213403
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3865
     url: https://www.datalumos.org/datalumos/project/250952/version/V1/view

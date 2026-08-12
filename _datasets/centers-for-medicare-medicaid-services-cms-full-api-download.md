@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
   - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 873
     url: https://sciop.net/datasets/centers-for-medicare-and-medicaid-services-full-data

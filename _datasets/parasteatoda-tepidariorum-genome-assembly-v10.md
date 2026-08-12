@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251115152641/https://agdatacommons.nal.usda.gov/articles/dataset/Parasteatoda_tepidariorum_genome_assembly_v1_0/25212218
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3824
     url: https://www.datalumos.org/datalumos/project/250913/version/V1/view

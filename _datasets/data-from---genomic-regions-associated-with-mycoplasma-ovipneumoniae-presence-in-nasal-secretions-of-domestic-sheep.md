@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110171832/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genomic_regions_associated_with_Mycoplasma_ovipneumoniae_presence_in_nasal_secretions_of_domestic_sheep/24854811
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3633
     url: https://www.datalumos.org/datalumos/project/250702/version/V1/view

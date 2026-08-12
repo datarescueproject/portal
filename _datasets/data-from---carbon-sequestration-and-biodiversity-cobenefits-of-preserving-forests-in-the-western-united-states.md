@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905193914/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Carbon_sequestration_and_biodiversity_co_benefits_of_preserving_forests_in_the_western_United_States/25212542
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3834
     url: https://www.datalumos.org/datalumos/project/250925/version/V1/view

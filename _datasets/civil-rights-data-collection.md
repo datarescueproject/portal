@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Social Services 
   - Justice & Public Safety 
+  - Social Services 
   - Labor & Employment 
 resources:
   - id: 159

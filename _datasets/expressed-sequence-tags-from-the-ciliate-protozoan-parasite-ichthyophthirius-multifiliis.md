@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251217055022/https://agdatacommons.nal.usda.gov/articles/dataset/Expressed_Sequence_Tags_from_the_Ciliate_Protozoan_Parasite_Ichthyophthirius_Multifiliis/24660297
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3438
     url: https://www.datalumos.org/datalumos/project/250223/version/V1/view

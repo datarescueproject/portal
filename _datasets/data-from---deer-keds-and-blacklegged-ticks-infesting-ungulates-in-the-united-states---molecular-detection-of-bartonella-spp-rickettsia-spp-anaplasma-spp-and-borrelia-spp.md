@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205051511/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Deer_keds_and_blacklegged_ticks_infesting_ungulates_in_the_United_States_molecular_detection_of_Bartonella_spp_Rickettsia_spp_Anaplasma_spp_and_Borrelia_spp_/24856134
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3706
     url: https://www.datalumos.org/datalumos/project/250780/version/V1/view

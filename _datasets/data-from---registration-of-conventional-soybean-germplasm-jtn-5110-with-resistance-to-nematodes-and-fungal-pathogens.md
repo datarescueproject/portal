@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251015085134/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Registration_of_conventional_soybean_germplasm_JTN-5110_with_resistance_to_nematodes_and_fungal_pathogens/24856704
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3748
     url: https://www.datalumos.org/datalumos/project/250829/version/V1/view

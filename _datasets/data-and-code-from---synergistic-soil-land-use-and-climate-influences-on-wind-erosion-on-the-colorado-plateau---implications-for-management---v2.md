@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012163241/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Synergistic_soil_land_use_and_climate_influences_on_wind_erosion_on_the_Colorado_Plateau_Implications_for_management/25234201
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3951
     url: https://www.datalumos.org/datalumos/project/250985/version/V1/view

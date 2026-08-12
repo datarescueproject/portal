@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110140534/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Cover_crop_and_crop_rotation_effects_on_tissue_and_soil_population_dynamics_of_Macrophomina_phaseolina_and_yield_in_no-till_system/24668331
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3475
     url: https://www.datalumos.org/datalumos/project/250519/version/V1/view
