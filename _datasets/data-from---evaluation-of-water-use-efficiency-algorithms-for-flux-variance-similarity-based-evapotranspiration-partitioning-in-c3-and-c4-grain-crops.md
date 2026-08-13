@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250911063733/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Evaluation_of_Water_Use_Efficiency_Algorithms_for_Flux_Variance_Similarity-based_Evapotranspiration_Partitioning_in_C3_and_C4_Grain_Crops/24855081
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3636
     url: https://www.datalumos.org/datalumos/project/250705/version/V1/view

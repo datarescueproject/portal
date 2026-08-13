@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010034004/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Phenotypic_Variation_in_Leaf_Morphology_of_the_USDA-ARS_Sweetpotato_Germplasm_Collection/24664752
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3442
     url: https://www.datalumos.org/datalumos/project/250365/version/V1/view

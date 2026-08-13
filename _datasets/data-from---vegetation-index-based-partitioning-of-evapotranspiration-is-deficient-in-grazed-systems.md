@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007122149/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Vegetation_index-based_partitioning_of_evapotranspiration_is_deficient_in_grazed_systems/24856170
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3708
     url: https://www.datalumos.org/datalumos/project/250782/version/V1/view

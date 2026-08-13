@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251216020658/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Apple_flower_detection_using_deep_convolutional_networks/24853017
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3923
     url: https://www.datalumos.org/datalumos/project/250653/version/V1/view

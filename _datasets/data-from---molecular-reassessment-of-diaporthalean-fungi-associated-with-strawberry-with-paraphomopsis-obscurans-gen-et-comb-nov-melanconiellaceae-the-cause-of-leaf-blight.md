@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014192623/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Molecular_reassessment_of_diaporthalean_fungi_associated_with_strawberry_with_Paraphomopsis_obscurans_gen_et_comb_nov_Melanconiellaceae_the_cause_of_leaf_blight/24853614
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3613
     url: https://www.datalumos.org/datalumos/project/250680/version/V1/view

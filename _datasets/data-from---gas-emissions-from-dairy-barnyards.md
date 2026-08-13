@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205041248/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Gas_emissions_from_dairy_barnyards/24852411
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3563
     url: https://www.datalumos.org/datalumos/project/250625/version/V1/view
