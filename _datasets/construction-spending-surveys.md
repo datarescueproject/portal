@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
-  - Business & Economy 
-  - Education 
-  - Housing & Community Development 
-  - Health & Healthcare 
   - Labor & Employment 
+  - Business & Economy 
+  - Housing & Community Development 
+  - Education 
+  - Health & Healthcare 
+  - Social Services 
 resources:
   - id: 3092
     url: https://sciop.net/datasets/census-construction-spending-survey-files

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113211714/https://agdatacommons.nal.usda.gov/articles/dataset/Centruroides_sculpturatus_genome_assembly_v1_0/25212200
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3820
     url: https://www.datalumos.org/datalumos/project/250909/version/V1/view

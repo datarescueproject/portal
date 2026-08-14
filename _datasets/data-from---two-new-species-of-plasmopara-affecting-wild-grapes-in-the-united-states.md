@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010093425/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Two_new_species_of_Plasmopara_affecting_wild_grapes_in_the_United_States/24856125
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3705
     url: https://www.datalumos.org/datalumos/project/250779/version/V1/view

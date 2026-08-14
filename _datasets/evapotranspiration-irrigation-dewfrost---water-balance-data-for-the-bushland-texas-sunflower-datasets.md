@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112133022/https://agdatacommons.nal.usda.gov/articles/dataset/Evapotranspiration_Irrigation_Dew_frost_-_Water_Balance_Data_for_The_Bushland_Texas_Sunflower_Datasets/24856260
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3715
     url: https://www.datalumos.org/datalumos/project/250790/version/V1/view

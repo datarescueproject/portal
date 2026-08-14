@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012134322/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Identity_and_diversity_of_pollens_collected_by_two_managed_bee_species_while_in_blueberry_fields_for_pollination/24668772
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3503
     url: https://www.datalumos.org/datalumos/project/250548/version/V1/view

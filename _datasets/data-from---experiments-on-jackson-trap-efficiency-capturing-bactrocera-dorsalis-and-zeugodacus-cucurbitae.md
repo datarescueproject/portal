@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205203514/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Experiments_on_Jackson_trap_efficiency_capturing_Bactrocera_dorsalis_and_Zeugodacus_cucurbitae/24856230
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3711
     url: https://www.datalumos.org/datalumos/project/250786/version/V1/view

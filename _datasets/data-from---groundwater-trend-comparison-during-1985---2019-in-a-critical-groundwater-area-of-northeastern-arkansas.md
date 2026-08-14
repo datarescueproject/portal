@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251114235731/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Groundwater_trend_comparison_during_1985_-_2019_in_a_critical_groundwater_area_of_northeastern_Arkansas/25212752
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3837
     url: https://www.datalumos.org/datalumos/project/250928/version/V1/view
