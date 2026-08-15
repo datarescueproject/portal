@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109225640/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Starch_and_dextrose_at_2_levels_of_rumen-degradable_protein_in_iso-nitrogenous_diets_Effects_on_lactation_performance_ruminal_measurements_methane_emission_digestibility_and_nitrogen_balance_of_dairy_cows/24853032
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3589
     url: https://www.datalumos.org/datalumos/project/250654/version/V1/view

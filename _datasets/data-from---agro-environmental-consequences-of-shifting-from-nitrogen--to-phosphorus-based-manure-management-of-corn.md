@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109220547/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Agro-environmental_consequences_of_shifting_from_nitrogen-_to_phosphorus-based_manure_management_of_corn_/24852891
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3583
     url: https://www.datalumos.org/datalumos/project/250647/version/V1/view

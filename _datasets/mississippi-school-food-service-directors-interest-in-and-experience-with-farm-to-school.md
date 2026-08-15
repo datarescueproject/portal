@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018102928/https://agdatacommons.nal.usda.gov/articles/dataset/Mississippi_School_Food_Service_Directors_Interest_in_and_Experience_with_Farm_to_School/24856182
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3709
     url: https://www.datalumos.org/datalumos/project/250784/version/V1/view

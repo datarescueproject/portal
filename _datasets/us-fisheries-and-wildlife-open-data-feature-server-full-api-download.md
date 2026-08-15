@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - State & Policy 
+  - Climate & Environment 
 resources:
   - id: 898
     url: https://sciop.net/datasets/usfw-open-data-gis-full-crawl

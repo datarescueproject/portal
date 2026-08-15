@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207071039/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Microbial_vectoring_capacity_by_internal-_and_external-infesting_stored_product_insects_after_varying_dispersal_periods_between_novel_food_patches_An_underestimated_risk/24857454
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3786
     url: https://www.datalumos.org/datalumos/project/250870/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110015836/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Solving_the_Robot-World_Hand-Eye_s_Calibration_Problem_with_Iterative_Methods/24667896
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3457
     url: https://www.datalumos.org/datalumos/project/250501/version/V1/view

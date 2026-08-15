@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251112052438/https://agdatacommons.nal.usda.gov/articles/dataset/The_Bronson_Files_Dataset_4_Field_105_2013/25213040
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3852
     url: https://www.datalumos.org/datalumos/project/250939/version/V1/view
