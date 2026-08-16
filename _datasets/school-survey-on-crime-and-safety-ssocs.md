@@ -5,9 +5,9 @@ organization: National Center for Education Statistics
 agency: Department of Education
 websites: nces.ed.gov
 data_source: https://nces.ed.gov/surveys/ssocs/
-description: 
-last_modified: 2025-03-26
-dataset_source_status: 
+description: Discontinued note https://www.reginfo.gov/public/do/PRAOMBHistory?ombControlNumber=1850-0761
+last_modified: 2026-08-15
+dataset_source_status: discontinued
 metadata_available: No
 metadata_url: 
 category:

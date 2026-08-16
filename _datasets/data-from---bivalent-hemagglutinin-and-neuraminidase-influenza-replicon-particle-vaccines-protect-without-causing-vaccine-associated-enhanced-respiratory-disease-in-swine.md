@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251216022742/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Bivalent_hemagglutinin_and_neuraminidase_influenza_replicon_particle_vaccines_protect_without_causing_vaccine_associated_enhanced_respiratory_disease_in_swine/24667890
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3455
     url: https://www.datalumos.org/datalumos/project/250499/version/V1/view

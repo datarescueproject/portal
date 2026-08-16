@@ -11,9 +11,9 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
+  - Climate & Environment 
   - Science & Research 
   - Agriculture 
-  - Climate & Environment 
 resources:
   - id: 4204
     url: https://www.datalumos.org/datalumos/project/249018/version/V1/view

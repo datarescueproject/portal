@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007030311/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Characterization_of_particle_size_distributions_and_water-soluble_ions_in_particulate_matter_measured_at_a_broiler_farm/24668721
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3500
     url: https://www.datalumos.org/datalumos/project/250545/version/V1/view

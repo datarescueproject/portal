@@ -5,9 +5,9 @@ organization: U.S. Department of Agriculture
 agency: U.S. Department of Agriculture
 websites: release.nass.usda.gov
 data_source: https://www.nass.usda.gov/Surveys/Guide_to_NASS_Surveys/Mink/index.php
-description: 
-last_modified: 2025-09-27
-dataset_source_status: 
+description: Status note https://www.nass.usda.gov/Newsroom/Notices/2025/08-28-2025.php
+last_modified: 2026-08-15
+dataset_source_status: discontinued
 metadata_available: No
 metadata_url: 
 category:

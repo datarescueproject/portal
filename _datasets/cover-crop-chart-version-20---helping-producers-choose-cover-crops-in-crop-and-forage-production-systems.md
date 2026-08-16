@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110015542/https://agdatacommons.nal.usda.gov/articles/model/Cover_Crop_Chart_version_2_0_Helping_producers_choose_cover_crops_in_crop_and_forage_production_systems/24660213
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3938
     url: https://www.datalumos.org/datalumos/project/251302/version/V1/view
