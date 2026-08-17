@@ -12,7 +12,6 @@ metadata_available: No
 metadata_url: 
 category:
   - Business & Economy 
-  - State & Policy 
 resources:
   - id: 335
     url: https://biglocalnews.org/#/project/UHJvamVjdDpmMmNiODgyNy05ZWQ2LTQzM2UtYjI4Zi00MDQ4NzQxZTI2M2I=

@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: FoodAPS National Household Food Acquisition and Purchase Survey
-organization: U.S. Department of Agriculture
+organization: Economic Research Service
 agency: U.S. Department of Agriculture
 websites: ers.usda.gov
 data_source: https://www.ers.usda.gov/data-products/foodaps-national-household-food-acquisition-and-purchase-survey

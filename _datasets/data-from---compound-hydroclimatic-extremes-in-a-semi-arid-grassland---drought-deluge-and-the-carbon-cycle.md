@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108065024/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Compound_hydroclimatic_extremes_in_a_semi-arid_grassland_Drought_deluge_and_the_carbon_cycle/24855600
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3674
     url: https://www.datalumos.org/datalumos/project/250750/version/V1/view

@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Health Service Corps (NHSC), Nurse Corps, and Substance Use Disorder Treatment and Recovery (STAR) and other Programs
-organization: Health Resources and Services Administration
+organization: Health Resources and Services Administration (HRSA)
 agency: Department of Health and Human Services
 websites: data.hrsa.gov
 data_source: https://data.hrsa.gov/data/download

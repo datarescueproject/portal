@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006021604/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Pasture_dragging_fails_to_reliably_suppress_the_emergence_of_horn_flies_Haematobia_irritans_and_face_flies_Musca_autumnalis_from_dung_pats_in_a_Mid-Atlantic_North_American_climate/25213316
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3861
     url: https://www.datalumos.org/datalumos/project/250948/version/V1/view

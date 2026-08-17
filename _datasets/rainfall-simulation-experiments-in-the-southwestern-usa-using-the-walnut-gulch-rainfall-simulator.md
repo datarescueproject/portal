@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214013449/https://agdatacommons.nal.usda.gov/articles/dataset/Rainfall_simulation_experiments_in_the_Southwestern_USA_using_the_Walnut_Gulch_Rainfall_Simulator/24852309
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3925
     url: https://www.datalumos.org/datalumos/project/250618/version/V1/view

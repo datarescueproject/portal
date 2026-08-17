@@ -6,12 +6,12 @@ agency: U.S. Department of Agriculture
 websites: ers.usda.gov
 data_source: https://www.ers.usda.gov/data-products/cost-estimates-of-foodborne-illnesses
 description: 
-last_modified: 2026-08-03
+last_modified: 2026-08-16
 dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized 
+  - Agriculture 
 resources:
   - id: 3955
     url: https://www.datalumos.org/datalumos/project/246095/version/V1/view

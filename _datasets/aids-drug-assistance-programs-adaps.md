@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: AIDS Drug Assistance Programs (ADAPS)
-organization: Health Resources and Services Administration
+organization: Health Resources and Services Administration (HRSA)
 agency: Department of Health and Human Services
 websites: hrsa.gov
 data_source: https://www.hrsa.gov/grants/find-funding/HRSA-23-056

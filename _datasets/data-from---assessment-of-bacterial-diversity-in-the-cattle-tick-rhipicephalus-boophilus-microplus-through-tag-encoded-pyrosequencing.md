@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906200111/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Assessment_of_bacterial_diversity_in_the_cattle_tick_Rhipicephalus_Boophilus_microplus_through_tag-encoded_pyrosequencing/24851958
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3536
     url: https://www.datalumos.org/datalumos/project/250581/version/V1/view

@@ -5,9 +5,9 @@ organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/prams/php/data-research/mch-indicators-by-site.html
-description: 
-last_modified: 2025-11-05
-dataset_source_status: 
+description: https://essentialdata.us/terminations-tracker "Data collection is continuing as states fund it, standardized weighting and publication at the national level has ceased"
+last_modified: 2026-08-16
+dataset_source_status: reinstated, modified
 metadata_available: No
 metadata_url: 
 category:

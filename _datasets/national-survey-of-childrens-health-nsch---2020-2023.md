@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Survey of Children's Health (NSCH) - 2020-2023
-organization: Health Resources and Services Administration
+organization: Health Resources and Services Administration (HRSA)
 agency: Department of Health and Human Services
 websites: mchb.hrsa.gov
 data_source: https://mchb.hrsa.gov/data-research/national-survey-childrens-health

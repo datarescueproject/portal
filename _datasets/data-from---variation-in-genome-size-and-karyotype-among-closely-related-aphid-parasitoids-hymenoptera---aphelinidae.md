@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251114233215/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Variation_in_genome_size_and_karyotype_among_closely-related_aphid_parasitoids_Hymenoptera_Aphelinidae_/24852048
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3545
     url: https://www.datalumos.org/datalumos/project/250585/version/V1/view

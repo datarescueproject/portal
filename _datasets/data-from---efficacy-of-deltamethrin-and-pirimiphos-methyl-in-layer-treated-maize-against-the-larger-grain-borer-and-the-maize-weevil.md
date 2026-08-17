@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214081904/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Efficacy_of_deltamethrin_and_pirimiphos-methyl_in_layer-treated_maize_against_the_larger_grain_borer_and_the_maize_weevil/24856662
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3742
     url: https://www.datalumos.org/datalumos/project/250823/version/V1/view

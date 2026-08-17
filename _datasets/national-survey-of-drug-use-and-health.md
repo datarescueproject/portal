@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Survey of Drug Use and Health
-organization: Substance Abuse and Mental Health Services Administration
+organization: Substance Abuse and Mental Health Services Administration (SAMHSA)
 agency: Department of Health and Human Services
 websites: samhsa.gov
 data_source: https://www.samhsa.gov/data/data-we-collect/nsduh-national-survey-drug-use-and-health
@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Social Services 
+  - Science & Research 
   - Health & Healthcare 
 resources:
   - id: 79

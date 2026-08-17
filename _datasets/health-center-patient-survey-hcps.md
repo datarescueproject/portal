@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: Health Center Patient Survey (HCPS)
-organization: Health Resources and Services Administration
+organization: Health Resources and Services Administration (HRSA)
 agency: Department of Health and Human Services
 websites: hrsa.gov
 data_source: https://bphc.hrsa.gov/data-reporting/health-center-patient-survey

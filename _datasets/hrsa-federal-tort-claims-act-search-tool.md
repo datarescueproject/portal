@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: HRSA Federal Tort Claims Act Search Tool
-organization: Health Resources and Services Administration
+organization: Health Resources and Services Administration (HRSA)
 agency: Department of Health and Human Services
 websites: data.hrsa.gov
 data_source: https://data.hrsa.gov/tools/ftca-search-tool

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251217122656/https://agdatacommons.nal.usda.gov/articles/dataset/Agronomic_Calendars_for_the_Bushland_Texas_Sunflower_Datasets/24856272
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3717
     url: https://www.datalumos.org/datalumos/project/250792/version/V1/view

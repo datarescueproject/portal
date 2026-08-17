@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205032401/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Thermal_tolerance_of_western_corn_rootworm_critical_thermal_limits_knock-down_resistance_and_chill_coma_recovery/24856101
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3701
     url: https://www.datalumos.org/datalumos/project/250775/version/V1/view

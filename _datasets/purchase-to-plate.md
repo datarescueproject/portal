@@ -6,12 +6,12 @@ agency: U.S. Department of Agriculture
 websites: ers.usda.gov
 data_source: https://www.ers.usda.gov/data-products/purchase-to-plate
 description: 
-last_modified: 2026-07-29
+last_modified: 2026-08-16
 dataset_source_status: 
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20260716164155/https://www.ers.usda.gov/data-products/purchase-to-plate
 category:
-  - Uncategorized 
+  - Agriculture 
 resources:
   - id: 3953
     url: https://www.datalumos.org/datalumos/project/250202/version/V1/view

@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: National Survey of Organ Donation Attitudes and Practices
-organization: Health Resources and Services Administration
+organization: Health Resources and Services Administration (HRSA)
 agency: Department of Health and Human Services
 websites: data.hrsa.gov
 data_source: https://data.hrsa.gov/topics/health-systems/organ_donation_opinion_survey-data
