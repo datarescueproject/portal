@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251007121221/https://agdatacommons.nal.usda.gov/articles/dataset/Soil_Water_Content_Data_for_The_Bushland_Texas_Winter_Wheat_Experiments/24856092
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3699
     url: https://www.datalumos.org/datalumos/project/250773/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207041220/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_elegans_genome_annotations_v0_5_3_for_genome_assembly_Dele02082011/24855492
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3668
     url: https://www.datalumos.org/datalumos/project/250743/version/V1/view

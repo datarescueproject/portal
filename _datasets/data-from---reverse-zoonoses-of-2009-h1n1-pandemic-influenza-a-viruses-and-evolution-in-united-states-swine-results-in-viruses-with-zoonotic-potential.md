@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112061737/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Reverse-zoonoses_of_2009_H1N1_pandemic_influenza_A_viruses_and_evolution_in_United_States_swine_results_in_viruses_with_zoonotic_potential/24856671
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3743
     url: https://www.datalumos.org/datalumos/project/250824/version/V1/view

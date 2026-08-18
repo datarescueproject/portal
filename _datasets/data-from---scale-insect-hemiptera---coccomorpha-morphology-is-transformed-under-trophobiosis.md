@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214084019/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Scale_Insect_Hemiptera_Coccomorpha_Morphology_is_Transformed_Under_Trophobiosis/25217453
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3878
     url: https://www.datalumos.org/datalumos/project/250965/version/V1/view

@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Housing & Community Development 
-  - Education 
-  - Social Services 
-  - Labor & Employment 
   - Business & Economy 
+  - Labor & Employment 
   - Health & Healthcare 
+  - Housing & Community Development 
+  - Social Services 
+  - Education 
 resources:
   - id: 53
     url: https://github.com/oedp/NAICS

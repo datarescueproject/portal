@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110140321/https://agdatacommons.nal.usda.gov/articles/dataset/Raw_Sequences_of_17_Aspergillus_Genomes_from_Ethiopia/24665598
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3941
     url: https://www.datalumos.org/datalumos/project/250422/version/V1/view
