@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Social Services 
+  - Science & Research 
   - Health & Healthcare 
 resources:
   - id: 293
