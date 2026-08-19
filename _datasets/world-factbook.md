@@ -31,6 +31,14 @@ resources:
     download_date: 
     maintainer: OPEN, GITHB
     notes: OpenFactBook aggregates data from multiple authoritative sources to provide comprehensive and accurate information. Data sources CIA World Factbook, World Bank Open Data, REST Countries API. Raw datasets https://github.com/factbook/factbook.json. Updates are ongoing.
+  - id: 3002
+    url: https://databook.dataint.net/en/
+    format: HTML
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: 
+    notes: DataInt Databook, a country reference covering ~250 countries. 41 of its 242 indicators carry the World Factbook's own fields forward, kept alongside live sources (World Bank WDI, WHO GHO, UNESCO UIS, IPU Parline, UNDP HDI, Aquastat) so the series continue past Feb 2026. Each figure names its source and indicator code on the page; sources index at https://databook.dataint.net/en/sources. Available in 25 languages. Browsable reference, not an archive of the original files.
   - id: 3001
     url: https://web.archive.org/web/20260131095511/https://www.cia.gov/the-world-factbook/
     format: HTML, PDF
