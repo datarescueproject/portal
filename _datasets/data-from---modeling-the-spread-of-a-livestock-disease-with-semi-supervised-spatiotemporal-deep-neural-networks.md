@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017010050/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Modeling_the_Spread_of_a_Livestock_Disease_With_Semi-Supervised_Spatiotemporal_Deep_Neural_Networks/24856500
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3729
     url: https://www.datalumos.org/datalumos/project/250808/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251115155322/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Benzoxazinoids_in_roots_and_shoots_of_cereal_rye_Secale_cereale_and_their_fates_in_soil_after_cover_crop_termination/24855822
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3677
     url: https://www.datalumos.org/datalumos/project/250754/version/V1/view

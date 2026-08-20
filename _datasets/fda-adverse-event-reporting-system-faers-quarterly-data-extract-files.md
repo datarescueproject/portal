@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Health & Healthcare 
+  - Science & Research 
 resources:
   - id: 3091
     url: https://sciop.net/datasets/fda-faers-quarterly-data

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212055200/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_systematic_review_of_the_behavioral_responses_by_stored-product_arthropods_to_individual_or_blends_of_microbially-produced_volatile_cues/24855117
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3638
     url: https://www.datalumos.org/datalumos/project/250711/version/V1/view

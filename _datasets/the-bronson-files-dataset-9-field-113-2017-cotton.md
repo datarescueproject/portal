@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251017012101/https://agdatacommons.nal.usda.gov/articles/dataset/The_Bronson_Files_Dataset_9_Field_113_2017_Cotton/25213313
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3860
     url: https://www.datalumos.org/datalumos/project/250947/version/V1/view

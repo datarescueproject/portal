@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251217130215/https://agdatacommons.nal.usda.gov/articles/dataset/Evapotranspiration_Irrigation_Dew_frost_-_Water_Balance_Data_for_The_Bushland_Texas_Soybean_Datasets/24856599
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3738
     url: https://www.datalumos.org/datalumos/project/250819/version/V1/view
