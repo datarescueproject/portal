@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251111120142/https://agdatacommons.nal.usda.gov/articles/dataset/The_Long-Term_Agroecosystem_Research_LTAR_Network_Standard_GIS_Data_Layers_2020_version/24854670
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3629
     url: https://www.datalumos.org/datalumos/project/250698/version/V1/view

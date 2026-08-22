@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://experience.arcgis.com/experience/12227d891a4d471497ac13f60fffd822
 category:
-  - Climate & Environment 
   - Energy 
+  - Climate & Environment 
 resources:
   - id: 57
     url: https://zenodo.org/records/15061838

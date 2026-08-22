@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251205215411/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Toxicity_of_herbicides_used_for_control_of_waterhyacinth_in_the_California_Delta_towards_the_planthopper_Megamelus_scutellaris_released_for_biological_control/24668547
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3488
     url: https://www.datalumos.org/datalumos/project/250533/version/V1/view

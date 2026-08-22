@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207044337/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_eugracilis_genome_assembly_Deug05112011/24855411
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3656
     url: https://www.datalumos.org/datalumos/project/250731/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251219003829/https://agdatacommons.nal.usda.gov/articles/dataset/Low-Disturbance_Manure_Incorporation/24852381
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3562
     url: https://www.datalumos.org/datalumos/project/250623/version/V1/view

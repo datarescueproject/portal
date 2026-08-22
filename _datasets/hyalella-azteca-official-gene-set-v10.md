@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250907105954/https://agdatacommons.nal.usda.gov/articles/dataset/Hyalella_azteca_Official_Gene_Set_v1_0/25234123
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3884
     url: https://www.datalumos.org/datalumos/project/250971/version/V1/view
