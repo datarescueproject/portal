@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211054529/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Estimation_of_pool_construction_and_technical_error/24855288
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3648
+  - id: 3647
     url: https://www.datalumos.org/datalumos/project/250723/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

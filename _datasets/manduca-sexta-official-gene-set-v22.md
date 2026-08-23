@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251216035407/https://agdatacommons.nal.usda.gov/articles/dataset/Manduca_sexta_Official_Gene_Set_v2_2/24975147
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3797
+  - id: 3796
     url: https://www.datalumos.org/datalumos/project/250885/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

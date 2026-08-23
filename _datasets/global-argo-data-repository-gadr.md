@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/products/global-argo-data-repository
 category:
   - Climate & Environment 
 resources:
-  - id: 1042
+  - id: 1041
     url: https://sciop.net/uploads/3f4dc4c18816475ec608589c5141372576a80898
     format: NC
     status: Finished

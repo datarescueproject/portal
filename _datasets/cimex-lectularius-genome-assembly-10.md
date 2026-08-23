@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260112201444/https://agdatacommons.nal.usda.gov/articles/dataset/Cimex_Lectularius_Genome_Assembly_1_0/24851895
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3524
+  - id: 3523
     url: https://www.datalumos.org/datalumos/project/250576/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

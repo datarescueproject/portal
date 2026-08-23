@@ -14,7 +14,7 @@ category:
   - Education 
   - Humanitarian & Disaster Relief 
 resources:
-  - id: 1430
+  - id: 1429
     url: https://www.datalumos.org/datalumos/project/237522/version/V2/view
     format: 
     status: Finished

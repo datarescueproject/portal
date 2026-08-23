@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Education 
 resources:
-  - id: 896
+  - id: 895
     url: https://www.datalumos.org/datalumos/project/228744/version/V1/view
     format: ZIP, PDF, XLSX
     status: Finished

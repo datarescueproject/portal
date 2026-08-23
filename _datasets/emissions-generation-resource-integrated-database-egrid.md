@@ -13,7 +13,7 @@ metadata_url: https://www.epa.gov/system/files/documents/2024-01/egrid2022_techn
 category:
   - Climate & Environment 
 resources:
-  - id: 177
+  - id: 176
     url: https://zenodo.org/records/15037751
     format: XLSX
     status: Finished

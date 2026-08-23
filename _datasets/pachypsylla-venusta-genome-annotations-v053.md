@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114064042/https://agdatacommons.nal.usda.gov/articles/dataset/Pachypsylla_venusta_genome_annotations_v0_5_3/24662094
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3270
+  - id: 3269
     url: https://www.datalumos.org/datalumos/project/250307/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

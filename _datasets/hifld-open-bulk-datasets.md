@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Infrastructure 
 resources:
-  - id: 1727
+  - id: 1726
     url: https://sciop.net/datasets/dhs-hifld-geospatial-data
     format: 
     status: Finished

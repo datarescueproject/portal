@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113234658/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Agricultural_Research_Service-_Available_Biological_Materials/24663015
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3322
+  - id: 3321
     url: https://www.datalumos.org/datalumos/project/250352/version/V1/view
     format: CSV, HTML, JSON, PDF
     status: Finished

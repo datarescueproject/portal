@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017045047/https://agdatacommons.nal.usda.gov/articles/dataset/Initial_set_of_gene_ontology_GO_terms_for_the_D_v_virgifera_GCF_003013835_1_RefSeq_protein_models/25213283
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3859
+  - id: 3858
     url: https://www.datalumos.org/datalumos/project/250946/version/V1/view
     format: HTML, JSON, TXT, XLS
     status: Finished

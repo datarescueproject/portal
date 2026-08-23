@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250812125210/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Plant_grain_and_soil_response_of_irrigated_malt_barley_as_affected_by_cultivar_phosphorus_and_sulfur_applications_on_an_alkaline_soil/24668106
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3463
+  - id: 3462
     url: https://www.datalumos.org/datalumos/project/250507/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

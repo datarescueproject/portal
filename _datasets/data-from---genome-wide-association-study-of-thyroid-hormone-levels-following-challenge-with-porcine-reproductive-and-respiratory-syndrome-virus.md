@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112202244/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genome_wide_association_study_of_thyroid_hormone_levels_following_challenge_with_porcine_reproductive_and_respiratory_syndrome_virus/25217240
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3868
+  - id: 3867
     url: https://www.datalumos.org/datalumos/project/250955/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

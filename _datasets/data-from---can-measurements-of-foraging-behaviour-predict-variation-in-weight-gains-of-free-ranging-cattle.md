@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007024145/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Can_measurements_of_foraging_behaviour_predict_variation_in_weight_gains_of_free-ranging_cattle_/24855948
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3684
+  - id: 3683
     url: https://www.datalumos.org/datalumos/project/250761/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

@@ -11,14 +11,14 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Social Services 
-  - Labor & Employment 
-  - Housing & Community Development 
-  - Education 
-  - Business & Economy 
   - Health & Healthcare 
+  - Housing & Community Development 
+  - Labor & Employment 
+  - Business & Economy 
+  - Education 
+  - Social Services 
 resources:
-  - id: 1225
+  - id: 1224
     url: https://www.datalumos.org/datalumos/project/228781/version/V1/view
     format: PDF, XLS
     status: Finished

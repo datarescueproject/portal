@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251213152733/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genetic_mapping_and_QTL_analysis_for_peanut_smut_resistance/24855135
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3639
+  - id: 3638
     url: https://www.datalumos.org/datalumos/project/250712/version/V1/view
     format: HTML, JPG, JSON, TXT, ZIP
     status: Finished

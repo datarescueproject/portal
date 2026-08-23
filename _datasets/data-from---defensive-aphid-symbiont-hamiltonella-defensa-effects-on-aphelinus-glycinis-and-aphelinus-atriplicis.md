@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108062650/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Defensive_aphid_symbiont_Hamiltonella_defensa_effects_on_Aphelinus_glycinis_and_Aphelinus_atriplicis/24852297
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3557
+  - id: 3556
     url: https://www.datalumos.org/datalumos/project/250617/version/V1/view
     format: CSV, HTML, JSON, TXT
     status: Finished

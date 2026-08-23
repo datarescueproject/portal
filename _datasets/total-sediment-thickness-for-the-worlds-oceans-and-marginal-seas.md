@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 749
+  - id: 748
     url: https://doi.org/10.22002/k4070-ngc79
     format: ZIP
     status: Finished

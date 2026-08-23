@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109014725/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Site-specific_management_of_cotton_root_rot_using_airborne_and_high_resolution_satellite_imagery_and_variable_rate_technology/24668643
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3495
+  - id: 3494
     url: https://www.datalumos.org/datalumos/project/250540/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

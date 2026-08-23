@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3207
+  - id: 3206
     url: https://www.datalumos.org/datalumos/project/250244/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

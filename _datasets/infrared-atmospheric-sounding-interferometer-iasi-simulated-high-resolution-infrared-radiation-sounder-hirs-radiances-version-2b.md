@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 888
+  - id: 887
     url: https://sciop.net/uploads/bab5734902386005a2ff715b7a682428e7e97e92
     format: NC, TXT, CSV
     status: Finished

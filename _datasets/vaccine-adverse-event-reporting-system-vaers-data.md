@@ -13,7 +13,7 @@ metadata_url: https://www.datalumos.org/datalumos/project/221805/version/V1/view
 category:
   - Health & Healthcare 
 resources:
-  - id: 336
+  - id: 335
     url: https://www.datalumos.org/datalumos/project/221805/version/V1/view
     format: ZIP, CSV
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-03-03
     maintainer: DL
     notes: Includes Vaccine Adverse Event Reporting System Data Files from 1990 to January 2025. A reproduceable Rmd file, website screenshots, and documentation have been included in the Supplementary Information folder.
-  - id: 3090
+  - id: 3089
     url: https://sciop.net/datasets/cdc-vaers-csvs
     format: CSV
     status: Finished

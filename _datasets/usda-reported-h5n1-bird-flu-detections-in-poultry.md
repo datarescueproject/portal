@@ -14,7 +14,7 @@ category:
   - Agriculture 
   - Health & Healthcare 
 resources:
-  - id: 1003
+  - id: 1002
     url: https://www.datalumos.org/datalumos/project/229722/version/V1/view
     format: CSV, TXT, PNG
     status: Finished

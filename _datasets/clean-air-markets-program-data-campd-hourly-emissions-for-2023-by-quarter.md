@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1270
+  - id: 1269
     url: https://zenodo.org/records/15052647
     format: CSV
     status: Finished

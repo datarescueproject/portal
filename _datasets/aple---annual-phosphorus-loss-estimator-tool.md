@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210172718/https://agdatacommons.nal.usda.gov/articles/model/APLE_Annual_Phosphorus_Loss_Estimator_Tool/24660312
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3439
+  - id: 3438
     url: https://www.datalumos.org/datalumos/project/250224/version/V1/view
     format: HTML, JSON, PDF, XLSX
     status: Finished

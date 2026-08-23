@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Finance & Budget 
   - Energy 
+  - Finance & Budget 
 resources:
-  - id: 522
+  - id: 521
     url: https://www.datalumos.org/datalumos/project/223141/version/V1/view
     format: CSV, JSON
     status: Finished

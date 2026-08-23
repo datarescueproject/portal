@@ -14,7 +14,7 @@ category:
   - Business & Economy 
   - Science & Research 
 resources:
-  - id: 1729
+  - id: 1728
     url: https://www.datalumos.org/datalumos/project/241682/version/V1/view
     format: XLS, CSV
     status: Finished

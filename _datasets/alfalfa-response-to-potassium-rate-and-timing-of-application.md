@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905191847/https://agdatacommons.nal.usda.gov/articles/dataset/Alfalfa_Response_to_Potassium_Rate_and_Timing_of_Application/24665901
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3386
+  - id: 3385
     url: https://www.datalumos.org/datalumos/project/250447/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

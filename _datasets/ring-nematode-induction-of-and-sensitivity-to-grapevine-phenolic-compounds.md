@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205055937/https://agdatacommons.nal.usda.gov/articles/dataset/Ring_Nematode_Induction_of_and_Sensitivity_to_Grapevine_Phenolic_Compounds/24667878
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3453
+  - id: 3452
     url: https://www.datalumos.org/datalumos/project/250497/version/V1/view
     format: DOCX, HTML, JSON, XLSX
     status: Finished

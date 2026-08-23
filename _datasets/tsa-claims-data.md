@@ -1,7 +1,7 @@
 ---
 schema: data_rescue_project 
 title: TSA Claims Data
-organization: Headquarters
+organization: DHS Headquarters
 agency: Department of Homeland Security
 websites: dhs.gov
 data_source: https://www.dhs.gov/tsa-claims-data
@@ -13,7 +13,7 @@ metadata_url:
 category:
   - National Security & Defense 
 resources:
-  - id: 1122
+  - id: 1121
     url: https://www.datalumos.org/datalumos/project/231781/version/V1/view
     format: PDF, XLS, XLSX
     status: Finished

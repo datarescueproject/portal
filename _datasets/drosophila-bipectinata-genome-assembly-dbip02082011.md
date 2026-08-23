@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250913012358/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_bipectinata_genome_assembly_Dbip02082011/24855435
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3660
+  - id: 3659
     url: https://www.datalumos.org/datalumos/project/250735/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

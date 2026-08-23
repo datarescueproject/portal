@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214004311/https://agdatacommons.nal.usda.gov/articles/dataset/Eddy_Covariance_Data_from_Office_of_Naval_Research_Biofuel_project_on_Maui/25126868
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3815
+  - id: 3814
     url: https://www.datalumos.org/datalumos/project/250904/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

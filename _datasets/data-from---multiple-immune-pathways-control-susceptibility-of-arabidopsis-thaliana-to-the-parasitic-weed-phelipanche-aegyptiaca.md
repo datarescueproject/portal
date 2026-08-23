@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212060725/https://agdatacommons.nal.usda.gov/articles/software/Data_from_Multiple_immune_pathways_control_susceptibility_of_Arabidopsis_thaliana_to_the_parasitic_weed_Phelipanche_aegyptiaca/24853059
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3591
+  - id: 3590
     url: https://www.datalumos.org/datalumos/project/250656/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

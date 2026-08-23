@@ -14,7 +14,7 @@ category:
   - Energy 
   - Climate & Environment 
 resources:
-  - id: 313
+  - id: 312
     url: https://data.openei.org/submissions/5987
     format: HDF5
     status: Finished

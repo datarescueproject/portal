@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/products/weather-balloon/integrated-glob
 category:
   - Climate & Environment 
 resources:
-  - id: 586
+  - id: 585
     url: https://archive.org/details/integrated-global-radiosonde-archive
     format: TXT, TAR
     status: Finished

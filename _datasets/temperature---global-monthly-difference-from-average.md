@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1137
+  - id: 1136
     url: https://www.datalumos.org/datalumos/project/233461/version/V2/view
     format: ZIP, PNG
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-06-15
     maintainer: DRP, DL
     notes: full resolution/large files
-  - id: 1138
+  - id: 1137
     url: https://www.datalumos.org/datalumos/project/234241/version/V1/view
     format: ZIP, PNG
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113212221/https://agdatacommons.nal.usda.gov/articles/dataset/Comparison_of_methods_to_detect_low_levels_of_Salmonella_enterica_in_surface_waters_to_support_antimicrobial_resistance_surveillance_efforts_performed_in_multiple_laboratories/24668601
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3492
+  - id: 3491
     url: https://www.datalumos.org/datalumos/project/250537/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

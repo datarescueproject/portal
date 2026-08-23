@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113054443/https://agdatacommons.nal.usda.gov/articles/dataset/Greenhouse_Gas_Study_for_Greenhouse_gas_Reduction_through_Agricultural_Carbon_Enhancement_network_in_Bowling_Green_Kentucky/24665352
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3350
+  - id: 3349
     url: https://www.datalumos.org/datalumos/project/250404/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

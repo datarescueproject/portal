@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012143344/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Quantifying_Insect_Dispersal_Distances_from_Trapping_Detections_Data_to_Predict_Delimiting_Survey_Radii_raw_Mexfly_data/25212866
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3848
+  - id: 3847
     url: https://www.datalumos.org/datalumos/project/250935/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

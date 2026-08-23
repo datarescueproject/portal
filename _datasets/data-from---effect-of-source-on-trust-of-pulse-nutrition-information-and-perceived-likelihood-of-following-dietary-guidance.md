@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014032720/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Effect_of_Source_on_Trust_of_Pulse_Nutrition_Information_and_Perceived_Likelihood_of_Following_Dietary_Guidance/24668130
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3464
+  - id: 3463
     url: https://www.datalumos.org/datalumos/project/250508/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

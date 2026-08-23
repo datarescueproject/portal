@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210174644/https://agdatacommons.nal.usda.gov/articles/dataset/Hyalella_azteca_Genome_Assembly_1_0/25234126
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3885
+  - id: 3884
     url: https://www.datalumos.org/datalumos/project/250972/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

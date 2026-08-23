@@ -12,10 +12,10 @@ metadata_available: No
 metadata_url: 
 category:
   - Infrastructure 
-  - Science & Research 
   - Climate & Environment 
+  - Science & Research 
 resources:
-  - id: 1062
+  - id: 1061
     url: https://www.datalumos.org/datalumos/project/232051/version/V1/view
     format: CSV, XML, PDF, HTML
     status: Finished

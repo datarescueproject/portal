@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Arts & Culture 
+  - Science & Research 
 resources:
-  - id: 3018
+  - id: 3017
     url: https://sciop.net/datasets/nara-electronic-records-s3-mirror
     format: PDF, TXT, HTML, DAT
     status: Finished

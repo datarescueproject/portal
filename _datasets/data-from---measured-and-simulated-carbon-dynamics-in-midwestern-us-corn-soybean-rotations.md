@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010021453/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Measured_and_simulated_carbon_dynamics_in_Midwestern_US_corn-soybean_rotations/24665628
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3368
+  - id: 3367
     url: https://www.datalumos.org/datalumos/project/250423/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

@@ -13,7 +13,7 @@ metadata_url: https://doi.org/10.25921/c4gt-r169
 category:
   - Climate & Environment 
 resources:
-  - id: 595
+  - id: 594
     url: https://archive.org/details/nclimgrid-daily-2025-03-24
     format: TAR, NC, CSV
     status: Finished

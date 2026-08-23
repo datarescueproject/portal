@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 219
+  - id: 218
     url: https://github.com/wrf-model-clone
     format: GIT
     status: Finished

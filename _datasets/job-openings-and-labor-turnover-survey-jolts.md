@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 994
+  - id: 993
     url: https://www.datalumos.org/datalumos/project/227696/version/V2/view
     format: CSV
     status: Finished

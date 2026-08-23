@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251114231410/https://agdatacommons.nal.usda.gov/articles/dataset/Ephemera_danica_Official_Gene_Set_ephdan_OGSv1_0/24853563
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3609
+  - id: 3608
     url: https://www.datalumos.org/datalumos/project/250676/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

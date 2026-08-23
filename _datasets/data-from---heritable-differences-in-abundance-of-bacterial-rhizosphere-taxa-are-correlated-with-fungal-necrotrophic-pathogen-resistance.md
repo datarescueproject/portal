@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113065605/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Heritable_differences_in_abundance_of_bacterial_rhizosphere_taxa_are_correlated_with_fungal_necrotrophic_pathogen_resistance/24669135
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3512
+  - id: 3511
     url: https://www.datalumos.org/datalumos/project/250558/version/V1/view
     format: DOCX, HTML, JSON, XLSX
     status: Finished

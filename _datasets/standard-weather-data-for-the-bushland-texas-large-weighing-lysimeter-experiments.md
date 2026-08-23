@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210181407/https://agdatacommons.nal.usda.gov/articles/dataset/Standard_Weather_Data_for_the_Bushland_Texas_Large_Weighing_Lysimeter_Experiments/25316164
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3904
+  - id: 3903
     url: https://www.datalumos.org/datalumos/project/250993/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110171014/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Identification_of_robust_yield_QTL_derived_from_cultivated_emmer_for_durum_wheat_improvement/24857079
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3772
+  - id: 3771
     url: https://www.datalumos.org/datalumos/project/250855/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

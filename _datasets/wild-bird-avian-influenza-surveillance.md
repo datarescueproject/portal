@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Agriculture 
 resources:
-  - id: 775
+  - id: 774
     url: https://www.datalumos.org/datalumos/project/226931/version/V1/view
     format: JSON, PNG, CSV, plain text
     status: Finished

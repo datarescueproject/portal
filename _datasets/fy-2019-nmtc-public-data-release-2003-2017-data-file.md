@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Finance & Budget 
   - Housing & Community Development 
+  - Finance & Budget 
 resources:
-  - id: 776
+  - id: 775
     url: https://www.datalumos.org/datalumos/project/225661/version/V1/view
     format: PDF, XLSX
     status: Finished

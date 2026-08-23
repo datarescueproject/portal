@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205201406/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_The_Impacts_of_Parental_Choice_and_Intrapopulation_Selection_for_Seed_Size_on_the_Uprightness_of_Progeny_Derived_from_Interspecific_Hybridization_between_Glycine_max_and_Glycine_soja/24668346
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3477
+  - id: 3476
     url: https://www.datalumos.org/datalumos/project/250521/version/V1/view
     format: CSV, HTML, JSON, RMD
     status: Finished

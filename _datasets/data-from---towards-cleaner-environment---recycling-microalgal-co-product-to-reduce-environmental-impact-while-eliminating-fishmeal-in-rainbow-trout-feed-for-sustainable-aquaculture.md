@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250917225746/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Towards_cleaner_environment_Recycling_microalgal_co-product_to_reduce_environmental_impact_while_eliminating_fishmeal_in_rainbow_trout_feed_for_sustainable_aquaculture/29621750
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3912
+  - id: 3911
     url: https://www.datalumos.org/datalumos/project/251001/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

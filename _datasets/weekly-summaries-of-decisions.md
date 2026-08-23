@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 988
+  - id: 987
     url: https://www.datalumos.org/datalumos/project/226161/version/V1/view
     format: PDF
     status: Finished

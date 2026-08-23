@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251013183912/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_UAS_imagery_protocols_to_map_vegetation_are_transferable_between_dryland_sites_across_an_elevational_gradient/24668214
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3467
+  - id: 3466
     url: https://www.datalumos.org/datalumos/project/250511/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

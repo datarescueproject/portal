@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250915214616/https://agdatacommons.nal.usda.gov/articles/dataset/Stakeholder_Engagement_with_Soil_Testing_Practices_and_perspectives_in_U_S_agriculture/29656808
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3915
+  - id: 3914
     url: https://www.datalumos.org/datalumos/project/251004/version/V1/view
     format: HTML, JSON, PDF, XLSX
     status: Finished

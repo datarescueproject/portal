@@ -13,7 +13,7 @@ metadata_url: https://web.archive.org/web/20250202002349/https://data.cdc.gov/Pu
 category:
   - Health & Healthcare 
 resources:
-  - id: 4046
+  - id: 4045
     url: https://www.datalumos.org/datalumos/project/244877/version/V1/view
     format: CSV, PDF
     status: Finished

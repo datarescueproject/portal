@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905191313/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Greenhouse_gas_emissions_from_milk_production_and_consumption_in_the_United_States_A_cradle-to-grave_life_cycle_assessment_circa_2008/24851805
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3515
+  - id: 3514
     url: https://www.datalumos.org/datalumos/project/250567/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

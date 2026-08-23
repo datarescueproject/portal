@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Finance & Budget 
 resources:
-  - id: 591
+  - id: 590
     url: https://archive.org/details/usaspending-db_20250106
     format: ZIP, DAT
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-01-06
     maintainer: DRP, IA
     notes: Full upload in process. For reconstruction, see usaspending-db-setup.pdf.This is the complete database as of Jan. 6, 2025.
-  - id: 879
+  - id: 878
     url: https://doi.org/10.60503/D3/2LKHZ9
     format: PDF, JSON, DAT, TAB, TAR.GZ
     status: Finished
@@ -29,7 +29,7 @@ resources:
     download_date: 2025-04-15
     maintainer: LDSP
     notes: USAspending.gov is the official source for spending data for the U.S. Government. Its mission is to show the American public what the federal government spends every year and how it spends the money. You can follow the money from the Congressional appropriations to the federal agencies and down to local communities and businesses.
-  - id: 3002
+  - id: 3001
     url: https://archive.org/download/gov_backup_niema/usaspending-db_20260206.zip
     format: ZIP
     status: Finished

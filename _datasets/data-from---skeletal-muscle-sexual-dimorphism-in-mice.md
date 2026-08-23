@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211125802/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Skeletal_Muscle_Sexual_Dimorphism_in_Mice/24666141
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3407
+  - id: 3406
     url: https://www.datalumos.org/datalumos/project/250468/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

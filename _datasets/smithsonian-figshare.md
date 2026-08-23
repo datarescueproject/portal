@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Arts & Culture 
 resources:
-  - id: 1728
+  - id: 1727
     url: https://sciop.net/datasets/us-smithsonian-institution-figshare-bulk-data
     format: 
     status: Finished

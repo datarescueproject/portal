@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Health & Healthcare 
 resources:
-  - id: 506
+  - id: 505
     url: https://www.datalumos.org/datalumos/project/220328/version/V2/view
     format: ZIP
     status: Finished

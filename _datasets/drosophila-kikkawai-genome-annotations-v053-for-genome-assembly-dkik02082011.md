@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006134018/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_kikkawai_genome_annotations_v0_5_3_for_genome_assembly_Dkik02082011/24855474
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3666
+  - id: 3665
     url: https://www.datalumos.org/datalumos/project/250741/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=
 category:
   - Climate & Environment 
 resources:
-  - id: 689
+  - id: 688
     url: https://archive.org/details/noaa-ncei-ndbc-nwlon-coops
     format: NC, history
     status: Finished

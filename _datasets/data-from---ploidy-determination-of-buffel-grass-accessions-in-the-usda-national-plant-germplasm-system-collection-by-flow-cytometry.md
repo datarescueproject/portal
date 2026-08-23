@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007021854/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Ploidy_determination_of_buffel_grass_accessions_in_the_USDA_National_Plant_Germplasm_System_collection_by_flow_cytometry/24853194
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3594
+  - id: 3593
     url: https://www.datalumos.org/datalumos/project/250660/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

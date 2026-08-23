@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116085642/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_biarmipes_genome_annotations_v0_5_3_for_genome_assembly_Dbia_2_0/24851841
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3518
+  - id: 3517
     url: https://www.datalumos.org/datalumos/project/250570/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

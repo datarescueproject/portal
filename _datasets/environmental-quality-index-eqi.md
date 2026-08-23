@@ -13,7 +13,7 @@ metadata_url: https://www.epa.gov/healthresearch/environmental-quality-index-eqi
 category:
   - Climate & Environment 
 resources:
-  - id: 179
+  - id: 178
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/A9ZHHR
     format: CSV, XLSX, XML, DOCX, PDF, ZIP
     status: Finished

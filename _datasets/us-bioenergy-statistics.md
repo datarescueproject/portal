@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Agriculture 
 resources:
-  - id: 3068
+  - id: 3067
     url: https://www.datalumos.org/datalumos/project/250168/version/V1/view
     format: ZIP
     status: Finished

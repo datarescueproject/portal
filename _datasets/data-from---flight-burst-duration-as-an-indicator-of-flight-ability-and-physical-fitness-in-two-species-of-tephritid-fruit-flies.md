@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251216030401/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Flight_burst_duration_as_an_indicator_of_flight_ability_and_physical_fitness_in_two_species_of_Tephritid_fruit_flies/24857250
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3785
+  - id: 3784
     url: https://www.datalumos.org/datalumos/project/250868/version/V1/view
     format: CSV, HTML, JSON, TXT
     status: Finished

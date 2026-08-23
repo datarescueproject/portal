@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112210627/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Variations_in_Phytochemical_Content_and_Composition_in_Distillers_Corn_Oil_from_30_U_S_Ethanol_Plants/24668382
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3481
+  - id: 3480
     url: https://www.datalumos.org/datalumos/project/250525/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

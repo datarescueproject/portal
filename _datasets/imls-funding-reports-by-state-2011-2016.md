@@ -11,12 +11,12 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Education 
-  - Science & Research 
   - Arts & Culture 
+  - Education 
   - Social Services 
+  - Science & Research 
 resources:
-  - id: 1441
+  - id: 1440
     url: https://www.datalumos.org/datalumos/project/101765/view
     format: PDF
     status: Finished

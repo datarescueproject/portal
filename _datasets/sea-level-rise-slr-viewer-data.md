@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 218
+  - id: 217
     url: https://arcgis.com/home/item.html?id=cab265835317461e818f13eabc242ed1
     format: GIS
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2024-08-07
     maintainer: ESRI
     notes: Sea Level Rise for the Continental United States showing areas of coastal inundation for each scenario between 2005 and 2150 (10-year intervals).
-  - id: 899
+  - id: 898
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/HW7HLM
     format: TIFF, Shapefile, GPKG, PDF
     status: Finished

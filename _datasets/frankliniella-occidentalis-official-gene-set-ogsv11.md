@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251215052722/https://agdatacommons.nal.usda.gov/articles/dataset/Frankliniella_occidentalis_Official_Gene_Set_OGSv1_0/25012442
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3799
+  - id: 3798
     url: https://www.datalumos.org/datalumos/project/250887/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

@@ -13,7 +13,7 @@ metadata_url: https://epa.figshare.com/articles/online_resource/ECOTOX_5_6_User_
 category:
   - Climate & Environment 
 resources:
-  - id: 176
+  - id: 175
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/LTVQUK
     format: EXE, PDF, ZIP, HTML
     status: Finished

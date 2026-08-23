@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205030650/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Update_to_the_USDA-ARS_Fixed-Wing_Spray_Nozzle_Models/24668622
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3494
+  - id: 3493
     url: https://www.datalumos.org/datalumos/project/250539/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

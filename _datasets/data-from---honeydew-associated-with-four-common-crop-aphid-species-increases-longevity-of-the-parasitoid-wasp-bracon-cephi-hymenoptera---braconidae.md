@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112201630/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Honeydew_associated_with_four_common_crop_aphid_species_increases_longevity_of_the_parasitoid_wasp_Bracon_cephi_Hymenoptera_Braconidae_/24857460
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3787
+  - id: 3786
     url: https://www.datalumos.org/datalumos/project/250871/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

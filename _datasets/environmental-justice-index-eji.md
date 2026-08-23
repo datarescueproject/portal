@@ -24,7 +24,7 @@ resources:
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 44
     url: https://edgi-govdata-archiving.github.io/cdc_eji_county_level_reports/
-    format: Webpage
+    format: Webpage, PDF
     status: Finished
     size: 0.0
     download_date: 2025-02-12

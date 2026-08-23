@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Transportation 
   - Science & Research 
+  - Transportation 
 resources:
-  - id: 1724
+  - id: 1723
     url: https://www.datalumos.org/datalumos/project/240584/version/V1/view
     format: GeoTIFF, Geodatabase
     status: Finished
@@ -22,7 +22,7 @@ resources:
     download_date: 2025-11-18
     maintainer: DRP, DL
     notes: 2016
-  - id: 1725
+  - id: 1724
     url: https://www.datalumos.org/datalumos/project/240641/version/V1/view
     format: GeoTIFF, Geodatabase
     status: Finished
@@ -30,7 +30,7 @@ resources:
     download_date: 2025-11-18
     maintainer: DRP, DL
     notes: 2020
-  - id: 1726
+  - id: 1725
     url: https://www.datalumos.org/datalumos/project/240640/version/V1/view
     format: GeoTIFF, Geodatabase
     status: Finished

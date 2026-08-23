@@ -13,7 +13,7 @@ metadata_url: https://nsidc.org/data/g02186/versions/1
 category:
   - Climate & Environment 
 resources:
-  - id: 842
+  - id: 841
     url: https://archive.org/details/noaa-nsidc-g02186
     format: CSV, TXT, NC, TIFF
     status: Finished

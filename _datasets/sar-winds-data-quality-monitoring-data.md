@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/products/sar-wind-data-quality-monitorin
 category:
   - Climate & Environment 
 resources:
-  - id: 897
+  - id: 896
     url: https://sciop.net/uploads/229333d7ea1437a33e307b92bc6f37eb91c6a56c
     format: NC, TIFF
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251015084035/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Plant_Tissue_Characteristics_of_Miscanthus_x_giganteus/25060847
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3809
+  - id: 3808
     url: https://www.datalumos.org/datalumos/project/250897/version/V1/view
     format: HTML, JSON, PDF, TXT, XLSX, XML
     status: Finished

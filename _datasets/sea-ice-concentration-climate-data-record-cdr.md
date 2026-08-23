@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/sea-ice-co
 category:
   - Climate & Environment 
 resources:
-  - id: 570
+  - id: 569
     url: https://sciop.net/uploads/2fe6faecc941732c6a02702226743b556e015ab3
     format: NC
     status: Finished

@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214021738/https://agdatacommons.nal.usda.gov/articles/dataset/Reynolds_Creek_Experimental_Watershed_Idaho_Discharge_/24665418
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3354
+  - id: 3353
     url: https://www.datalumos.org/datalumos/project/250408/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished

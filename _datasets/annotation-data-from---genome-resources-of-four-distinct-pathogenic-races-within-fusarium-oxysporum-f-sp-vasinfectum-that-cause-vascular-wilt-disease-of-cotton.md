@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212073358/https://agdatacommons.nal.usda.gov/articles/dataset/Annotation_Data_from_Genome_Resources_of_Four_Distinct_Pathogenic_Races_Within_Fusarium_oxysporum_f_sp_vasinfectum_that_Cause_Vascular_Wilt_Disease_of_Cotton/24856383
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3723
+  - id: 3722
     url: https://www.datalumos.org/datalumos/project/250800/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 687
+  - id: 686
     url: https://archive.org/details/national-marine-ecosystem-status-2022
     format: CSV
     status: Finished

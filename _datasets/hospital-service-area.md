@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health & Healthcare 
   - Social Services 
+  - Health & Healthcare 
 resources:
-  - id: 3975
+  - id: 3974
     url: https://www.datalumos.org/datalumos/project/247071/version/V1/view
     format: PDF, ZIP
     status: Finished

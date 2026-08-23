@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205171740/https://agdatacommons.nal.usda.gov/articles/dataset/UGA_Variety_Testing_Corn_Grain_Evaluations_2014-2019/24665643
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3371
+  - id: 3370
     url: https://www.datalumos.org/datalumos/project/250426/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

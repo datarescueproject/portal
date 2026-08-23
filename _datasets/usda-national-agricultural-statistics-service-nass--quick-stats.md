@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Agriculture 
 resources:
-  - id: 1261
+  - id: 1260
     url: https://www.datalumos.org/datalumos/project/238414/version/V1/view
     format: TXT, TSV
     status: Finished

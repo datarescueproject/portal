@@ -13,9 +13,9 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 186
+  - id: 185
     url: https://doi.org/10.7910/DVN/3VIXG4
-    format: XLSX, Interactive Data Explorer
+    format: XLSX, PDF, XLSM
     status: Finished
     size: 0.081
     download_date: 2025-01-28

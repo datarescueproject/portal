@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107010734/https://agdatacommons.nal.usda.gov/articles/dataset/Orussus_abietinus_genome_assembly_v1_0/25212215
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3823
+  - id: 3822
     url: https://www.datalumos.org/datalumos/project/250912/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

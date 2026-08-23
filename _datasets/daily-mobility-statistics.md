@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Transportation 
 resources:
-  - id: 906
+  - id: 905
     url: https://www.datalumos.org/datalumos/project/224464/version/V1/view
     format: CSV, PDF, PNG
     status: Finished

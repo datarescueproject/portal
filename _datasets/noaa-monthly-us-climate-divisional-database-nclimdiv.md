@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=
 category:
   - Climate & Environment 
 resources:
-  - id: 685
+  - id: 684
     url: https://archive.org/details/nclimdiv-2025-04-01
     format: TXT
     status: Finished

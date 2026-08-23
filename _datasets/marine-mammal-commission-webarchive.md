@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Uncategorized 
 resources:
-  - id: 3016
+  - id: 3015
     url: https://sciop.net/datasets/marine-mammal-commission-warc-wacz
     format: WARC, WACZ
     status: Finished

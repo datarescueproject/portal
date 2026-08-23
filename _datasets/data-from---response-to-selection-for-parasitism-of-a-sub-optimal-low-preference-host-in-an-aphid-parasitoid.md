@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251116215225/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Response_to_selection_for_parasitism_of_a_sub-optimal_low-preference_host_in_an_aphid_parasitoid/24855219
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3641
+  - id: 3640
     url: https://www.datalumos.org/datalumos/project/250715/version/V1/view
     format: CSV, HTML, JSON
     status: Finished

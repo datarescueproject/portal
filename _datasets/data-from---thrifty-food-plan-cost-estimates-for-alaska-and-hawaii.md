@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251117070524/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Thrifty_Food_Plan_Cost_Estimates_for_Alaska_and_Hawaii/24668793
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3507
+  - id: 3506
     url: https://www.datalumos.org/datalumos/project/250552/version/V1/view
     format: CSV, HTML, JSON, PDF, R, XLSX, ZIP
     status: Finished

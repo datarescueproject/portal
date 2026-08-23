@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006142353/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Rice_root_iron_plaque_retains_arsenic_and_phosphorus_but_doesn_t_interfere_with_silicon_and_selenium_uptake/24668823
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3508
+  - id: 3507
     url: https://www.datalumos.org/datalumos/project/250553/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

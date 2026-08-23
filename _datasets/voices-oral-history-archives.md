@@ -13,7 +13,7 @@ metadata_url: https://www.fisheries.noaa.gov/inport/item/27525
 category:
   - Climate & Environment 
 resources:
-  - id: 760
+  - id: 759
     url: https://tables.codeberg.page/voices.nmfs.noaa.gov/
     format: PDF, MP3, MP4, HTML
     status: Finished

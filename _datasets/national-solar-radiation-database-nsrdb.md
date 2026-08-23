@@ -14,7 +14,7 @@ category:
   - Energy 
   - Climate & Environment 
 resources:
-  - id: 222
+  - id: 221
     url: https://github.com/NREL/nsrdb/tree/v4.1.1
     format: HDF5, GIT
     status: Finished

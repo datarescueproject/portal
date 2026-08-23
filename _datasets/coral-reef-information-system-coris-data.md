@@ -13,7 +13,7 @@ metadata_url: https://www.coris.noaa.gov/
 category:
   - Climate & Environment 
 resources:
-  - id: 716
+  - id: 715
     url: https://sciop.net/uploads/f750dafb20b1f5783a9e602793d8e917fcf7e95f
     format: XFD, SHP, XLS, TXT, SVS
     status: Finished

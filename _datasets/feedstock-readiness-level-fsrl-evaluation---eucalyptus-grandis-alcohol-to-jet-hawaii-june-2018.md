@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251016035835/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Eucalyptus_grandis_Alcohol-to-Jet_Hawaii_June_2018/24852849
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3581
+  - id: 3580
     url: https://www.datalumos.org/datalumos/project/250645/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

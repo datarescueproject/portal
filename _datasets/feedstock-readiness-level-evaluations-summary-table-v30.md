@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250911055010/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_Evaluations_Summary_Table_v3_0/24660741
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3238
+  - id: 3237
     url: https://www.datalumos.org/datalumos/project/250275/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

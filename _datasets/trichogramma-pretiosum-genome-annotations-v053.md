@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211122956/https://agdatacommons.nal.usda.gov/articles/dataset/Trichogramma_pretiosum_genome_annotations_v0_5_3/24662316
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3287
+  - id: 3286
     url: https://www.datalumos.org/datalumos/project/250325/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

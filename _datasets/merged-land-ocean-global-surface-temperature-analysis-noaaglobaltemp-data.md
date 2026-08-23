@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/products/land-based-station/noaa-global-
 category:
   - Climate & Environment 
 resources:
-  - id: 582
+  - id: 581
     url: https://archive.org/details/noaa-global-surface-temperature
     format: ASC, TXT, NC, INV
     status: Finished

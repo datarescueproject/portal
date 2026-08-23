@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Business & Economy 
 resources:
-  - id: 194
+  - id: 193
     url: https://github.com/gsa-clone
     format: GIT
     status: Finished

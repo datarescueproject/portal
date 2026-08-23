@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Business & Economy 
 resources:
-  - id: 335
+  - id: 334
     url: https://biglocalnews.org/#/project/UHJvamVjdDpmMmNiODgyNy05ZWQ2LTQzM2UtYjI4Zi00MDQ4NzQxZTI2M2I=
     format: HTML, CSV
     status: Finished

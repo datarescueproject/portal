@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://catalog.archives.gov/id/542493
 category:
-  - Science & Research 
   - Arts & Culture 
+  - Science & Research 
 resources:
-  - id: 3089
+  - id: 3088
     url: https://sciop.net/datasets/nara-documerica-rg-412-da-tifs
     format: TIFF
     status: Finished

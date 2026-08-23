@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251209181727/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genome_sequence_of_the_chestnut_blight_fungus_Cryphonectria_parasitica_EP155_A_fundamental_resource_for_an_archetypical_invasive_plant_pathogen/24853305
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3600
+  - id: 3599
     url: https://www.datalumos.org/datalumos/project/250666/version/V1/view
     format: HTML, JSON, PPTX, TXT, XLSX
     status: Finished

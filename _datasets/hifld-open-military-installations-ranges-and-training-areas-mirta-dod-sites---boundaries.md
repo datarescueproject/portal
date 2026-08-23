@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Infrastructure 
 resources:
-  - id: 1552
+  - id: 1551
     url: https://www.datalumos.org/datalumos/project/239599
     format: 
     status: Finished

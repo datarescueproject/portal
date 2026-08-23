@@ -13,7 +13,7 @@ metadata_url: https://agupubs.onlinelibrary.wiley.com/doi/10.1029/96JB00104
 category:
   - Climate & Environment 
 resources:
-  - id: 861
+  - id: 860
     url: https://sciop.net/uploads/c2761718707de6963191e7e20855e8a90bdd9a8d
     format: BIN, NC
     status: Finished

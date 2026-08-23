@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 181
+  - id: 180
     url: https://doi.org/10.7910/DVN/TQG6RR
     format: XML, XLSX, XLS, PDF
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-02-20
     maintainer: BCECJ, HD
     notes: Helpful info here https://ccdsupport.com/confluence/display/ghgp
-  - id: 182
+  - id: 181
     url: https://public.tableau.com/app/profile/walter.auch/viz/USEPAFLIGHTDataDashboard/Dashboard1
     format: XML
     status: Finished

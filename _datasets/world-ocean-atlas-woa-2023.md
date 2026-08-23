@@ -13,7 +13,7 @@ metadata_url: https://www.ncei.noaa.gov/access/metadata/landing-page/bin/iso?id=
 category:
   - Climate & Environment 
 resources:
-  - id: 709
+  - id: 708
     url: https://sciop.net/uploads/581bb9462e958df6011025b26fa1d609a2dafd73
     format: NC
     status: Finished

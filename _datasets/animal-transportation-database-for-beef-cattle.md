@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012183122/https://agdatacommons.nal.usda.gov/articles/dataset/Animal_Transportation_Database_for_Beef_Cattle/24663870
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3328
+  - id: 3327
     url: https://www.datalumos.org/datalumos/project/250359/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

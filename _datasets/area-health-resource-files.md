@@ -21,7 +21,7 @@ resources:
     download_date: 2025-02-12
     maintainer: PU
     notes: 1979, 1998-2000, 2005, 2008, 2012-2023) Site is down. This is data I had downloaded previously.
-  - id: 719
+  - id: 718
     url: https://www.datalumos.org/datalumos/project/227006/version/V1/view
     format: ZIP
     status: Finished
@@ -29,7 +29,7 @@ resources:
     download_date: 2025-04-17
     maintainer: DRP, DL
     notes: 
-  - id: 1236
+  - id: 1235
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/MWNGDP
     format: ZIP, PDF, CSV, XLSX
     status: Finished

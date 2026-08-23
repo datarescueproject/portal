@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107121807/https://agdatacommons.nal.usda.gov/articles/dataset/Weighing_Lysimeter_Data_for_The_Bushland_Texas_Maize_for_Grain_Datasets/24855930
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3683
+  - id: 3682
     url: https://www.datalumos.org/datalumos/project/250760/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

@@ -13,7 +13,7 @@ metadata_url: https://www.transit.dot.gov/ntd/fta-census-map
 category:
   - Transportation 
 resources:
-  - id: 1673
+  - id: 1672
     url: https://www.datalumos.org/datalumos/project/238762/version/V1/view
     format: GPKG, DBF, PRJ, SHP, SHX, CPG, QMD
     status: Finished

@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Social Services 
 resources:
-  - id: 763
+  - id: 762
     url: https://www.datalumos.org/datalumos/project/227423/version/V2/view
     format: CSV, Shapefile, Geodatabase, XLSX, TXT, ZIP
     status: Finished

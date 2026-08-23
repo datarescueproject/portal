@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114074309/https://agdatacommons.nal.usda.gov/articles/dataset/Halyomorpha_halys_genome_annotations_v0_5_3/24852765
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3576
+  - id: 3575
     url: https://www.datalumos.org/datalumos/project/250640/version/V1/view
     format: GZ, HTML, JSON
     status: Finished

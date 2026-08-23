@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212054720/https://agdatacommons.nal.usda.gov/articles/dataset/Human_blood_plasma_oxylipins_endocannabinoids_exercise_patterns/24665634
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3369
+  - id: 3368
     url: https://www.datalumos.org/datalumos/project/250424/version/V1/view
     format: HTML, JSON, PDF, XLS
     status: Finished

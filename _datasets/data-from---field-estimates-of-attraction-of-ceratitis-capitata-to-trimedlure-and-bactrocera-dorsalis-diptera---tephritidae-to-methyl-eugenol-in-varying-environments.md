@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108060130/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Field_Estimates_of_Attraction_of_Ceratitis_capitata_to_Trimedlure_and_Bactrocera_dorsalis_Diptera_Tephritidae_to_Methyl_Eugenol_in_Varying_Environments/24856755
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3750
+  - id: 3749
     url: https://www.datalumos.org/datalumos/project/250831/version/V1/view
     format: CSV, HTML, JSON, PDF
     status: Finished

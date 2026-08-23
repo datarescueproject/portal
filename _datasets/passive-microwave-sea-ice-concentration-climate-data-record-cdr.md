@@ -13,7 +13,7 @@ metadata_url: https://nsidc.org/data/g02202/versions/5
 category:
   - Climate & Environment 
 resources:
-  - id: 844
+  - id: 843
     url: https://archive.org/details/noaa-nsidc-g02202_v5
     format: NC
     status: Finished

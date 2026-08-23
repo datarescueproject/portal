@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 593
+  - id: 592
     url: https://archive.org/details/carbon-cycle-and-greenhouse-gases-esrl-gmd
     format: NC, TXT
     status: Finished

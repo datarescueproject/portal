@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251114210032/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_COVID-19_and_Beef_Consumption_in_Mexico/24667833
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3451
+  - id: 3450
     url: https://www.datalumos.org/datalumos/project/250495/version/V1/view
     format: HTML, JSON, XLSX
     status: Finished

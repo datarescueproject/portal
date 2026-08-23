@@ -13,7 +13,7 @@ metadata_url:
 category:
   - Justice & Public Safety 
 resources:
-  - id: 1743
+  - id: 1742
     url: https://sciop.net/datasets/nij-research-domestic-terrorism
     format: PDF
     status: Finished

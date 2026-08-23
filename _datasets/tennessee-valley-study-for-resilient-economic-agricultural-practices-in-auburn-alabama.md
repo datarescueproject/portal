@@ -11,10 +11,10 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251115153459/https://agdatacommons.nal.usda.gov/articles/dataset/Tennessee_Valley_Study_for_Resilient_Economic_Agricultural_Practices_in_Auburn_Alabama/24665253
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
-  - id: 3340
+  - id: 3339
     url: https://www.datalumos.org/datalumos/project/250377/version/V1/view
     format: HTML, JSON, ZIP
     status: Finished
