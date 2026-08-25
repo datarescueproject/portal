@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010094622/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Multilocus_microsatellite_analysis_of_Candidatus_Liberibacter_asiaticus_associated_with_citrus_Huanglongbing_worldwide/24853224
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3594
     url: https://www.datalumos.org/datalumos/project/250661/version/V1/view

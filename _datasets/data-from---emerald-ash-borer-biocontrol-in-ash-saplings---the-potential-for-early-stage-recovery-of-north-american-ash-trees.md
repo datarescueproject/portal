@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112233116/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Emerald_ash_borer_biocontrol_in_ash_saplings_the_potential_for_early_stage_recovery_of_North_American_Ash_trees/25119197
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3812
     url: https://www.datalumos.org/datalumos/project/250902/version/V1/view

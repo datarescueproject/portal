@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116211253/https://agdatacommons.nal.usda.gov/articles/media/Measuring_factors_affecting_honey_bee_attraction_to_soybeans_using_bioacoustics_monitoring/24856311
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3929
     url: https://www.datalumos.org/datalumos/project/250796/version/V1/view

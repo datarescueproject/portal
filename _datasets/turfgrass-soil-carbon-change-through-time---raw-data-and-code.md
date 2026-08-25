@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251114213912/https://agdatacommons.nal.usda.gov/articles/dataset/Turfgrass_Soil_Carbon_Change_Through_Time_Raw_Data_and_Code/25213442
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3865
     url: https://www.datalumos.org/datalumos/project/250953/version/V1/view

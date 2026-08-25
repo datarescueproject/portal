@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116084402/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Use_of_long-read_sequencing_simulators_to_assess_real-world_applications_for_food_safety/24857262
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3948
     url: https://www.datalumos.org/datalumos/project/250869/version/V1/view

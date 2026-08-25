@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906065535/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Aerosol_transmission_from_infected_swine_to_ferrets_of_an_H3N2_virus_collected_from_an_agricultural_fair_and_associated_with_human_variant_infections/24853677
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3613
     url: https://www.datalumos.org/datalumos/project/250681/version/V1/view

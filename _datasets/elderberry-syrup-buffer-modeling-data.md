@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112232150/https://agdatacommons.nal.usda.gov/articles/dataset/Elderberry_syrup_buffer_modeling_data/24668529
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3485
     url: https://www.datalumos.org/datalumos/project/250531/version/V1/view

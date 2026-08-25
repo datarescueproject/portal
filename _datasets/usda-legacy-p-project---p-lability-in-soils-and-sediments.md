@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250919085931/https://agdatacommons.nal.usda.gov/articles/dataset/USDA_Legacy_P_project_P_lability_in_soils_and_sediments/25892602
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3906
     url: https://www.datalumos.org/datalumos/project/250996/version/V1/view

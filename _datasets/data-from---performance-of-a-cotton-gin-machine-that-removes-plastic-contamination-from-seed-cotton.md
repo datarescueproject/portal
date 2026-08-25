@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251107004113/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Performance_of_a_cotton_gin_machine_that_removes_plastic_contamination_from_seed_cotton/24857553
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3788
     url: https://www.datalumos.org/datalumos/project/250875/version/V1/view

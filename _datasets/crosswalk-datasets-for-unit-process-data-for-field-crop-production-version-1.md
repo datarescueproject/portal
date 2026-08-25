@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251017051336/https://agdatacommons.nal.usda.gov/articles/dataset/Crosswalk_datasets_for_unit_process_data_for_field_crop_production_version_1/25126877
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3815
     url: https://www.datalumos.org/datalumos/project/250905/version/V1/view

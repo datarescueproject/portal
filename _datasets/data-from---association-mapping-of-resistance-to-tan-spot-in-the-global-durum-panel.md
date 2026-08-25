@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010083122/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Association_mapping_of_resistance_to_tan_spot_in_the_Global_Durum_Panel/24668790
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3505
     url: https://www.datalumos.org/datalumos/project/250551/version/V1/view
