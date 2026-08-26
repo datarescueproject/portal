@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251209172750/https://agdatacommons.nal.usda.gov/articles/dataset/Neodiprion_lecontei_Official_Gene_Set_v1_1/24853560
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3607
     url: https://www.datalumos.org/datalumos/project/250675/version/V1/view

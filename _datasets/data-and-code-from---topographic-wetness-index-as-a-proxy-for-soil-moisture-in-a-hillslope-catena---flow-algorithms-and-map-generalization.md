@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012175937/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Topographic_wetness_index_as_a_proxy_for_soil_moisture_in_a_hillslope_catena_flow_algorithms_and_map_generalization/24668328
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3473
     url: https://www.datalumos.org/datalumos/project/250518/version/V1/view

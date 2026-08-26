@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251206005901/https://agdatacommons.nal.usda.gov/articles/software/iStitch_GUI-based_Image_Stitching_Software/25213100
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3854
     url: https://www.datalumos.org/datalumos/project/250942/version/V1/view

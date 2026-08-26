@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214015847/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Thinking_Like_a_Grassland_Challenges_and_Opportunities_for_Biodiversity_Conservation_in_the_Great_Plains_of_North_America/24857463
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3932
     url: https://www.datalumos.org/datalumos/project/250872/version/V1/view

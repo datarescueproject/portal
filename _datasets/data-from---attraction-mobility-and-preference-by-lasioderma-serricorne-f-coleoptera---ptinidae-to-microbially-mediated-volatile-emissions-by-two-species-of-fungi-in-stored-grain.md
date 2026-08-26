@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014045150/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Attraction_mobility_and_preference_by_Lasioderma_serricorne_F_Coleoptera_Ptinidae_to_microbially-mediated_volatile_emissions_by_two_species_of_fungi_in_stored_grain/24855609
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3730
     url: https://www.datalumos.org/datalumos/project/250810/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211233217/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Interspecies_Transmission_from_Pigs_to_Ferrets_of_Antigenically_Distinct_Swine_H1_Influenza_A_Viruses_with_Reduced_Reactivity_to_Candidate_Vaccine_Virus_Antisera_as_Measures_of_Relative_Zoonotic_Risk/24668313
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3472
     url: https://www.datalumos.org/datalumos/project/250517/version/V1/view

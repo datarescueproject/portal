@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251108103321/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_The_dispersal_capacity_of_the_invasive_P_truncatus_and_the_cosmopolitan_S_zeamais_after_brief_exposure_to_a_novel_insecticide_formulation/24856866
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3752
     url: https://www.datalumos.org/datalumos/project/250834/version/V1/view

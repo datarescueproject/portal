@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251209163640/https://agdatacommons.nal.usda.gov/articles/dataset/Latrodectus_hesperus_genome_assembly_v1_0/25234156
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3890
     url: https://www.datalumos.org/datalumos/project/250978/version/V1/view

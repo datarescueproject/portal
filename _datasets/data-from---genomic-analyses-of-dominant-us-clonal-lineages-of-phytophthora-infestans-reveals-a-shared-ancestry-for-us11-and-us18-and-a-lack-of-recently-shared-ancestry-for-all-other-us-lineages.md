@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108073543/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genomic_analyses_of_dominant_US_clonal_lineages_of_Phytophthora_infestans_reveals_a_shared_ancestry_for_US11_and_US18_and_a_lack_of_recently_shared_ancestry_for_all_other_US_lineages/24851970
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3536
     url: https://www.datalumos.org/datalumos/project/250582/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211124910/https://agdatacommons.nal.usda.gov/articles/dataset/Exploring_the_Benefits_of_Brackish_Water_and_Halophytes_for_Human_Health/25234198
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3895
     url: https://www.datalumos.org/datalumos/project/250984/version/V1/view

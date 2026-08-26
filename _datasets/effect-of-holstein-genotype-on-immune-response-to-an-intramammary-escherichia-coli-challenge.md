@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205054720/https://agdatacommons.nal.usda.gov/articles/dataset/Effect_of_Holstein_genotype_on_immune_response_to_an_intramammary_Escherichia_coli_challenge/24667875
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3451
     url: https://www.datalumos.org/datalumos/project/250496/version/V1/view

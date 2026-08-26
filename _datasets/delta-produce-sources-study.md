@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212012008/https://agdatacommons.nal.usda.gov/articles/dataset/Delta_Produce_Sources_Study/25212749
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3835
     url: https://www.datalumos.org/datalumos/project/250927/version/V1/view

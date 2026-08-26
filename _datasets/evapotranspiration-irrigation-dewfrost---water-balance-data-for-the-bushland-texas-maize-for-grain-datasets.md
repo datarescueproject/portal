@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110172723/https://agdatacommons.nal.usda.gov/articles/dataset/Evapotranspiration_Irrigation_Dew_frost_-_Water_Balance_Data_for_The_Bushland_Texas_Maize_for_Grain_Datasets/24855957
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3684
     url: https://www.datalumos.org/datalumos/project/250762/version/V1/view

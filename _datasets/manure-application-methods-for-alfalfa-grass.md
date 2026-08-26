@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205204145/https://agdatacommons.nal.usda.gov/articles/dataset/Manure_application_methods_for_alfalfa-grass/24852342
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3557
     url: https://www.datalumos.org/datalumos/project/250619/version/V1/view

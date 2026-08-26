@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110020748/https://agdatacommons.nal.usda.gov/articles/dataset/Long-Term_Agroecosystem_Research_Network_regions_2018_version/24854307
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3620
     url: https://www.datalumos.org/datalumos/project/250688/version/V1/view

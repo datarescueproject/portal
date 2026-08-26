@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017022232/https://agdatacommons.nal.usda.gov/articles/dataset/School_Breakfast_Program_-_Participation_and_Meals_Served/25234111
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3882
     url: https://www.datalumos.org/datalumos/project/250970/version/V1/view

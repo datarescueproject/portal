@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017011532/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Amino_acid_sugar_phenolic_and_terpenoid_profiles_are_capable_of_distinguishing_Citrus_tristeza_virus_infection_status_in_grapefruit_lemon_mandarin_and_sweet_orange_leaves/24855627
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3674
     url: https://www.datalumos.org/datalumos/project/250751/version/V1/view

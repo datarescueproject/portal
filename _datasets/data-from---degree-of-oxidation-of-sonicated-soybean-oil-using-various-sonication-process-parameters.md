@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251107212436/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Degree_of_oxidation_of_sonicated_soybean_oil_using_various_sonication_process_parameters/24667998
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3459
     url: https://www.datalumos.org/datalumos/project/250504/version/V1/view

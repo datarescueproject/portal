@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018110317/https://agdatacommons.nal.usda.gov/articles/dataset/Grass-Cast_Database_-_Data_on_aboveground_net_primary_productivity_ANPP_climate_data_NDVI_and_cattle_weight_gain_for_Western_U_S_rangelands/24854193
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3618
     url: https://www.datalumos.org/datalumos/project/250686/version/V1/view

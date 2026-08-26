@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112055158/https://agdatacommons.nal.usda.gov/articles/dataset/Vegetation_rainfall_simulation_and_overland_flow_experiments_before_and_after_tree_removal_in_woodland-encroached_sagebrush_steppe_the_SageSTEP_hydrology_study/25212464
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3934
     url: https://www.datalumos.org/datalumos/project/250922/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20260114080639/https://agdatacommons.nal.usda.gov/articles/dataset/High-throughput_phenotyping_data_from_a_proximal_sensing_cart/24854802
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3631
     url: https://www.datalumos.org/datalumos/project/250701/version/V1/view

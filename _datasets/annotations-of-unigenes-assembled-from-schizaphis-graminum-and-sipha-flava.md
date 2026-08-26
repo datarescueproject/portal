@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007122425/https://agdatacommons.nal.usda.gov/articles/dataset/Annotations_of_Unigenes_Assembled_from_Schizaphis_graminum_and_Sipha_flava/24852930
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3583
     url: https://www.datalumos.org/datalumos/project/250648/version/V1/view

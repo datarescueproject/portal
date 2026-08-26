@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251005200316/https://agdatacommons.nal.usda.gov/articles/dataset/Influences_of_channel_and_floodplain_modification_on_expansion_of_woody_vegetation_into_Catahoula_Lake_Louisiana_USA/24855630
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3675
     url: https://www.datalumos.org/datalumos/project/250752/version/V1/view

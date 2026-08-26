@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250915104031/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Lacticaseibacillus_rhamnosus_Strain_GG_LGG_Regulate_Gut_Microbial_Metabolites_an_In_Vitro_Study_Using_Three_Mature_Human_Gut_Microbial_Cultures_in_a_Simulator_of_Human_Intestinal_Microbial_Ecosystem_SHIME_/24857073
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3770
     url: https://www.datalumos.org/datalumos/project/250853/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214083120/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Decoupled_recovery_of_ecological_communities_after_reclamation/24853182
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3592
     url: https://www.datalumos.org/datalumos/project/250659/version/V1/view

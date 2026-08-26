@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212071921/https://agdatacommons.nal.usda.gov/articles/dataset/Data_From_Red_flour_beetle_Coleoptera_Tenebrionidae_response_to_volatile_cues_varies_with_strain_and_behavioral_assay/24852861
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3581
     url: https://www.datalumos.org/datalumos/project/250646/version/V1/view

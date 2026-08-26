@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211115742/https://agdatacommons.nal.usda.gov/articles/dataset/Inventory_of_online_public_databases_and_repositories_holding_agricultural_data_in_2017/25119212
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3813
     url: https://www.datalumos.org/datalumos/project/250903/version/V1/view

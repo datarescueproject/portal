@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012172135/https://agdatacommons.nal.usda.gov/articles/dataset/Modeling_long-term_stage-structured_dynamics_of_Tribolium_castaneum_at_food_facilities_with_and_without_two_types_of_long-lasting_insecticide_netting/24857577
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3791
     url: https://www.datalumos.org/datalumos/project/250880/version/V1/view

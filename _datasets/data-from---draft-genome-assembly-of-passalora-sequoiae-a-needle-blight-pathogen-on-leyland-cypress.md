@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205051546/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Draft_Genome_Assembly_of_Passalora_sequoiae_a_Needle_Blight_Pathogen_on_Leyland_Cypress/24853683
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3614
     url: https://www.datalumos.org/datalumos/project/250682/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116100401/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genome-wide_association_mapping_of_resistance_to_the_foliar_diseases_septoria_nodorum_blotch_and_tan_spot_in_a_global_winter_wheat_collection/24857094
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3772
     url: https://www.datalumos.org/datalumos/project/250856/version/V1/view

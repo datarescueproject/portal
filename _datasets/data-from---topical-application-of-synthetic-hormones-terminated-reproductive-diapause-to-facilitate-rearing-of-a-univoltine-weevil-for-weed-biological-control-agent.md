@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251213071820/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Topical_application_of_synthetic_hormones_terminated_reproductive_diapause_to_facilitate_rearing_of_a_univoltine_weevil_for_weed_biological_control_agent/24855297
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3648
     url: https://www.datalumos.org/datalumos/project/250724/version/V1/view

@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906105405/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Identification_of_stable_QTL_controlling_multiple_yield_components_in_a_durum_cultivated_emmer_wheat_population_under_field_and_greenhouse_conditions/24856938
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3757
     url: https://www.datalumos.org/datalumos/project/250839/version/V1/view

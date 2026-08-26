@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211235037/https://agdatacommons.nal.usda.gov/articles/dataset/Mortality_data_of_navel_orangeworm_Amyelois_transitella_in_response_to_nitric_oxide_fumigation_treatment/24853695
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3615
     url: https://www.datalumos.org/datalumos/project/250683/version/V1/view

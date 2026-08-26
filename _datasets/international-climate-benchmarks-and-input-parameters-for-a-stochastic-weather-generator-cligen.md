@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012172815/https://agdatacommons.nal.usda.gov/articles/dataset/International_Climate_Benchmarks_and_Input_Parameters_for_a_Stochastic_Weather_Generator_CLIGEN/24853593
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3611
     url: https://www.datalumos.org/datalumos/project/250679/version/V1/view
