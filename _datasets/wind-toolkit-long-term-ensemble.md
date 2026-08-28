@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Climate & Environment 
   - Energy 
+  - Climate & Environment 
 resources:
   - id: 312
     url: https://data.openei.org/submissions/5987
