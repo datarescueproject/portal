@@ -1,12 +1,19 @@
 ---
 ---
-[{% for dataset in site.datasets %}
+[
+  {% for dataset in site.datasets %}
+  {%- assign schema = dataset.schema | default: site.schema -%}
+  {%- assign dataset_fields = site.data.schemas[schema].dataset_fields -%}
+  {%- assign resource_fields = site.data.schemas[schema].resource_fields -%}
   {
-    "title": {{ dataset.title | jsonify }},
-    "organization": {{ dataset.organization | jsonify }}{% if dataset.agency != "" %},
-    "agency": {{ dataset.agency | jsonify }}{% endif %}{% if dataset.notes != "" %},
-    "notes": {{ dataset.notes | markdownify | jsonify }}{% endif %}{% if dataset.category != "" %},
-    "category": {{ dataset.category | jsonify }}{% endif %},
-    "url": "{{ site.baseurl }}{{ dataset.url }}"
-  }{% unless forloop.last %},{% endunless %}{% endfor %}
+{% for field in dataset_fields %}    "{{ field.field_name }}": {{ dataset[field.field_name] | jsonify }},
+{% endfor %}    "url": {{ dataset.url | prepend: site.baseurl | jsonify }}{% if dataset.resources %},
+    "resources": [
+{% for resource in dataset.resources %}      {
+{% for field in resource_fields %}        "{{ field.field_name }}": {{ resource[field.field_name] | jsonify }}{% unless forloop.last %},{% endunless %}
+{% endfor %}      }{% unless forloop.last %},{% endunless %}
+{% endfor %}    ]{% endif %}
+  }{% unless forloop.last %},
+  {% endunless %}
+  {%- endfor %}
 ]
