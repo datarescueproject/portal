@@ -1,38 +1,11 @@
 title: Data Rescue Project Portal
-greeting: Data Rescue Project Portal
 description: Links to public data archived through combined efforts and coordinated by the Data Rescue Project.
 url: https://portal.datarescueproject.org
-logo: /portal/img/drp-brand-3.png
-hero_image: /img/homepage-hero.jpg
+logo: /assets/images/drp-brand-3.png
 strict_front_matter: true
 
-# Site theme
-jkan_theme: Default
-
-# Dataset schema
-schema: data_rescue_project
-
-# pagination
-pagination:
-  enabled: false
-  collection: organizations
-  per_page: 15
-  permalink: "/:num/"
-
-# Nav bar
-navigation:
-  - title: Datasets
-    url: /datasets/
-  - title: Offices
-    url: /offices/
-  # - title: Agencies
-  #   url: /agencies/
-  - title: Categories
-    url: /categories/
-  - title: Status
-    url: /status/
-
-# Collections
+# Generated, tracked content lives together under content/.
+collections_dir: content
 collections:
   datasets:
     output: true
@@ -40,14 +13,10 @@ collections:
   organizations:
     output: true
     permalink: /offices/:path/
-  # agencies:
-  #   output: true
-  #   permalink: /agencies/:path/
   dataset_categories:
     output: true
     permalink: /categories/:path/
 
-# Collections (cont'd)
 defaults:
   - scope:
       path: ""
@@ -68,65 +37,42 @@ defaults:
     values:
       layout: organization
       load_app_bundle: true
-  # - scope:
-  #     path: ""
-  #     type: agencies
-  #   values:
-  #     layout: agency
 
-# Markdown settings
+navigation:
+  - title: Datasets
+    url: /datasets/
+  - title: Offices
+    url: /offices/
+  - title: Categories
+    url: /categories/
+  - title: Status
+    url: /status/
+
 markdown: kramdown
 kramdown:
   input: GFM
 
-# Google Analytics
-google_analytics:
-  enabled: false
-  code: "UA-XXXXXX-1"
-
-# US Digital Analytics Program - https://analytics.usa.gov
-digital_analytics_program:
-  enabled: false
-  agency: ""
-  subagency: ""
-
-# Hypothesis.io - Annotator
-hypothesis:
-  enabled: false
-
-# Twitter
-twittercard:
-  enabled: false
-  username: "@"
-
-# Open Graph
 opengraph:
   enabled: true
 
-# Plugins
 plugins:
-  - "jekyll-github-metadata"
-  - "jekyll-relative-links"
-  - "jekyll-paginate-v2"
-  - "jekyll-sitemap"
-  - "jekyll-titles-from-headings"
+  - jekyll-github-metadata
+  - jekyll-sitemap
 
-# Exclude these files from the build
 exclude:
+  - assets/js/src/
   - CONTRIBUTING.md
+  - data/
   - Dockerfile
   - docker-compose.yml
+  - docs/
   - Gemfile
   - Gemfile.lock
-  - vendor
-  - node_modules
-  - scripts/src
+  - LICENSE
+  - node_modules/
   - package.json
   - package-lock.json
   - README.md
-  - LICENSE
-  - netlify
-  - netlify.toml
-  - .parcel-cache
-  - docs
-  - megalinter-reports
+  - requirements.txt
+  - scripts/
+  - vendor/

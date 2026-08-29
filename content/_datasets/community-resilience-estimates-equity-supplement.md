@@ -1,0 +1,28 @@
+---
+title: Community Resilience Estimates Equity Supplement
+organization: Census Bureau
+agency: Department of Commerce
+websites: census.gov
+data_source: https://www.census.gov/programs-surveys/community-resilience-estimates/data/supplement.html
+description: 
+last_modified: 2026-07-11
+dataset_source_status: discontinued
+metadata_available: Yes
+metadata_url: 
+category:
+  - Business & Economy 
+  - Education 
+  - Health & Healthcare 
+  - Housing & Community Development 
+  - Labor & Employment 
+  - Social Services 
+resources:
+  - id: 587
+    url: https://www.datalumos.org/datalumos/project/224161/version/V1/view
+    format: CSV, TXT, RTF
+    status: Finished
+    size: 0.0
+    download_date: 2025-03-25
+    maintainer: DRP, DL
+    notes: 
+---

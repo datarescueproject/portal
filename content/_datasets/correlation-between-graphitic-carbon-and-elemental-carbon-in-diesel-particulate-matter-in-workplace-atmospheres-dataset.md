@@ -1,0 +1,23 @@
+---
+title: Correlation between graphitic carbon and elemental carbon in diesel particulate matter in workplace atmospheres-Dataset
+organization: Centers for Disease Control and Prevention (CDC)
+agency: Department of Health and Human Services
+websites: data.cdc.gov
+data_source: https://data.cdc.gov/National-Institute-for-Occupational-Safety-and-Hea/Correlation-between-graphitic-carbon-and-elemental/cuyd-c53m
+description: 
+last_modified: 2025-11-05
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Health & Healthcare 
+resources:
+  - id: 1491
+    url: https://www.datalumos.org/datalumos/project/233573/view
+    format: 
+    status: Finished
+    size: 
+    download_date: 
+    maintainer: DL
+    notes: 
+---

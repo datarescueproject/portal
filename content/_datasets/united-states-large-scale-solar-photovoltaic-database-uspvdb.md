@@ -1,0 +1,25 @@
+---
+title: United States Large-Scale Solar Photovoltaic Database (USPVDB)
+organization: U.S. Geological Survey
+agency: Department of the Interior
+websites: usgs.gov
+data_source: https://eerscmap.usgs.gov/uspvdb/data/
+description: 
+last_modified: 2025-03-03
+dataset_source_status: 
+metadata_available: Under Review
+metadata_url: 
+category:
+  - Climate & Environment 
+  - Infrastructure 
+  - Science & Research 
+resources:
+  - id: 577
+    url: https://zenodo.org/records/14736300
+    format: JSON, ZIP
+    status: Finished
+    size: 0.13
+    download_date: 2025-01-24
+    maintainer: CaCo
+    notes: 
+---

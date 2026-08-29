@@ -3,6 +3,9 @@ layout: default
 ---
 {% assign organization = site.organizations | where: "title", page.organization | first %}
 {% assign status_list = page.dataset_source_status | replace: "tool removed", "tool-removed" | split: "," %}
+{% assign metadata_label = page.metadata_available %}
+{% if page.metadata_available == true %}{% assign metadata_label = "Yes" %}{% endif %}
+{% if page.metadata_available == false %}{% assign metadata_label = "No" %}{% endif %}
 
 <article class="page-width dataset-detail" typeof="dcat:Dataset" resource="{{ page.url }}">
   <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ '/datasets/' | relative_url }}">Datasets</a><span>›</span><span>{{ page.title | truncate: 72 | escape }}</span></nav>
@@ -24,7 +27,7 @@ layout: default
       {% if page.dataset_source_status and page.dataset_source_status != empty %}<div class="info-row"><span>Status</span><div class="status-badge-list">{% for raw_status in status_list %}{% assign status = raw_status | strip %}{% include status-badge.html status=status %}{% endfor %}</div></div>{% endif %}
       {% if page.agency and page.agency != empty %}<div class="info-row"><span>Agency</span><strong>{{ page.agency | escape }}</strong></div>{% endif %}
       {% if page.last_modified and page.last_modified != empty %}<div class="info-row"><span>Last updated</span><strong>{{ page.last_modified | date: "%B %-d, %Y" }}</strong></div>{% endif %}
-      {% if page.metadata_available and page.metadata_available != empty %}<div class="info-row"><span>Metadata available</span><strong>{% if page.metadata_available %}Yes{% else %}No{% endif %}</strong></div>{% endif %}
+      {% if metadata_label and metadata_label != empty %}<div class="info-row"><span>Metadata available</span><strong>{{ metadata_label | escape }}</strong></div>{% endif %}
       {% if page.data_source and page.data_source != empty %}<div class="info-row"><span>Source URL</span><a href="{{ page.data_source | escape }}" target="_blank" rel="noopener">{{ page.data_source | remove: 'https://' | remove: 'http://' | truncate: 52 | escape }}</a></div>{% endif %}
       {% if page.websites and page.websites != empty %}{% assign primary_website = page.websites | split: ',' | first | strip %}<div class="info-row"><span>Agency website</span><a href="{% unless primary_website contains '://' %}https://{% endunless %}{{ primary_website }}" target="_blank" rel="noopener">{{ primary_website | remove: 'https://' | remove: 'http://' | escape }}</a></div>{% endif %}
     </aside>

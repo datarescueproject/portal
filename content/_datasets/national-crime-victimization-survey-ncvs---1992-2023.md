@@ -1,0 +1,23 @@
+---
+title: National Crime Victimization Survey (NCVS) - 1992-2023
+organization: Office of Justice Programs
+agency: Department of Justice
+websites: bjs.ojp.gov
+data_source: https://bjs.ojp.gov/data-collection/ncvs
+description: Gender identity questions removed (https://essentialdata.us/in-memoriam)
+last_modified: 2026-07-10
+dataset_source_status: modified
+metadata_available: No
+metadata_url: 
+category:
+  - Justice & Public Safety 
+resources:
+  - id: 277
+    url: https://www.dropbox.com/scl/fo/03fsw45gk265zcev1szh1/AGBAMJijzFcntQpn_r-FJS8?rlkey=9arsoo2pzkp0wfuvkpze1124t&dl=0
+    format: TXT, DTA
+    status: Finished
+    size: 0.0
+    download_date: 2025-01-31
+    maintainer: ICPSR
+    notes: 
+---

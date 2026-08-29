@@ -1,0 +1,11 @@
+.git
+.cache
+.jekyll-cache
+.parcel-cache
+.ruff_cache
+.venv
+_site
+assets/js/dist
+megalinter-reports
+node_modules
+vendor

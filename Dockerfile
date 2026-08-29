@@ -1,21 +1,27 @@
 FROM ruby:3.3.12-bookworm
 
 RUN apt-get update \
- && apt-get install -y --quiet --no-install-recommends \
- nodejs npm
+ && apt-get install -y --no-install-recommends nodejs npm python3 python3-venv \
+ && rm -rf /var/lib/apt/lists/*
 
 ENV GEM_HOME=/usr/gem
-ENV PATH="$GEM_HOME/bin/:$PATH" 
+ENV VIRTUAL_ENV=/opt/venv
+ENV PATH="/opt/venv/bin:/usr/gem/bin:$PATH"
 
-RUN gem install bundler -v '2.6.3'
-# throw errors if Gemfile has been modified since Gemfile.lock
-RUN bundle config --global frozen 1
+RUN gem install bundler -v 2.6.3 \
+ && bundle config --global frozen 1 \
+ && python3 -m venv "$VIRTUAL_ENV"
 
-WORKDIR /srv/jekyll
-COPY Gemfile Gemfile.lock ./
-RUN bundle install
+WORKDIR /srv/portal
 
-# Add so gh-pages can detect git remotes
-RUN git config --global --add safe.directory /srv/jekyll
+COPY Gemfile Gemfile.lock package.json package-lock.json requirements.txt ./
+RUN bundle install \
+ && npm ci \
+ && pip install --no-cache-dir -r requirements.txt
 
-CMD ["/bin/bash"]
+COPY . .
+RUN npm run build
+
+RUN git config --global --add safe.directory /srv/portal
+
+CMD ["bundle", "exec", "jekyll", "serve", "--host", "0.0.0.0"]

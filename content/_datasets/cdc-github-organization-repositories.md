@@ -1,0 +1,23 @@
+---
+title: CDC GitHub organization repositories
+organization: Centers for Disease Control and Prevention (CDC)
+agency: Department of Health and Human Services
+websites: github.com/CDCgov
+data_source: https://github.com/CDCgov
+description: 
+last_modified: 2025-02-12
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Health & Healthcare 
+resources:
+  - id: 42
+    url: https://github.com/CDCgov-clone
+    format: GIT
+    status: Finished
+    size: 0.0
+    download_date: 2025-02-12
+    maintainer: PEDP, EDGI
+    notes: 
+---

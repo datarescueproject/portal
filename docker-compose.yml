@@ -1,14 +1,31 @@
 ---
 services:
-  jekyll:
-    build:
-      dockerfile: Dockerfile
+  site:
+    build: .
+    command: bundle exec jekyll serve --watch --host 0.0.0.0 --trace
+    depends_on:
+      assets:
+        condition: service_healthy
     environment:
-      - JEKYLL_ENV=development
-      - LANG=C.UTF-8
-    command: bundle exec jekyll serve --watch --incremental --host 0.0.0.0 --trace
+      JEKYLL_ENV: development
+      LANG: C.UTF-8
     ports:
       - "4000:4000"
     volumes:
-      - .:/srv/jekyll
-      - ./vendor/bundle:/usr/local/bundle
+      - .:/srv/portal
+      - node_modules:/srv/portal/node_modules
+
+  assets:
+    build: .
+    command: npm run watch
+    healthcheck:
+      test: ["CMD", "test", "-s", "assets/js/dist/index.js"]
+      interval: 1s
+      timeout: 2s
+      retries: 30
+    volumes:
+      - .:/srv/portal
+      - node_modules:/srv/portal/node_modules
+
+volumes:
+  node_modules:

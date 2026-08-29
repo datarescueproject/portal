@@ -1,14 +1,13 @@
 # Contributing
 
-To run the site locally, see the [JKAN instructions](https://github.com/timwis/jkan/blob/main/docs/running-locally.md).
+Use the Docker workflow described in [docs/development.md](docs/development.md). Site content is generated from Baserow, so changes to dataset, office, or category records must be made at the source and synchronized through the data pipeline.
 
-## Linting
-
-Install the frontend dependencies and run the JavaScript and CSS checks:
+Before opening a pull request, run:
 
 ```sh
-npm ci
-npm run lint
+docker compose run --rm site npm run lint
+docker compose run --rm site python scripts/data_pipeline/generate_content.py --check
+docker compose run --rm site bundle exec jekyll build
 ```
 
-Use `npm run lint:fix` to apply safe automatic fixes. The pull-request workflow runs these checks before the repository-wide MegaLinter job.
+Pull requests run these checks again in CI.

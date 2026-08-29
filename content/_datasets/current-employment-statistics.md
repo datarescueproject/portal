@@ -1,0 +1,24 @@
+---
+title: Current Employment Statistics
+organization: Bureau of Labor Statistics
+agency: Department of Labor
+websites: bls.gov
+data_source: https://www.bls.gov/ces/
+description: 
+last_modified: 2025-12-10
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Business & Economy 
+  - Labor & Employment 
+resources:
+  - id: 1682
+    url: https://www.datalumos.org/datalumos/project/238628/version/V1/view
+    format: PDF, TXT
+    status: Finished
+    size: 0.75
+    download_date: 2025-10-03
+    maintainer: DRP, DL
+    notes: 
+---

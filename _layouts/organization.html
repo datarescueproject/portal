@@ -17,5 +17,5 @@ layout: default
     <div class="dataset-cards" data-hook="datasets-items">{% for dataset in datasets limit:10 %}{% include dataset-card.html dataset=dataset %}{% endfor %}</div>
     <nav class="pagination-wrap" data-hook="datasets-pagination-nav" aria-label="Dataset pages"><ul class="pagination" data-hook="datasets-pagination"></ul></nav>
   </section>
-  <a class="source-link" href="{{ site.github.repository_url }}/tree/main/{{ page.path }}" target="_blank" rel="noopener"><i class="fa fa-code" aria-hidden="true"></i> Open record in GitHub</a>
+  <a class="source-link" href="{{ site.github.repository_url }}/tree/main/content/{{ page.path }}" target="_blank" rel="noopener"><i class="fa fa-code" aria-hidden="true"></i> Open record in GitHub</a>
 </div>

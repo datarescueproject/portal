@@ -1,0 +1,23 @@
+---
+title: HIFLD OPEN CBRS Map Panels
+organization: Homeland Infrastructure Foundation-Level Data (HIFLD)
+agency: Department of Homeland Security
+websites: hifld-geoplatform.hub.arcgis.com/
+data_source: https://hifld-geoplatform.hub.arcgis.com
+description: 
+last_modified: 2025-11-03
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Infrastructure 
+resources:
+  - id: 1372
+    url: https://www.datalumos.org/datalumos/project/238879/view
+    format: GeoJSON, Shapefile, ZIP
+    status: Finished
+    size: 
+    download_date: 2025-08-26
+    maintainer: DRP, DL
+    notes: Archived from the HIFLD Open GIS data repository, which was deactivated on August 26, 2025.
+---

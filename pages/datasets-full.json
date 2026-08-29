@@ -1,0 +1,35 @@
+---
+permalink: /datasets-full.json
+---
+[
+  {% for dataset in site.datasets %}
+  {
+    "title": {{ dataset.title | jsonify }},
+    "organization": {{ dataset.organization | jsonify }},
+    "agency": {{ dataset.agency | jsonify }},
+    "description": {{ dataset.description | jsonify }},
+    "data_source": {{ dataset.data_source | jsonify }},
+    "dataset_source_status": {{ dataset.dataset_source_status | jsonify }},
+    "websites": {{ dataset.websites | jsonify }},
+    "metadata_available": {{ dataset.metadata_available | jsonify }},
+    "metadata_url": {{ dataset.metadata_url | jsonify }},
+    "category": {{ dataset.category | jsonify }},
+    "last_modified": {{ dataset.last_modified | jsonify }},
+    "url": {{ dataset.url | prepend: site.baseurl | jsonify }},
+    "resources": [
+      {% for resource in dataset.resources %}
+      {
+        "id": {{ resource.id | jsonify }},
+        "status": {{ resource.status | jsonify }},
+        "download_date": {{ resource.download_date | jsonify }},
+        "url": {{ resource.url | jsonify }},
+        "format": {{ resource.format | jsonify }},
+        "size": {{ resource.size | jsonify }},
+        "maintainer": {{ resource.maintainer | jsonify }},
+        "notes": {{ resource.notes | jsonify }}
+      }{% unless forloop.last %},{% endunless %}
+      {% endfor %}
+    ]
+  }{% unless forloop.last %},{% endunless %}
+  {% endfor %}
+]
