@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251215050452/https://agdatacommons.nal.usda.gov/articles/dataset/The_Bushland_Texas_Maize_for_Grain_Datasets/25316362
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3904
     url: https://www.datalumos.org/datalumos/project/250994/version/V1/view

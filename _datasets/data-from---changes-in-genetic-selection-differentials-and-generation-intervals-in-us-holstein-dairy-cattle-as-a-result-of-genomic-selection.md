@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113060251/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Changes_in_genetic_selection_differentials_and_generation_intervals_in_US_Holstein_dairy_cattle_as_a_result_of_genomic_selection/24852006
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3543
     url: https://www.datalumos.org/datalumos/project/250584/version/V1/view

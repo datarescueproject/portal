@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108092854/https://agdatacommons.nal.usda.gov/articles/dataset/Foraging_behavior_and_spatial_grazing_distribution_of_free-ranging_cattle_2014-2018_on_the_Central_Plains_Experimental_Range/24856188
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3709
     url: https://www.datalumos.org/datalumos/project/250785/version/V1/view

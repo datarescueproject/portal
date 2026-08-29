@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906004835/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genetic_variation_among_481_diverse_soybean_accessions/25212539
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3949
     url: https://www.datalumos.org/datalumos/project/250924/version/V1/view

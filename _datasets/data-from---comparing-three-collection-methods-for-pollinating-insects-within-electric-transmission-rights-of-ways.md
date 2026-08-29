@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006020602/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Comparing_three_collection_methods_for_pollinating_insects_within_electric_transmission_rights-of-ways/24857223
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3782
     url: https://www.datalumos.org/datalumos/project/250866/version/V1/view

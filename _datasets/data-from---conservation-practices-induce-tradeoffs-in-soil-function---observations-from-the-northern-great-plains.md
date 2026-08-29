@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251017051201/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Conservation_Practices_Induce_Tradeoffs_in_Soil_Function_Observations_from_the_Northern_Great_Plains/24856365
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3721
     url: https://www.datalumos.org/datalumos/project/250799/version/V1/view

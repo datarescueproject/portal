@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116214225/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_The_survival_and_growth_of_honey_bee_Hymenoptera_Apidae_colonies_overwintered_in_cold_storage_the_effects_of_time_and_colony_location/24857571
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3790
     url: https://www.datalumos.org/datalumos/project/250879/version/V1/view

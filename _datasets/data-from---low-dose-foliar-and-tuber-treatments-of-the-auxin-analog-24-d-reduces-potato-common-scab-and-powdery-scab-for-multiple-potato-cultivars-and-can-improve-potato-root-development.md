@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251216033517/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Low-dose_foliar_and_tuber_treatments_of_the_auxin_analog_2_4-D_reduces_potato_common_scab_and_powdery_scab_for_multiple_potato_cultivars_and_can_improve_potato_root_development/25234186
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3892
     url: https://www.datalumos.org/datalumos/project/250981/version/V1/view

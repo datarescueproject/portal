@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251209171158/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_rhopaloa_genome_annotations_v0_5_3_for_genome_assembly_Drho05162011/24855459
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3663
     url: https://www.datalumos.org/datalumos/project/250739/version/V1/view

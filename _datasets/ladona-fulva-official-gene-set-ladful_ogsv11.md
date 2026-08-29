@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250812160921/https://agdatacommons.nal.usda.gov/articles/dataset/Ladona_fulva_Official_Gene_Set_ladful_OGSv1_0/25012454
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3801
     url: https://www.datalumos.org/datalumos/project/250890/version/V1/view

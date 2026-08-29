@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251205204801/https://agdatacommons.nal.usda.gov/articles/dataset/Agricultural_land_use_by_field_Illinois_2010-2020/24855267
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3644
     url: https://www.datalumos.org/datalumos/project/250720/version/V1/view

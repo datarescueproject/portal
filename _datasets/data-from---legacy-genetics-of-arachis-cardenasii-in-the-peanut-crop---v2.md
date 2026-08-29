@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012150740/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Legacy_genetics_of_Arachis_cardenasii_in_the_peanut_crop/25212839
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3838
     url: https://www.datalumos.org/datalumos/project/250931/version/V1/view

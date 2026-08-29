@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250915131232/https://agdatacommons.nal.usda.gov/articles/dataset/Drosophila_ficusphila_genome_assembly_Dfic02082011/24855426
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3657
     url: https://www.datalumos.org/datalumos/project/250733/version/V1/view

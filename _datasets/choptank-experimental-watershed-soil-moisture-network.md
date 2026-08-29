@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010030500/https://agdatacommons.nal.usda.gov/articles/dataset/Choptank_Experimental_Watershed_Soil_Moisture_Network/24856716
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3748
     url: https://www.datalumos.org/datalumos/project/250830/version/V1/view

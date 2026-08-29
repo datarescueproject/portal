@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113210624/https://agdatacommons.nal.usda.gov/articles/dataset/Conservation_Practice_Effectiveness_CoPE_Database/24853293
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3597
     url: https://www.datalumos.org/datalumos/project/250664/version/V1/view
