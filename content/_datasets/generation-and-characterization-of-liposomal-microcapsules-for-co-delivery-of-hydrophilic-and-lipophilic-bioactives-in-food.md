@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010082740/https://agdatacommons.nal.usda.gov/articles/dataset/Generation_and_Characterization_of_Liposomal_Microcapsules_for_Co-delivery_of_Hydrophilic_and_Lipophilic_Bioactives_in_Food/25126883
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3816
     url: https://www.datalumos.org/datalumos/project/250906/version/V1/view

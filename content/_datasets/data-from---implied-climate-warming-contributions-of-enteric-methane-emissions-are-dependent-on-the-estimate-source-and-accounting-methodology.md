@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260112214030/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Implied_climate_warming_contributions_of_enteric_methane_emissions_are_dependent_on_the_estimate_source_and_accounting_methodology/24856515
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3729
     url: https://www.datalumos.org/datalumos/project/250809/version/V1/view

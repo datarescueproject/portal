@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251217124023/https://agdatacommons.nal.usda.gov/articles/dataset/Growth_and_Yield_Data_for_the_Bushland_Texas_Winter_Wheat_Datasets/24856107
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3702
     url: https://www.datalumos.org/datalumos/project/250777/version/V1/view

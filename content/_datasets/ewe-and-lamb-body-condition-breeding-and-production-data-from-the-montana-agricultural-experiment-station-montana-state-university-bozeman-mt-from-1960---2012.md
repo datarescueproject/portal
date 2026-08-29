@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250915102958/https://agdatacommons.nal.usda.gov/articles/dataset/Ewe_and_lamb_body_condition_breeding_and_production_data_from_the_Montana_Agricultural_Experiment_station_Montana_State_University_Bozeman_MT_from_1960_-_2012/24856437
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3727
     url: https://www.datalumos.org/datalumos/project/250805/version/V1/view

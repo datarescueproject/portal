@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006044436/https://agdatacommons.nal.usda.gov/articles/dataset/Regional_epithelial_cell_diversity_in_the_small_intestine_of_pigs/24856278
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3717
     url: https://www.datalumos.org/datalumos/project/250793/version/V1/view

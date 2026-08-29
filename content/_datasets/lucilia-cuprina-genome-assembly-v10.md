@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211113732/https://agdatacommons.nal.usda.gov/articles/dataset/Lucilia_cuprina_genome_assembly_v1_0/25212236
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3824
     url: https://www.datalumos.org/datalumos/project/250914/version/V1/view

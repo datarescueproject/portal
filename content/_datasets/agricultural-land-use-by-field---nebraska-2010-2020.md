@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212004437/https://agdatacommons.nal.usda.gov/articles/dataset/Agricultural_land_use_by_field_Nebraska_2010-2020/24855276
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3645
     url: https://www.datalumos.org/datalumos/project/250721/version/V1/view

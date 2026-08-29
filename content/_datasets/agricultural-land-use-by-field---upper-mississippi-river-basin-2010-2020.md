@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251007015434/https://agdatacommons.nal.usda.gov/articles/dataset/Agricultural_land_use_by_field_Upper_Mississippi_River_Basin_2010-2020/24855321
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3650
     url: https://www.datalumos.org/datalumos/project/250726/version/V1/view

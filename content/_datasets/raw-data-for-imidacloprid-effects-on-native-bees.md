@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116090809/https://agdatacommons.nal.usda.gov/articles/dataset/Raw_data_for_imidacloprid_effects_on_native_bees/24663234
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3322
     url: https://www.datalumos.org/datalumos/project/250354/version/V1/view

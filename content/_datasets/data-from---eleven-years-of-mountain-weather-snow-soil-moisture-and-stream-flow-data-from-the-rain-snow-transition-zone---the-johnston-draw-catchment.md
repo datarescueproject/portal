@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210201341/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_hydrological_modeling_dataset_for_the_Johnston_Draw_catchment_Reynolds_Creek_Experimental_Watershed_Idaho_USA/25233283
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3881
     url: https://www.datalumos.org/datalumos/project/250969/version/V1/view

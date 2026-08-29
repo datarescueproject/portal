@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110011449/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Immediate_and_delayed_movement_of_resistant_and_susceptible_adults_of_Tribolium_castaneum_Herbst_Coleoptera_Tenebrionidae_after_short_exposures_to_phosphine/24856683
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3744
     url: https://www.datalumos.org/datalumos/project/250826/version/V1/view

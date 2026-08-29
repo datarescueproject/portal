@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251108070215/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Threshold_Behavior_of_Catchments_with_Duplex_Hillslope_Soils_Feeding_Soil_Pipe_Networks/25119158
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3811
     url: https://www.datalumos.org/datalumos/project/250901/version/V1/view

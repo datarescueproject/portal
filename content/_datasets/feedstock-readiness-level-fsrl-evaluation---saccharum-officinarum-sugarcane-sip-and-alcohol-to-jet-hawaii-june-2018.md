@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212072710/https://agdatacommons.nal.usda.gov/articles/dataset/Feedstock_Readiness_Level_FSRL_evaluation_Saccharum_officinarum_sugarcane_SIP_and_Alcohol-to-Jet_Hawaii_June_2018/24852828
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3578
     url: https://www.datalumos.org/datalumos/project/250643/version/V1/view

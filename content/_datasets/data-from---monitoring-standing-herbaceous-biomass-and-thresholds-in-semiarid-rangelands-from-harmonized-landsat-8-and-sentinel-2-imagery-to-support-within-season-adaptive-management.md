@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251112232715/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Monitoring_standing_herbaceous_biomass_and_thresholds_in_semiarid_rangelands_from_harmonized_Landsat_8_and_Sentinel-2_imagery_to_support_within-season_adaptive_management/24667938
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3457
     url: https://www.datalumos.org/datalumos/project/250502/version/V1/view

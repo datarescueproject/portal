@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Science & Research 
   - Military & Veterans Affairs 
+  - Science & Research 
 resources:
   - id: 3016
     url: https://sciop.net/datasets/va-womens-health-care-warcs-wacz

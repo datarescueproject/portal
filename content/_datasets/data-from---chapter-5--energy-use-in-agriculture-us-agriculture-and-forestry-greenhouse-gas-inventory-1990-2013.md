@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251207075130/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Chapter_5-_Energy_Use_in_Agriculture_U_S_Agriculture_and_Forestry_Greenhouse_Gas_Inventory_1990-2013/24660474
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3439
     url: https://www.datalumos.org/datalumos/project/250235/version/V1/view

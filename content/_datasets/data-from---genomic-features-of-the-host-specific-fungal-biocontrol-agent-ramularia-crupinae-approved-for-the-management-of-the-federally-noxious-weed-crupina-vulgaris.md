@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260113060331/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genomic_features_of_the_host-specific_fungal_biocontrol_agent_Ramularia_crupinae_approved_for_the_management_of_the_federally_noxious_weed_Crupina_vulgaris/24857598
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3794
     url: https://www.datalumos.org/datalumos/project/250883/version/V1/view

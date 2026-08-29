@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251208143621/https://agdatacommons.nal.usda.gov/articles/dataset/Greenhouse_gas_fluxes_from_a_dairy_cropping_system_at_the_Wisconsin_Integrated_Cropping_System_Trials/24852285
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3555
     url: https://www.datalumos.org/datalumos/project/250616/version/V1/view

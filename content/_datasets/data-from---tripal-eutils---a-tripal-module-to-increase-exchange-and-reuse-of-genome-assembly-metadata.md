@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251106234135/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Tripal_EUtils_-_A_Tripal_module_to_increase_exchange_and_reuse_of_genome_assembly_metadata/24853395
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3601
     url: https://www.datalumos.org/datalumos/project/250669/version/V1/view

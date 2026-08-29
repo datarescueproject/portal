@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113210912/https://agdatacommons.nal.usda.gov/articles/dataset/Minimum_Inhibitory_Concentration_MIC_data_for_third_generation_cephalosporin_resistant_E_coli_and_extended_spectrum_beta-lactamase_producing_Enterobacteriaceae_from_feedlot_cattle/24668745
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3500
     url: https://www.datalumos.org/datalumos/project/250546/version/V1/view

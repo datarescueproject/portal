@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251107115951/https://agdatacommons.nal.usda.gov/articles/dataset/Effect_of_burn_season_and_grazing_deferment_on_mountain_big_sagebrush_plant_communities/24856953
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3758
     url: https://www.datalumos.org/datalumos/project/250840/version/V1/view

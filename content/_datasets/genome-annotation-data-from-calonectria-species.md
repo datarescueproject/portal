@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112211427/https://agdatacommons.nal.usda.gov/articles/dataset/Genome_annotation_data_from_Calonectria_species/24668757
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3501
     url: https://www.datalumos.org/datalumos/project/250547/version/V1/view

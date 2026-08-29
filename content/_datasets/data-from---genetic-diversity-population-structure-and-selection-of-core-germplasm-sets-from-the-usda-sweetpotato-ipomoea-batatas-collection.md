@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251017021855/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Genetic_diversity_population_structure_and_selection_of_core_germplasm_sets_from_the_USDA_sweetpotato_Ipomoea_batatas_collection/24668052
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3461
     url: https://www.datalumos.org/datalumos/project/250506/version/V1/view

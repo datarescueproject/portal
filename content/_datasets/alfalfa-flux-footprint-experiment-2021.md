@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251016025142/https://agdatacommons.nal.usda.gov/articles/dataset/Alfalfa_flux_footprint_experiment_2021/24668490
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3923
     url: https://www.datalumos.org/datalumos/project/250527/version/V1/view

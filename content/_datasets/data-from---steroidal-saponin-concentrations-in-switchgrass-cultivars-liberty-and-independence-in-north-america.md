@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018224631/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Steroidal_saponin_concentrations_in_switchgrass_cultivars_Liberty_and_Independence_in_North_America/24857565
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3933
     url: https://www.datalumos.org/datalumos/project/250878/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112203650/https://agdatacommons.nal.usda.gov/articles/dataset/Fiscal_Year_2020_Supplemental_Nutrition_Assistance_Program_Quality_Control_Database/25217246
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3869
     url: https://www.datalumos.org/datalumos/project/250957/version/V1/view

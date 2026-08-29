@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214022147/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Cultivation_and_dynamic_cropping_processes_impart_land-cover_heterogeneity_within_agroecosystems_a_metrics-based_case_study_in_the_Yazoo-Mississippi_Delta_USA_/24669018
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3508
     url: https://www.datalumos.org/datalumos/project/250555/version/V1/view

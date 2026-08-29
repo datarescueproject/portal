@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251212063315/https://agdatacommons.nal.usda.gov/articles/dataset/Asian_giant_hornet_Vespa_mandarinia_genome_assembly/25234189
 category:
-  - Science & Research 
   - Agriculture 
+  - Science & Research 
 resources:
   - id: 3893
     url: https://www.datalumos.org/datalumos/project/250982/version/V1/view
