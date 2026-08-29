@@ -8,9 +8,9 @@ import pandas as pd
 def slugify(string):
     string = clean_text(string)
     # Remove special characters
-    string = re.sub(r'[^\w\s-]', '', string)
+    string = re.sub(r"[^\w\s-]", "", string)
     # Replace spaces with hyphens
-    string = re.sub(r'\s+', '-', string)
+    string = re.sub(r"\s+", "-", string)
     # Convert to lowercase
     string = string.lower()
     return string
@@ -18,17 +18,17 @@ def slugify(string):
 
 def clean_text(string):
     # Remove URL prefixes like http:// or https://
-    # string = re.sub(r'http[s]?://', '', string)
+    # string = re.sub(r'https?://', '', string)
     # Remove escape strings like \n
-    string = string.replace('\n', '').replace('\r', '').replace('\t', '')
+    string = string.replace("\n", "").replace("\r", "").replace("\t", "")
     # Remove multiple spaces
-    string = re.sub(r'\s+', ' ', string)
+    string = re.sub(r"\s+", " ", string)
     # Remove leading spl. characters
-    string = re.sub(r'^[^a-zA-Z0-9]+', '', string)
-    string = re.sub(r'^-', '', string)
+    string = re.sub(r"^[^a-zA-Z0-9]+", "", string)
+    string = re.sub(r"^-", "", string)
     # Remove leading and trailing ':'
-    string = string.rstrip(':')
-    string = re.sub(r'(?<!http)(?<!https):', '', string)
+    string = string.rstrip(":")
+    string = re.sub(r"(?<!http)(?<!https):", "", string)
 
     return string
 
@@ -42,70 +42,79 @@ def remove_files_os(dir_path):
 
 def get_metadata_availability(dataset_id, data_backups):
     """
-    This function checks the metadata availability for dataset_id 432 in the backups dataframe.
-    It returns "Yes" if metadata is available, "Under Review" if it needs review, and "No" otherwise.
+    This function checks the metadata availability for dataset_id 432 in the backups
+    dataframe. It returns "Yes" if metadata is available, "Under Review" if it needs
+    review, and "No" otherwise.
     """
-    md_avl = data_backups[data_backups.dataset_id == dataset_id].metadata_available.values
+    md_avl = data_backups[
+        data_backups.dataset_id == dataset_id
+    ].metadata_available.values
     if "yes" in md_avl:
-        return "Yes", data_backups[data_backups.dataset_id == dataset_id].metadata_url.values[0]
-    elif "needs review" in md_avl:
+        return (
+            "Yes",
+            data_backups[data_backups.dataset_id == dataset_id].metadata_url.values[0],
+        )
+    if "needs review" in md_avl:
         return "Under Review", ""
-    else:
-        return "No", ""
+    return "No", ""
 
 
 def get_dataset_category(row, organizations):
     # Check if dataset has category override
-    categories = ast.literal_eval(row['categories'])
+    categories = ast.literal_eval(row["categories"])
     if categories:
-        cats = [a['value'] for a in categories]
+        cats = [a["value"] for a in categories]
     # Check if we don't have organization info
-    elif row['organization'] == 'Unknown':
-        cats = ['Uncategorized']
+    elif row["organization"] == "Unknown":
+        cats = ["Uncategorized"]
     else:
         # Get categories from organization
-        orgs = row['organization'].split(',')
+        orgs = row["organization"].split(",")
         orgs = [s.strip() for s in orgs]
-        cats_from_org = organizations[organizations['Organizations'].isin(orgs)]['Categories'].values
+        cats_from_org = organizations[organizations["Organizations"].isin(orgs)][
+            "Categories"
+        ].values
         cats = []
-        [cats.extend(v.split(';')) for v in cats_from_org]      
+        for value in cats_from_org:
+            cats.extend(value.split(";"))
         cats = list(set(cats))
-        if cats == ['']:
-            cats = ['Uncategorized']
+        if cats == [""]:
+            cats = ["Uncategorized"]
         else:
-            cats = [cat for cat in cats if cat != '']
+            cats = [cat for cat in cats if cat != ""]
 
     return cats
 
 
 def create_category_md(row):
     cat_path = "./_dataset_categories"
-    cat_filename = slugify(row['Name'])
+    cat_filename = slugify(row["Name"])
     # Creating the category markdown file
     cat_md = "---\n"
-    cat_md += f"name: {row['Name']} \n" 
+    cat_md += f"name: {row['Name']} \n"
     cat_md += f"logo: /img/categories/{cat_filename}.svg \n"
-    cat_md += f"featured: {row['Active']} \n" 
+    cat_md += f"featured: {row['Active']} \n"
     cat_md += "---\n"
 
     # Writing the categories markdown file
-    with open(f'{cat_path}/{cat_filename}.md', 'w') as output:
+    with open(f"{cat_path}/{cat_filename}.md", "w", encoding="utf-8") as output:
         output.write(cat_md)
 
 
 def create_dataset_md(row, backups, organizations):
-    if row['organization'] == '':
-        row['organization'] = 'Unknown'
+    if row["organization"] == "":
+        row["organization"] = "Unknown"
     # Defining the schema, filename and path
-    schema = 'data_rescue_project'
-    dataset_filename = slugify(row['dataset'])
+    schema = "data_rescue_project"
+    dataset_filename = slugify(row["dataset"])
     dataset_path = "./_datasets"
-
     org_path = "./_organizations"
 
     # Get backups for each dataset
-    data_backups = backups[backups.dataset == row['dataset']]
-    metadata_available, metadata_url = get_metadata_availability(row['dataset_id'], data_backups)
+    data_backups = backups[backups.dataset == row["dataset"]]
+    metadata_available, metadata_url = get_metadata_availability(
+        row["dataset_id"], data_backups
+    )
     # Creating the dataset markdown file
     # Dataset-level information
     dataset_md = "---\n"
@@ -141,24 +150,24 @@ def create_dataset_md(row, backups, organizations):
     dataset_md += "---\n"
 
     # Writing the dataset markdown file
-    with open(f'{dataset_path}/{dataset_filename}.md', 'w') as output:
+    with open(f"{dataset_path}/{dataset_filename}.md", "w", encoding="utf-8") as output:
         output.write(dataset_md)
 
     # Creating the organization markdown file
-    org_filename = slugify(row['organization'])
-    if len(org_filename) < 250:    
+    org_filename = slugify(row["organization"])
+    if len(org_filename) < 250:
         org_md = "---\n"
-        org_md += f"title: {clean_text(row['organization'])} \n" 
-        org_md += "description: \n" 
+        org_md += f"title: {clean_text(row['organization'])} \n"
+        org_md += "description: \n"
         org_md += "---\n"
 
         # Writing the organization markdown file
-        with open(f'{org_path}/{org_filename}.md', 'w') as output:
+        with open(f"{org_path}/{org_filename}.md", "w", encoding="utf-8") as output:
             output.write(org_md)
 
     agency_path = "./_agencies"
-    agency_filename = slugify(row['agency'])
-    if len(agency_filename) < 250:    
+    agency_filename = slugify(row["agency"])
+    if len(agency_filename) < 250:
         # Creating the agency markdown file
         agency_md = "---\n"
         agency_md += f"title: {clean_text(row['agency'])} \n"
@@ -166,7 +175,9 @@ def create_dataset_md(row, backups, organizations):
         agency_md += "---\n"
 
         # Writing the agency markdown file
-        with open(f'{agency_path}/{agency_filename}.md', 'w') as output:
+        with open(
+            f"{agency_path}/{agency_filename}.md", "w", encoding="utf-8"
+        ) as output:
             output.write(agency_md)
 
 
@@ -180,41 +191,51 @@ def create_markdowns():
     """
     This function creates markdown files for each dataset and organization.
     """
-    backups = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_backups.csv")
-    datasets = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_datasets.csv")
-    organizations = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_organizations.csv")
-    # agencies = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_agencies.csv")
-    categories = pd.read_csv("https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_categories.csv")
-    categories['Active'] = categories['Active'].astype(str).str.lower()
+    backups = pd.read_csv(
+        "https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_backups.csv"
+    )
+    datasets = pd.read_csv(
+        "https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_datasets.csv"
+    )
+    organizations = pd.read_csv(
+        "https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_organizations.csv"
+    )
+    # agencies = pd.read_csv(
+    #     "https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_agencies.csv"
+    # )
+    categories = pd.read_csv(
+        "https://raw.githubusercontent.com/datarescueproject/portal/refs/heads/main/baserow_exports/datarescue_categories.csv"
+    )
+    categories["Active"] = categories["Active"].astype(str).str.lower()
 
     backups.columns = backups.columns.str.lower()
-    backups = backups.fillna('')
+    backups = backups.fillna("")
     backups.head()
 
     datasets.columns = datasets.columns.str.lower()
-    datasets = datasets.fillna('')
+    datasets = datasets.fillna("")
     datasets.head()
 
-    organizations = organizations.fillna('')
+    organizations = organizations.fillna("")
 
-    os.makedirs('./_datasets', exist_ok=True)
-    os.makedirs('./_organizations', exist_ok=True)
-    os.makedirs('./_dataset_categories', exist_ok=True)
+    os.makedirs("./_datasets", exist_ok=True)
+    os.makedirs("./_organizations", exist_ok=True)
+    os.makedirs("./_dataset_categories", exist_ok=True)
 
     # print(os.listdir('./_datasets'))
     # Remove files in _datasets and _organizations
-    remove_files_os('./_datasets')
-    remove_files_os('./_organizations')
-    remove_files_os('./_dataset_categories')
+    remove_files_os("./_datasets")
+    remove_files_os("./_organizations")
+    remove_files_os("./_dataset_categories")
     # remove_files_os('./agencies')
 
-    os.makedirs('./_datasets', exist_ok=True)
-    os.makedirs('./_organizations', exist_ok=True)
-    os.makedirs('./_dataset_categories', exist_ok=True)
-
+    os.makedirs("./_datasets", exist_ok=True)
+    os.makedirs("./_organizations", exist_ok=True)
+    os.makedirs("./_dataset_categories", exist_ok=True)
 
     categories.apply(create_category_md, axis=1)
     datasets.apply(create_dataset_md, axis=1, args=(backups, organizations))
 
 
-create_markdowns()
+if __name__ == "__main__":
+    create_markdowns()

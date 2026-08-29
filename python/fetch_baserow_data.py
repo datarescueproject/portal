@@ -12,26 +12,27 @@ BASEROW_ACCESS_TOKEN = os.environ.get("BASEROW_ACCESS_TOKEN")
 
 
 def stringify_arr_vals(arr):
-    return ';'.join([i['value'] for i in arr])
+    return ";".join(i["value"] for i in arr)
 
 
 def get_results_json(url):
     table = requests.get(
         url,
-        headers={
-            "Authorization": f"Token {BASEROW_ACCESS_TOKEN}"
-        }
+        headers={"Authorization": f"Token {BASEROW_ACCESS_TOKEN}"},
+        timeout=3000,
     )
+    table.raise_for_status()
 
-    res = table.json()['results']
-    if table.json()['next'] is not None:
-        res.extend(get_results_json(table.json()['next']))
+    payload = table.json()
+    results = payload["results"]
+    if payload["next"] is not None:
+        results.extend(get_results_json(payload["next"]))
 
-    return res
+    return results
 
 
 def get_arr_vals(arr, col):
-    return ", ".join([str(x[col]) for x in arr])
+    return ", ".join(str(x[col]) for x in arr)
 
 
 def check_missing_vals(field, col="value"):
@@ -39,7 +40,7 @@ def check_missing_vals(field, col="value"):
         val = get_arr_vals(field, col=col)
     else:
         val = ""
-    
+
     return val
 
 
@@ -54,7 +55,7 @@ def process_dataset_row(d):
         "agency": get_arr_vals(d["Agency"], col="value"),
         "categories": d["Categories"],
         "last_modified": d["Last modified"],
-        "dataset_source_status": get_arr_vals(d["Dataset Status"], col="value")
+        "dataset_source_status": get_arr_vals(d["Dataset Status"], col="value"),
     }
 
 
@@ -64,7 +65,7 @@ def process_backup_row(d):
             metadata_avl = d["Metadata Available"]["value"]
         else:
             metadata_avl = ""
-        status_value = d["Status"]["value"] if d["Status"] else "In Progress"  # Added safe check
+        status_value = d["Status"]["value"] if d["Status"] else "In Progress"
         return {
             "dataset": check_missing_vals(d["Dataset"], col="value"),
             "dataset_id": check_missing_vals(d["Dataset"], col="id"),
@@ -80,19 +81,31 @@ def process_backup_row(d):
             "file_type": get_arr_vals(d["File type"], col="value"),
             "notes": d["Notes"],
             "metadata_available": metadata_avl,
-            "metadata_url": d["Metadata URL"]
+            "metadata_url": d["Metadata URL"],
         }
-    else:
-        return
+    return None
 
 
-dataset_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/639/?user_field_names=true")
-backups_table = get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/640/?user_field_names=true")
-categories = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/732/?user_field_names=true"))[['Name', 'Active']]
-organizations = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/638/?user_field_names=true"))[['Organizations', 'Categories']]
-# agencies = pd.DataFrame(get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/645/?user_field_names=true"))[['Name']]
-organizations['Categories'] = organizations['Categories'].apply(
-    lambda x: stringify_arr_vals(x))
+dataset_table = get_results_json(
+    "https://baserow.datarescueproject.org/api/database/rows/table/639/?user_field_names=true"
+)
+backups_table = get_results_json(
+    "https://baserow.datarescueproject.org/api/database/rows/table/640/?user_field_names=true"
+)
+categories = pd.DataFrame(
+    get_results_json(
+        "https://baserow.datarescueproject.org/api/database/rows/table/732/?user_field_names=true"
+    )
+)[["Name", "Active"]]
+organizations = pd.DataFrame(
+    get_results_json(
+        "https://baserow.datarescueproject.org/api/database/rows/table/638/?user_field_names=true"
+    )
+)[["Organizations", "Categories"]]
+# agencies = pd.DataFrame(
+#     get_results_json("https://baserow.datarescueproject.org/api/database/rows/table/645/?user_field_names=true")
+# )[["Name"]]
+organizations["Categories"] = organizations["Categories"].apply(stringify_arr_vals)
 
 rows = []
 for row in backups_table:
@@ -100,7 +113,7 @@ for row in backups_table:
 
 rows = [row for row in rows if row is not None]
 backups = pd.DataFrame(rows)
-backups = backups[backups["status"]== "Finished"]
+backups = backups[backups["status"] == "Finished"]
 
 rows = []
 for row in dataset_table:
