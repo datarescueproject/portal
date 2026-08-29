@@ -4,6 +4,7 @@ import re
 
 import pandas as pd
 
+
 def slugify(string):
     string = clean_text(string)
     # Remove special characters

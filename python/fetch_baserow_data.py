@@ -1,8 +1,10 @@
-import pandas as pd
-import requests
 # import json
 # import numpy as np
 import os
+
+import pandas as pd
+import requests
+
 # from create_markdowns import create_markdowns
 
 

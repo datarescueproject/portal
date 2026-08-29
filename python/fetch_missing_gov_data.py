@@ -1,8 +1,8 @@
-import requests
-import pandas as pd
-from datetime import date, timedelta
-import json
 import os
+from datetime import UTC, datetime, timedelta
+
+import pandas as pd
+import requests
 
 BASEROW_ACCESS_TOKEN = os.environ.get("BASEROW_ACCESS_TOKEN")
 
@@ -12,12 +12,12 @@ def get_URLs_from_dist(arr):
         for a in arr:
             try: 
                 urls.append(a['accessURL'])
-            except:
-                pass
+            except Exception as e:
+                print(e)
             try: 
                 urls.append(a['downloadURL'])
-            except:
-                pass
+            except Exception as e:
+                print(e)
     
     urls = list(set(urls))
     if len(urls) > 0:
@@ -100,7 +100,7 @@ try:
                 },
                 json={
                     "status":"Returned to data.gov",
-                    "last_seen": str(date.today())
+                    "last_seen": str(datetime.now(UTC).date())
                 }
             )
         print(f"{len(rows_to_toggle_status)} rows marked as returned in Baserow table")
@@ -119,7 +119,7 @@ try:
                 },
                 json={
                     "status":"Missing from data.gov",
-                    "last_seen": str(date.today()-timedelta(days=1))
+                    "last_seen": str(datetime.now(UTC).date()-timedelta(days=1))
                 }
             )
         print(f"{len(status_returned_to_toggle)} rows marked once again as missing in Baserow table")
