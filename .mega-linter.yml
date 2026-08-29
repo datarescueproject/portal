@@ -17,7 +17,6 @@ DISABLE_LINTERS:
   - PYTHON_PYRIGHT
   - PYTHON_PYLINT
 PRINT_ALL_FILES: false
-FILTER_REGEX_EXCLUDE: '(scripts/data_pipeline/dataset_creator\.ipynb)'
 SPELL_CSPELL_CONFIG_FILE: cspell.json
 SPELL_CSPELL_FILTER_REGEX_EXCLUDE: '((^|/)content/|(^|/)data/baserow/|scripts/data_pipeline/dataset_creator\.ipynb)'
 DOCKERFILE_HADOLINT_ARGUMENTS: "--ignore DL3008 --ignore DL4006 --ignore DL3009 --ignore DL3059"
