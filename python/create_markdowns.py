@@ -1,8 +1,8 @@
-import pandas as pd
-import re
-import os
 import ast
+import os
+import re
 
+import pandas as pd
 
 def slugify(string):
     string = clean_text(string)
@@ -87,7 +87,7 @@ def create_category_md(row):
     cat_md += f"featured: {row['Active']} \n" 
     cat_md += "---\n"
 
-    # Writing the catanization markdown file
+    # Writing the categories markdown file
     with open(f'{cat_path}/{cat_filename}.md', 'w') as output:
         output.write(cat_md)
 
