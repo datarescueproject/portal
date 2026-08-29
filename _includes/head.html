@@ -6,6 +6,11 @@
   <title>{% if page.title %}{{ page.title | escape }} - {% endif %}{{ site.title | escape }}</title>
   <link rel="icon" type="image/x-icon" href="{{ site.baseurl }}/assets/images/favicon.png">
   <meta name="description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | strip_newlines | truncate: 160 | escape }}{% else %}{{ site.description | escape }}{% endif %}">
+  <meta name="theme-color" content="#f4f6fb">
+
+  <!-- Keep the browser canvas stable while blocking stylesheets load. -->
+  <style>html, body { background: #f4f6fb; }</style>
+  <link rel="preload" href="{{ site.baseurl }}/assets/css/main.css" as="style">
 
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
