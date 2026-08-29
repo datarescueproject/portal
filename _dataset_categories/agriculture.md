@@ -1,5 +1,5 @@
 ---
 name: Agriculture 
-logo: /img/categories_updated/agriculture.svg 
+logo: /img/categories/agriculture.svg 
 featured: true 
 ---

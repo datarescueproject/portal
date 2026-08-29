@@ -2,97 +2,40 @@
 layout: default
 ---
 {% assign datasets_count = site.datasets | size %}
+{% assign round_dataset_count = site.datasets | size | divided_by: 1000 | floor | times: 1000 %}
 {% assign organizations_count = site.organizations | size %}
-{% assign agencies_count = site.agencies | size %}
+{% assign categories_count = site.dataset_categories | size %}
 
-<div style="background-color:#F2F4FD; padding-top:4rem; padding-bottom:4rem;" class="mb-4 rounded-3 mx-auto">
-  <div class="body-width mx-auto">
-    <h2 class="display-5 text-center fw-bold mb-3">{{ site.greeting }}</h2>
-    <p class="fs-4 mb-5 text-center fw-lighter">
-      <span style="font-weight:bold; color:#001290;">{{ datasets_count }}</span> 
-      datasets across 
-      <span style="font-weight:bold; color:#001290;">{{ organizations_count }}</span> 
-      government offices compiled through the efforts of over
-      <span style="font-weight:bold; color:#001290;">500</span> 
-      volunteers
-    </p>
-  </div>
-  <div class="d-flex justify-content-center">
-    <div class="d-flex justify-content-center gap-3 flex-wrap">
-      <a class="custom-btn" role="button" href="{{ '/datasets' | relative_url }}">Browse Datasets</a>
-      <a class="custom-btn" role="button" href="{{ '/offices' | relative_url }}">Browse Government Offices</a>
-      <!-- <a class="custom-btn" role="button" href="{{ '/agencies' | relative_url }}">Browse Agencies</a> -->
-      <a class="custom-btn" role="button" href="{{ '/categories' | relative_url }}">Browse Categories</a>
+<div class="page-width home-page">
+  <section class="home-hero">
+    <h1>The Data Rescue<br>Project Portal</h1>
+    <p class="home-hero__lede">A crowdsourced catalog of public government data rescued and archived by volunteers before it could be removed, modified, or restricted. Discoverable for researchers, journalists, and the public.</p>
+    <div class="home-hero__actions">
+      <a class="button button--primary" href="{{ '/datasets/' | relative_url }}">Browse Datasets</a>
+      <a class="button button--secondary" href="{{ '/offices/' | relative_url }}">Browse Offices</a>
+      <a class="button button--secondary" href="{{ '/categories/' | relative_url }}">Browse Categories</a>
+      <a class="button button--secondary" href="{{ '/status/' | relative_url }}">View by Status</a>
     </div>
-  </div>
-  <!-- Search Bar For Home Page -->
-  <!-- <div class="w-75 mx-auto mt-5">
-    <div style="margin-left: 3rem;" class="btn-group btn-group-toggle" data-toggle="buttons">
-      <label style="margin-right: 1rem;"class="btn btn-primary">
-        <input type="radio" name="options" id="option1" autocomplete="off" checked> Dataset
-      </label>
-      <label class="btn btn-primary">
-        <input type="radio" name="options" id="option2" autocomplete="off"> Organization
-      </label>
+  </section>
+
+  <section class="stats-grid" aria-label="Portal statistics">
+    <div class="stat"><strong>{{ datasets_count }}</strong><span>Rescued datasets</span></div>
+    <div class="stat"><strong>500+</strong><span>Volunteers</span></div>
+    <div class="stat"><strong>{{ categories_count }}</strong><span>Categories</span></div>
+    <div class="stat"><strong>{{ organizations_count }}</strong><span>Government offices</span></div>
+  </section>
+
+  <section class="about-grid">
+    <div class="about-grid__image">
+      <img src="{{ '/img/homepage-hero.jpg' | relative_url }}">
     </div>
-    <nav class="navbar navbar-light d-flex justify-content-center gap-3">
-      <form class="form-inline w-75">
-        <div class="rounded-pill p-2 border d-flex bg-white  justify-content-between">
-          <div class="w-100">
-            <input class="form-control mr-sm-2 outline-none border-0 shadow-none rounded-pill" type="search"
-              id="searchInput" placeholder="Search for a dataset or category"
-              aria-label="Search for a dataset or category">
-          </div>
-          <div class="">
-            <button class="btn btn-primary rounded-pill my-1 px-3 my-sm-0" type="submit">Search</button>
-          </div>
-        </div>
-      </form>
-      <div class="text-left text-gray-800"><a href="{{ '/datasets' | relative_url }}" class="text-gray-800"
-          role="button">Or browse all datasets</a></div>
-    </nav> -->
-</div>
-
-<!-- Logic for Home Page Search Bar Buttons  -->
-<!-- <script>
-    // Get references to the radio buttons and search input
-    const option1 = document.getElementById('option1');
-    const option2 = document.getElementById('option2');
-    const searchInput = document.getElementById('searchInput');
-
-    // Function to update the placeholder based on active button
-    function updatePlaceholder() {
-      if (option1.checked) {
-        searchInput.placeholder = "Search for a dataset";
-      } else if (option2.checked) {
-        searchInput.placeholder = "Search for an organization";
-      }
-    }
-
-    // Initialize the placeholder based on the active radio button
-    updatePlaceholder();
-
-    // Add event listeners to update the placeholder when the radio buttons change
-    option1.addEventListener('change', updatePlaceholder);
-    option2.addEventListener('change', updatePlaceholder);
-  </script> -->
-
-</div>
-</div>
-</div>
-
-<div class="container">
-  <h4 class="display-6 fw-bold mb-4 mt-2 pt-2">About the Mission</h4>
-  <div style="text-align: justify;">
-    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem;">The Data Rescue Project (DRP) serves as a clearinghouse for preserving at-risk public information. 
-      What began as a simple Google Sheet has evolved into a crowdsourced tool that catalogs and coordinates data preservation efforts across institutions.</h6>
-    <!-- <div class="w-100" style="margin-top: 1rem;"></div> -->
-      <img class="img-fluid float-start me-3 mt-1" src="./img/homepage-hero.jpg" alt="Hero Image">
-    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem; text-align: justify;">The Data Rescue Portal centralizes these efforts, providing a user-friendly gateway to over 3000 preserved datasets. By integrating information from multiple data rescue initiatives—including DataLumos and others—the portal eliminates the need to search across disparate sources, making critical data more accessible than ever.
-    </h6>
-    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem; text-align: justify;"> Users can explore metadata for each rescued dataset, including archived locations, maintaining volunteers, rescuer notes, and downloaded dates. Every dataset is also categorized by its government office and labeled for efficient searching and filtering. We are continuously working to enhance the depth and quality of this metadata.
-    </h6>
-    <h6 style="color: #737373; line-height: 150%; margin-bottom: 1rem; text-align: justify;"> Through this centralized approach, the portal prevents duplicated rescue efforts while ensuring all preserved data remains discoverable for researchers, journalists, and the public.
-    </h6>
-  </div>
+    <div class="about-grid__copy">
+      <!-- <h2 class="section-kicker">OUR MISSION</h2> -->
+      <h2>About the Mission</h2>
+      <p>The Data Rescue Project (DRP) serves as a clearinghouse for preserving at-risk public information. What began as a simple Google Sheet has evolved into a crowdsourced tool that catalogs and coordinates data preservation efforts across institutions.</p>
+      <p>The Data Rescue Portal centralizes these efforts, providing a user-friendly gateway to over {{ round_dataset_count }} preserved datasets. By integrating information from multiple data rescue initiatives—including DataLumos and others—the portal eliminates the need to search across disparate sources, making critical data more accessible than ever. </p>
+      <p>Users can explore metadata for each rescued dataset, including archived locations, maintaining volunteers, rescuer notes, and downloaded dates. Every dataset is also categorized by its government office and labeled for efficient searching and filtering. We are continuously working to enhance the depth and quality of this metadata.</p>
+      <p>Through this centralized approach, the portal prevents duplicated rescue efforts while ensuring all preserved data remains discoverable for researchers, journalists, and the public.</p>
+    </div>
+  </section>
 </div>

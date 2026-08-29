@@ -3,32 +3,22 @@ title: Offices
 layout: default
 permalink: /offices/
 ---
-{% include breadcrumbs.html %}
-<!-- search bar (no functionality implemented) -->
-<!-- <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3"> -->
-<div class="card-grid card-grid-organizations">
-
-  {% for organization in site.organizations %}
-  {% assign dataset_count = site.datasets | where:"organization", organization.title | size %}
-  {% capture logo_alt %}{{ organization.name }}{% if organization.logo_credit and organization.logo_credit != empty %}
-  logo by {{ organization.logo_credit }}{% endif %}{% endcapture %}
-  <a class="card card-grid-item border hover-overlay" href="{{ site.baseurl }}{{ organization.url }}"
-    title="{{ organization.title }}">
-    <div>
-      <span class="badge rounded-pill float-end" style="background-color: #001290; color: white;">{{ dataset_count
-        }}</span>
-    </div>
-    <div class="d-flex flex-row">
-      {% if organization.logo and organization.logo != empty %}
-      <div>
-        <img src="{{ organization.logo | relative_url }}" alt="{{ logo_alt }}" style="width: 64px; height: auto;">
-      </div>
-      {% endif %}
-      <div class="ms-3">
-        <h4 style="text-align: start;">{{ organization.title }}</h4>
-        <p style="text-align: justify;">{{ organization.description | markdownify }}</p>
-      </div>
-    </div>
-  </a>
-  {% endfor %}
+<div class="page-width listing-page">
+  <header class="page-heading">
+    <h1>Government Offices</h1>
+    <p>Browse datasets by originating government office or agency.</p>
+  </header>
+  <div class="office-list">
+    {% assign sorted_organizations = site.organizations | sort: "title" %}
+    {% for organization in sorted_organizations %}
+    {% assign dataset_count = site.datasets | where: "organization", organization.title | size %}
+    <a class="office-row" href="{{ site.baseurl }}{{ organization.url }}">
+      <span class="office-row__identity">
+        {% if organization.logo and organization.logo != empty %}<img src="{{ organization.logo | relative_url }}" alt="">{% endif %}
+        <span>{{ organization.title | escape }}</span>
+      </span>
+      <span class="count-badge">{{ dataset_count }} dataset{% unless dataset_count == 1 %}s{% endunless %}</span>
+    </a>
+    {% endfor %}
+  </div>
 </div>

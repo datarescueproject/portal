@@ -1,189 +1,67 @@
 ---
 layout: default
 ---
-{% include breadcrumbs.html parent="Datasets" %}
-{% assign schema = page.schema | default: site.schema %}
-{% assign dataset_fields = site.data.schemas[schema].dataset_fields %}
-{% assign dataset_system_fields = "title|organization|notes|license|metadata_available" | split: "|" %}
-{% assign url_fields = "data_source|metadata_url" | split: "|" %}
-{% assign resource_fields = site.data.schemas[schema].resource_fields %}
-{% assign resource_system_fields = "name|url|format|description" | split: "|" %}
+{% assign organization = site.organizations | where: "title", page.organization | first %}
+{% assign status_list = page.dataset_source_status | replace: "tool removed", "tool-removed" | split: "," %}
 
-{% assign organization = site.organizations | where:"title",page.organization | first %}
-{% capture organization_url %}{{ site.baseurl }}{{ organization.url }}{% endcapture %}
+<article class="page-width dataset-detail" typeof="dcat:Dataset" resource="{{ page.url }}">
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ '/datasets/' | relative_url }}">Datasets</a><span>›</span><span>{{ page.title | truncate: 72 | escape }}</span></nav>
 
-<h2 style="margin-bottom: 1rem; margin-top: .5rem;">
-  <span property="dct:title">{{ page.title }}</span>
-</h2>
-<h3 style="margin-bottom: 1rem;" class="text-decoration-none text-black">
-  <a href="{{ organization_url }}" about="{{ organization_url }}" property="foaf:homepage">
-    <span property="foaf:name">{{ organization.title }}</span>
-  </a>
-</h3>
-<div>
-  <h4 style="margin-bottom: 1rem;">{{page.agency}}</h4>
-</div>
-{% if page.category %}
-{% if page.category.size %}
-<div class="category-buttons-inline align-items-center">
-  {% for cat in page.category %}
-  {% assign category = site.dataset_categories | where: "name", cat | first %}
-  {% if category and category.logo %}
-  <a href="{{ site.baseurl }}/categories/{{ cat | slugify }}">
-    <div class="category-buttons">
-      <img style="width: 25px; height: 25px;" class="img-thumbnail rounded mx-auto bg-transparent"
-        src="{{ site.baseurl }}{{ category.logo }}" alt="{{ cat }} logo">
-      <h5>
-        <span>{{ cat }}</span>
-      </h5>
-    </div>
-  </a>
-  {% endif %}
-  {% endfor %}
-</div>
-{% else %}
-<div style="margin-bottom: 2rem" class="category-buttons-inline">
-  <a href="{{ site.baseurl }}/categories/{{ cat | slugify }}"></a>
-  <div class="category-buttons">
-    <h5><span property="">{{ page.category }}</span></h5>
-  </div>
-</div>
-</a>
-{% endif %}
-{% endif %}
-<div class="container">
-  <div style="margin-top:2rem;" data-component="dataset-display" typeof="dcat:Dataset" resource="{{ page.url }}">
-    <div class="row">
-      {% if organization %}
-      <div class="col-md-4" property="dct:publisher" resource="{{ organization_url }}">
-        <div class="">
-          <h6>Info</h6>
-        </div>
-        <div class="card mb-3">
-          <div class="card-img-top">
-            {% if organization.logo and organization.logo != empty %}
-            <a href="{{ organization_url }}"><img src="{{ organization.logo | relative_url }}"
-                alt="{{ organization.title }} logo" class="img-thumbnail rounded mx-auto d-block"></a>
+  <header class="dataset-detail__heading">
+    <h1 property="dct:title">{{ page.title | escape }}</h1>
+    <p>
+      {% if organization %}<a href="{{ site.baseurl }}{{ organization.url }}" property="foaf:homepage"><span property="foaf:name">{{ organization.title | escape }}</span></a>{% else %}{{ page.organization | escape }}{% endif %}
+      {% if page.agency and page.agency != page.organization %}<span>·</span>{{ page.agency | escape }}{% endif %}
+    </p>
+    {% if page.category and page.category != empty %}
+    <div class="tag-row">{% for cat in page.category %}<a class="category-tag" href="{{ site.baseurl }}/categories/{{ cat | slugify }}">{{ cat | escape }}</a>{% endfor %}</div>
+    {% endif %}
+  </header>
+
+  <div class="dataset-detail__grid">
+    <aside class="dataset-info" property="dct:publisher">
+      <h2>Dataset Info</h2>
+      {% if page.dataset_source_status and page.dataset_source_status != empty %}<div class="info-row"><span>Status</span><div class="status-badge-list">{% for raw_status in status_list %}{% assign status = raw_status | strip %}{% include status-badge.html status=status %}{% endfor %}</div></div>{% endif %}
+      {% if page.agency and page.agency != empty %}<div class="info-row"><span>Agency</span><strong>{{ page.agency | escape }}</strong></div>{% endif %}
+      {% if page.last_modified and page.last_modified != empty %}<div class="info-row"><span>Last updated</span><strong>{{ page.last_modified | date: "%B %-d, %Y" }}</strong></div>{% endif %}
+      {% if page.metadata_available and page.metadata_available != empty %}<div class="info-row"><span>Metadata available</span><strong>{% if page.metadata_available %}Yes{% else %}No{% endif %}</strong></div>{% endif %}
+      {% if page.data_source and page.data_source != empty %}<div class="info-row"><span>Source URL</span><a href="{{ page.data_source | escape }}" target="_blank" rel="noopener">{{ page.data_source | remove: 'https://' | remove: 'http://' | truncate: 52 | escape }}</a></div>{% endif %}
+      {% if page.websites and page.websites != empty %}{% assign primary_website = page.websites | split: ',' | first | strip %}<div class="info-row"><span>Agency website</span><a href="{% unless primary_website contains '://' %}https://{% endunless %}{{ primary_website }}" target="_blank" rel="noopener">{{ primary_website | remove: 'https://' | remove: 'http://' | escape }}</a></div>{% endif %}
+    </aside>
+
+    <div class="dataset-detail__content">
+      {% assign detail_notes = page.notes | default: page.description %}
+      {% if detail_notes and detail_notes != empty %}<section class="detail-section"><h2>Notes</h2><div class="detail-notes">{{ detail_notes | markdownify }}</div></section>{% endif %}
+      <section class="detail-section">
+        <h2>Archived Resources</h2>
+        <div class="resource-list">
+          {% for resource in page.resources %}
+          <div class="resource-card">
+            <div class="resource-card__content">
+              <div class="resource-card__meta">
+                {% if resource.format %}<span class="format-badge">{{ resource.format | escape }}</span>{% endif %}
+                {% if resource.download_date %}<span>Archived {{ resource.download_date | date: "%b %-d, %Y" }}</span>{% endif %}
+                {% if resource.maintainer %}<span>by {{ resource.maintainer | escape }}</span>{% endif %}
+              </div>
+              {% if resource.notes and resource.notes != empty %}<p>{{ resource.notes | escape }}</p>{% endif %}
+              {% if resource.size and resource.size != empty %}<small>Archive size: {{ resource.size }} GB</small>{% endif %}
+            </div>
+            {% assign resource_format = resource.format | default: '' | downcase %}
+            {% if resource.url %}
+              {% if resource_format contains 'webpage' or resource_format contains 'interactive data explorer' or resource_format contains 'interactive map' %}
+                <a class="button button--primary button--small" href="{{ resource.url | escape }}" target="_blank" rel="noopener">Browse <span aria-hidden="true">↗</span></a>
+              {% else %}
+                <a class="button button--primary button--small" href="{{ resource.url | escape }}" target="_blank" rel="noopener">Download <span aria-hidden="true">↗</span></a>
+              {% endif %}
+            {% else %}
+              <span class="button button--disabled button--small">In progress</span>
             {% endif %}
           </div>
-
-          <div class="card-body">
-            {{ organization.description | markdownify }}
-            <table class=" dataset-details">
-              {% if page.license and page.license != empty %}
-              {% assign license = site.data.licenses.items | where:"url",page.license | first %}
-              <div>
-                <div>License</div>
-                <div>
-                  <a property="dct:license" resource="{{ page.license }}" href="{{ page.license }}">
-                    {{ license.name }}
-                  </a>
-                </div>
-              </div>
-              {% endif %}
-              {% assign exclude_fields = "category,agency" | split: "," %}
-
-              {% for field in dataset_fields %}
-              {% unless dataset_system_fields contains field.field_name or exclude_fields contains field.field_name %}
-              {% assign value = page[field[field_name]] %}
-              {% if value %}
-              {% if field.display_template %}
-              {% include {{ field.display_template }} field=field value=value %}
-              {% else %}
-              {% assign field_label = field.label %}
-              {% if field.field_name == "data_source" %}
-              {% assign field_label = "Source" %}
-              {% endif %}
-
-              {% unless field.field_name == "dataset_source_status" %}
-              {% if url_fields contains field.field_name %}
-              <div class="d-flex gap-2 overflow-auto">
-                <div class="fw-bold">{{ field_label }}</div>
-                <div><a href="{{ value }}" property='dcat:accessURL'>{{ value }}</a></div>
-              </div>
-              {% else %}
-              <div class="d-flex gap-2 overflow-auto">
-                <div class="fw-bold">{{ field_label }}</div>
-                <div>{{ value }}</div>
-              </div>
-              {% endif %}
-              {% endunless %}
-              {% if field.field_name == "dataset_source_status" %}
-              {% assign status_list = value | replace: "tool removed", "tool-removed" | split: ", " %}
-              <div class="d-flex gap-2 overflow-auto align-items-center">
-                <div class="fw-bold">{{ field_label }}</div>
-                {% for status in status_list %}
-                {% assign status = status | strip %}
-                {% if status == "" %}
-                {% assign status = "unchanged" %}
-                {% endif %}
-                <span class="dataset-status-badge status-{{ status }}"
-                        {% if status == 'removed' %}
-                        data-tippy-content="Removed: Dataset has been removed from government sites and discontinued"
-                        {% elsif status == 'modified' %}
-                        data-tippy-content="Modified: Dataset continues to be published but has data elements removed"
-                        {% elsif status == 'reinstated' %}
-                        data-tippy-content="Reinstated: Dataset was removed but then reinstated"
-                        {% elsif status == 'restricted' %}
-                        data-tippy-content="Restricted: Dataset now requires password access, previously openly available"
-                        {% elsif status == 'discontinued' %}
-                        data-tippy-content="Discontinued:  New data is no longer being created"
-                        {% elsif status == 'tool-removed' %}
-                        data-tippy-content="Tool Removed: Access tool has been removed"
-                        {% elsif status == 'unchanged' %}
-                        data-tippy-content="Unchanged: Dataset continues to be publicly available"
-                        {% endif %}>
-                    {{ status }}
-                </span>
-                {% endfor %}
-                </div>
-                {% endif %}
-              {% endif %}
-              {% endif %}
-              {% endunless %}
-              {% endfor %}
-
-
-            </table>
-          </div>
-        </div>
-      </div>
-      <div class="col">
-        {% else %}
-        <div class="col">
-          {% endif %}
-          <h6>Resources</h6>
-
-          {% for resource in page.resources %}
-          <div class="card-data mb-3">
-            <div class="card-body">
-              <div class="d-flex justify-content-between align-items-center mb-3">
-                <h4 class="card-title mb-0">Maintainer: {{ resource.maintainer }}</h4>
-                <p class="card-text mb-0" style="font-size: 1rem;">Downloaded on: {{ resource.download_date }}</p>
-              </div>
-
-              <div style="margin-bottom: .5rem;" class="d-flex align-items-top gap-1">
-                <h5>Notes:</h5>
-                <p class="card-text" style="max-height: 150px; overflow-y: auto; word-break: break-word;">
-                  {% if resource.notes and resource.notes != "" %}
-                  {{ resource.notes }}
-                  {% else %}
-                  No available notes for this resource.
-                  {% endif %}
-                </p>
-              </div>
-
-              {% if resource.url %}
-              <a href="{{ resource.url }}" class="btn btn-download" download>Download {{ resource.format }}</a>
-              {% else %}
-              <span class="btn btn-secondary" disabled>WIP</span>
-              {% endif %}
-            </div>
-          </div>
-
+          {% else %}
+          <div class="empty-state">No archived resources have been added yet.</div>
           {% endfor %}
         </div>
-      </div>
+      </section>
     </div>
   </div>
-</div>
+</article>

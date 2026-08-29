@@ -1,5 +1,5 @@
 ---
 name: Energy 
-logo: /img/categories_updated/energy.svg 
+logo: /img/categories/energy.svg 
 featured: true 
 ---

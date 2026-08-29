@@ -1,5 +1,5 @@
 ---
 name: National Security & Defense 
-logo: /img/categories_updated/national-security-defense.svg 
+logo: /img/categories/national-security-defense.svg 
 featured: true 
 ---

@@ -6,13 +6,13 @@
 
   {% include head.html %}
 
-  <body class="d-flex flex-column min-vh-100">
+  <body class="site-shell">
 
     {% include header.html %}
 
-    <section style="margin-top:2rem;" data-hook="main" class="container">
+    <main data-hook="main" class="site-main">
       {{ content }}
-    </section>
+    </main>
 
     {% include footer.html %}
 

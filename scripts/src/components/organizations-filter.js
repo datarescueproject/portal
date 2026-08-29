@@ -16,7 +16,7 @@ export default class {
     return chain(datasets)
       .groupBy('organization')
       .map(function (datasetsInOrg, organization) {
-        const filters = createDatasetFilters(pick(params, ['category']))
+        const filters = createDatasetFilters(pick(params, ['category', 'status']))
         const filteredDatasets = filter(datasetsInOrg, filters)
         const orgSlug = slugify(organization)
         const selected = params.organization && params.organization === orgSlug

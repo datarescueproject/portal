@@ -1,5 +1,5 @@
 ---
 name: Humanitarian & Disaster Relief 
-logo: /img/categories_updated/humanitarian-disaster-relief.svg 
+logo: /img/categories/humanitarian-disaster-relief.svg 
 featured: true 
 ---

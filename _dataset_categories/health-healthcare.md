@@ -1,5 +1,5 @@
 ---
 name: Health & Healthcare 
-logo: /img/categories_updated/health-healthcare.svg 
+logo: /img/categories/health-healthcare.svg 
 featured: true 
 ---

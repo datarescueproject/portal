@@ -31,24 +31,26 @@ export function createDatasetFilters (filters) {
     if (filters.category) {
       conditions.push(dataset.category && slugify(dataset.category).indexOf(filters.category) !== -1)
     }
+    if (filters.status) {
+      const statuses = (dataset.dataset_source_status || '').split(',').map((status) => slugify(status))
+      conditions.push(statuses.includes(filters.status))
+    }
     return conditions.every(function (value) { return !!value })
   }
 }
 
-// Collapses a bootstrap list-group to only show a few items by default
+// Collapses a filter list to only show a few items by default
 // Number of items to show can be specified in [data-show] attribute or passed as param
 export function collapseListGroup (container, show) {
   if (!show) show = container.data('show') || 5
 
   const itemsToHide = $('.list-group-item:gt(' + (show - 1) + '):not(.active)', container)
   if (itemsToHide.length) {
-    // Bootstrap's d-flex utility uses !important, so jQuery's inline
-    // display: none is overridden. Use Bootstrap's matching utility class.
-    itemsToHide.addClass('d-none')
+    itemsToHide.addClass('filter-item--hidden')
 
     const showMoreButton = $('<a href="#" class="list-group-item">Show ' + itemsToHide.length + ' more...</a>')
     showMoreButton.on('click', function (e) {
-      itemsToHide.removeClass('d-none')
+      itemsToHide.removeClass('filter-item--hidden')
       $(this).off('click')
       $(this).remove()
       e.preventDefault()

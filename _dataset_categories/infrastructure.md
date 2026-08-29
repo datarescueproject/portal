@@ -1,5 +1,5 @@
 ---
 name: Infrastructure 
-logo: /img/categories_updated/infrastructure.svg 
+logo: /img/categories/infrastructure.svg 
 featured: true 
 ---

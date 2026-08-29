@@ -28,6 +28,8 @@ navigation:
   #   url: /agencies/
   - title: Categories
     url: /categories/
+  - title: Status
+    url: /status/
 
 # Collections
 collections:

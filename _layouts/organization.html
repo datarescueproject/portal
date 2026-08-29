@@ -1,45 +1,21 @@
 ---
 layout: default
 ---
-{% include breadcrumbs.html parent="Organizations" %}
-{% assign datasets = site.datasets | where:"organization", page.title %}
+{% assign datasets = site.datasets | where: "organization", page.title %}
 {% assign datasets_count = datasets | size %}
-
-<div class="container">
-    <div class="row">
-      {% if page.logo and page.logo != empty %}
-      <div class="col-sm-3" style = "float: left;">
-        <a href="{{ page.logo | relative_url }}" class="card-grid-item"><img class="img-thumbnail rounded mx-auto d-block" src="{{ page.logo | relative_url }}" alt="{{ page.title }} logo"></a>
-      </div>
-      <div class="col-sm-9" style = "float: right;" >
-      {% else %}
-      <div class="col-sm-12">
-      {% endif %}
-        <h1>
-          {{ page.title }}
-          <a href="{{ "/editor" | relative_url }}/#/collections/organizations/entries/{{ page.slug }}" class="float-end btn btn-outline-secondary">Edit</a>
-        </h1>
-        <p>{{ page.description | markdownify }}</p>
-        <div data-component="datasets-list" data-organization="{{ page.title | slugify }}" data-page-size="10">
-          <h3 class="datasets-count" data-hook="datasets-count">{{ datasets_count }}
-              {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</h3>
-          <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
-          <div data-hook="datasets-items">
-           {% for dataset in datasets %}
-            <dataset>
-              <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
-              {{ dataset.notes | markdownify }}
-            </dataset>
-           {% endfor %}
-          </div>
-          <nav data-hook="datasets-pagination-nav" aria-label="Datasets pages">
-            <ul class="pagination justify-content-center" data-hook="datasets-pagination"></ul>
-          </nav>
-        </div>
-      </div>
-      <div class="view-code-link">
-        <a href="{{site.github.repository_url}}/tree/main/{{page.path}}"  target="_blank"><i class="fa fa-code"></i> Open in GitHub</a>
-      </div>
+<div class="page-width listing-page collection-page">
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ '/offices/' | relative_url }}">Offices</a><span>›</span><span>{{ page.title | escape }}</span></nav>
+  <header class="collection-heading">
+    {% if page.logo and page.logo != empty %}<span class="collection-heading__icon"><img src="{{ page.logo | relative_url }}" alt=""></span>{% endif %}
+    <div><h1>{{ page.title | escape }}</h1>{% if page.description %}<div>{{ page.description | markdownify }}</div>{% endif %}</div>
+  </header>
+  <section class="datasets-panel collection-results" data-component="datasets-list" data-organization="{{ page.title | slugify }}" data-page-size="10">
+    <div class="dataset-toolbar">
+      <label class="search-field"><span class="visually-hidden">Search {{ page.title }} datasets</span><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor"/><path d="m10.5 10.5 3 3" stroke="currentColor" stroke-linecap="round"/></svg><input type="search" data-hook="search-query" placeholder="Search datasets…"></label>
+      <span class="datasets-count" data-hook="datasets-count">{{ datasets_count }} datasets</span>
     </div>
-</div>
+    <div class="dataset-cards" data-hook="datasets-items">{% for dataset in datasets limit:10 %}{% include dataset-card.html dataset=dataset %}{% endfor %}</div>
+    <nav class="pagination-wrap" data-hook="datasets-pagination-nav" aria-label="Dataset pages"><ul class="pagination" data-hook="datasets-pagination"></ul></nav>
+  </section>
+  <a class="source-link" href="{{ site.github.repository_url }}/tree/main/{{ page.path }}" target="_blank" rel="noopener"><i class="fa fa-code" aria-hidden="true"></i> Open record in GitHub</a>
 </div>

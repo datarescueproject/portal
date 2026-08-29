@@ -1,5 +1,5 @@
 ---
 name: Justice & Public Safety 
-logo: /img/categories_updated/justice-public-safety.svg 
+logo: /img/categories/justice-public-safety.svg 
 featured: true 
 ---

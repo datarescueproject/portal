@@ -1,41 +1,20 @@
 ---
 layout: default
 ---
-{% include breadcrumbs.html parent="Categories" %}
 {% assign datasets = site.datasets | where: "category", page.name %}
 {% assign datasets_count = datasets | size %}
-
-<div class="container">
-  <div class="row">
-    {% if page.logo and page.logo != empty %}
-    <div class="col-sm-3">
-      <a href="{{ page.logo | relative_url }}" class="card-grid-item"><img class="img-thumbnail rounded mx-auto d-block w-50 border-0" src="{{ page.logo | relative_url }}" alt="{{ page.title }} logo"></a>
+<div class="page-width listing-page collection-page">
+  <nav class="breadcrumbs" aria-label="Breadcrumb"><a href="{{ '/categories/' | relative_url }}">Categories</a><span>›</span><span>{{ page.name | escape }}</span></nav>
+  <header class="collection-heading">
+    {% if page.logo and page.logo != empty %}<span class="collection-heading__icon"><img src="{{ page.logo | relative_url }}" alt=""></span>{% endif %}
+    <div><h1>{{ page.name | escape }}</h1>{% if page.description %}<p>{{ page.description | escape }}</p>{% endif %}</div>
+  </header>
+  <section class="datasets-panel collection-results" data-component="datasets-list" data-category="{{ page.name | slugify }}" data-page-size="10">
+    <div class="dataset-toolbar">
+      <label class="search-field"><span class="visually-hidden">Search {{ page.name }} datasets</span><svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true"><circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor"/><path d="m10.5 10.5 3 3" stroke="currentColor" stroke-linecap="round"/></svg><input type="search" data-hook="search-query" placeholder="Search datasets…"></label>
+      <span class="datasets-count" data-hook="datasets-count">{{ datasets_count }} datasets</span>
     </div>
-    <div class="col-sm-9">
-    {% else %}
-    <div class="col-sm-12">
-    {% endif %}
-      <h1>
-        {{ page.name }}
-      </h1>
-      <p>{{ page.description }}</p>
-      <div data-component="datasets-list" data-category="{{ page.name | slugify }}" data-page-size="10">
-        <h3 class="datasets-count" data-hook="datasets-count">{{ datasets_count }}
-          {% if datasets_count == 1 %}dataset{% else %}datasets{% endif %}</h3>
-        <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3">
-        <div data-hook="datasets-items">
-          {% for dataset in datasets %}
-           <dataset>
-             <h3><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title }}</a></h3>
-             {{ dataset.notes | markdownify }}
-             
-           </dataset>
-          {% endfor %}
-         </div>
-        <nav data-hook="datasets-pagination-nav" aria-label="Datasets pages">
-          <ul class="pagination justify-content-center" data-hook="datasets-pagination"></ul>
-        </nav>
-      </div>
-    </div>
-  </div>
+    <div class="dataset-cards" data-hook="datasets-items">{% for dataset in datasets limit:10 %}{% include dataset-card.html dataset=dataset %}{% endfor %}</div>
+    <nav class="pagination-wrap" data-hook="datasets-pagination-nav" aria-label="Dataset pages"><ul class="pagination" data-hook="datasets-pagination"></ul></nav>
+  </section>
 </div>

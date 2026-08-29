@@ -1,5 +1,5 @@
 ---
 name: Finance & Budget 
-logo: /img/categories_updated/finance-budget.svg 
+logo: /img/categories/finance-budget.svg 
 featured: true 
 ---

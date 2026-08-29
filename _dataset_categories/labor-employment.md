@@ -1,5 +1,5 @@
 ---
 name: Labor & Employment 
-logo: /img/categories_updated/labor-employment.svg 
+logo: /img/categories/labor-employment.svg 
 featured: true 
 ---

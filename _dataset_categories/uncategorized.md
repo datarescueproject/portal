@@ -1,5 +1,5 @@
 ---
 name: Uncategorized 
-logo: /img/categories_updated/uncategorized.svg 
+logo: /img/categories/uncategorized.svg 
 featured: true 
 ---

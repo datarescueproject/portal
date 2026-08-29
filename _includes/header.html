@@ -1,49 +1,33 @@
-<nav class="navbar navbar-expand-sm navbar-light bg-light" data-component="navigation">
-  <div class="container align-baseline gap-md-4">
-    <div><button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown"
-        aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
-        <span class="navbar-toggler-icon"></span>
-      </button>
-    </div>
-    <div class=""><a style="color:#000" href="{{ site.baseurl }}/">
-        <h4 style=" margin-bottom: 0;" class="fw-bold">DRP Portal</h4>
+<header class="site-header" data-component="navigation">
+  <div class="site-header__inner">
+    <a class="portal-brand" href="{{ site.baseurl }}/" aria-label="Data Rescue Project Portal home">
+      <svg class="portal-brand__mark" width="30" height="30" viewBox="0 0 30 30" aria-hidden="true">
+        <rect x="2" y="2" width="26" height="26" rx="3" fill="#1030c5"/>
+        <rect x="6" y="3" width="15" height="10" rx="1" fill="white" opacity=".9"/>
+        <rect x="8" y="4" width="4" height="8" rx="0.5" fill="#1030c5" />
+        <rect x="5" y="17" width="20" height="8" rx="1.5" fill="white" opacity=".15"/>
+        <circle cx="15" cy="17.5" r="3.5" fill="#f4f6fb" opacity=".9"/>
+      </svg>
+      <span>DRP Portal</span>
+    </a>
+    <button class="site-nav__toggle" type="button" data-bs-toggle="collapse" data-bs-target="#siteNavigation" aria-controls="siteNavigation" aria-expanded="false" aria-label="Toggle navigation">
+      <span></span><span></span><span></span>
+    </button>
+    <nav class="site-nav collapse" id="siteNavigation" aria-label="Primary navigation">
+      {% for link in site.navigation %}
+      {% assign is_active = false %}
+      {% if page.url contains link.url %}{% assign is_active = true %}{% endif %}
+      <a class="site-nav__link{% if is_active %} is-active{% endif %}" href="{{ site.baseurl }}{{ link.url }}"{% if is_active %} aria-current="page"{% endif %}>{{ link.title }}</a>
+      {% endfor %}
+    </nav>
+    <div class="site-header__actions">
+      <a class="github-link" href="https://github.com/datarescueproject/portal" target="_blank" rel="noopener" aria-label="Data Rescue Project on GitHub">
+        <svg width="18" height="18" viewBox="0 0 24 24" aria-hidden="true"><path fill="currentColor" d="M12 0C5.37 0 0 5.37 0 12c0 5.31 3.44 9.8 8.21 11.39.6.1.82-.26.82-.57v-2.24c-3.01.56-3.79-.73-4.03-1.41-.14-.35-.72-1.41-1.23-1.7-.42-.22-1.02-.78-.02-.79.95-.02 1.62.87 1.85 1.23 1.08 1.81 2.8 1.3 3.5.99.1-.78.42-1.31.76-1.61-2.67-.3-5.46-1.33-5.46-5.92 0-1.31.47-2.39 1.23-3.23-.12-.3-.54-1.53.12-3.18 0 0 1.01-.31 3.3 1.23a11.5 11.5 0 0 1 6 0c2.3-1.56 3.3-1.23 3.3-1.23.66 1.65.24 2.88.12 3.18.77.84 1.23 1.91 1.23 3.23 0 4.6-2.8 5.62-5.47 5.92.43.38.81 1.1.81 2.22v3.3c0 .32.23.69.83.57A12.02 12.02 0 0 0 24 12c0-6.63-5.37-12-12-12Z"/></svg>
+      </a>
+      <a class="project-brand" href="https://www.datarescueproject.org/" target="_blank" rel="noopener">
+        <img src="{{ site.baseurl }}/img/drp-brand-3.png" alt="Data Rescue Project">
       </a>
     </div>
-
-    <div class="collapse navbar-collapse" id="navbarNavDropdown">
-      <ul class="navbar-nav">
-        <li class="nav-item">
-        </li>
-
-        {% for link in site.navigation %}
-        {% if page.url contains link.url %}
-        <li class="nav-item"><a class="nav-link active" href="{{ site.baseurl }}{{ link.url }}" aria-current="page">{{
-            link.title }}</a></li>
-        {% else %}
-        <li class="nav-item"><a class="nav-link" href="{{ site.baseurl }}{{ link.url }}">{{ link.title }}</a></li>
-        {% endif %}
-        {% endfor %}
-      </ul>
-    </div>
-
-<div class="navbar-nav d-flex align-items-center gap-2 flex-wrap">
-  <div class="d-none d-md-flex align-items-center">
-    <a href="https://github.com/datarescueproject/portal" target="_blank" rel="noopener">
-      <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" alt="GitHub" width="20" height="20" class="me-1" />
-    </a>
   </div>
-  <div class="nav-item d-flex align-items-center">
-    <a href="https://www.datarescueproject.org/">
-      <div class="me-3 mt-2 mb-2">
-        <img style="width: auto; height: 40px;" src="{{ site.baseurl }}/img/drp-brand-3.png?">
-      </div>
-    </a>
-  </div>
-</div>
-
-
-
-
-
-  </div>
-</nav>
+</header>
+<script type="module" src="{{ site.baseurl }}/scripts/dist/index.js"></script>

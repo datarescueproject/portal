@@ -1,5 +1,5 @@
 ---
 name: Climate & Environment 
-logo: /img/categories_updated/climate-environment.svg 
+logo: /img/categories/climate-environment.svg 
 featured: true 
 ---

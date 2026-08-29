@@ -1,5 +1,5 @@
 ---
 name: Communications 
-logo: /img/categories_updated/communications.svg 
+logo: /img/categories/communications.svg 
 featured: true 
 ---

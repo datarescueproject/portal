@@ -1,5 +1,5 @@
 ---
 name: Arts & Culture 
-logo: /img/categories_updated/arts-culture.svg 
+logo: /img/categories/arts-culture.svg 
 featured: true 
 ---

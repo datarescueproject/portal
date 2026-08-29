@@ -1,5 +1,5 @@
 ---
 name: Social Services 
-logo: /img/categories_updated/social-services.svg 
+logo: /img/categories/social-services.svg 
 featured: true 
 ---

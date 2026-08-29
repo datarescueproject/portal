@@ -1,0 +1,56 @@
+---
+title: Dataset Status
+layout: default
+permalink: /status/
+---
+{% assign status_keys = "removed,modified,reinstated,restricted,discontinued,tool removed" | split: "," %}
+{% assign status_labels = "Removed,Modified,Reinstated,Restricted,Discontinued,Tool Removed" | split: "," %}
+{% assign status_descriptions = "Removed from its original government source.,Published with data elements removed or changed.,Removed and later made available again.,Previously open data now requires limited access.,New data is no longer being created.,The access tool or interface has been removed." | split: "," %}
+
+<div class="page-width listing-page status-page">
+  <header class="page-heading">
+    <h1>Dataset Status</h1>
+    <p>Track datasets that have been removed, modified, restricted, discontinued, or reinstated.</p>
+  </header>
+
+  <div class="status-summary">
+    {%- for status in status_keys -%}
+    {%- assign status_count = 0 -%}
+    {%- capture status_target -%},{{ status }},{%- endcapture -%}
+    {%- for dataset in site.datasets -%}{%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ", "," | prepend: "," | append: "," -%}{%- if normalized_statuses contains status_target -%}{%- assign status_count = status_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
+    {%- assign status_class = status | replace: 'tool removed', 'tool-removed' -%}
+    <a class="status-summary__card status-theme-{{ status_class }}" href="#{{ status_class }}">
+      <span>{{ status_labels[forloop.index0] }}</span>
+      <strong>{{ status_count }}</strong>
+      <small>{{ status_descriptions[forloop.index0] }}</small>
+    </a>
+    {%- endfor %}
+  </div>
+
+  <div class="status-groups">
+    {%- for status in status_keys -%}
+    {%- assign status_class = status | replace: 'tool removed', 'tool-removed' -%}
+    {%- assign status_count = 0 -%}
+    {%- capture status_target -%},{{ status }},{%- endcapture -%}
+    {%- for dataset in site.datasets -%}{%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ", "," | prepend: "," | append: "," -%}{%- if normalized_statuses contains status_target -%}{%- assign status_count = status_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
+    <details class="status-group status-theme-{{ status_class }}" id="{{ status_class }}"{% if forloop.first %} open{% endif %}>
+      <summary>
+        <span class="status-group__title"><i aria-hidden="true"></i><strong>{{ status_labels[forloop.index0] }}</strong><span>{{ status_count }}</span></span>
+        <span class="status-group__description">{{ status_descriptions[forloop.index0] }}</span>
+      </summary>
+      <div class="status-group__items">
+        {%- for dataset in site.datasets -%}
+        {%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ", "," | prepend: "," | append: "," -%}
+        {%- if normalized_statuses contains status_target %}
+        <a href="{{ site.baseurl }}{{ dataset.url }}">
+          <span>{{ dataset.organization | escape }}</span>
+          <strong>{{ dataset.title | escape }}</strong>
+        </a>
+        {%- endif -%}
+        {%- endfor -%}
+        {%- if status_count == 0 %}<p>No datasets currently have this status.</p>{% endif %}
+      </div>
+    </details>
+    {%- endfor %}
+  </div>
+</div>

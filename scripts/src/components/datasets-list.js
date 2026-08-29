@@ -22,12 +22,13 @@ export default class {
       datasetsCount: queryByHook('datasets-count', opts.el),
       searchQuery: queryByHook('search-query', opts.el),
       pagination: queryByHook('datasets-pagination', opts.el),
-      paginationNav: queryByHook('datasets-pagination-nav', opts.el)
+      paginationNav: queryByHook('datasets-pagination-nav', opts.el),
+      empty: queryByHook('datasets-empty', opts.el)
     }
 
     // Filter datasets and render in items container
-    const paramFilters = pick(opts.params, ['organization', 'category'])
-    const attributeFilters = pick(opts.el.data(), ['organization', 'category'])
+    const paramFilters = pick(opts.params, ['organization', 'category', 'status'])
+    const attributeFilters = pick(opts.el.data(), ['organization', 'category', 'status'])
     const filters = createDatasetFilters(defaults(paramFilters, attributeFilters))
     const filteredDatasets = filter(opts.datasets, filters)
     const pageSize = Number(opts.el.data('page-size')) || 20
@@ -43,6 +44,7 @@ export default class {
 
       const datasetSuffix = visibleDatasets.length === 1 ? '' : 's'
       setContent(elements.datasetsCount, visibleDatasets.length + ' dataset' + datasetSuffix)
+      if (elements.empty.length) elements.empty.prop('hidden', visibleDatasets.length !== 0)
 
       elements.paginationNav.toggleClass('d-none', totalPages <= 1)
       const paginationMarkup = []
@@ -93,7 +95,7 @@ export default class {
   // Returns a function that can be used to search an array of datasets
   // The function returns the filtered array of datasets
   _createSearchFunction (datasets) {
-    const keys = ['title', 'notes']
+    const keys = ['title', 'notes', 'description', 'organization', 'agency']
     return function (query) {
       const lowerCaseQuery = query.toLowerCase()
       return filter(datasets, function (dataset) {

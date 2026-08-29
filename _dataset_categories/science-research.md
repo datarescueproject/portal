@@ -1,5 +1,5 @@
 ---
 name: Science & Research 
-logo: /img/categories_updated/science-research.svg 
+logo: /img/categories/science-research.svg 
 featured: true 
 ---

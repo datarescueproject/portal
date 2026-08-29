@@ -3,21 +3,24 @@ title: Categories
 layout: default
 permalink: /categories/
 ---
-{% include breadcrumbs.html %}
-
-<!-- <input type="text" data-hook="search-query" placeholder="Search..." class="form-control mb-3"> -->
-<div class="card-grid mt-2">
-  {% for category in site.dataset_categories %}
-    {% assign dataset_count = site.datasets | where:"category", category.name | size %}
-    {% capture logo_alt %}{{ category.name }}{% if category.logo_credit and category.logo_credit != empty %} logo by {{ category.logo_credit }}{% endif %}{% endcapture %}
-    <a class="card border card-grid-item hover-overlay" href="{{ site.baseurl }}/categories/{{ category.name | slugify }}" title="{{ logo_alt }}">
-      <div class="d-flex flex-row justify-content-end">
-        <span class="badge rounded-pill me-1" style="background-color: #001290; color: white;">{{ dataset_count }}</span>
-      </div>
+<div class="page-width listing-page">
+  <header class="page-heading">
+    <h1>Categories</h1>
+    <p>Browse datasets organized by subject area.</p>
+  </header>
+  <div class="category-grid">
+    {% assign sorted_categories = site.dataset_categories | sort: "name" %}
+    {% for category in sorted_categories %}
+    {% assign dataset_count = site.datasets | where: "category", category.name | size %}
+    <a class="category-card" href="{{ site.baseurl }}{{ category.url }}">
       {% if category.logo and category.logo != empty %}
-        <img class="card-img-top" src="{{ site.baseurl }}{{ category.logo }}" alt="{{ logo_alt }}">
+      <span class="category-card__icon"><img src="{{ category.logo | relative_url }}" alt=""></span>
+      {% else %}
+      <span class="category-card__fallback" aria-hidden="true">{{ category.name | slice: 0 | escape }}</span>
       {% endif %}
-      {{ category.name }}
+      <strong>{{ category.name | escape }}</strong>
+      <span>{{ dataset_count }} dataset{% unless dataset_count == 1 %}s{% endunless %}</span>
     </a>
-  {% endfor %}
+    {% endfor %}
+  </div>
 </div>

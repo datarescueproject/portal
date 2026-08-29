@@ -1,5 +1,5 @@
 ---
 name: Business & Economy 
-logo: /img/categories_updated/business-economy.svg 
+logo: /img/categories/business-economy.svg 
 featured: true 
 ---

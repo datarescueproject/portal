@@ -1,5 +1,5 @@
 ---
 name: Education 
-logo: /img/categories_updated/education.svg 
+logo: /img/categories/education.svg 
 featured: true 
 ---

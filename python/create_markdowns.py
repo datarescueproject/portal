@@ -82,7 +82,7 @@ def create_category_md(row):
     # Creating the category markdown file
     cat_md = "---\n"
     cat_md += f"name: {row['Name']} \n" 
-    cat_md += f"logo: /img/categories_updated/{cat_filename}.svg \n" 
+    cat_md += f"logo: /img/categories/{cat_filename}.svg \n"
     cat_md += f"featured: {row['Active']} \n" 
     cat_md += "---\n"
 
