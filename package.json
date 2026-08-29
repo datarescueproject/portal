@@ -26,6 +26,7 @@
     "core-js": "^3.29.0",
     "parcel": "^2.8.3",
     "process": "^0.11.10",
+    "pyright": "1.1.408",
     "standard": "^17.1.2",
     "stylelint": "16.12.0",
     "stylelint-config-standard": "36.0.1"
