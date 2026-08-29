@@ -10,10 +10,10 @@
  *   data-organization="sample-department"
  *   data-category="education"
  */
-import {pick, defaults, filter} from 'lodash'
+import { pick, defaults, filter } from 'lodash'
 
 import TmplDatasetItem from '../templates/dataset-item'
-import {queryByHook, setContent, createDatasetFilters} from '../util'
+import { queryByHook, setContent, createDatasetFilters } from '../util'
 
 export default class {
   constructor (opts) {
@@ -70,7 +70,7 @@ export default class {
       if (!e.currentTarget.disabled && page !== currentPage) {
         currentPage = page
         render()
-        opts.el[0].scrollIntoView({behavior: 'smooth', block: 'start'})
+        opts.el[0].scrollIntoView({ behavior: 'smooth', block: 'start' })
       }
     })
 

@@ -1,6 +1,7 @@
 import pandas as pd
 import re
 import os
+import ast
 
 
 def slugify(string):
@@ -54,7 +55,7 @@ def get_metadata_availability(dataset_id, data_backups):
 
 def get_dataset_category(row, organizations):
     # Check if dataset has category override
-    categories = eval(row['categories'])
+    categories = ast.literal_eval(row['categories'])
     if categories:
         cats = [a['value'] for a in categories]
     # Check if we don't have organization info

@@ -8,7 +8,7 @@ import CategoriesFilter from './components/categories-filter'
 import OrganizationsFilter from './components/organizations-filter'
 import StatusFilter from './components/status-filter'
 import DatasetDisplay from './components/dataset-display'
-import {queryByComponent} from './util'
+import { queryByComponent } from './util'
 
 const urlSearchParams = new URLSearchParams(window.location.search)
 const params = {}
@@ -25,13 +25,13 @@ function getDatasets () {
 
 // Check for these components on the page and initialize them
 const components = [
-  {tag: 'dataset-display', class: DatasetDisplay},
-  {tag: 'datasets-list', class: DatasetsList, usesDatasets: true},
-  {tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true},
-  {tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true},
-  {tag: 'status-filter', class: StatusFilter, usesDatasets: true}
+  { tag: 'dataset-display', class: DatasetDisplay },
+  { tag: 'datasets-list', class: DatasetsList, usesDatasets: true },
+  { tag: 'categories-filter', class: CategoriesFilter, usesDatasets: true },
+  { tag: 'organizations-filter', class: OrganizationsFilter, usesDatasets: true },
+  { tag: 'status-filter', class: StatusFilter, usesDatasets: true }
 ]
-for (let component of components) {
+for (const component of components) {
   const els = queryByComponent(component.tag)
   if (els.length) {
     // If the component depends on datasets.json, fetch it first (once per page) and pass it

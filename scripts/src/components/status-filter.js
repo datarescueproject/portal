@@ -1,8 +1,8 @@
 import $ from 'jquery'
-import {chain, defaults, omit} from 'lodash'
+import { chain, defaults, omit } from 'lodash'
 
 import TmplListGroupItem from '../templates/list-group-item'
-import {setContent, slugify} from '../util'
+import { setContent, slugify } from '../util'
 
 const STATUS_LABELS = {
   removed: 'Removed',
@@ -22,8 +22,8 @@ export default class {
       .countBy()
       .map((count, status) => {
         const selected = opts.params.status === status
-        const params = selected ? omit(opts.params, 'status') : defaults({status}, opts.params)
-        return {title: STATUS_LABELS[status], url: '?' + $.param(params), count, selected}
+        const params = selected ? omit(opts.params, 'status') : defaults({ status }, opts.params)
+        return { title: STATUS_LABELS[status], url: '?' + $.param(params), count, selected }
       })
       .orderBy('title')
       .value()

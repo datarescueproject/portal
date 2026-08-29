@@ -1,8 +1,8 @@
 import $ from 'jquery'
-import {chain, pick, omit, filter, defaults} from 'lodash'
+import { chain, pick, omit, filter, defaults } from 'lodash'
 
 import TmplListGroupItem from '../templates/list-group-item'
-import {setContent, slugify, createDatasetFilters, collapseListGroup} from '../util'
+import { setContent, slugify, createDatasetFilters, collapseListGroup } from '../util'
 
 export default class {
   constructor (opts) {
@@ -21,7 +21,7 @@ export default class {
         if (typeof value.category === 'string') return value
         const duplicates = []
         value.category.forEach(function (category) {
-          duplicates.push(defaults({category: category}, value))
+          duplicates.push(defaults({ category }, value))
         })
         return duplicates
       })
@@ -31,13 +31,13 @@ export default class {
         const filteredDatasets = filter(datasetsInCat, filters)
         const categorySlug = slugify(category)
         const selected = params.category && params.category === categorySlug
-        const itemParams = selected ? omit(params, 'category') : defaults({category: categorySlug}, params)
+        const itemParams = selected ? omit(params, 'category') : defaults({ category: categorySlug }, params)
         return {
           title: category,
           url: '?' + $.param(itemParams),
           count: filteredDatasets.length,
           unfilteredCount: datasetsInCat.length,
-          selected: selected
+          selected
         }
       })
       .orderBy('unfilteredCount', 'desc')

@@ -1,6 +1,6 @@
 import $ from 'jquery'
 
-import {queryByHook} from '../util'
+import { queryByHook } from '../util'
 
 export default class {
   constructor (opts) {

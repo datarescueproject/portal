@@ -1,8 +1,8 @@
 import $ from 'jquery'
-import {chain, pick, omit, filter, defaults} from 'lodash'
+import { chain, pick, omit, filter, defaults } from 'lodash'
 
 import TmplListGroupItem from '../templates/list-group-item'
-import {setContent, slugify, createDatasetFilters, collapseListGroup} from '../util'
+import { setContent, slugify, createDatasetFilters, collapseListGroup } from '../util'
 
 export default class {
   constructor (opts) {
@@ -20,13 +20,13 @@ export default class {
         const filteredDatasets = filter(datasetsInOrg, filters)
         const orgSlug = slugify(organization)
         const selected = params.organization && params.organization === orgSlug
-        const itemParams = selected ? omit(params, 'organization') : defaults({organization: orgSlug}, params)
+        const itemParams = selected ? omit(params, 'organization') : defaults({ organization: orgSlug }, params)
         return {
           title: organization,
           url: '?' + $.param(itemParams),
           count: filteredDatasets.length,
           unfilteredCount: datasetsInOrg.length,
-          selected: selected
+          selected
         }
       })
       .orderBy('unfilteredCount', 'desc')
