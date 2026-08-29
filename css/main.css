@@ -241,8 +241,8 @@ input[data-hook="search-query"] { display: none; }
   .about-grid__image { max-height: 380px; }
   .dataset-browser, .dataset-detail__grid { grid-template-columns: 1fr; }
   .filters { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 20px; }
-  .filter-section:first-child { grid-column: 1 / -1; }
   .filter-section { margin-bottom: 0; }
+  .filter-section:first-child { grid-column: 1 / -1; }
   .dataset-detail__grid { gap: 24px; }
   .dataset-info { display: grid; grid-template-columns: repeat(2, 1fr); gap: 14px 20px; }
   .dataset-info > h2 { grid-column: 1/-1; margin-bottom: 0; }
