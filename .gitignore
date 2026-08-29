@@ -10,3 +10,4 @@ vendor
 .DS_Store
 __pycache__/
 .cache/
+megalinter-reports/
