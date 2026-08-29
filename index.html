@@ -9,7 +9,9 @@ layout: default
 <div class="page-width home-page">
   <section class="home-hero">
     <h1>The Data Rescue<br>Project Portal</h1>
-    <p class="home-hero__lede">A crowdsourced catalog of public government data rescued and archived by volunteers before it could be removed, modified, or restricted. Discoverable for researchers, journalists, and the public.</p>
+    <p class="home-hero__lede">A crowdsourced catalog of public government data rescued and archived by volunteers
+      before it could be removed, modified, or restricted. Discoverable for researchers, journalists, and the public.
+    </p>
     <div class="home-hero__actions">
       <a class="button button--primary" href="{{ '/datasets/' | relative_url }}">Browse Datasets</a>
       <a class="button button--secondary" href="{{ '/offices/' | relative_url }}">Browse Offices</a>
@@ -21,8 +23,8 @@ layout: default
   <section class="stats-grid" aria-label="Portal statistics">
     <div class="stat"><strong>{{ datasets_count }}</strong><span>Rescued datasets</span></div>
     <div class="stat"><strong>500+</strong><span>Volunteers</span></div>
-    <!-- <div class="stat"><strong>{{ categories_count }}</strong><span>Categories</span></div> -->
     <div class="stat"><strong>{{ organizations_count }}</strong><span>Government offices</span></div>
+    <div class="stat"><strong>{{ categories_count }}</strong><span>Categories</span></div>
   </section>
 
   <section class="about-grid">
@@ -32,10 +34,19 @@ layout: default
     <div class="about-grid__copy">
       <!-- <h2 class="section-kicker">OUR MISSION</h2> -->
       <h2>About the Mission</h2>
-      <p>The Data Rescue Project (DRP) serves as a clearinghouse for preserving at-risk public information. What began as a simple Google Sheet has evolved into a crowdsourced tool that catalogs and coordinates data preservation efforts across institutions.</p>
-      <p>The Data Rescue Portal centralizes these efforts, providing a user-friendly gateway to over {{ round_dataset_count }} preserved datasets. By integrating information from multiple data rescue initiatives—including DataLumos and others—the portal eliminates the need to search across disparate sources, making critical data more accessible than ever. </p>
-      <p>Users can explore metadata for each rescued dataset, including archived locations, maintaining volunteers, rescuer notes, and downloaded dates. Every dataset is also categorized by its government office and labeled for efficient searching and filtering. We are continuously working to enhance the depth and quality of this metadata.</p>
-      <p>Through this centralized approach, the portal prevents duplicated rescue efforts while ensuring all preserved data remains discoverable for researchers, journalists, and the public.</p>
+      <p>The Data Rescue Project (DRP) serves as a clearinghouse for preserving at-risk public information. What began
+        as a simple Google Sheet has evolved into a crowdsourced tool that catalogs and coordinates data preservation
+        efforts across institutions.</p>
+      <p>The Data Rescue Portal centralizes these efforts, providing a user-friendly gateway to over {{
+        round_dataset_count }} preserved datasets. By integrating information from multiple data rescue
+        initiatives—including DataLumos and others—the portal eliminates the need to search across disparate sources,
+        making critical data more accessible than ever. </p>
+      <p>Users can explore metadata for each rescued dataset, including archived locations, maintaining volunteers,
+        rescuer notes, and downloaded dates. Every dataset is also categorized by its government office and labeled for
+        efficient searching and filtering. We are continuously working to enhance the depth and quality of this
+        metadata.</p>
+      <p>Through this centralized approach, the portal prevents duplicated rescue efforts while ensuring all preserved
+        data remains discoverable for researchers, journalists, and the public.</p>
     </div>
   </section>
 </div>

@@ -13,3 +13,30 @@ jobs:
         run: ./scripts/lint -c
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6.0.2
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+      - name: Build JavaScript
+        run: |
+          npm ci
+          npm run build -- --no-cache
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1.295.0
+        with:
+          bundler-cache: true
+          cache-version: 0
+      - name: Build with Jekyll
+        run: bundle exec jekyll build --baseurl ""
+        env:
+          JEKYLL_ENV: production
+          PAGES_REPO_NWO: ${{ github.repository }}
+          JEKYLL_GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Verify sitemap
+        run: test -s _site/sitemap.xml

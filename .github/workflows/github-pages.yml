@@ -47,7 +47,6 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1.295.0
         with:
-          ruby-version: '3.3' # Not needed with a .ruby-version, .tool-versions or mise.toml
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0
       - name: Setup Pages

@@ -1,4 +1,4 @@
-FROM ruby:3.3-bookworm
+FROM ruby:3.3.12-bookworm
 
 RUN apt-get update \
  && apt-get install -y --quiet --no-install-recommends \

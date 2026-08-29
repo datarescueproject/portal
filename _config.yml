@@ -1,6 +1,7 @@
 title: Data Rescue Project Portal
 greeting: Data Rescue Project Portal
 description: Links to public data archived through combined efforts and coordinated by the Data Rescue Project.
+url: https://portal.datarescueproject.org
 logo: /portal/img/drp-brand-3.png
 hero_image: /img/homepage-hero.jpg
 strict_front_matter: true
@@ -53,6 +54,7 @@ defaults:
       type: dataset_categories
     values:
       layout: category
+      load_app_bundle: true
   - scope:
       path: ""
       type: datasets
@@ -65,6 +67,7 @@ defaults:
       type: organizations
     values:
       layout: organization
+      load_app_bundle: true
   # - scope:
   #     path: ""
   #     type: agencies
@@ -105,6 +108,7 @@ plugins:
   - "jekyll-github-metadata"
   - "jekyll-relative-links"
   - "jekyll-paginate-v2"
+  - "jekyll-sitemap"
   - "jekyll-titles-from-headings"
 
 # Exclude these files from the build
@@ -125,3 +129,4 @@ exclude:
   - netlify.toml
   - .parcel-cache
   - docs
+  - megalinter-reports
