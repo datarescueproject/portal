@@ -1,4 +1,4 @@
-name: Sync Baserow content
+name: Fetch Baserow content
 
 on:
   workflow_dispatch:
