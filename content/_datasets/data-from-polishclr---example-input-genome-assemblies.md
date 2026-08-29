@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010093903/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_polishCLR_Example_input_genome_assemblies/24667776
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3921
     url: https://www.datalumos.org/datalumos/project/250490/version/V1/view

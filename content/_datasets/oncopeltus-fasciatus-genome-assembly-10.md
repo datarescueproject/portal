@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251012141616/https://agdatacommons.nal.usda.gov/articles/dataset/Oncopeltus_fasciatus_genome_assembly_1_0/24851808
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3515
     url: https://www.datalumos.org/datalumos/project/250568/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251109014025/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Draft_genome_of_the_rice_coral_Montipora_capitata_obtained_from_linked-read_sequencing/24664683
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3320
     url: https://www.datalumos.org/datalumos/project/250351/version/V1/view

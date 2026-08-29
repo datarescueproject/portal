@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018104554/https://agdatacommons.nal.usda.gov/articles/dataset/Leptinotarsa_decemlineata_Official_Gene_set_v1_1/24807837
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3533
     url: https://www.datalumos.org/datalumos/project/250565/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251214083426/https://agdatacommons.nal.usda.gov/articles/dataset/United_States_National_Fungus_Collections_Fungus-Host_Dataset/24855585
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3671
     url: https://www.datalumos.org/datalumos/project/250747/version/V1/view

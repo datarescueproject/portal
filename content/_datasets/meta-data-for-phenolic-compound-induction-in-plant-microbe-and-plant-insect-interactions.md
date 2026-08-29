@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260109020601/https://agdatacommons.nal.usda.gov/articles/dataset/Meta-data_for_Phenolic_Compound_Induction_in_Plant-Microbe_and_Plant-Insect_Interactions/24665868
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3446
     url: https://www.datalumos.org/datalumos/project/250441/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211063703/https://agdatacommons.nal.usda.gov/articles/dataset/Nutrient_replacement_for_corn_growing_with_or_without_weeds_2022-2023/24856992
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3761
     url: https://www.datalumos.org/datalumos/project/250843/version/V1/view

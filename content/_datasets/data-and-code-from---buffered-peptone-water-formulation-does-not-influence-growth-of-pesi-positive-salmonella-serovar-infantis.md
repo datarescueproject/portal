@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251015074649/https://agdatacommons.nal.usda.gov/articles/dataset/Data_and_code_from_Buffered_peptone_water_formulation_does_not_influence_growth_of_pESI_positive_Salmonella_serovar_Infantis/24668349
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3477
     url: https://www.datalumos.org/datalumos/project/250522/version/V1/view

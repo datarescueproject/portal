@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251211131528/https://agdatacommons.nal.usda.gov/articles/dataset/A_how-to-build_guide_for_Deadpool_a_proximal_sensing_cart/24852756
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3574
     url: https://www.datalumos.org/datalumos/project/250639/version/V1/view

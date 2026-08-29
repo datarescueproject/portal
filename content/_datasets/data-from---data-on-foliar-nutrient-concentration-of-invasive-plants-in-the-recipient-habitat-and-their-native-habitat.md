@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110173230/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Data_on_foliar_nutrient_concentration_of_invasive_plants_in_the_recipient_habitat_and_their_native_habitat/24853230
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3595
     url: https://www.datalumos.org/datalumos/project/250662/version/V1/view

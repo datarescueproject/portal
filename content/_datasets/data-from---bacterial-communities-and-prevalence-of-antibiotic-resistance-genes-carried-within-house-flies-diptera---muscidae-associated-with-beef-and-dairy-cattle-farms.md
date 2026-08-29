@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251113235653/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Bacterial_communities_and_prevalence_of_antibiotic_resistance_genes_carried_within_house_flies_Diptera_Muscidae_associated_with_beef_and_dairy_cattle_farms/25217456
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3878
     url: https://www.datalumos.org/datalumos/project/250966/version/V1/view

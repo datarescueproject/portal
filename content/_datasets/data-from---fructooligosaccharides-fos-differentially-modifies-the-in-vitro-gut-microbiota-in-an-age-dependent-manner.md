@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251015085513/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Fructooligosaccharides_FOS_differentially_modifies_the_in_vitro_gut_microbiota_in_an_age-dependent_manner/24857154
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3776
     url: https://www.datalumos.org/datalumos/project/250860/version/V1/view

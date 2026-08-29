@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251129114358/https://agdatacommons.nal.usda.gov/articles/dataset/Genomes_Annotations_Data_Genome_Resources_for_the_Ex-type_of_Phytophthora_citricola_and_well-authenticated_isolates_of_P_hibernalis_P_nicotianae_and_P_syringae/24855201
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3639
     url: https://www.datalumos.org/datalumos/project/250714/version/V1/view

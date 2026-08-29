@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251006131933/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Carbon_Fluxes_from_a_Spring_Wheat-Corn-Soybean_Crop_Rotation_Under_No-Tillage_Management/24856911
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3755
     url: https://www.datalumos.org/datalumos/project/250837/version/V1/view

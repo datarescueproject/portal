@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251006140348/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Identifying_Critical_Life_Stage_Transitions_for_Biological_Control_of_Long-lived_Perennial_Vincetoxicum_Species/24852405
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3829
     url: https://www.datalumos.org/datalumos/project/250919/version/V1/view

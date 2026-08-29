@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116213853/https://agdatacommons.nal.usda.gov/articles/dataset/Bradysia_coprophila_genome_annotations_Bcop_v1_0/25234195
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3894
     url: https://www.datalumos.org/datalumos/project/250983/version/V1/view

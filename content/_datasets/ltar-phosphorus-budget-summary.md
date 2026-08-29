@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251111120144/https://agdatacommons.nal.usda.gov/articles/dataset/LTAR_Phosphorus_Budget_Summary/24855381
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3652
     url: https://www.datalumos.org/datalumos/project/250728/version/V1/view

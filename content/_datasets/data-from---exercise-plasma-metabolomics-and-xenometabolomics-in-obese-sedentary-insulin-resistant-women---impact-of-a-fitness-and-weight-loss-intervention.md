@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251010031221/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Exercise_plasma_metabolomics_and_xenometabolomics_in_obese_sedentary_insulin-resistant_women_impact_of_a_fitness_and_weight_loss_intervention/24664797
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3443
     url: https://www.datalumos.org/datalumos/project/250367/version/V1/view

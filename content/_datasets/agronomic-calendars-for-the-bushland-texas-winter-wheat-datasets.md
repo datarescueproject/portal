@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251217185042/https://agdatacommons.nal.usda.gov/articles/dataset/Agronomic_Calendars_for_the_Bushland_Texas_Winter_Wheat_Datasets/24856119
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3703
     url: https://www.datalumos.org/datalumos/project/250778/version/V1/view

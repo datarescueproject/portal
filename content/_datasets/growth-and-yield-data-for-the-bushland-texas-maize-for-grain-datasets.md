@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251214020742/https://agdatacommons.nal.usda.gov/articles/dataset/Growth_and_Yield_Data_for_the_Bushland_Texas_Maize_for_Grain_Datasets/24855909
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3681
     url: https://www.datalumos.org/datalumos/project/250759/version/V1/view

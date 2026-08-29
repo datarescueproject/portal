@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110015812/https://agdatacommons.nal.usda.gov/articles/dataset/Genetic_fingerprinting_of_184_Aspergillus_from_Ethiopia_isolated_in_2015_from_peanut_seeds_raw_data/24854817
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3633
     url: https://www.datalumos.org/datalumos/project/250703/version/V1/view

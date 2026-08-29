@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://doi.org/10.3886/E247049V1
 category:
-  - Health & Healthcare 
   - Social Services 
+  - Health & Healthcare 
 resources:
   - id: 3086
     url: https://www.datalumos.org/datalumos/project/247049/version/V1/view

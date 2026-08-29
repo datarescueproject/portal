@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114074445/https://agdatacommons.nal.usda.gov/articles/dataset/Dynamic_Soil_Properties_for_Soil_Health_projects/25012457
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3802
     url: https://www.datalumos.org/datalumos/project/250891/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251114202025/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_A_field-scale_sensor_network_data_set_for_monitoring_and_modeling_the_spatial_and_temporal_variation_of_soil_moisture_in_a_dryland_agricultural_field/24852273
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3554
     url: https://www.datalumos.org/datalumos/project/250595/version/V1/view

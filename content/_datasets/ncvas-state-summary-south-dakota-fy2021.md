@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Military & Veterans Affairs 
   - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 1299
     url: https://doi.org/10.3886/E237245V1

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251116215938/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Effect_of_cutting_management_on_the_forage_production_and_quality_of_tepary_bean/24856641
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3739
     url: https://www.datalumos.org/datalumos/project/250821/version/V1/view

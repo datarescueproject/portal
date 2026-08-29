@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251215054544/https://agdatacommons.nal.usda.gov/articles/dataset/Floridan_Aquifer_Collaborative_Engagement_for_Sustainability_FACETS_-_Field_trial_data_from_Live_Oak_Florida_ARDN_products/25213358
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3862
     url: https://www.datalumos.org/datalumos/project/250950/version/V1/view

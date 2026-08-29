@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251113231127/ttps//agdatacommons.nal.usda.gov/articles/model/CPM_-_Cotton_Production_Model/24663399
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3325
     url: https://www.datalumos.org/datalumos/project/250357/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251210164935/https://agdatacommons.nal.usda.gov/articles/software/Legume_Fabaceae_Fruits_and_Seeds_Version_2/24852237
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3553
     url: https://www.datalumos.org/datalumos/project/250594/version/V1/view

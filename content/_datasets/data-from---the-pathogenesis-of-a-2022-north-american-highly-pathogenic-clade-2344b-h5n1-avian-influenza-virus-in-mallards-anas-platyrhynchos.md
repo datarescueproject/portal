@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251110160624/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_The_pathogenesis_of_a_2022_North_American_highly_pathogenic_clade_2_3_4_4b_H5N1_avian_influenza_virus_in_mallards_Anas_platyrhynchos_/24856674
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3743
     url: https://www.datalumos.org/datalumos/project/250825/version/V1/view

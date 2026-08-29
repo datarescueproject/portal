@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251014041353/https://agdatacommons.nal.usda.gov/articles/dataset/Ephemera_danica_manual_annotations_on_genome_assembly_Edan_1_0/24853557
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3606
     url: https://www.datalumos.org/datalumos/project/250674/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250905123009/https://agdatacommons.nal.usda.gov/articles/dataset/Onthophagus_taurus_Genome_Annotations_v0_5_3/24851985
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3542
     url: https://www.datalumos.org/datalumos/project/250583/version/V1/view

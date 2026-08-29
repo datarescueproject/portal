@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251013190249/https://agdatacommons.nal.usda.gov/articles/dataset/Genome_datasets_for_Calonectria_henricotiae_and_C_pseudonaviculata_causing_boxwood_blight_disease_and_related_fungal_species/24852456
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3564
     url: https://www.datalumos.org/datalumos/project/250627/version/V1/view

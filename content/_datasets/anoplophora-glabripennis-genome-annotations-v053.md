@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250906014421/https://agdatacommons.nal.usda.gov/articles/dataset/Anoplophora_glabripennis_genome_annotations_v0_5_3/24852801
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3577
     url: https://www.datalumos.org/datalumos/project/250642/version/V1/view

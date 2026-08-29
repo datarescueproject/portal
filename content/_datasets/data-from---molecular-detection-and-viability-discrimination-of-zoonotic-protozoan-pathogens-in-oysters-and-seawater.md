@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20260113155624/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Molecular_detection_and_viability_discrimination_of_zoonotic_protozoan_pathogens_in_oysters_and_seawater/30223669
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3915
     url: https://www.datalumos.org/datalumos/project/251005/version/V1/view

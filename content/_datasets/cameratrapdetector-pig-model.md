@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251205053859/https://agdatacommons.nal.usda.gov/articles/model/CameraTrapDetectoR_Pig_Model/25234276
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3899
     url: https://www.datalumos.org/datalumos/project/250989/version/V1/view

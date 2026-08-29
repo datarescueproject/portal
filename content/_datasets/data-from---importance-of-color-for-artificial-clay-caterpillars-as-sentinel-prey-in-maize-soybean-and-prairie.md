@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251018230139/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Importance_of_color_for_artificial_clay_caterpillars_as_sentinel_prey_in_maize_soybean_and_prairie/24856095
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3699
     url: https://www.datalumos.org/datalumos/project/250774/version/V1/view

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20250909124616/https://agdatacommons.nal.usda.gov/articles/dataset/Gerris_buenoi_Official_Gene_set_v1_0/24680949
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3529
     url: https://www.datalumos.org/datalumos/project/250561/version/V1/view

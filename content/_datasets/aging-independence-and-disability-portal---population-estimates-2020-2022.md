@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: 
 category:
-  - Health & Healthcare 
   - Social Services 
+  - Health & Healthcare 
 resources:
   - id: 3841
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/MTY8DO

@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20260114033916/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Persistence_of_the_Probiotic_Lacticaseibacillus_rhamnosus_Strain_GG_LGG_in_an_In_Vitro_Model_of_the_Gut_Microbiome/24857055
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3767
     url: https://www.datalumos.org/datalumos/project/250850/version/V1/view

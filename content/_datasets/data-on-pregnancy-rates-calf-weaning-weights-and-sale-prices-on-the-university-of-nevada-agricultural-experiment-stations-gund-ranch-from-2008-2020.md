@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20251012150711/https://agdatacommons.nal.usda.gov/articles/dataset/Data_on_Pregnancy_rates_calf_weaning_weights_and_sale_prices_on_the_University_of_Nevada_Agricultural_Experiment_Station_s_Gund_Ranch_from_2008-2020/24856392
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3723
     url: https://www.datalumos.org/datalumos/project/250801/version/V1/view

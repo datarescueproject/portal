@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251116084712/https://agdatacommons.nal.usda.gov/articles/dataset/Agricultural_land_use_by_field_Wisconsin_2010-2019/24854718
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3630
     url: https://www.datalumos.org/datalumos/project/250700/version/V1/view

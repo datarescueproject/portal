@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251115001309/https://agdatacommons.nal.usda.gov/articles/dataset/WIC_Infant_and_Toddler_Feeding_Practices_Study-2_WIC_ITFPS-2_Prenatal_Infant_Year_Second_Year_Third_Year_and_Fourth_Year_Datasets/24667821
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3528
     url: https://www.datalumos.org/datalumos/project/250493/version/V1/view

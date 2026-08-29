@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: http://web.archive.org/web/20251112200900/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Porcine_intestinal_innate_lymphoid_cells_and_lymphocyte_spatial_context_revealed_through_single-cell_RNA_sequencing/24855636
 category:
-  - Agriculture 
   - Science & Research 
+  - Agriculture 
 resources:
   - id: 3928
     url: https://www.datalumos.org/datalumos/project/250753/version/V1/view

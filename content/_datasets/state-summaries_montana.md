@@ -10,8 +10,8 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Military & Veterans Affairs 
   - Science & Research 
+  - Military & Veterans Affairs 
 resources:
   - id: 1336
     url: https://www.datalumos.org/datalumos/project/230844/version/V2/view
