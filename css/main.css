@@ -114,8 +114,8 @@ input[data-hook="search-query"] { display: none; }
 .dataset-card__summary p { margin: 0; }
 .tag-row { position: relative; display: flex; flex-wrap: wrap; gap: 5px; z-index: 1; }
 .category-tag { display: inline-flex; padding: 3px 7px; border: 1px solid var(--border); border-radius: 4px; background: #f0f2fa; color: #3d4e8a; font-size: .66rem; line-height: 1.2; }
-.status-badge { display: inline-flex; align-items: center; gap: 5px; flex: none; padding: 3px 8px; border: 1px solid currentColor; border-radius: 4px; font: 500 .66rem var(--font-mono); text-transform: capitalize; white-space: nowrap; }
-.status-badge i { width: 6px; height: 6px; border-radius: 50%; background: currentColor; }
+.status-badge { display: inline-flex; align-items: center; gap: 5px; flex: none; padding: 3px 8px; border: 1px solid currentcolor; border-radius: 4px; font: 500 .66rem var(--font-mono); text-transform: capitalize; white-space: nowrap; }
+.status-badge i { width: 6px; height: 6px; border-radius: 50%; background: currentcolor; }
 .status-badge-list { display: flex; flex-wrap: wrap; gap: 8px; }
 .status-removed { background: #fee2e2; color: #b91c1c; }
 .status-modified { background: #fef3c7; color: #b45309; }
@@ -218,17 +218,17 @@ input[data-hook="search-query"] { display: none; }
 .resource-card p { margin: 7px 0 0; color: var(--body); font-size: .76rem; line-height: 1.5; }
 .resource-card small { display: block; margin-top: 6px; color: var(--faint); font-size: .68rem; }
 
-@media (min-width: 701px) {
+@media (width >= 701px) {
   .site-nav.collapse { display: flex !important; }
 }
 
-@media (max-width: 900px) {
+@media (width <= 900px) {
   .stats-grid { grid-template-columns: repeat(2, 1fr); }
   .about-grid { gap: 28px; }
   .status-summary { grid-template-columns: repeat(2, 1fr); }
 }
 
-@media (max-width: 700px) {
+@media (width <= 700px) {
   .page-width, .site-header__inner, .site-footer__inner { width: min(100% - 32px, 1200px); }
   .site-header__inner { position: relative; flex-wrap: wrap; padding-block: 10px; }
   .site-nav__toggle { display: block; }
@@ -250,7 +250,7 @@ input[data-hook="search-query"] { display: none; }
   .site-footer__inner { padding-block: 22px; flex-direction: column; align-items: flex-start; }
 }
 
-@media (max-width: 520px) {
+@media (width <= 520px) {
   .home-hero h1 { font-size: 2.35rem; }
   .eyebrow-pill { align-items: flex-start; border-radius: 12px; }
   .stats-grid { grid-template-columns: 1fr 1fr; }

@@ -17,8 +17,8 @@ export function setContent (container, content) {
 export function slugify (text) {
   return text.toString().toLowerCase().trim()
     .replace(/[^a-zA-Z0-9]/g, '-') // Replace non-alphanumeric chars with -
-    .replace(/\-\-+/g, '-') // Replace multiple - with single -
-    .replace(/^\-|\-$/i, '') // Remove leading/trailing hyphen
+    .replace(/--+/g, '-') // Replace multiple - with single -
+    .replace(/^-|-$/i, '') // Remove leading/trailing hyphen
 }
 
 // Given an object of filters to use, returns a function to be used by _.filter()
