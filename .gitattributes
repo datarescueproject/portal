@@ -1,1 +1,3 @@
 * text=auto eol=lf
+content/** linguist-generated=true
+data/baserow/*.csv linguist-generated=true

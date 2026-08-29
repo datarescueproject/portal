@@ -1,0 +1,24 @@
+---
+title: Offices
+layout: default
+permalink: /offices/
+---
+<div class="page-width listing-page">
+  <header class="page-heading">
+    <h1>Government Offices</h1>
+    <p>Browse datasets by originating government office or agency.</p>
+  </header>
+  <div class="office-list">
+    {% assign sorted_organizations = site.organizations | sort: "title" %}
+    {% for organization in sorted_organizations %}
+    {% assign dataset_count = site.datasets | where: "organization", organization.title | size %}
+    <a class="office-row" href="{{ site.baseurl }}{{ organization.url }}">
+      <span class="office-row__identity">
+        {% if organization.logo and organization.logo != empty %}<img src="{{ organization.logo | relative_url }}" alt="">{% endif %}
+        <span>{{ organization.title | escape }}</span>
+      </span>
+      <span class="count-badge">{{ dataset_count }} dataset{% unless dataset_count == 1 %}s{% endunless %}</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

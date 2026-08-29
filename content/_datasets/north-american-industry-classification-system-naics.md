@@ -1,0 +1,28 @@
+---
+title: North American Industry Classification System (NAICS)
+organization: Census Bureau
+agency: Department of Commerce
+websites: census.gov
+data_source: https://www.census.gov/naics/?input=1531&year=2022
+description: 
+last_modified: 2025-03-03
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Business & Economy 
+  - Education 
+  - Health & Healthcare 
+  - Housing & Community Development 
+  - Labor & Employment 
+  - Social Services 
+resources:
+  - id: 53
+    url: https://github.com/oedp/NAICS
+    format: GIT
+    status: Finished
+    size: 0.0
+    download_date: 2025-02-12
+    maintainer: OEDP
+    notes: 
+---

@@ -1,4 +1,0 @@
----
-title: Smithsonian Institution 
-description: 
----

@@ -1,0 +1,28 @@
+---
+title: Community Resilience Estimates (CRE)
+organization: Census Bureau
+agency: Department of Commerce
+websites: census.gov
+data_source: https://www.census.gov/programs-surveys/community-resilience-estimates.html
+description: 
+last_modified: 2025-04-15
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Business & Economy 
+  - Education 
+  - Health & Healthcare 
+  - Housing & Community Development 
+  - Labor & Employment 
+  - Social Services 
+resources:
+  - id: 52
+    url: https://github.com/oedp/community-resilience-estimates
+    format: GIT
+    status: Finished
+    size: 0.0
+    download_date: 2025-02-12
+    maintainer: OEDP
+    notes: Data tables only, not the viewers/tools
+---

@@ -1,0 +1,24 @@
+---
+title: CMS Program Statistics - Medicare Advantage - Physician, Non-Physician Practitioner & Supplier
+organization: Centers for Medicare and Medicaid Services (CMS)
+agency: Department of Health and Human Services
+websites: data.cms.gov
+data_source: https://data.cms.gov/summary-statistics-on-use-and-payments/medicare-medicaid-service-type-reports/cms-program-statistics-medicare-advantage-physician-non-physician-practitioner-supplier
+description: 
+last_modified: 2026-08-03
+dataset_source_status: 
+metadata_available: Yes
+metadata_url: 
+category:
+  - Health & Healthcare 
+  - Social Services 
+resources:
+  - id: 3986
+    url: https://www.datalumos.org/datalumos/project/247096/version/V1/view
+    format: PDF, ZIP
+    status: Finished
+    size: 3.1
+    download_date: 2026-03-23
+    maintainer: DRP, DL
+    notes: 
+---

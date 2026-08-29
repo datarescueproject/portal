@@ -1,0 +1,24 @@
+---
+title: Data from - Quality controlled research weather data – USDA-ARS, Bushland, Texas
+organization: National Agricultural Library
+agency: U.S. Department of Agriculture
+websites: agdatacommons.nal.usda.gov
+data_source: https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Quality_controlled_research_weather_data_USDA-ARS_Bushland_Texas/25212362
+description: 
+last_modified: 2026-07-27
+dataset_source_status: 
+metadata_available: Yes
+metadata_url: http://web.archive.org/web/20251014035924/https://agdatacommons.nal.usda.gov/articles/dataset/Data_from_Quality_controlled_research_weather_data_USDA-ARS_Bushland_Texas/25212362
+category:
+  - Agriculture 
+  - Science & Research 
+resources:
+  - id: 3826
+    url: https://www.datalumos.org/datalumos/project/250916/version/V1/view
+    format: CSV, HTML, JSON, XLSX
+    status: Finished
+    size: 0.0148
+    download_date: 2026-06-29
+    maintainer: DRP, DL
+    notes: 
+---
