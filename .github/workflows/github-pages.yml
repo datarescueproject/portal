@@ -45,7 +45,7 @@ jobs:
           npm ci
           npm run build -- --no-cache
       - name: Setup Ruby
-        uses: ruby/setup-ruby@v1.295.0
+        uses: ruby/setup-ruby@v1
         with:
           bundler-cache: true # runs 'bundle install' and caches installed gems automatically
           cache-version: 0
