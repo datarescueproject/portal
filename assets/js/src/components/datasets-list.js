@@ -31,7 +31,7 @@ export default class {
     const attributeFilters = pick(opts.el.data(), ['organization', 'category', 'status'])
     const filters = createDatasetFilters(defaults(paramFilters, attributeFilters))
     const filteredDatasets = filter(opts.datasets, filters)
-    const pageSize = Number(opts.el.data('page-size')) || 20
+    const pageSize = Number(opts.el.data('page-size')) || 10
     let currentPage = 1
     let visibleDatasets = filteredDatasets
 

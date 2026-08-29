@@ -22,7 +22,7 @@
 html {
   background: var(--canvas);
   color: var(--ink);
-  font-size: 15px;
+  font-size: 18px;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -742,6 +742,7 @@ input[data-hook="search-query"] {
 .pagination .active .page-link {
   border-color: var(--primary);
   background: var(--primary);
+  color: #fff;
 }
 
 .empty-state {
