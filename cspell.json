@@ -17,6 +17,7 @@
         "customise",
         "dcat",
         "shfmt",
-        "pycache"
+        "pycache",
+        "PYLINT"
     ]
 }
