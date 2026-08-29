@@ -11,8 +11,8 @@ dataset_source_status:
 metadata_available: Yes
 metadata_url: https://web.archive.org/web/20250120033814/https://www.sustainability.gov/federal-scope-3-emissions-inventory.html
 category:
-  - Climate & Environment 
   - Energy 
+  - Climate & Environment 
 resources:
   - id: 3845
     url: https://zenodo.org/records/19476276
