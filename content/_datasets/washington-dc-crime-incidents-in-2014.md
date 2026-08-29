@@ -1,0 +1,23 @@
+---
+title: Washington DC Crime Incidents in 2014
+organization: Open Data DC
+agency: Government of the District of Columbia
+websites: maps2.dcgis.dc.gov
+data_source: https://maps2.dcgis.dc.gov/dcgis/rest/services/FEEDS/MPD/FeatureServer/9
+description: 
+last_modified: 2025-10-30
+dataset_source_status: 
+metadata_available: Yes
+metadata_url: 
+category:
+  - Justice & Public Safety 
+resources:
+  - id: 1370
+    url: https://www.datalumos.org/datalumos/project/237448/view
+    format: JSON, HTML
+    status: Finished
+    size: 0.012
+    download_date: 2025-09-17
+    maintainer: DRP, DL
+    notes: 
+---

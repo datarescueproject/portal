@@ -1,0 +1,24 @@
+---
+title: Medicare Current Beneficiary Survey - COVID-19 Supplement
+organization: Centers for Medicare and Medicaid Services (CMS)
+agency: Department of Health and Human Services
+websites: data.cms.gov
+data_source: https://data.cms.gov/medicare-current-beneficiary-survey-mcbs/medicare-current-beneficiary-survey-covid-19-supplement
+description: 
+last_modified: 2026-08-03
+dataset_source_status: 
+metadata_available: Yes
+metadata_url: 
+category:
+  - Health & Healthcare 
+  - Social Services 
+resources:
+  - id: 3968
+    url: https://www.datalumos.org/datalumos/project/247072/version/V1/view
+    format: PDF, ZIP
+    status: Finished
+    size: 53.0
+    download_date: 2026-03-11
+    maintainer: DRP, DL
+    notes: 
+---

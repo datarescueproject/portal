@@ -1,0 +1,17 @@
+---
+permalink: /datasets.json
+---
+[
+  {% for dataset in site.datasets %}
+  {
+    "title": {{ dataset.title | jsonify }},
+    "organization": {{ dataset.organization | jsonify }},
+    "agency": {{ dataset.agency | jsonify }},
+    "description": {{ dataset.description | jsonify }},
+    "dataset_source_status": {{ dataset.dataset_source_status | jsonify }},
+    "category": {{ dataset.category | jsonify }},
+    "url": {{ dataset.url | prepend: site.baseurl | jsonify }}
+  }{% unless forloop.last %},
+  {% endunless %}
+  {%- endfor %}
+]

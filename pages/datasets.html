@@ -1,0 +1,77 @@
+---
+title: Datasets
+layout: default
+permalink: /datasets/
+load_app_bundle: true
+---
+{% assign datasets_count = site.datasets | size %}
+
+<div class="page-width listing-page">
+  <header class="page-heading">
+    <h1>Datasets</h1>
+    <p>{{ datasets_count }} rescued datasets — search and filter by category, office, or status.</p>
+  </header>
+
+  <div class="dataset-browser">
+    <aside class="filters" aria-label="Dataset filters">
+      <section class="filter-section">
+        <h2>Status</h2>
+        <div class="list-group js-shown" data-component="status-filter"></div>
+        <div class="list-group js-hidden">
+          {% assign statuses = "removed,modified,reinstated,restricted,discontinued,tool removed" | split: "," %}
+          {% for status in statuses %}
+          {% assign count = site.datasets | where: "dataset_source_status", status | size %}
+          <a href="?status={{ status | slugify }}" class="list-group-item">{{ status | replace: '-', ' ' | capitalize }}
+            <span>{{ count }}</span></a>
+          {% endfor %}
+        </div>
+      </section>
+      <section class="filter-section">
+        <h2>Categories</h2>
+        <div class="list-group js-shown" data-component="categories-filter" data-show="10"></div>
+        <div class="list-group js-hidden">
+          {% for category in site.dataset_categories %}
+          {% assign count = site.datasets | where: "category", category.name | size %}
+          <a href="{{ site.baseurl }}{{ category.url }}" class="list-group-item">{{ category.name | escape }} <span>{{
+              count }}</span></a>
+          {% endfor %}
+        </div>
+      </section>
+      <section class="filter-section">
+        <h2>Govt. Offices</h2>
+        <div class="list-group js-shown" data-component="organizations-filter" data-show="10"></div>
+        <div class="list-group js-hidden">
+          {% for organization in site.organizations %}
+          {% assign count = site.datasets | where: "organization", organization.title | size %}
+          <a href="{{ site.baseurl }}{{ organization.url }}" class="list-group-item">{{ organization.title | escape }}
+            <span>{{ count }}</span></a>
+          {% endfor %}
+        </div>
+      </section>
+    </aside>
+
+    <section class="datasets-panel" data-component="datasets-list" data-page-size="10">
+      <div class="dataset-toolbar">
+        <label class="search-field">
+          <span class="visually-hidden">Search datasets</span>
+          <svg width="16" height="16" viewBox="0 0 16 16" aria-hidden="true">
+            <circle cx="7" cy="7" r="4.5" fill="none" stroke="currentColor" />
+            <path d="m10.5 10.5 3 3" stroke="currentColor" stroke-linecap="round" />
+          </svg>
+          <input type="search" data-hook="search-query" placeholder="Search datasets…" autocomplete="off">
+        </label>
+        <span class="datasets-count" data-hook="datasets-count">{{ datasets_count }} datasets</span>
+      </div>
+      <div class="dataset-cards" data-hook="datasets-items">
+        {% for dataset in site.datasets limit:10 %}
+        {% include dataset-card.html dataset=dataset %}
+        {% endfor %}
+      </div>
+      <div class="empty-state" data-hook="datasets-empty" hidden>No datasets found matching your search and filters.
+      </div>
+      <nav class="pagination-wrap" data-hook="datasets-pagination-nav" aria-label="Dataset pages">
+        <ul class="pagination" data-hook="datasets-pagination"></ul>
+      </nav>
+    </section>
+  </div>
+</div>

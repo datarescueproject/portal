@@ -1,9 +1,13 @@
 {
-  "name": "jkan",
-  "description": "A lightweight, backend-free open data portal, powered by Jekyll",
+  "name": "data-rescue-project-portal",
+  "description": "Search and discovery interface for data archived by the Data Rescue Project",
   "scripts": {
-    "watch": "parcel watch scripts/src/index.js --dist-dir _site/scripts/dist",
-    "build": "parcel build scripts/src/index.js --dist-dir scripts/dist"
+    "watch": "parcel watch assets/js/src/index.js --watch-dir assets/js/src --dist-dir assets/js/dist",
+    "build": "parcel build assets/js/src/index.js --dist-dir assets/js/dist",
+    "lint": "npm run lint:js && npm run lint:css",
+    "lint:js": "standard --no-cache \"assets/js/src/**/*.js\"",
+    "lint:css": "stylelint \"assets/css/**/*.css\"",
+    "lint:fix": "npm run lint:js -- --fix && npm run lint:css -- --fix"
   },
   "targets": {
     "modern": {
@@ -12,19 +16,18 @@
       }
     }
   },
+  "homepage": "https://portal.datarescueproject.org",
+  "repository": "https://github.com/datarescueproject/portal",
   "license": "MIT",
   "private": true,
-  "bugs": {
-    "url": "https://github.com/timwis/jkan/issues"
-  },
-  "homepage": "https://github.com/timwis/jkan",
   "devDependencies": {
-    "core-js": "^3.29.0",
-    "parcel": "^2.8.3",
-    "process": "^0.11.10"
+    "core-js": "^3.45.1",
+    "parcel": "^2.15.4",
+    "standard": "^17.1.2",
+    "stylelint": "16.12.0",
+    "stylelint-config-standard": "36.0.1"
   },
   "dependencies": {
-    "bootstrap": "^5.3.3",
     "jquery": "^3.7.1",
     "lodash": "^4.18.1"
   }

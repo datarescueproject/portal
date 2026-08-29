@@ -1,0 +1,23 @@
+{% assign dataset = include.dataset %}
+<article class="dataset-card">
+  <div class="dataset-card__meta">
+    {% if dataset.dataset_source_status and dataset.dataset_source_status != empty %}
+    {% assign statuses = dataset.dataset_source_status | split: ',' %}
+    <div class="status-badge-list">
+    {% for raw_status in statuses %}
+      {% assign status = raw_status | strip | replace: 'tool removed', 'tool-removed' %}
+      <span class="status-badge status-{{ status }}">{{ status | replace: '-', ' ' }}</span>
+    {% endfor %}
+    </div>
+    {% endif %}
+    <span class="dataset-card__office" title="{{ dataset.organization | escape }}">{{ dataset.organization | escape }}</span>
+  </div>
+  <h2><a href="{{ site.baseurl }}{{ dataset.url }}">{{ dataset.title | escape }}</a></h2>
+  {% assign summary = dataset.notes | default: dataset.description %}
+  {% if summary and summary != empty %}<div class="dataset-card__summary">{{ summary | markdownify }}</div>{% endif %}
+  {% if dataset.category and dataset.category != empty %}
+  <div class="tag-row">
+    {% for category in dataset.category %}<span class="category-tag">{{ category | escape }}</span>{% endfor %}
+  </div>
+  {% endif %}
+</article>

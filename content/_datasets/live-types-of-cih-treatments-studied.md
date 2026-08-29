@@ -1,0 +1,23 @@
+---
+title: LIVE-Types of CIH Treatments Studied
+organization: Department of Veterans Affairs
+agency: Department of Veterans Affairs
+websites: ptsd-va.data.socrata.com
+data_source: https://ptsd-va.data.socrata.com/PTSD-Repository/LIVE-Types-of-CIH-Treatments-Studied/35xy-fpqf
+description: 
+last_modified: 2025-05-13
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Military & Veterans Affairs 
+resources:
+  - id: 941
+    url: https://www.datalumos.org/datalumos/project/229201/version/V1/view
+    format: CSV, TSV, RDF, PDF
+    status: Finished
+    size: 0.0
+    download_date: 2025-05-10
+    maintainer: DRP, DL
+    notes: 
+---

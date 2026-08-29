@@ -1,0 +1,26 @@
+---
+title: Categories
+layout: default
+permalink: /categories/
+---
+<div class="page-width listing-page">
+  <header class="page-heading">
+    <h1>Categories</h1>
+    <p>Browse datasets organized by subject area.</p>
+  </header>
+  <div class="category-grid">
+    {% assign sorted_categories = site.dataset_categories | sort: "name" %}
+    {% for category in sorted_categories %}
+    {% assign dataset_count = site.datasets | where: "category", category.name | size %}
+    <a class="category-card" href="{{ site.baseurl }}{{ category.url }}">
+      {% if category.logo and category.logo != empty %}
+      <span class="category-card__icon"><img src="{{ category.logo | relative_url }}" alt=""></span>
+      {% else %}
+      <span class="category-card__fallback" aria-hidden="true">{{ category.name | slice: 0 | escape }}</span>
+      {% endif %}
+      <strong>{{ category.name | escape }}</strong>
+      <span>{{ dataset_count }} dataset{% unless dataset_count == 1 %}s{% endunless %}</span>
+    </a>
+    {% endfor %}
+  </div>
+</div>

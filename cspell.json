@@ -1,24 +1,29 @@
-// cSpell Settings
 {
-    // Version of the setting file.  Always 0.2
     "version": "0.2",
-    // language - current active spelling language
     "language": "en",
     "allowCompoundWords": true,
-    // words - list of words to be always considered correct
     "words": [
-        "jkan",
-        "esac",
-        "jsonify",
-        "markdownify",
-        "Wisniewski",
-        "Licence",
-        "Uncategorized",
+        "Baserow",
+        "DataLumos",
+        "DataRescue",
         "decap",
+        "dcat",
+        "esac",
+        "GeoJSON",
+        "jkan",
+        "venv",
+        "jsonify",
+        "Licence",
+        "markdownify",
+        "stefanzweifel",
+        "ipynb",
+        "MegaLinter",
         "Phila",
+        "pycache",
+        "PYLINT",
+        "shfmt",
         "ublabs",
-        "customised",
-        "customise",
-	"shfmt"
+        "Uncategorized",
+        "Wisniewski"
     ]
 }

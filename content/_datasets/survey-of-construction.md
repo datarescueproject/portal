@@ -1,0 +1,28 @@
+---
+title: Survey of Construction
+organization: Census Bureau
+agency: Department of Commerce
+websites: census.gov
+data_source: https://www.census.gov/construction/soc/index.html
+description: 
+last_modified: 2025-09-02
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Business & Economy 
+  - Education 
+  - Health & Healthcare 
+  - Housing & Community Development 
+  - Labor & Employment 
+  - Social Services 
+resources:
+  - id: 1224
+    url: https://www.datalumos.org/datalumos/project/228781/version/V1/view
+    format: PDF, XLS
+    status: Finished
+    size: 0.242
+    download_date: 2025-02-27
+    maintainer: ICPSR, DL
+    notes: 
+---

@@ -1,0 +1,12 @@
+{% assign badge_status = include.status | strip %}
+{% capture status_tooltip %}
+  {% case badge_status %}
+    {% when 'removed' %}Removed: Dataset has been removed from government sites and discontinued.
+    {% when 'modified' %}Modified: Dataset continues to be published but has data elements removed.
+    {% when 'reinstated' %}Reinstated: Dataset was removed but then reinstated.
+    {% when 'restricted' %}Restricted: Dataset now requires password access and was previously openly available.
+    {% when 'discontinued' %}Discontinued: New data is no longer being created.
+    {% when 'tool-removed' %}Tool Removed: The access tool has been removed.
+  {% endcase %}
+{% endcapture %}
+<span class="status-badge status-{{ badge_status }}" data-tippy-content="{{ status_tooltip | strip | escape }}" tabindex="0">{{ badge_status | replace: '-', ' ' }}</span>

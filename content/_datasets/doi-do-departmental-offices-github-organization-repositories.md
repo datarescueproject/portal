@@ -1,0 +1,25 @@
+---
+title: DOI-DO (Departmental Offices) GitHub organization repositories
+organization: Office of Communications
+agency: Department of the Interior
+websites: doi.gov
+data_source: https://github.com/DOI-DO
+description: 
+last_modified: 2025-02-12
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Agriculture 
+  - Business & Economy 
+  - Communications 
+resources:
+  - id: 62
+    url: https://github.com/DOI-DO-clone
+    format: GIT
+    status: Finished
+    size: 0.0
+    download_date: 
+    maintainer: PEDP, EDGI
+    notes: Contains source for Justice 40 screening tool.
+---

@@ -1,0 +1,23 @@
+---
+title: GSA GItHub Repo
+organization: GSA - IDI - ECAS II
+agency: General Services Administration
+websites: gsa.gov
+data_source: https://github.com/gsa
+description: 
+last_modified: 2025-03-03
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Business & Economy 
+resources:
+  - id: 193
+    url: https://github.com/gsa-clone
+    format: GIT
+    status: Finished
+    size: 0.0
+    download_date: 
+    maintainer: EDGI
+    notes: 
+---
