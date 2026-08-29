@@ -23,4 +23,4 @@ EMAIL_REPORTER: false
 FILEIO_REPORTER: false
 PRE_COMMANDS:
   - command: "pip install -q -r requirements.txt"
-    cwd: "root"
+    cwd: "/tmp/lint"
