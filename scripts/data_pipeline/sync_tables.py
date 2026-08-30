@@ -21,7 +21,7 @@ def get_results_json(url, api_key=BASEROW_ACCESS_TOKEN):
 
     res = table.json()['results']
     if table.json()['next'] is not None:
-        res.extend(get_results_json(table.json()['next']))
+        res.extend(get_results_json(table.json()['next'],api_key))
 
     return res
 
