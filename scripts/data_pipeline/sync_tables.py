@@ -15,7 +15,8 @@ def get_results_json(url, api_key=BASEROW_ACCESS_TOKEN):
         url,
         headers={
             "Authorization": f"Token {api_key}"
-        }
+        },
+        timeout=300,
     )
 
     res = table.json()['results']
@@ -130,6 +131,7 @@ for t in tables_to_sync:
             },
             json={
                 "items":to_delete
-            }
+            },
+            timeout=300
         )
         print(response.text)
