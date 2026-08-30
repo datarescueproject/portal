@@ -1,5 +1,5 @@
 ---
-name: sync-tables
+name: Sync Baserow Tables
 
 "on":
   workflow_dispatch:

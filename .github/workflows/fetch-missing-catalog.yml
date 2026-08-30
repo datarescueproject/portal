@@ -1,4 +1,4 @@
-name: Sync missing government data
+name: Fetch missing government data
 
 on:
   workflow_dispatch:

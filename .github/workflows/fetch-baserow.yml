@@ -1,4 +1,4 @@
-name: Fetch Baserow content
+name: Fetch Baserow Data
 
 on:
   workflow_dispatch:
