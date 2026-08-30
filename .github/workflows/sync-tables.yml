@@ -4,7 +4,7 @@ name: sync-tables
 "on":
   workflow_dispatch:
   schedule:
-    - cron: "00 06 * * *"  # runs at 06:00am UTC everyday
+    - cron: "00 06 * * *" # runs at 06:00am UTC everyday
 
 jobs:
   getdata:
