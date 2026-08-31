@@ -4,9 +4,9 @@ organization: Foreign Assistance Office (F/PPS)
 agency: U.S. Agency for International Development
 websites: foreignassistance.gov
 data_source: https://foreignassistance.gov/
-description: 
-last_modified: 2025-03-03
-dataset_source_status: 
+description: Data status information https://www.npr.org/sections/shots-health-news/2025/02/06/nx-s1-5288113/cdc-website-health-data-trump
+last_modified: 2026-08-30
+dataset_source_status: reinstated, modified
 metadata_available: No
 metadata_url: 
 category:

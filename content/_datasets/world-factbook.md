@@ -5,8 +5,8 @@ agency: Central Intelligence Agency
 websites: cia.gov
 data_source: https://www.cia.gov/the-world-factbook/
 description: Shutdown February 4, 2026 https://www.politico.com/news/2026/04/05/eulogy-for-the-cia-factbook-the-free-standard-for-world-facts-is-gone-00859250
-last_modified: 2026-08-22
-dataset_source_status: discontinued, tool removed
+last_modified: 2026-08-30
+dataset_source_status: discontinued, tool removed, removed
 metadata_available: No
 metadata_url: 
 category:

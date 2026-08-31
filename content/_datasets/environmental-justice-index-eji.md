@@ -5,8 +5,8 @@ agency: Department of Health and Human Services
 websites: atsdr.cdc.gov
 data_source: https://www.atsdr.cdc.gov/place-health/php/eji/eji-data-download.html
 description: 
-last_modified: 2025-05-09
-dataset_source_status: 
+last_modified: 2026-08-30
+dataset_source_status: removed, tool removed
 metadata_available: Yes
 metadata_url: https://www.atsdr.cdc.gov/place-health/php/eji/eji-technical-documentation.html
 category:
