@@ -5,7 +5,9 @@ permalink: /status/
 ---
 {% assign status_keys = "removed,modified,reinstated,restricted,discontinued,tool removed" | split: "," %}
 {% assign status_labels = "Removed,Modified,Reinstated,Restricted,Discontinued,Tool Removed" | split: "," %}
-{% assign status_descriptions = "Removed from its original government source.,Published with data elements removed or changed.,Removed and later made available again.,Previously open data now requires limited access.,New data is no longer being created.,The access tool or interface has been removed." | split: "," %}
+{% assign status_descriptions = "Removed from its original government source.,Published with data elements removed or
+changed.,Removed and later made available again.,Previously open data now requires limited access.,New data is no longer
+being created.,The access tool or interface has been removed." | split: "," %}
 
 <div class="page-width listing-page status-page">
   <header class="page-heading">
@@ -17,7 +19,9 @@ permalink: /status/
     {%- for status in status_keys -%}
     {%- assign status_count = 0 -%}
     {%- capture status_target -%},{{ status }},{%- endcapture -%}
-    {%- for dataset in site.datasets -%}{%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ", "," | prepend: "," | append: "," -%}{%- if normalized_statuses contains status_target -%}{%- assign status_count = status_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
+    {%- for dataset in site.datasets -%}{%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ",
+    "," | prepend: "," | append: "," -%}{%- if normalized_statuses contains status_target -%}{%- assign status_count =
+    status_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
     {%- assign status_class = status | replace: 'tool removed', 'tool-removed' -%}
     <a class="status-summary__card status-theme-{{ status_class }}" href="#{{ status_class }}">
       <span>{{ status_labels[forloop.index0] }}</span>
@@ -32,15 +36,20 @@ permalink: /status/
     {%- assign status_class = status | replace: 'tool removed', 'tool-removed' -%}
     {%- assign status_count = 0 -%}
     {%- capture status_target -%},{{ status }},{%- endcapture -%}
-    {%- for dataset in site.datasets -%}{%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ", "," | prepend: "," | append: "," -%}{%- if normalized_statuses contains status_target -%}{%- assign status_count = status_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
-    <details class="status-group status-theme-{{ status_class }}" id="{{ status_class }}"{% if forloop.first %} open{% endif %}>
+    {%- for dataset in site.datasets -%}{%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ",
+    "," | prepend: "," | append: "," -%}{%- if normalized_statuses contains status_target -%}{%- assign status_count =
+    status_count | plus: 1 -%}{%- endif -%}{%- endfor -%}
+    <details class="status-group status-theme-{{ status_class }}" id="{{ status_class }}" {% if forloop.first %} open{%
+      endif %}>
       <summary>
-        <span class="status-group__title"><i aria-hidden="true"></i><strong>{{ status_labels[forloop.index0] }}</strong><span>{{ status_count }}</span></span>
+        <span class="status-group__title"><i aria-hidden="true"></i><strong>{{ status_labels[forloop.index0]
+            }}</strong><span>{{ status_count }}</span></span>
         <span class="status-group__description">{{ status_descriptions[forloop.index0] }}</span>
       </summary>
       <div class="status-group__items">
         {%- for dataset in site.datasets -%}
-        {%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ", "," | prepend: "," | append: "," -%}
+        {%- assign normalized_statuses = dataset.dataset_source_status | replace: ", ", "," | prepend: "," | append: ","
+        -%}
         {%- if normalized_statuses contains status_target %}
         <a href="{{ site.baseurl }}{{ dataset.url }}">
           <span>{{ dataset.organization | escape }}</span>
@@ -54,3 +63,15 @@ permalink: /status/
     {%- endfor %}
   </div>
 </div>
+
+<script>
+  function openStatusFromHash() {
+    if (!window.location.hash) return
+
+    const statusGroup = document.getElementById(window.location.hash.slice(1))
+    if (statusGroup && statusGroup.tagName === 'DETAILS') statusGroup.open = true
+  }
+
+  document.addEventListener('DOMContentLoaded', openStatusFromHash)
+  window.addEventListener('hashchange', openStatusFromHash)
+</script>
