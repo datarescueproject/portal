@@ -2,7 +2,7 @@ name: Deploy Jekyll site to Pages
 
 on:
   workflow_run:
-    workflows: ["Sync Baserow content"]
+    workflows: ["Fetch Baserow Data"]
     types: [completed]
   push:
     branches: [main]
