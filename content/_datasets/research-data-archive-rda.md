@@ -26,8 +26,8 @@ resources:
     url: https://sciop.net/datasets/usfs-rda-full-archive
     format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GBD, MDB, SQLite, PDF
     status: Finished
-    size: 3900.0
-    download_date: 2025-11-20
+    size: 5100.0
+    download_date: 2026-08-22
     maintainer: SRC
-    notes: 
+    notes: Updated as of 8/22/2026, along with fixes for missing files/bad filenames
 ---
