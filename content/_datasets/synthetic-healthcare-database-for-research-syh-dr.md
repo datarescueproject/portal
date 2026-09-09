@@ -2,12 +2,12 @@
 title: Synthetic Healthcare Database for Research (SyH-DR)
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
-websites: ahrq.gov
-data_source: https://www.ahrq.gov/data/innovations/syh-dr.html
+websites: catalog.data.gov
+data_source: https://catalog.data.gov/dataset/synthetic-healthcare-database-for-research-syh-dr
 description: 
-last_modified: 2026-08-03
+last_modified: 2026-09-08
 dataset_source_status: 
-metadata_available: Yes
+metadata_available: No
 metadata_url: 
 category:
   - Health & Healthcare 

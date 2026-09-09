@@ -2,12 +2,12 @@
 title: Physician and Physician Practice Research Database (3P-RD)
 organization: Agency for Healthcare Research and Quality
 agency: Department of Health and Human Services
-websites: ahrq.gov
-data_source: https://www.ahrq.gov/data/innovations/3p-rd.html
+websites: catalog.data.gov
+data_source: https://catalog.data.gov/dataset/physician-and-physician-practice-research-database-3p-rd
 description: 
-last_modified: 2026-08-03
+last_modified: 2026-09-08
 dataset_source_status: 
-metadata_available: Yes
+metadata_available: No
 metadata_url: 
 category:
   - Health & Healthcare 
