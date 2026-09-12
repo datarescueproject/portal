@@ -1,6 +1,6 @@
 ---
 title: Vaccine Adverse Event Reporting System (VAERS) Data
-organization: Office of the Secretary
+organization: Office of the Secretary - Department of Commerce
 agency: Department of Commerce
 websites: vaers.hhs.gov
 data_source: https://vaers.hhs.gov/data/datasets.html

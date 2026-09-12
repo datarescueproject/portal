@@ -1,6 +1,6 @@
 ---
 title: Federal TANF and State MOE Financial Data, FY1997–FY2024
-organization: Office of the Secretary
+organization: Office of the Secretary - Department of Commerce
 agency: Department of Commerce
 websites: acf.gov
 data_source: https://acf.gov/ofa/programs/tanf/data-reports

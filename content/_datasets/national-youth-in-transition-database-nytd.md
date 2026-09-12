@@ -1,6 +1,6 @@
 ---
 title: National Youth in Transition Database (NYTD)
-organization: Office of the Secretary
+organization: Office of the Secretary - Department of Commerce
 agency: Department of Commerce
 websites: hhs.gov
 data_source: https://www.hhs.gov/

@@ -1,6 +1,6 @@
 ---
 title: National Survey of Older Americans Act Participants (NSOAAP)
-organization: Office of the Secretary
+organization: Office of the Secretary - Department of Commerce
 agency: Department of Commerce
 websites: hhs.gov
 data_source: https://aoasurvey.org/
