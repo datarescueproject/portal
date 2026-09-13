@@ -1,7 +1,7 @@
 ---
 title: HHS Unaccompanied Children Program
-organization: Office of the Secretary - Department of Commerce, Centers for Disease Control and Prevention (CDC)
-agency: Department of Health and Human Services, Department of Commerce
+organization: Centers for Disease Control and Prevention (CDC), Office of the Secretary - Department of Health and Human Services
+agency: Department of Health and Human Services, Department of Health and Human Services
 websites: cdc.gov, healthdata.gov
 data_source: https://healthdata.gov/National/HHS-Unaccompanied-Children-Program/ehpz-xc9n/about_data
 description: 

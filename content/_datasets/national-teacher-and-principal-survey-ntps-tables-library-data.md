@@ -4,9 +4,9 @@ organization: National Center for Education Statistics
 agency: Department of Education
 websites: nces.ed.gov
 data_source: https://nces.ed.gov/surveys/ntps/estable/Tables
-description: 
-last_modified: 2025-06-30
-dataset_source_status: 
+description: Source on who staffs American schools, their pay, and their working conditions. 2023-24 data collection completed but not released.
+last_modified: 2026-09-12
+dataset_source_status: discontinued
 metadata_available: Yes
 metadata_url: 
 category:
@@ -19,5 +19,5 @@ resources:
     size: 0.11
     download_date: 2025-06-25
     maintainer: DRP, DL
-    notes: Each table has an associated excel and excel SE file, which are grouped together in a folder in the dataset (one folder per table). The folders are named based on the excel file names, as they were when downloaded from the National Center for Education Statistics (NCES) website.In the NTPS folder, there is a catalog csv that provides a crosswalk between the folder names and the table titles.The documentation folder contains (1) codebooks for NTPS generated in NCES datalabs, (2) questionnaires for NTPS downloaded from the study website and (3) reports related to NTPS found in the NCES resource library
+    notes: Coverage 2015 – 2021.Each table has an associated excel and excel SE file, which are grouped together in a folder in the dataset (one folder per table). The folders are named based on the excel file names, as they were when downloaded from the National Center for Education Statistics (NCES) website.In the NTPS folder, there is a catalog csv that provides a crosswalk between the folder names and the table titles.The documentation folder contains (1) codebooks for NTPS generated in NCES datalabs, (2) questionnaires for NTPS downloaded from the study website and (3) reports related to NTPS found in the NCES resource library
 ---
