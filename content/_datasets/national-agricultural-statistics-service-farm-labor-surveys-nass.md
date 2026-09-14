@@ -1,11 +1,11 @@
 ---
-title: National Agricultural Statistics Service Farm Labor Surveys
+title: National Agricultural Statistics Service Farm Labor Surveys (NASS)
 organization: U.S. Department of Agriculture
 agency: U.S. Department of Agriculture
 websites: release.nass.usda.gov
 data_source: https://esmis.nal.usda.gov/concern/publications/x920fw89s
 description: Also know as "Agricultural Labor Survey"; Discontinued https://www.epi.org/policywatch/usda-ends-the-agricultural-farm-labor-survey-the-u-s-s-only-survey-of-agricultural-employers/
-last_modified: 2026-07-11
+last_modified: 2026-09-13
 dataset_source_status: discontinued
 metadata_available: No
 metadata_url: 

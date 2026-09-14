@@ -4,9 +4,9 @@ organization: Bureau of Transportation Statistics
 agency: Department of Transportation
 websites: data.bts.gov
 data_source: https://data.bts.gov/Research-and-Statistics/Daily-Mobility-Statistics/w96p-f2qv/about_data
-description: 
-last_modified: 2025-05-12
-dataset_source_status: 
+description: a data project that tracked how many people stayed home and how far people traveled during the COVID-19 pandemic using anonymized mobile phone data.
+last_modified: 2026-09-13
+dataset_source_status: discontinued
 metadata_available: No
 metadata_url: 
 category:
