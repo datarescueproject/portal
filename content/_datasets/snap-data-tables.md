@@ -14,7 +14,7 @@ category:
 resources:
   - id: 161
     url: https://doi.org/10.7910/DVN/AMUKJ0
-    format: CSV, TSV, RData
+    format: CSV, TSV, RDATA
     status: Finished
     size: 0.01
     download_date: 2025-02-14

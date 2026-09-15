@@ -14,7 +14,7 @@ category:
 resources:
   - id: 136
     url: https://www.datalumos.org/datalumos/project/219341/version/V1/view
-    format: CSV, GeoJSON, GPKG, TXT, KMZ, ZIP
+    format: CSV, GEOJSON, GPKG, TXT, KMZ, ZIP
     status: Finished
     size: 0.01
     download_date: 2025-02-14

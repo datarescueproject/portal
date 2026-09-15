@@ -14,7 +14,7 @@ category:
 resources:
   - id: 1700
     url: https://www.datalumos.org/datalumos/project/239963/version/V1/view
-    format: GeoTIFF, PDF, PNG, WMS
+    format: GEOTIFF, PDF, PNG, WMS
     status: Finished
     size: 9.28
     download_date: 2025-11-10

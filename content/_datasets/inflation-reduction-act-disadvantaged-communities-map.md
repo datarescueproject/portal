@@ -14,7 +14,7 @@ category:
 resources:
   - id: 183
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/FMKBXS
-    format: Shapefile, ZIP, PDF, HTML
+    format: SHAPEFILE, ZIP, PDF, HTML
     status: Finished
     size: 1.3
     download_date: 2025-01-27
@@ -22,7 +22,7 @@ resources:
     notes: https://www.epa.gov/environmentaljustice/inflation-reduction-act-disadvantaged-communities-map; data download here https://gaftp.epa.gov/EPA_IRA_Public/
   - id: 184
     url: https://zenodo.org/records/14833639
-    format: Shapefile, ZIP, PDF
+    format: SHAPEFILE, ZIP, PDF
     status: Finished
     size: 99.4
     download_date: 2025-02-07

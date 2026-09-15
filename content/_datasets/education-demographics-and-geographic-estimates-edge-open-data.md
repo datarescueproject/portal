@@ -14,7 +14,7 @@ category:
 resources:
   - id: 769
     url: https://www.datalumos.org/datalumos/project/218863/version/V1/view
-    format: ZIP, plain text
+    format: ZIP, PLAIN TEXT
     status: Finished
     size: 11.089
     download_date: 2025-02-06

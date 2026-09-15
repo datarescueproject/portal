@@ -14,7 +14,7 @@ category:
 resources:
   - id: 1372
     url: https://www.datalumos.org/datalumos/project/238879/view
-    format: GeoJSON, Shapefile, ZIP
+    format: GEOJSON, SHAPEFILE, ZIP
     status: Finished
     size: 
     download_date: 2025-08-26

@@ -14,7 +14,7 @@ category:
 resources:
   - id: 688
     url: https://archive.org/details/noaa-ncei-ndbc-nwlon-coops
-    format: NC, history
+    format: NC, HISTORY
     status: Finished
     size: 1.5
     download_date: 2025-04-06

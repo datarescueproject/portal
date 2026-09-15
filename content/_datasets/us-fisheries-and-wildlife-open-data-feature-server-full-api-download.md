@@ -15,7 +15,7 @@ category:
 resources:
   - id: 897
     url: https://sciop.net/datasets/usfw-open-data-gis-full-crawl
-    format: GeoJSON, JSON
+    format: GEOJSON, JSON
     status: Finished
     size: 130.0
     download_date: 2025-05-07

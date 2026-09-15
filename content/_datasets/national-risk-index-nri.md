@@ -23,7 +23,7 @@ resources:
     notes: 
   - id: 192
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/JSQ8KZ
-    format: Geodatabase, Shapefile, CSV
+    format: SHAPEFILE, CSV, GEODATABASE
     status: Finished
     size: 2.6
     download_date: 2024-12-11

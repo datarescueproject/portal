@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3443
     url: https://www.datalumos.org/datalumos/project/250367/version/V1/view
-    format: HTML, JSON, PDF, XL, XLS
+    format: HTML, JSON, PDF, XLS
     status: Finished
     size: 0.0718
     download_date: 2026-06-26

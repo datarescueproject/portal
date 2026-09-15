@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3320
     url: https://www.datalumos.org/datalumos/project/250351/version/V1/view
-    format: FAS, GFF, HTML, JSON
+    format: GFF, HTML, JSON, FASTA
     status: Finished
     size: 0.2216
     download_date: 2026-06-26
@@ -23,7 +23,7 @@ resources:
     notes: 
   - id: 3440
     url: https://www.datalumos.org/datalumos/project/250364/version/V1/view
-    format: FAS, GFF, HTML, JSON
+    format: GFF, HTML, JSON, FASTA
     status: Finished
     size: 0.2095
     download_date: 2026-06-26

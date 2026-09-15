@@ -14,7 +14,7 @@ category:
 resources:
   - id: 1047
     url: https://www.datalumos.org/datalumos/project/227981/version/V1/view
-    format: PDF, XLSX, Shapefile
+    format: PDF, XLSX, SHAPEFILE
     status: Finished
     size: 0.68
     download_date: 2025-04-23

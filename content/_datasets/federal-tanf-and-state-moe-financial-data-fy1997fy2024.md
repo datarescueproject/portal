@@ -14,7 +14,7 @@ category:
 resources:
   - id: 5092
     url: https://www.datalumos.org/datalumos/project/251517/version/V2/view
-    format: XLS, XLSX, CSV, PDF, DOC, PPTX, ZIP, Markdown
+    format: XLS, XLSX, CSV, PDF, DOC, PPTX, ZIP, MARKDOWN
     status: Finished
     size: 0.059
     download_date: 2026-07-31

@@ -23,7 +23,7 @@ resources:
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 44
     url: https://edgi-govdata-archiving.github.io/cdc_eji_county_level_reports/
-    format: Webpage, PDF
+    format: WEBPAGE, PDF
     status: Finished
     size: 0.0
     download_date: 2025-02-12
@@ -39,7 +39,7 @@ resources:
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
   - id: 46
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/ZVKXVQ
-    format: CSV, Geodatabase, XLSX, TAB
+    format: CSV, XLSX, TAB, GEODATABASE
     status: Finished
     size: 0.23
     download_date: 2024-12-12

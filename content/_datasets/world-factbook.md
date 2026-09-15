@@ -40,7 +40,7 @@ resources:
     notes: 
   - id: 4750
     url: https://databook.dataint.net/
-    format: Webpage
+    format: WEBPAGE
     status: Finished
     size: 
     download_date: 

@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3622
     url: https://www.datalumos.org/datalumos/project/250691/version/V1/view
-    format: CSV, HTML, JPG, JSON
+    format: CSV, HTML, JSON, JPEG
     status: Finished
     size: 0.0003
     download_date: 2026-06-27

@@ -16,7 +16,7 @@ category:
 resources:
   - id: 576
     url: https://zenodo.org/records/14783215
-    format: Shapefile, CSV
+    format: SHAPEFILE, CSV
     status: Finished
     size: 2.1
     download_date: 2025-01-31

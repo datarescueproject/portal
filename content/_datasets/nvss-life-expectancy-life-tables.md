@@ -14,7 +14,7 @@ category:
 resources:
   - id: 3539
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/XWI35Y
-    format: PDF, 7Z, HTM
+    format: PDF, 7Z
     status: Finished
     size: 0.4577
     download_date: 2025-06-03

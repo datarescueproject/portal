@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3614
     url: https://www.datalumos.org/datalumos/project/250682/version/V1/view
-    format: DOCX, HTML, JPG, JSON, PDF, PNG
+    format: DOCX, HTML, JSON, PDF, PNG, JPEG
     status: Finished
     size: 0.0063
     download_date: 2026-06-27

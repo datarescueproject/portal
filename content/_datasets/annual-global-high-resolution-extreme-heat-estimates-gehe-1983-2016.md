@@ -14,7 +14,7 @@ category:
 resources:
   - id: 1686
     url: https://www.datalumos.org/datalumos/project/240762/version/V1/view
-    format: GeoTIFF
+    format: GEOTIFF
     status: Finished
     size: 0.1
     download_date: 2025-11-28

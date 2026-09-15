@@ -14,7 +14,7 @@ category:
 resources:
   - id: 762
     url: https://www.datalumos.org/datalumos/project/227423/version/V2/view
-    format: CSV, Shapefile, Geodatabase, XLSX, TXT, ZIP
+    format: CSV, SHAPEFILE, XLSX, TXT, ZIP, GEODATABASE
     status: Finished
     size: 0.1
     download_date: 2025-04-23

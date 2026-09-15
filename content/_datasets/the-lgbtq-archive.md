@@ -31,7 +31,7 @@ category:
 resources:
   - id: 1196
     url: https://www.thelgbtqarchive.org/
-    format: PDF, Webpage
+    format: PDF, WEBPAGE
     status: Finished
     size: 0.0
     download_date: 

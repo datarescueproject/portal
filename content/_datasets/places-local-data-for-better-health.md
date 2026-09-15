@@ -22,7 +22,7 @@ resources:
     notes: 
   - id: 48
     url: https://zenodo.org/records/14774046
-    format: CSV, ZIP, GeoJSON
+    format: CSV, ZIP, GEOJSON
     status: Finished
     size: 62.0
     download_date: 2025-01-30

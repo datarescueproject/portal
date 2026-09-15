@@ -14,7 +14,7 @@ category:
 resources:
   - id: 1038
     url: https://sciop.net/uploads/ca3f9f1b95df0c3b6f0c45c7c640d8ce8f6de6a9
-    format: Geodatabase, Shapefile
+    format: SHAPEFILE, GEODATABASE
     status: Finished
     size: 0.17
     download_date: 2025-05-26

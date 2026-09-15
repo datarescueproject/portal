@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3605
     url: https://www.datalumos.org/datalumos/project/250673/version/V1/view
-    format: GZ, HTML, JPG, JSON, PDF, TXT, XLSX
+    format: GZ, HTML, JSON, PDF, TXT, XLSX, JPEG
     status: Finished
     size: 0.0477
     download_date: 2026-06-27

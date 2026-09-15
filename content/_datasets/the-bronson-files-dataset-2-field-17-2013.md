@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3849
     url: https://www.datalumos.org/datalumos/project/250937/version/V1/view
-    format: CSV, HTML, JPG, JSON, MOV, PDF, TXT, XLSX
+    format: CSV, HTML, JSON, MOV, PDF, TXT, XLSX, JPEG
     status: Finished
     size: 343.4
     download_date: 2026-06-29

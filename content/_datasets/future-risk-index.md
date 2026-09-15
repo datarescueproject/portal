@@ -15,7 +15,7 @@ category:
 resources:
   - id: 5100
     url: https://fulton-ring.github.io/nri-future-risk
-    format: Interactive Map
+    format: INTERACTIVE MAP
     status: Finished
     size: 
     download_date: 

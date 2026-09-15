@@ -14,7 +14,7 @@ category:
 resources:
   - id: 1324
     url: https://purl.stanford.edu/wc590wy7435
-    format: Geodatabase, Shapefile, GIS
+    format: SHAPEFILE, GIS, GEODATABASE
     status: Finished
     size: 
     download_date: 2023-06-05

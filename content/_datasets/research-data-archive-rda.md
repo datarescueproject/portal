@@ -16,7 +16,7 @@ category:
 resources:
   - id: 717
     url: https://sciop.net/datasets/usfs-rds-archive
-    format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GBD, MDB, SQLite, PDF, PNG, MP3, MP4
+    format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GEODATABASE, MDB, SQLITE, PDF, PNG, MP3, MP4
     status: Finished
     size: 44.65
     download_date: 2025-04-04
@@ -24,7 +24,7 @@ resources:
     notes: Compressed .zip file of US Forest Service Research Data Archive. Expands to 138GB.Raw data of USFS field research going back decades.
   - id: 3061
     url: https://sciop.net/datasets/usfs-rda-full-archive
-    format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GBD, MDB, SQLite, PDF
+    format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GEODATABASE, MDB, SQLITE, PDF
     status: Finished
     size: 5100.0
     download_date: 2026-08-22

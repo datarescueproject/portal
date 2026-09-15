@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3919
     url: https://www.datalumos.org/datalumos/project/250353/version/V1/view
-    format: FAS, HTML, JSON
+    format: HTML, JSON, FASTA
     status: Finished
     size: 15.2
     download_date: 2026-06-26

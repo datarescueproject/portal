@@ -15,7 +15,7 @@ category:
 resources:
   - id: 1723
     url: https://www.datalumos.org/datalumos/project/240584/version/V1/view
-    format: GeoTIFF, Geodatabase
+    format: GEOTIFF, GEODATABASE
     status: Finished
     size: 4.43
     download_date: 2025-11-18
@@ -23,7 +23,7 @@ resources:
     notes: 2016
   - id: 1724
     url: https://www.datalumos.org/datalumos/project/240641/version/V1/view
-    format: GeoTIFF, Geodatabase
+    format: GEOTIFF, GEODATABASE
     status: Finished
     size: 13.7
     download_date: 2025-11-18
@@ -31,7 +31,7 @@ resources:
     notes: 2020
   - id: 1725
     url: https://www.datalumos.org/datalumos/project/240640/version/V1/view
-    format: GeoTIFF, Geodatabase
+    format: GEOTIFF, GEODATABASE
     status: Finished
     size: 7.2
     download_date: 2025-11-18

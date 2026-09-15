@@ -15,7 +15,7 @@ category:
 resources:
   - id: 3885
     url: https://www.datalumos.org/datalumos/project/250973/version/V1/view
-    format: FAS, HTML, JSON
+    format: HTML, JSON
     status: Finished
     size: 1.6
     download_date: 2026-06-29

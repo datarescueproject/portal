@@ -14,7 +14,7 @@ category:
 resources:
   - id: 163
     url: https://www.openicpsr.org/openicpsr/project/220102/version/V1/view
-    format: TXT, PDF, Shapefile
+    format: TXT, PDF, SHAPEFILE
     status: Finished
     size: 1.6
     download_date: 2025-02-05

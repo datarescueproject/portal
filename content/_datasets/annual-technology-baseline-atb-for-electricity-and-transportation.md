@@ -15,7 +15,7 @@ category:
 resources:
   - id: 219
     url: https://zenodo.org/records/14784563
-    format: Parquet, XLSX, JSON
+    format: PARQUET, XLSX, JSON
     status: Finished
     size: 3.7
     download_date: 2024-08-01

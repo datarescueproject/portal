@@ -22,7 +22,7 @@ resources:
     notes: Sea Level Rise for the Continental United States showing areas of coastal inundation for each scenario between 2005 and 2150 (10-year intervals).
   - id: 898
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/HW7HLM
-    format: TIFF, Shapefile, GPKG, PDF
+    format: TIFF, SHAPEFILE, GPKG, PDF
     status: Finished
     size: 1300.0
     download_date: 2025-02-22

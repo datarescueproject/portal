@@ -14,7 +14,7 @@ category:
 resources:
   - id: 999
     url: https://sciop.net/uploads/464095890fe5795496b9e20ba0d6b93f2c8f74bf
-    format: TIFF, Shapefile, Geodatabase, CSV
+    format: TIFF, SHAPEFILE, CSV, GEODATABASE
     status: Finished
     size: 160.0
     download_date: 2025-05-14

@@ -14,7 +14,7 @@ category:
 resources:
   - id: 774
     url: https://www.datalumos.org/datalumos/project/226931/version/V1/view
-    format: JSON, PNG, CSV, plain text
+    format: JSON, PNG, CSV, PLAIN TEXT
     status: Finished
     size: 0.04
     download_date: 2025-03-04
