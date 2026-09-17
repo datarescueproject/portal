@@ -5,7 +5,7 @@ agency: Department of Health and Human Services
 websites: data.cdc.gov
 data_source: https://data.cdc.gov/Global-Survey-Data/Global-Tobacco-Surveillance-System-GTSS-Global-Adu/4xf6-nrwk/about_data
 description: 
-last_modified: 2026-08-15
+last_modified: 2026-09-16
 dataset_source_status: modified
 metadata_available: No
 metadata_url: 

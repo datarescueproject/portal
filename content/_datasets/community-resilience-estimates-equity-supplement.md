@@ -4,9 +4,9 @@ organization: Census Bureau
 agency: Department of Commerce
 websites: census.gov
 data_source: https://www.census.gov/programs-surveys/community-resilience-estimates/data/supplement.html
-description: 
-last_modified: 2026-07-11
-dataset_source_status: discontinued
+description: https://essentialdata.us/terminations-tracker "The evidence is a pair of archived captures showing the page live on February 2, 2025 and returning a 404 the following day. No discontinuation notice has been located; what is documented is removal from public access. Date terminated reflects the first capture returning 404."
+last_modified: 2026-09-16
+dataset_source_status: removed
 metadata_available: Yes
 metadata_url: 
 category:
