@@ -1,12 +1,12 @@
 ---
-title: Civil Rights Data Collection
+title: Civil Rights Data Collection (CRDC)
 organization: Office for Civil Rights
 agency: Department of Education
 websites: civilrightsdata.ed.gov
 data_source: https://civilrightsdata.ed.gov/data
-description: 
-last_modified: 2025-02-25
-dataset_source_status: 
+description: https://essentialdata.us/terminations-tracker "nonbinary category and the harassment-based-on-gender-identity data elements were removed"
+last_modified: 2026-09-19
+dataset_source_status: modified
 metadata_available: Yes
 metadata_url: 
 category:

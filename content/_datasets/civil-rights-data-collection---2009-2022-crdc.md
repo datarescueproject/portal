@@ -1,12 +1,12 @@
 ---
-title: Civil Rights Data Collection - 2009-2022
+title: Civil Rights Data Collection - 2009-2022 (CRDC)
 organization: Office of Chief Information Officer
 agency: Department of Education
 websites: ed.gov
 data_source: https://www.ed.gov/
-description: 
-last_modified: 2025-03-02
-dataset_source_status: 
+description: https://essentialdata.us/terminations-tracker "nonbinary category and the harassment-based-on-gender-identity data elements were removed"
+last_modified: 2026-09-19
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:
