@@ -1,0 +1,23 @@
+---
+title: American Recovery And Reinvestment Act - Report of 01/13/2012
+organization: Social Security Administration
+agency: Social Security Administration
+websites: catalog.data.gov
+data_source: https://catalog.data.gov/dataset/american-recovery-and-reinvestment-act-report-of-01-13-2012
+description: 
+last_modified: 2026-09-21
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Social Services 
+resources:
+  - id: 7327
+    url: https://www.datalumos.org/datalumos/project/254708/version/V1/view
+    format: PDF, XLSX
+    status: Finished
+    size: 0.0013
+    download_date: 2026-09-13
+    maintainer: DRP, DL
+    notes: 
+---
