@@ -5,8 +5,8 @@ agency: Department of Health and Human Services
 websites: mchb.hrsa.gov
 data_source: https://mchb.hrsa.gov/data-research/national-survey-childrens-health
 description: 
-last_modified: 2025-04-18
-dataset_source_status: 
+last_modified: 2026-09-23
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:
@@ -19,5 +19,5 @@ resources:
     size: 2.36
     download_date: 2025-04-18
     maintainer: DRP, DL
-    notes: 
+    notes: Per essentialdata.us "The survey continues; the item on unfair treatment because of sexual orientation or gender identity was removed, dropped without notice from the reposted 2024 questionnaire."
 ---

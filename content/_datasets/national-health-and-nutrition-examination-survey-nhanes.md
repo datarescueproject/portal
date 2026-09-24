@@ -5,8 +5,8 @@ agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://wwwn.cdc.gov/nchs/nhanes/default.aspx
 description: 
-last_modified: 2025-09-02
-dataset_source_status: 
+last_modified: 2026-09-23
+dataset_source_status: modified
 metadata_available: Yes
 metadata_url: 
 category:
@@ -19,5 +19,5 @@ resources:
     size: 1.4
     download_date: 2025-04-01
     maintainer: HD, CAFE-RCC
-    notes: The archived dataset remains incomplete because a small number of very large data files/sets exceeded my local storage capacity. Please see README file for more information (linked here and also in the ZIP).
+    notes: Per essentialdata.us "The survey continues; in April 2025 CDC submitted a non-substantive change to modify NHANES collection documents to comply with recently issued executive orders. The record does not identify which gender-related items were changed or removed."
 ---
