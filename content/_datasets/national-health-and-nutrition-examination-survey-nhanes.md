@@ -4,8 +4,8 @@ organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://wwwn.cdc.gov/nchs/nhanes/default.aspx
-description: 
-last_modified: 2026-09-23
+description: Per essentialdata.us "The survey continues; in April 2025 CDC submitted a non-substantive change to modify NHANES collection documents to comply with recently issued executive orders. The record does not identify which gender-related items were changed or removed." national health and nutrition.
+last_modified: 2026-09-28
 dataset_source_status: modified
 metadata_available: Yes
 metadata_url: 
@@ -19,5 +19,5 @@ resources:
     size: 1.4
     download_date: 2025-04-01
     maintainer: HD, CAFE-RCC
-    notes: Per essentialdata.us "The survey continues; in April 2025 CDC submitted a non-substantive change to modify NHANES collection documents to comply with recently issued executive orders. The record does not identify which gender-related items were changed or removed."
+    notes: The archived project is not complete due to large size of some files. Please read the README file in the linked ZIP.
 ---
