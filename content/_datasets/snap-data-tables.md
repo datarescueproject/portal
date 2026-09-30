@@ -19,5 +19,5 @@ resources:
     size: 0.01
     download_date: 2025-02-14
     maintainer: ANON, HD
-    notes: The original data set includes Guam and the Virgin Islands (and other island territories that do not participate in SNAP and only have missing data here), but my version of the data set does not include the island territories. I plan to add Guam and the Virgin Islands soon.
+    notes: The original data set includes Guam and the Virgin Islands (and other island territories that do not participate in SNAP and only have missing data here), but this version of the data set does not include the island territories. May be added later.
 ---
