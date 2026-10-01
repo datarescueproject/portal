@@ -5,8 +5,8 @@ agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/index.html
 description: 
-last_modified: 2025-05-19
-dataset_source_status: 
+last_modified: 2026-09-30
+dataset_source_status: modified
 metadata_available: Yes
 metadata_url: https://datacatalog.urban.org/dataset/youth-risk-behavior-surveillance-system-yrbss
 category:
