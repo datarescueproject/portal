@@ -5,7 +5,7 @@ agency: National Aeronautics and Space Administration
 websites: earthdata.nasa.gov
 data_source: https://www.earthdata.nasa.gov/data/catalog/sedac-ciesin-sedac-cropclim-giss-db-1.00
 description: 
-last_modified: 2026-09-30
+last_modified: 2026-10-02
 dataset_source_status: 
 metadata_available: No
 metadata_url: 
