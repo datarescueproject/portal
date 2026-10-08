@@ -14,10 +14,10 @@ category:
 resources:
   - id: 1474
     url: https://www.datalumos.org/datalumos/project/236221/view
-    format: 
+    format: PDF, XLSX, ZIP, SAS7BDAT
     status: Finished
-    size: 
+    size: 0.363
     download_date: 
-    maintainer: DL
+    maintainer: DRP, DL
     notes: 
 ---

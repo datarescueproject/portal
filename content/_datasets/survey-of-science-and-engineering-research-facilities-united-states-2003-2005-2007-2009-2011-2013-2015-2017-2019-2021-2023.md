@@ -14,9 +14,9 @@ category:
 resources:
   - id: 1473
     url: https://www.datalumos.org/datalumos/project/235805/view
-    format: 
+    format: PDF, CSV, SAS7BDAT, ZIP
     status: Finished
-    size: 
+    size: 0.003
     download_date: 
     maintainer: DL
     notes: 

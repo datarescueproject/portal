@@ -14,10 +14,10 @@ category:
 resources:
   - id: 1475
     url: https://www.datalumos.org/datalumos/project/236241/view
-    format: 
+    format: PDF, XLS, HTML, DAT, SAS7BDAT, XPT, SAS, PNG, GIF, TXT, SPS, FMT, SD2, XLSX
     status: Finished
-    size: 
+    size: 0.1799
     download_date: 
-    maintainer: DL
+    maintainer: DRP, DL
     notes: 
 ---
