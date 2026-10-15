@@ -4,9 +4,9 @@ organization: Bureau of Economic Analysis
 agency: Department of Commerce
 websites: bea.gov
 data_source: https://www.bea.gov/data/intl-trade-investment/activities-us-affiliates-foreign-mnes
-description: 
-last_modified: 2025-11-24
-dataset_source_status: 
+description: According to essentialdata.us, "starting with survey year 2025, BEA eliminated all annual reporting by minority-owned U.S. affiliates and cut Supplement B on unconsolidated affiliates, so that detail now exists only in the 5-year benchmark."
+last_modified: 2026-10-14
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:

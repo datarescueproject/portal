@@ -4,9 +4,9 @@ organization: Centers for Disease Control and Prevention (CDC)
 agency: Department of Health and Human Services
 websites: cdc.gov
 data_source: https://www.cdc.gov/index.html
-description: 
-last_modified: 2025-03-02
-dataset_source_status: 
+description: essentialdata.us "The survey continues; the question asking how often the respondent had been treated badly or unfairly because of gender identity or sexual orientation was deleted. The 2026 deletions were filed via ICR; earlier January 2025 instrument changes appear to have been made without one."
+last_modified: 2026-10-14
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:

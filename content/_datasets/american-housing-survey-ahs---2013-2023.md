@@ -4,9 +4,9 @@ organization: Web Master Public Affair
 agency: Department of Housing and Urban Development
 websites: hud.gov
 data_source: https://www.hud.gov/
-description: 
-last_modified: 2025-03-02
-dataset_source_status: 
+description: essentialdata.us reports that gender identity measures were eliminated from the 2025 AHS.
+last_modified: 2026-10-14
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:
