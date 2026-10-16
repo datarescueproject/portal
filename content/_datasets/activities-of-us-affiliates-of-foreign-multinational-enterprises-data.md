@@ -13,7 +13,7 @@ category:
   - Business & Economy 
   - Science & Research 
 resources:
-  - id: 1677
+  - id: 1678
     url: https://www.datalumos.org/datalumos/project/240521/version/V2/view
     format: PDF, XLSX
     status: Finished

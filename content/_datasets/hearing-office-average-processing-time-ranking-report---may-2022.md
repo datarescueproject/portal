@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Social Services 
 resources:
-  - id: 6672
+  - id: 6673
     url: https://www.datalumos.org/datalumos/project/254006/version/V1/view
     format: PDF, XML
     status: Finished

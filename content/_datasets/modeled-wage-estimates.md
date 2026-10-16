@@ -13,7 +13,7 @@ category:
   - Business & Economy 
   - Labor & Employment 
 resources:
-  - id: 8071
+  - id: 8072
     url: https://www.datalumos.org/datalumos/project/244667/version/V1/view
     format: XLSX
     status: Finished

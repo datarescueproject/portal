@@ -29,7 +29,7 @@ category:
   - Social Services 
   - State & Policy 
 resources:
-  - id: 1196
+  - id: 1197
     url: https://www.thelgbtqarchive.org/
     format: PDF, WEBPAGE
     status: Finished

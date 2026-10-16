@@ -1,18 +1,18 @@
 ---
 title: Residential Energy Consumption Survey (RECS)
-organization: US Department of Energy - Office of the CIO
+organization: Energy Information Administration
 agency: Department of Energy
 websites: eia.gov
 data_source: https://www.eia.gov/consumption/residential/data/2020/
-description: 
-last_modified: 2025-03-03
-dataset_source_status: 
+description: According to essentialdata.us Collecting continues, but "the RECS household questionnaire's sex/gender question reverted to the 2020 'What is your sex?' wording, dropping the 'Transgender, non-binary, or another gender' response option."
+last_modified: 2026-10-15
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:
   - Energy 
 resources:
-  - id: 171
+  - id: 172
     url: https://doi.org/10.5281/zenodo.14783267
     format: XLSX
     status: Finished

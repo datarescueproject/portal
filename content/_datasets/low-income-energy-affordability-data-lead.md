@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 58
+  - id: 59
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/ZDV0KN
     format: PDF, CSV
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2024-12-18
     maintainer: PEDP, OEDP, HD
     notes: Fact Sheet https://www.energy.gov/sites/default/files/2024-07/lead-tool-factsheet_072624.pdf
-  - id: 59
+  - id: 60
     url: https://zenodo.org/records/14758685
     format: JSON, PDF, ZIP
     status: Finished
@@ -28,7 +28,7 @@ resources:
     download_date: 2025-01-28
     maintainer: PEDP, CaCo
     notes: Fact Sheet https://www.energy.gov/sites/default/files/2024-07/lead-tool-factsheet_072624.pdf
-  - id: 3842
+  - id: 3843
     url: https://datacatalog.urban.org/dataset/low-income-energy-affordability-data-lead-tool
     format: ZIP, PDF, XLSX
     status: Finished

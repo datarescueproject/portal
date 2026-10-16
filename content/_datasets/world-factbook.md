@@ -22,7 +22,7 @@ category:
   - State & Policy 
   - Transportation 
 resources:
-  - id: 2999
+  - id: 3000
     url: https://openfactbook.org/
     format: HTML, JSON
     status: Finished
@@ -30,7 +30,7 @@ resources:
     download_date: 
     maintainer: OPEN, GITHB
     notes: OpenFactBook aggregates data from multiple authoritative sources to provide comprehensive and accurate information. Data sources CIA World Factbook, World Bank Open Data, REST Countries API. Raw datasets https://github.com/factbook/factbook.json. Updates are ongoing.
-  - id: 3000
+  - id: 3001
     url: https://web.archive.org/web/20260131095511/https://www.cia.gov/the-world-factbook/
     format: HTML, PDF
     status: Finished
@@ -38,7 +38,7 @@ resources:
     download_date: 2026-01-31
     maintainer: WM
     notes: 
-  - id: 4750
+  - id: 4751
     url: https://databook.dataint.net/
     format: WEBPAGE
     status: Finished

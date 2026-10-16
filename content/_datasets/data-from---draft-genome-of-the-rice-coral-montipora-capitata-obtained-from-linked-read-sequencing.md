@@ -13,7 +13,7 @@ category:
   - Agriculture 
   - Science & Research 
 resources:
-  - id: 3320
+  - id: 3321
     url: https://www.datalumos.org/datalumos/project/250351/version/V1/view
     format: GFF, HTML, JSON, FASTA
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2026-06-26
     maintainer: DRP, DL
     notes: 
-  - id: 3440
+  - id: 3441
     url: https://www.datalumos.org/datalumos/project/250364/version/V1/view
     format: GFF, HTML, JSON, FASTA
     status: Finished

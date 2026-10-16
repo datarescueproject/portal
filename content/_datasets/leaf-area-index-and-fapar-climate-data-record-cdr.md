@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/products/climate-data-records/leaf-area-
 category:
   - Climate & Environment 
 resources:
-  - id: 683
+  - id: 684
     url: https://sciop.net/uploads/a72cbf8fd10a933b9bed7dc0c3769a3ef195c23a
     format: NC
     status: Finished

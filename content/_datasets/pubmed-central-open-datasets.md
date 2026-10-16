@@ -12,7 +12,7 @@ metadata_url: https://pmc.ncbi.nlm.nih.gov/tools/textmining/
 category:
   - Health & Healthcare 
 resources:
-  - id: 586
+  - id: 587
     url: https://sciop.net/datasets/nih-ncbi-bulk-archives-pmc-lit
     format: TXT, TAR, CSV
     status: Finished

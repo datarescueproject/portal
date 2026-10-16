@@ -12,7 +12,7 @@ metadata_url: https://data.cdc.gov/Public-Health-Surveillance/Weekly-Rates-of-La
 category:
   - Health & Healthcare 
 resources:
-  - id: 1262
+  - id: 1263
     url: https://www.datalumos.org/datalumos/project/238423/version/V1/view
     format: CSV
     status: Finished

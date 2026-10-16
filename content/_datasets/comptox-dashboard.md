@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 1271
+  - id: 1272
     url: https://source.coop/harvard-lil/gov-data/collections/data_gov/the-comptox-chemistry-dashboard-a-community-data-resource-for-environmental-chemistry/v1.zip
     format: ZIP
     status: Finished

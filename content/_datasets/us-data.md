@@ -13,7 +13,7 @@ category:
   - Business & Economy 
   - Science & Research 
 resources:
-  - id: 3434
+  - id: 3435
     url: https://zenodo.org/records/17783602
     format: PDF, JSON, XLSX, CSV, ZIP
     status: Finished

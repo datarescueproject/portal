@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Military & Veterans Affairs 
 resources:
-  - id: 4058
+  - id: 4059
     url: https://www.datalumos.org/datalumos/project/246089/version/V1/view?path=/datalumos/246089/fcrversions/V1/How-to-get-Started-Using-our-Platform-_-Department-of-Veterans-Affairs-Open-Data-Portal.pdf&type=file#
     format: PDF
     status: Finished

@@ -12,7 +12,7 @@ metadata_url: https://data.noaa.gov//metaview/page?xml=NOAA/NESDIS/NGDC/MGG/Geol
 category:
   - Climate & Environment 
 resources:
-  - id: 894
+  - id: 895
     url: https://www.arcgis.com/apps/mapviewer/index.html?webmap=860330143ea34d8f9f47127d939161b7
     format: GIS
     status: Finished
@@ -20,7 +20,7 @@ resources:
     download_date: 2025-04-24
     maintainer: ANON
     notes: The map was decommissioned on May 5 as part of a variety of decommissioned maps listed by NOAA.
-  - id: 1042
+  - id: 1043
     url: https://purl.stanford.edu/kb879ww0098
     format: CSV
     status: Finished

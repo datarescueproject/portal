@@ -14,7 +14,7 @@ category:
   - Climate & Environment 
   - Science & Research 
 resources:
-  - id: 4526
+  - id: 4527
     url: https://www.datalumos.org/datalumos/project/248994/version/V1/view
     format: PDF, ZIP
     status: Finished

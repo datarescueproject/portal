@@ -13,7 +13,7 @@ category:
   - Health & Healthcare 
   - Science & Research 
 resources:
-  - id: 3092
+  - id: 3093
     url: https://sciop.net/datasets/nlm-ncbi-clinical-trials-study-files
     format: JSON
     status: Finished

@@ -14,7 +14,7 @@ category:
   - Climate & Environment 
   - Science & Research 
 resources:
-  - id: 8061
+  - id: 8062
     url: https://www.fs.usda.gov/rds/archive/catalog/RDS-2025-0059
     format: PDF, ZIP
     status: Finished

@@ -14,7 +14,7 @@ category:
   - Infrastructure 
   - Science & Research 
 resources:
-  - id: 577
+  - id: 578
     url: https://zenodo.org/records/14736300
     format: JSON, ZIP
     status: Finished

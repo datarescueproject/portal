@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Science & Research 
 resources:
-  - id: 1686
+  - id: 1687
     url: https://www.datalumos.org/datalumos/project/240762/version/V1/view
     format: GEOTIFF
     status: Finished

@@ -12,7 +12,7 @@ metadata_url: https://web.archive.org/web/20260712004533/https://www.ers.usda.go
 category:
   - Agriculture 
 resources:
-  - id: 3951
+  - id: 3952
     url: https://www.datalumos.org/datalumos/project/251452/version/V1/view
     format: PDF, ZIP, CSV, XLSX
     status: Finished

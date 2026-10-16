@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Labor & Employment 
 resources:
-  - id: 8070
+  - id: 8071
     url: https://www.datalumos.org/datalumos/project/247531/version/V2/view
     format: PDF, CSV
     status: Finished

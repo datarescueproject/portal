@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
   - Health & Healthcare 
 resources:
-  - id: 43
+  - id: 44
     url: https://github.com/oedp/cdc-ej-index
     format: GIT, ZIP
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2025-02-12
     maintainer: OEDP
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
-  - id: 44
+  - id: 45
     url: https://edgi-govdata-archiving.github.io/cdc_eji_county_level_reports/
     format: WEBPAGE, PDF
     status: Finished
@@ -29,7 +29,7 @@ resources:
     download_date: 2025-02-12
     maintainer: EDGI
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
-  - id: 45
+  - id: 46
     url: https://zenodo.org/records/14675861
     format: CSV, ZIP, XLSX
     status: Finished
@@ -37,7 +37,7 @@ resources:
     download_date: 2025-02-12
     maintainer: EDGI
     notes: data dictionary https://eji.cdc.gov/eji_data_download.html; - map https://onemap.cdc.gov/portal/apps/sites/#/eji-explorer
-  - id: 46
+  - id: 47
     url: https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi10.7910/DVN/ZVKXVQ
     format: CSV, XLSX, TAB, GEODATABASE
     status: Finished

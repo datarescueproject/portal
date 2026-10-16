@@ -14,7 +14,7 @@ category:
   - Infrastructure 
   - Science & Research 
 resources:
-  - id: 2966
+  - id: 2967
     url: https://www.datalumos.org/datalumos/project/244585/version/V2/view
     format: XML, HTML, PNG, CSV, ZIP
     status: Finished

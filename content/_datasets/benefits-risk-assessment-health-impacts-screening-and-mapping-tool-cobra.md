@@ -12,7 +12,7 @@ metadata_url: https://www.epa.gov/cobra/cobra-future-input-files
 category:
   - Climate & Environment 
 resources:
-  - id: 172
+  - id: 173
     url: https://doi.org/10.5281/zenodo.14833824
     format: EXE, CSV
     status: Finished

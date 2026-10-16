@@ -13,7 +13,7 @@ category:
   - Agriculture 
   - Science & Research 
 resources:
-  - id: 3303
+  - id: 3304
     url: https://www.datalumos.org/datalumos/project/250333/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished
@@ -21,7 +21,7 @@ resources:
     download_date: 2026-06-26
     maintainer: DRP, DL
     notes: These data cover 2018.
-  - id: 3416
+  - id: 3417
     url: https://www.datalumos.org/datalumos/project/250479/version/V1/view
     format: CSV, HTML, JSON, XLSX
     status: Finished

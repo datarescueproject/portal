@@ -14,7 +14,7 @@ category:
   - Climate & Environment 
   - Science & Research 
 resources:
-  - id: 717
+  - id: 718
     url: https://sciop.net/datasets/usfs-rds-archive
     format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GEODATABASE, MDB, SQLITE, PDF, PNG, MP3, MP4
     status: Finished
@@ -22,7 +22,7 @@ resources:
     download_date: 2025-04-04
     maintainer: SRC
     notes: Compressed .zip file of US Forest Service Research Data Archive. Expands to 138GB.Raw data of USFS field research going back decades.
-  - id: 3061
+  - id: 3062
     url: https://sciop.net/datasets/usfs-rda-full-archive
     format: CSV, TXT, XLSX, TIFF, SHP, GPKG, GEODATABASE, MDB, SQLITE, PDF
     status: Finished

@@ -13,7 +13,7 @@ category:
   - Arts & Culture 
   - Science & Research 
 resources:
-  - id: 1741
+  - id: 1742
     url: https://sciop.net/datasets/nara-presidential-records-s3-mirror
     format: JPEG, PDF, TIFF
     status: Finished

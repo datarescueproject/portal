@@ -12,7 +12,7 @@ metadata_url: https://coralreefwatch.noaa.gov/product/index.php
 category:
   - Climate & Environment 
 resources:
-  - id: 1024
+  - id: 1025
     url: https://sciop.net/datasets/noaa-nesdis-star-coral-reef-watch
     format: PNG, NC
     status: Finished

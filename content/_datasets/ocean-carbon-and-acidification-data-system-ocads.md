@@ -12,7 +12,7 @@ metadata_url: https://www.ncei.noaa.gov/products/ocean-carbon-acidification-data
 category:
   - Climate & Environment 
 resources:
-  - id: 689
+  - id: 690
     url: https://sciop.net/uploads/e490a659449cc55cf59a8f32fbd2b230f63e7829
     format: CSV, JPEG, XLS, PS, PDF
     status: Finished

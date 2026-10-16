@@ -13,7 +13,7 @@ category:
   - Agriculture 
   - Science & Research 
 resources:
-  - id: 3773
+  - id: 3774
     url: https://www.datalumos.org/datalumos/project/250857/version/V1/view
     format: FASTA, HTML, JSON
     status: Finished

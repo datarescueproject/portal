@@ -13,7 +13,7 @@ category:
   - Health & Healthcare 
   - Science & Research 
 resources:
-  - id: 3090
+  - id: 3091
     url: https://sciop.net/datasets/fda-faers-quarterly-data
     format: ZIP, ASCII
     status: Finished

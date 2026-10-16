@@ -14,7 +14,7 @@ category:
   - Humanitarian & Disaster Relief 
   - Science & Research 
 resources:
-  - id: 1115
+  - id: 1116
     url: https://doi.org/10.3886/E232622V1
     format: KML, PNG, ZIP
     status: Finished

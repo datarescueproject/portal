@@ -14,7 +14,7 @@ category:
   - Infrastructure 
   - Science & Research 
 resources:
-  - id: 1060
+  - id: 1061
     url: https://www.datalumos.org/datalumos/project/232046/version/V1/view
     format: TIFF, XML, HTML, PDF
     status: Finished

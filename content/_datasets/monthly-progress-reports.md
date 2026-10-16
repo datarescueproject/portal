@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Business & Economy 
 resources:
-  - id: 1172
+  - id: 1173
     url: https://www.datalumos.org/datalumos/project/235261/version/V1/view
     format: PNG, XLSX
     status: Finished

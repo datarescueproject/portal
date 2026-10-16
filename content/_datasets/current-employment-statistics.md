@@ -13,7 +13,7 @@ category:
   - Business & Economy 
   - Labor & Employment 
 resources:
-  - id: 1682
+  - id: 1683
     url: https://www.datalumos.org/datalumos/project/238628/version/V1/view
     format: PDF, TXT
     status: Finished
