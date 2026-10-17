@@ -4,9 +4,9 @@ organization: National Center for Education Statistics
 agency: Department of Education
 websites: nces.ed.gov
 data_source: https://nces.ed.gov/programs/crime/tables.asp
-description: 
-last_modified: 2025-07-31
-dataset_source_status: 
+description: essentialdata.us reports Within this data, the [School Crime Supplement to the National Crime Victimization Survey] continues, however, "questions using the term 'gender' were revised under Executive Order 14168. The same round also dropped the COVID-19 items and updated the drug and alcohol availability questions."
+last_modified: 2026-10-16
+dataset_source_status: modified
 metadata_available: Yes
 metadata_url: 
 category:
