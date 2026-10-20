@@ -1,0 +1,24 @@
+---
+title: National Park Service - SRI - Soil Survey Geographic (SSURGO) for Redwood National and State Parks, CA
+organization: National Park Service
+agency: Department of the Interior
+websites: irma.nps.gov
+data_source: https://irma.nps.gov/DataStore/Reference/Profile/1048963
+description: 
+last_modified: 2026-10-19
+dataset_source_status: 
+metadata_available: Yes
+metadata_url: 
+category:
+  - Climate & Environment 
+  - Infrastructure 
+resources:
+  - id: 9642
+    url: https://www.datalumos.org/datalumos/project/256972/version/V1/view
+    format: JSON, XML
+    status: Finished
+    size: 2.1
+    download_date: 2026-09-27
+    maintainer: DRP, DL
+    notes: 
+---

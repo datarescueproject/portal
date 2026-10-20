@@ -1,0 +1,24 @@
+---
+title: NETN Monitoring Rocky Intertidal (2008-Ongoing)
+organization: National Park Service
+agency: Department of the Interior
+websites: irma.nps.gov
+data_source: https://irma.nps.gov/DataStore/Reference/Profile/2191690
+description: 
+last_modified: 2026-10-19
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Climate & Environment 
+  - Infrastructure 
+resources:
+  - id: 9582
+    url: https://www.datalumos.org/datalumos/project/257528/version/V1/view
+    format: DOCX, FMP12, JSON, PDF, XLSX, ZIP
+    status: Finished
+    size: 0.3103
+    download_date: 2026-09-27
+    maintainer: DRP, DL
+    notes: 
+---

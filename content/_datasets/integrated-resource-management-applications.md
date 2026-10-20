@@ -1,7 +1,7 @@
 ---
 title: Integrated Resource Management Applications
 organization: National Park Service
-agency: Department of the Interior, National Parks Service
+agency: Department of the Interior
 websites: irma.nps.gov
 data_source: https://irma.nps.gov/DataStore/
 description: 

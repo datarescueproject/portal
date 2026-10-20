@@ -1,7 +1,7 @@
 ---
 title: Inventory of Human Remains or Associated Funerary Objects
 organization: National Park Service
-agency: Department of the Interior, National Parks Service
+agency: Department of the Interior
 websites: apps.cr.nps.gov/nagprapublic/Home/Inventory
 data_source: https://apps.cr.nps.gov/nagprapublic/Home/Inventory
 description: 

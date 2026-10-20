@@ -1,7 +1,7 @@
 ---
 title: Climate Change Response Strategy Resources
 organization: National Park Service
-agency: Department of the Interior, National Parks Service
+agency: Department of the Interior
 websites: nps.gov
 data_source: https://www.nps.gov/subjects/climatechange/response-strategy.htm
 description: 

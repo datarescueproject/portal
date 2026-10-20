@@ -1,7 +1,7 @@
 ---
 title: Cultural Resources Climate Change Strategy
 organization: National Park Service
-agency: Department of the Interior, National Parks Service
+agency: Department of the Interior
 websites: nps.gov
 data_source: https://www.nps.gov/subjects/climatechange/culturalresourcesstrategy.htm
 description: 

@@ -1,7 +1,7 @@
 ---
 title: Wildland Fire Plans and Policy
 organization: National Park Service
-agency: Department of the Interior, National Parks Service
+agency: Department of the Interior
 websites: nps.gov
 data_source: https://www.nps.gov/subjects/fire/wildland-fire-plans-and-policy.htm
 description: 

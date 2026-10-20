@@ -1,7 +1,7 @@
 ---
 title: Hydrographic and Impairment Statistics for Parks, Regions, Networks and NPS Wild and Scenic Rivers
 organization: National Park Service
-agency: Department of the Interior, National Parks Service
+agency: Department of the Interior
 websites: irma.nps.gov
 data_source: https://irma.nps.gov/DataStore/Reference/Profile/2188821
 description: 
