@@ -1,11 +1,11 @@
 ---
 title: Form EIA-923
-organization: US Department of Energy - Office of the CIO
+organization: Energy Information Administration
 agency: Department of Energy
 websites: eia.gov
 data_source: https://www.eia.gov/electricity/data/eia923/
 description: 
-last_modified: 2025-04-24
+last_modified: 2026-10-27
 dataset_source_status: 
 metadata_available: No
 metadata_url: 
