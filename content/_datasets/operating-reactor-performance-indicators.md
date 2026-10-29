@@ -13,7 +13,7 @@ category:
   - Health & Healthcare 
   - Science & Research 
 resources:
-  - id: 9722
+  - id: 9724
     url: https://www.datalumos.org/datalumos/project/257720/version/V1/view
     format: XLS
     status: Finished

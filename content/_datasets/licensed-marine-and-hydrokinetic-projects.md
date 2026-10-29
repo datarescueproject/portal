@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Energy 
 resources:
-  - id: 9790
+  - id: 9792
     url: https://www.datalumos.org/datalumos/project/257794/version/V1/view
     format: CSV, JSON, PDF
     status: Finished

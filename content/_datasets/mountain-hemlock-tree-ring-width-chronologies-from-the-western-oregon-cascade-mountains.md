@@ -14,7 +14,7 @@ category:
   - Climate & Environment 
   - Science & Research 
 resources:
-  - id: 8067
+  - id: 8069
     url: https://sciop.net/uploads/bc7f6fca29dd288d50287a1cf665e5fff19b14cd
     format: TXT, CRN
     status: Finished

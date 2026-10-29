@@ -13,7 +13,7 @@ category:
   - Climate & Environment 
   - Infrastructure 
 resources:
-  - id: 8704
+  - id: 8706
     url: https://www.datalumos.org/datalumos/project/256078/version/V1/view
     format: DBF, JSON, PDF, XML, ZIP
     status: Finished
