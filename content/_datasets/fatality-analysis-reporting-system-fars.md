@@ -5,8 +5,8 @@ agency: Department of Transportation
 websites: nhtsa.gov
 data_source: https://www.nhtsa.gov/file-downloads?p=nhtsa/downloads/FARS/
 description: 
-last_modified: 2025-12-23
-dataset_source_status: 
+last_modified: 2026-10-29
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:

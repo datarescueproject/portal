@@ -5,8 +5,8 @@ agency: Department of Health and Human Services
 websites: catalog.data.gov
 data_source: https://catalog.data.gov/dataset/health-information-national-trends-survey-hints
 description: 
-last_modified: 2026-09-08
-dataset_source_status: 
+last_modified: 2026-10-29
+dataset_source_status: modified
 metadata_available: No
 metadata_url: 
 category:

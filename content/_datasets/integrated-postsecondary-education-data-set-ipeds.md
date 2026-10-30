@@ -5,8 +5,8 @@ agency: Department of Education
 websites: nces.ed.gov
 data_source: https://nces.ed.gov/ipeds/datacenter/DataFiles.aspx?year=-1&sid=7b86b933-b5f1-4816-b3c9-993fc96cf754&rtid=7
 description: 
-last_modified: 2025-03-20
-dataset_source_status: 
+last_modified: 2026-10-29
+dataset_source_status: modified
 metadata_available: Yes
 metadata_url: 
 category:

@@ -1,11 +1,11 @@
 ---
 title: Minority Health Index (MHI)
-organization: Office of the Secretary - Department of Health and Human Services
+organization: Office of the Assistant Secretary for Health - Office of the Secretary
 agency: Department of Health and Human Services
 websites: minorityhealth.hhs.gov
 data_source: https://minorityhealth.hhs.gov/minority-health-index
 description: dataset, data dictionary
-last_modified: 2026-09-11
+last_modified: 2026-10-29
 dataset_source_status: urgent
 metadata_available: No
 metadata_url: 
