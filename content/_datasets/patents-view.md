@@ -1,6 +1,6 @@
 ---
 title: Patents View
-organization: USPTO
+organization: United States Patent and Trademark Office
 agency: Department of Commerce
 websites: patentsview.org
 data_source: https://patentsview.org/download/data-download-tables

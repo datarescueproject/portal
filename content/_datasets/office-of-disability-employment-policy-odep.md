@@ -1,7 +1,7 @@
 ---
 title: Office of Disability Employment Policy (ODEP)
 organization: Office of the Chief Information Officer
-agency: Department of Commerce
+agency: Department of Labor
 websites: dol.gov
 data_source: https://www.dol.gov/agencies/odep/research-evaluation/statistics
 description: 
