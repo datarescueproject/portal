@@ -1,7 +1,7 @@
 ---
 title: Donor Registry Data
 organization: Health Resources and Services Administration (HRSA)
-agency: Department of Health and Human Services, Health Resources and Services Administration
+agency: Department of Health and Human Services
 websites: bloodstemcell.hrsa.gov
 data_source: https://bloodstemcell.hrsa.gov/data/donation-and-transplantation-statistics/donor-registry-data
 description: 

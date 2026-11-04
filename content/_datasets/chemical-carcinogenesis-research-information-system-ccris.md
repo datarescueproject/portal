@@ -1,6 +1,6 @@
 ---
 title: Chemical Carcinogenesis Research Information System (CCRIS)
-organization: National Institutes of Health (NIH)
+organization: National Institutes of Health
 agency: Department of Health and Human Services
 websites: catalog.data.gov
 data_source: https://catalog.data.gov/dataset/chemical-carcinogenesis-research-information-system-ccris-b2cd3
@@ -11,7 +11,6 @@ metadata_available: Yes
 metadata_url: 
 category:
   - Health & Healthcare 
-  - Science & Research 
 resources:
   - id: 5084
     url: https://www.datalumos.org/datalumos/project/251496/version/V1/view

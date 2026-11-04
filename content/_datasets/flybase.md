@@ -1,6 +1,6 @@
 ---
 title: FlyBase
-organization: National Institutes of Health (NIH)
+organization: National Institutes of Health
 agency: Department of Health and Human Services
 websites: flybase.org
 data_source: https://flybase.org/downloads/archivedata

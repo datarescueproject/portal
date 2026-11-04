@@ -55,7 +55,7 @@ National Security Agency,National Security & Defense
 National Security Agency - Laboratory for Physical Sciences,National Security & Defense;Science & Research
 National Security Education Program (NSEP) at DLNSEO,Education;National Security & Defense
 Navy,National Security & Defense
-NRO,National Security & Defense
+National Reconnaissance Office,National Security & Defense
 Office of Local Defense Community Cooperation,National Security & Defense
 Office of the Under Secretary of Defense for Acquisition - Technology and Logistics,National Security & Defense
 Office of Warrior Care Policy,National Security & Defense
@@ -63,14 +63,13 @@ PEO DHMS,Health & Healthcare;National Security & Defense
 Space Force,National Security & Defense;Science & Research
 TAK Product Center,Climate & Environment;Science & Research
 Technical Support Working Group,National Security & Defense;Science & Research
-US Army Corps of Engineers,National Security & Defense;Science & Research
 Department of Education,Education
 Office of Chief Information Officer,Education
 Ames Laboratory,Energy;Science & Research
 Argonne National Laboratory,Energy;Science & Research
 Battelle Pacific Northwest National Laboratory,Climate & Environment;Energy;Science & Research
 Bonneville Power Administration,Energy
-Brookhaven National Laboratory,Energy;Science & Research
+https://ror.org/02ex6cf31,Energy;Science & Research
 Department of Energy,Energy
 Energy Information Administration,Energy
 Fermi National Accelerator Laboratory,Energy;Science & Research
@@ -86,8 +85,8 @@ Oak Ridge National Laboratory,Energy;Science & Research
 Office of Electricity Delivery and Energy Reliability,Energy;Infrastructure
 Office of Energy Efficiency and Renewable Energy,Energy
 Office of Nuclear Energy,Energy
-ORAU,Education;Health & Healthcare;Science & Research
-OSTI,Energy;Science & Research
+Oak Ridge Associated Universities,Education;Health & Healthcare;Science & Research
+Office of Scientific and Technical Information,Energy;Science & Research
 Pacific Northwest National Laboratory,Energy;Science & Research
 Princeton Plasma Physics Lab,Energy;Science & Research
 Sandia National Laboratories,Science & Research
@@ -96,7 +95,6 @@ The National Isotope Development Center,Energy
 US Department of Energy - Office of the CIO,Energy
 Western Area Power Administration,Energy
 Administration for Children and Families,Health & Healthcare;Social Services
-Administration for Children and Families (ACF),Health & Healthcare;Social Services
 Administration for Community Living,Health & Healthcare;Social Services
 Administration for Strategic Preparedness and Response,Humanitarian & Disaster Relief
 Agency for Healthcare Research and Quality,Health & Healthcare
@@ -107,8 +105,6 @@ Centers for Disease Control and Prevention (CDC),Health & Healthcare
 Centers for Medicare and Medicaid Services (CMS),Health & Healthcare;Social Services
 Department of Health and Human Services,Health & Healthcare
 Enterprise Information Technology - NIH,Health & Healthcare
-Health & Human Services (HHS),Health & Healthcare
-Health Resources and Services Administration (HRSA),Health & Healthcare
 Health Resources and Services Administration (HRSA),Health & Healthcare
 Indian Health Service / Office of IT,Health & Healthcare
 National Cancer Institute - NIH,Health & Healthcare
@@ -117,7 +113,6 @@ National Institute of Neurological Disorders and Stroke,Health & Healthcare;Scie
 National Institute on Alcohol Abuse and Alcoholism - NIH,Health & Healthcare;Science & Research
 National Institute on Drug Abuse - NIH,Health & Healthcare;Science & Research
 National Institutes of Health,Health & Healthcare
-National Institutes of Health (NIH),Health & Healthcare;Science & Research
 National Library of Medicine - NIH,Health & Healthcare;Science & Research
 Office of Disease Prevention and Health Promotion - Office of the Secretary,Health & Healthcare;Science & Research
 Office of Grants - Division of Workforce Development,Labor & Employment
@@ -127,7 +122,6 @@ Office of the National Coordinator - Office of the Secretary,Health & Healthcare
 Office of the Secretary - Department of Health and Human Services,Health & Healthcare
 Office of the Surgeon General - Office of the Secretary,Health & Healthcare
 Program Support Center - Office of the Secretary,Health & Healthcare
-Substance Abuse and Mental Health Services Administration (SAMHSA),Health & Healthcare;Science & Research;Social Services
 Substance Abuse and Mental Health Services Administration (SAMHSA),Health & Healthcare;Science & Research;Social Services
 U. S. Food and Drug Administration,Health & Healthcare;Science & Research
 Cybersecurity and Infrastructure Security Agency,Infrastructure;National Security & Defense
