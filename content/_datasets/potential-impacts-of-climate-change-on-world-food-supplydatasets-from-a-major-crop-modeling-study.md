@@ -10,7 +10,7 @@ dataset_source_status:
 metadata_available: No
 metadata_url: 
 category:
-  - Uncategorized 
+  - Science & Research 
 resources:
   - id: 8055
     url: https://www.datalumos.org/datalumos/project/253660/version/V1/view
