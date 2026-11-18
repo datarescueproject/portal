@@ -21,7 +21,7 @@ resources:
     download_date: 2025-02-08
     maintainer: DRP, DL
     notes: Combined on DataLumos in a project called "FEMA Public Assistance Dataset", mirroring grouping on OpenFEMA page
-  - id: 9826
+  - id: 9827
     url: https://www.icpsr.umich.edu/sites/datalumos/search/studies?q=Public+Assistance+Second+Appeals+Tracker
     format: XLS
     status: Finished
