@@ -1,0 +1,23 @@
+---
+title: Using fecal DNA metabarcoding to test if diet of migratory birds is correlated with Pb exposure level at a contaminated site in north Idaho — CO1 dataset
+organization: Environmental Protection Agency
+agency: Environmental Protection Agency
+websites: pasteur.epa.gov
+data_source: https://pasteur.epa.gov/uploads/10.23719/1532394/Bird_CO1_SRA_metadata_Final.xlsx
+description: 
+last_modified: 2026-11-20
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Climate & Environment 
+resources:
+  - id: 9965
+    url: https://www.datalumos.org/datalumos/project/258232/version/V1/view
+    format: PDF, XLSX
+    status: Finished
+    size: 0.0002
+    download_date: 2026-10-28
+    maintainer: DRP, DL
+    notes: Data downloaded from https://catalog.data.gov/dataset/using-fecal-dna-metabarcoding-to-test-if-diet-of-migratory-birds-is-correlated-with-pb-exp-27aab
+---

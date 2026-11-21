@@ -1,0 +1,23 @@
+---
+title: Data for Heat and housing effects on cardiopulmonary and behavior response to wildfire smoke
+organization: Environmental Protection Agency
+agency: Environmental Protection Agency
+websites: pasteur.epa.gov
+data_source: https://pasteur.epa.gov/uploads/10.23719/1531691/MF_21_1_complete%20data.xlsx
+description: 
+last_modified: 2026-11-20
+dataset_source_status: 
+metadata_available: No
+metadata_url: 
+category:
+  - Climate & Environment 
+resources:
+  - id: 9956
+    url: https://www.datalumos.org/datalumos/project/258180/version/V1/view
+    format: PDF, XLSX
+    status: Finished
+    size: 0.0077
+    download_date: 2026-10-28
+    maintainer: DRP, DL
+    notes: Data downloaded from https://catalog.data.gov/dataset/data-for-heat-and-housing-effects-on-cardiopulmonary-and-behavior-response-to-wildfire-smo
+---
