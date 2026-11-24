@@ -1,18 +1,18 @@
 ---
-title: Analytical Dataset
+title: Analytical Dataset (Implications of printing ink composition for ambient air pollutants, 2025)
 organization: Environmental Protection Agency
 agency: Environmental Protection Agency
 websites: pasteur.epa.gov
 data_source: https://pasteur.epa.gov/uploads/10.23719/1532535/PRINT%20Dataset%20for%20ScienceHub%20Distribution.xlsx
 description: 
-last_modified: 2026-11-20
+last_modified: 2026-11-23
 dataset_source_status: 
 metadata_available: No
 metadata_url: 
 category:
   - Climate & Environment 
 resources:
-  - id: 9948
+  - id: 9949
     url: https://www.datalumos.org/datalumos/project/258129/version/V1/view
     format: PDF, XLSX
     status: Finished

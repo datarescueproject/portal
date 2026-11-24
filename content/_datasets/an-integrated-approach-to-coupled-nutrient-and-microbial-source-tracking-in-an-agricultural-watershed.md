@@ -12,7 +12,7 @@ metadata_url:
 category:
   - Climate & Environment 
 resources:
-  - id: 10066
+  - id: 10067
     url: https://www.datalumos.org/datalumos/project/258675/version/V1/view
     format: PDF, XLSX
     status: Finished
